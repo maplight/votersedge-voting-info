@@ -1,6 +1,6 @@
 Voter's Edge Voting info Guide
 This is the document folder for the voting info guide for Voter's Edge.
-These pages are stored in an online repository and can be synced by an administrator and published to the web, or could be set up to automatically publish to the web after passing tests.
+These pages are stored in an online repository and can be synced by an administrator and published to the web.
 -----------
 
 Spec: https://docs.google.com/document/d/16rZfuKUD7lHf3IUesz7YzwL6eXwg7L0ttSb4FGlcmb8/edit
@@ -31,13 +31,10 @@ The files are currently in Jade format. http://jade-lang.com/reference/code/
 
 This includes a header, that speaks to the server, and the content within the section. You do not need to include the header title. That will be handled automatically.
 
+### Development notes
+* If Jade is too complicated, we can try using markdown.
+* Jade uses abbreviated html syntax. It also accept HTML syntax. 
 
-* if Jade is too complicated, we can try using markdown.
-* Jade uses abbreviated html syntax.
-
-
-
-#### Header values
 
 ##### Url or anchor tag
 controlled by the filename
@@ -100,12 +97,10 @@ register-to-vote-county.ca.county_id.jade
 - for now use the name of the county in the file, and we will make a lookup tool to get the county id.
 
 
-
-
 ### Image style guide
 
 ### Administration and publishing workflow
 For now, the page templates are all set up, and are in a Dropbox folder which will be synced with a git repository in a private Bitbucket account.
 
 ### Spanish translation
-Content in the 'es' folder should use the structure of the en folder as a model. After we determine what content goes in the voting guide and copy edit it to an appropriate reading level, we can translate it. It would be great to have a translator get familiar with our system as early as possible.
+Content in the 'es' folder should use the structure of the en folder as a model.
