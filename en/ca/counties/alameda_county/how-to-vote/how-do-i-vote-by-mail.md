@@ -1,11 +1,9 @@
 ---
-Title: How Do I Vote at the Polling Place in Person?
-Component: ContentPage
-Published: Published
-Weight: 3
-Section: how-to-vote
-Priority: Minor
-Level: Alameda-County
+title: "How Do I Vote at the Polling Place in Person?"
+published: true
+weight: 3
+section: how-to-vote
+priority: Minor
 ---
 How do I vote at the polling place in person in Alameda County?
 Polling places are open from 7 AM to 8 PM on Tuesday, November 4
