@@ -3,4 +3,5 @@ app
 content
 css
 package.json
-es
+README.md
+INSTALL.md
