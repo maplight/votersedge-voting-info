@@ -19,14 +19,14 @@ There are a few things you can do that will help us get your content in order.
 * IMAGES: If there are images that are informational, please include them. These images are subject to editorial & design revision, but it is helpful to know if there is necessary content in the imagery. We will update our style guide after seeing what kind of images you would like to include.
 
 * SECTIONS: We have 8 sections right now. You may contribute content to subsections in these categories.
-      'where-to-vote' 
-      'register-to-vote'
-      'how-to-vote'
-      'when-to-vote'
-      'important-dates-deadlines'
-      'voting-basics'
-      'my-rights-as-a-voter'
-      'other-topics'
+      * 'where-to-vote' 
+      * 'register-to-vote'
+      * 'how-to-vote'
+      * 'when-to-vote'
+      * 'important-dates-deadlines'
+      * 'voting-basics'
+      * 'my-rights-as-a-voter'
+      * 'other-topics'
 
 * STATEWIDE VOTING INFO: Any content that applies to all of california should go in the 'en/ca/statewide' folder. Content will go in the appropriate section folder.
 
