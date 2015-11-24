@@ -50,6 +50,7 @@ We are creating a style guide, and your feedback on this will be invaluable. We 
 
 We are creating a public repository of all of the voting information. This is the "master document" which accepts changes from everyone. https://github.com/maplight/votersedge-voting-info
 
+http://maplight.github.io/votersedge-voting-info
 
 ### What is Markdown?
 Markdown is a simple language for formatting text for the web. It uses simple formatting like **this should be bold** to write. Here are the formatting tips. https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
