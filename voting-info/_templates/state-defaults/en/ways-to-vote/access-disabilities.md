@@ -1,8 +1,7 @@
 ---
 title: "Contact the League of Women Voters of California "
 published: true
-weight: 2
-section: more-voting-info
+weight: 0
+section: ways-to-vote
 priority: Minor
 ---
---

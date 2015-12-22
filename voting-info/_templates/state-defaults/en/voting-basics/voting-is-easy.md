@@ -1,5 +1,5 @@
 ---
-title: "Voting is easy as 1-2-3"
+title: "Voting is easy"
 published: true
 weight: 4
 section: voting-basics

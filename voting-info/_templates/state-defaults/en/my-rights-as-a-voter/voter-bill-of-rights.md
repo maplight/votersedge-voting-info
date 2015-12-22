@@ -1,7 +1,7 @@
 ---
-title: "Disability access"
+title: "Voter Bill of Rights "
 published: true
-weight: 2
+weight: 1
 section: my-rights-as-a-voter
 priority: Minor
 ---

@@ -1,10 +1,7 @@
 ---
-title: "Other topics"
+title: "More Voting Info"
 published: true
-weight: -10
-section: other-topics
+weight: 0
+section: more-voting-info
 priority: Major
 ---
-
-
-  
