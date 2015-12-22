@@ -1,7 +1,7 @@
 ---
 title: "What if I am a college student?"
 published: true
-weight: 0
+weight: 8
 section: register-to-vote
 priority: Minor
 ---
