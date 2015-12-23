@@ -2,10 +2,6 @@
 title: "Helpful Links and Resources"
 published: true
 weight: -10
-section: other-topics
+section: more-voting-info
 priority: Minor
 ---
-
-
-
-  

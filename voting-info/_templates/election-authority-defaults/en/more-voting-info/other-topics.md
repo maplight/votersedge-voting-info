@@ -2,7 +2,7 @@
 title: "Other topics"
 published: true
 weight: -10
-section: other-topics
+section: more-voting-info
 priority: Major
 ---
 
