@@ -1,3 +1,5 @@
+@TODO -- update this and finalize it... this is a DRAFT!!!
+
 **Greetings Voting information content writers!**
 
 We are so happy that you are writing or translating content for the Voting Information section of Voter's Edge for your state and region or county. 
