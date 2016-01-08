@@ -5,8 +5,6 @@ weight: 2
 section: "register-to-vote"
 priority: Minor
 ---
-
-## Can I register to vote?
 To register to vote in California, you must be:
 - A United States citizen living in California
 - 18 years of age or older on Election Day

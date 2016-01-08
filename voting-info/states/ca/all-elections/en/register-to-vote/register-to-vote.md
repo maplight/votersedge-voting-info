@@ -5,6 +5,3 @@ weight: 0
 section: "register-to-vote"
 priority: Major
 ---
-
-#Register to Vote
-
