@@ -1,7 +1,10 @@
 ---
-title: "Register to Vote"
+title: Register to Vote
 published: true
 weight: 0
-section: register-to-vote
+section: "register-to-vote"
 priority: Major
 ---
+
+#Register to Vote
+
