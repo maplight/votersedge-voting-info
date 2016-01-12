@@ -1,3 +1,5 @@
-## A New Post
+## Why am I in a Mail Only Precinct?
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+Voters who live in precincts with 250 or fewer registered voters may receive vote by mail ballots and not have the option to vote in person at the polls on Election Day.  
+
+Check [How do I vote by mail?](#item-vote-by-mail) for directions.
