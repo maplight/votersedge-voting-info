@@ -1,5 +1,4 @@
-##When can I register to vote?
-
+##When should I register to vote?  
 
 **Fill out a voter registration form by Monday, May 23, 2016 for the June 2016 Primary Election.**
 
