@@ -27,6 +27,6 @@ Find your **polling place and ballot**. [INSERT LINK to tool]
 	If you registered and your name is not on the list of voters at your assigned polling place, you can vote using a “provisional ballot.”
 - To vote by mail, use the form in your Sample Ballot to request a “vote by mail” ballot to be sent to you.  The deadline to ask for one is **Month Date, Year**.  When your “vote by mail” ballot comes, fill it out and mail it back so that it is postmarked **no later than** Election Day.  You may also drop it off at any polling place in your county on election day.  You can sign up to get a “vote by mail” ballot for every election.
 
-Check **Ways to vote** for more information. [INSERT LINK]
+Check [Ways to Vote](#section-ways-to-vote) for more information.
 
 Visit the **[Easy Voter Guide](http://www.easyvoterguide.org/)** for more voting information and to download a copy.
