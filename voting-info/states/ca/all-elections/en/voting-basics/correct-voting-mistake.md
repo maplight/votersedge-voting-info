@@ -1,0 +1,9 @@
+## How do I correct a voting mistake?  
+
+**I damaged, lost or marked my ballot incorrectly, what do I do to fix this?**
+- You can get a new ballot **as long as you have not already cast your ballot.**
+- **If you vote at a polling place** ask a poll worker for a new ballot.
+- **If you have your vote-by-mail ballot,** you can turn it in and request a new ballot at your [county elections office](http://www.sos.ca.gov/elections/voting-resources/new-voters/county-elections-offices/) or polling place.  
+	**If you do not have your original vote-by-mail ballot** you can vote using a provisional ballot.
+
+
