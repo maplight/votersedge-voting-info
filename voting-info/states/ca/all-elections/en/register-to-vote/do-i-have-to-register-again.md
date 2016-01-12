@@ -1,10 +1,11 @@
 ---
-title: "Do I have to register again if I already registered to vote?"
+title: "Once I am registered to vote do I ever have to register again?"
 published: true
 weight: 3
-section: register-to-vote
+section: "register-to-vote"
 priority: Minor
 ---
+
 You must reregister if you:
 
 - move your address
