@@ -1,7 +1,9 @@
 ---
-title: "Important Dates and Deadlines"
+title: Important Dates and Deadlines
 published: true
 weight: 5
-section: important-dates-deadlines
+section: "important-dates-deadlines"
 priority: Major
 ---
+
+There are some important dates and deadlines for California voters to know.
