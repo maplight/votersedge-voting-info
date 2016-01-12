@@ -22,4 +22,6 @@ This will allow  time for voter information and ballots to be sent to you and fo
 
 When you register to vote you will have the option to choose to have your ballot sent to you by mail, fax, or email.  
 
-You will receive a permanent vote by mail status, but each time you move you must fill out either a new [online California voter registration form](http://registertovote.ca.gov/) or [FPCA](https://www.fvap.gov/).
+You will receive a permanent vote by mail status, but each time you move you must fill out either a new [online California voter registration form](http://registertovote.ca.gov/) or [FPCA](https://www.fvap.gov/).  
+
+For information on voting, check [How do I vote if I am military, overseas, or I live abroad?](#item-vote-if-military-overseas)
