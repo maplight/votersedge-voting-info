@@ -8,4 +8,24 @@
 - It is important to fill out the form completely. You will be asked to include your driver license number or other identification.
 - Once you are on the list, you only need to re-register if you change your address, change your name, or want to change your political party.  
 
-[Can I Register To Vote?](#item-can-i-register-to-vote)
+Check [Can I Register To Vote?](#item-can-i-register-to-vote) for more information.
+
+### 2. Get Ready!
+
+- Before you vote, it helps to learn about what you will be voting on.
+- All registered voters receive two things in the mail:
+1. A Sample Ballot that lists everything that will be on your ballot along with where you vote (your “polling place”).
+2. An Official Voter Information Guide about statewide candidates and measures.
+- You can use this site for more information about everything on your ballot plus a handy way to find your polling place.   
+
+Find your **polling place and ballot**. [INSERT LINK to tool] 
+
+### 3. Vote!
+
+- You choose whether to vote at your polling place or use a “vote-by-mail” ballot.
+- For voting in person, the polls are open from 7 a.m. to 8 p.m.  You may also be able to vote before election day at your county elections office.  If you registered and your name is not on the list of voters at your assigned polling place, you can vote using a “provisional ballot.”
+- To vote by mail, use the form in your Sample Ballot to request a “vote by mail” ballot to be sent to you.  The deadline to ask for one is **Month Date, Year**.  When your “vote by mail” ballot comes, fill it out and mail it back so that it is postmarked **no later than** Election Day.  You may also drop it off at any polling place in your county on election day.  You can sign up to get a “vote by mail” ballot for every election.
+
+Check **Ways to vote** for more information. [INSERT LINK]
+
+Visit the **[Easy Voter Guide](http://www.easyvoterguide.org/)** for more voting information and to download a copy.
