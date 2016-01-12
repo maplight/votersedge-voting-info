@@ -6,9 +6,8 @@ section: "register-to-vote"
 priority: Minor
 ---
 
-You must reregister if you:
-
-- move your address
-- change your name 
-- wish to change political party affiliation 
-- were removed from the registration rolls while in prison or on parole for the conviction of a felony
+You must re-register if you:  
+- Move to a different address
+- Change your name
+- Wish to change political aprties or to state no party preference
+- Were removed from the registration rolls while in prison or on parole for the conviction of a felony
