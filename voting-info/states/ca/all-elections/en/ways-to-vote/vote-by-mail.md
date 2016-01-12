@@ -2,19 +2,31 @@
 title: "How Do I Vote by Mail?"
 published: true
 weight: 1
-section: ways-to-vote
+section: "ways-to-vote"
 priority: Minor
 ---
+
 Request a vote-by-mail ballot from your County Elections Office.  
 
+Make sure that you send in your request so that it’s received by the Elections Office _**no later**_ than 7 days before the election by 5 PM.  
+For this **Election Type** election the application is due on Day, Month Date, Year.  
 
+**Follow the directions to fill out your ballot and envelope.**
+1. **Mark** your vote-by-mail ballot.
+2. **Place** the vote-by-mail ballot in the special envelope provided by your county’s election office.
+3. **Fill out** the information on the envelope.  
+	**Don't forget to sign** the back of the envelope.  
+    **Seal** the envelope.  
+4. You may have to put **postage** on the envelope.  
+	Make sure that you use the right amount of postage.  
 
-Make sure that you send in your request so that it’s received by the Elections Office no later than 7 days before the election by 5 PM. 
+**You can return the ballot:**
+1. **By mail**
+2. **Drop it off** at a location designated by your county
+3. **Drop it off** at any polling place in your county by 8 pm on Election Day.  
 
-Follow the directions to fill out your ballot and don’t forget to sign & seal the special envelope provided. You can return the ballot:
-- By mail 
-- Drop it off at a location designated by your county 
-- Drop it off at any polling place in your county by 8 pm on Election Day.
+**If you mail your ballot back, don’t delay.**  
 
-If you mail it back don’t delay! Mailed ballots must be sent before or on Election Day and the Elections Office must receive it no later than 3 days after Election Day.
- 
+Your completed vote-by-mail ballot must be **postmarked** on or before **Election Day, Day, Month Date, Year.**  
+
+Once mailed and postmarked, the ballot must be **received** by the elections office no later than 3 days after Election Day. For this election that date is **Day, Month Date, Year**
