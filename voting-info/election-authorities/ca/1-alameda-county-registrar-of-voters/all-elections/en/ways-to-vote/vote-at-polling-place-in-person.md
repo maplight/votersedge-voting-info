@@ -1,12 +1,13 @@
 ---
-title: "How Do I Vote at the Polling Place In Person?"
+title: "How do I vote at the polling place in person?"
 published: true
 weight: 3
-section: ways-to-vote
+section: "ways-to-vote"
 priority: Minor
 ---
-Polls are open on Election Day from 7am to 8pm.
 
-If you provided your voting address, then your polling location is printed here in the “Where do I vote?” section above.
+Find your polling place:  
+- In the [My Polling Place](#item-my-polling-place) section of this site.
+- On the [Alameda Elections Office](https://www.acgov.org/alco_ssl_app/rov/voter_info/voter_profile.jsp?formLanguage=E) website
+- By calling the 24-hour hotline: (510) 267-8683
 
-Or, you can contact your <a href="#election-office-">County Elections Office</a> to find your polling place. 
