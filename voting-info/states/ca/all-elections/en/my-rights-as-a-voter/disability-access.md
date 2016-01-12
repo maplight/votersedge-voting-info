@@ -1,7 +1,8 @@
 ---
-title: "Disability access"
+title: Rights of voters with disabilities
 published: true
 weight: 2
-section: my-rights-as-a-voter
+section: "my-rights-as-a-voter"
 priority: Minor
 ---
+
