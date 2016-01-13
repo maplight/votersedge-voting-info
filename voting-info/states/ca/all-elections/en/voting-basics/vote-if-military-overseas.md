@@ -1,5 +1,10 @@
-## How do I vote if I am military, overseas, or live abroad?  
-
+---
+title: "How do I vote if I am military, overseas, or live abroad?"
+published: true
+weight: 1
+section: "voting-basics"
+priority: Minor
+---
 For information on registering go to [How do I register if I am military, overseas, or live abroad?](#item-military-overseas)  
 
 **Receive and complete** your ballot:  

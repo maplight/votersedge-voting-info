@@ -1,5 +1,10 @@
-## Do I need voter identification?  
-
+---
+title: "Do I need voter identification?"
+published: true
+weight: 1
+section: "voting-basics"
+priority: Minor
+---
 To register to vote, you will need to provide your California driver’s license or ID card or the last four digits of your Social Security number.  
 
 Most of the time, on Election Day you are not required to show identification at the polling place unless:

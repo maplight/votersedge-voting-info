@@ -1,10 +1,9 @@
 ---
 title: "Other topics"
-published: true
+published: false
 weight: -10
 section: more-voting-info
 priority: Major
 ---
-
-
+Nothing entered
   

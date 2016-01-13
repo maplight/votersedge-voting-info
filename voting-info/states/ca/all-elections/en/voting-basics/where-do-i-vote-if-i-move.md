@@ -1,5 +1,10 @@
-## Where do I vote if I am registered but moved within California?  
-
+---
+title: "Where do I vote if I am registered but moved within California?"
+published: true
+weight: 1
+section: "voting-basics"
+priority: Minor
+---
 If you moved on or before the registration deadline, which is 15 days prior to the election, then you should re-register at your new address. Check [How do I register to vote?](#item-how-do-i-register-to-vote)  
 
 **I moved within the same county:**  

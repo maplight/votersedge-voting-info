@@ -5,7 +5,6 @@ weight: 1
 section: "important-dates-deadlines"
 priority: Minor
 ---
-
 **Day, Month Date, Year** is the voter registration application deadline for this election.  
 
 It is important that your voter registration application be filled out completely and:  

@@ -1,5 +1,10 @@
-## How can I vote if I have disabilities?  
-
+---
+title: "How can I vote if I have disabilities?"
+published: true
+weight: 1
+section: "voting-basics"
+priority: Minor
+---
 ### Accessible voting places  
 
 Before each election, every registered voter is notified as to whether their polling place is accessible. This notification appears on the sample ballot mailed to each voter by their county.  

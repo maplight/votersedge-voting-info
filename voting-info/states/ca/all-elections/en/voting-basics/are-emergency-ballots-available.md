@@ -1,5 +1,10 @@
-**Are emergency ballots available if I can’t get to the polls on Election Day?**  
-
+---
+title: "Are emergency ballots available if I can’t get to the polls on Election Day?"
+published: true
+weight: 1
+section: "voting-basics"
+priority: Minor
+---
 If it is **six or fewer days before Election Day,** you may be able to get an emergency vote-by-mail ballot.  
 
 ### Situations where emergency ballots are available  

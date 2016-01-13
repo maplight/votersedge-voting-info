@@ -1,12 +1,12 @@
 ---
-title: Be an Election Day poll worker
+title: "What does it take to be a poll worker?"
 published: true
 weight: 1
 section: "more-voting-info"
 priority: Minor
 ---
+**You must be:**
 
-What does it take to be a poll worker? You must be:  
 1. A registered California voter or legal resident of the United States.
 2. A high school student who:  
 	- Is a United States citizen
@@ -16,17 +16,18 @@ What does it take to be a poll worker? You must be:
     - Has permission from your parents and school
     - Attends a training session  
     
-What does a poll worker do?  
+#### What does a poll worker do?  
 1. Sets up and closes a polling place
 2. Helps voters understand their rights
 3. Protects ballots and voting equipment
 
-Why be a poll worker?
+#### Why be a poll worker?
 1. Get involved and assist voters
 2. Contribute to your community
 3. Earn extra money (varies by county)  
 
-How do you apply? Contact your [county elections office](http://www.sos.ca.gov/elections/voting-resources/new-voters/county-elections-offices/) for an application.
+#### How do you apply?
+Contact your [county elections office](http://www.sos.ca.gov/elections/voting-resources/new-voters/county-elections-offices/) for an application.
 
 
 

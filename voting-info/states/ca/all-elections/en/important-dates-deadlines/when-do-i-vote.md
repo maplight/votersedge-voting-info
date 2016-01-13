@@ -5,7 +5,6 @@ weight: 3
 section: "important-dates-deadlines"
 priority: Minor
 ---
-
 **BEFORE ELECTION DAY: Both vote-by-mail and early-in-person voting always start 29 days before Election Day.**  
 
 - **BY MAIL** from Day, Month Date, Year through Election Day, Day, Month Date, Year.**

@@ -1,5 +1,10 @@
-## How do I correct a voting mistake?  
-
+---
+title: "How do I correct a voting mistake?"
+published: true
+weight: 1
+section: "voting-basics"
+priority: Minor
+---
 **I damaged, lost or marked my ballot incorrectly, what do I do to fix this?**
 - You can get a new ballot **as long as you have not already cast your ballot.**
 - **If you vote at a polling place** ask a poll worker for a new ballot.

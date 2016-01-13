@@ -5,7 +5,6 @@ weight: 2
 section: "ways-to-vote"
 priority: Minor
 ---
-
 **You can vote in person before Election Day from Day, Month Date, Year through Day, Month Date, Year** 
 
 **Monday through Friday, Month Date** through **Day, Month Date,** 8:30 AM to 5 PM  

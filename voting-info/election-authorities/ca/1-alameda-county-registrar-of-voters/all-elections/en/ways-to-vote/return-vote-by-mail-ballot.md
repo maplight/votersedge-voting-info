@@ -5,7 +5,6 @@ weight: 2
 section: "ways-to-vote"
 priority: Minor
 ---
-
 - **Mail it** to the Alameda County Elections Office.  
 
 	**OR**

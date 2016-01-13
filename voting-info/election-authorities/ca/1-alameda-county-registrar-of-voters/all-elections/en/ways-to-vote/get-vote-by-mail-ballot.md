@@ -5,7 +5,6 @@ weight: 2
 section: "ways-to-vote"
 priority: Minor
 ---
-
 Request a one-time vote by mail ballot  
 
 - [Apply online](https://www.acgov.org/rov/votebymail.htm)  

@@ -1,6 +1,14 @@
-## Voting is Easy:  Sign Up, Get Ready, Vote!
-### 1. Sign up!
-**Fill out a voter registration form by MONTH DATE YEAR.**
+---
+title: "Voting is Easy:  Sign Up, Get Ready, Vote!"
+published: true
+weight: 5
+section: "register-to-vote"
+priority: Minor
+---
+#### 1. Sign up!
+
+> Fill out a voter registration form by MONTH DATE YEAR.
+
 - You are eligible to vote if you are a U.S. citizen, 18 years or older.
 - You must register to get on the official list of voters in your county.  
   The deadline to register is **Month Date, Year** to vote in the **Month Date, Year** election.
@@ -10,7 +18,7 @@
 
 Check [Can I Register To Vote?](#item-can-i-register-to-vote) for more information.
 
-### 2. Get Ready!
+#### 2. Get Ready!
 
 - Before you vote, it helps to learn about what you will be voting on.
 - All registered voters receive two things in the mail:
@@ -20,7 +28,7 @@ Check [Can I Register To Vote?](#item-can-i-register-to-vote) for more informati
 
 Find your **polling place and ballot**. [INSERT LINK to tool] 
 
-### 3. Vote!
+#### 3. Vote!
 
 - You choose whether to vote at your polling place or use a “vote-by-mail” ballot.
 - For voting in person, the polls are open from 7 a.m. to 8 p.m.  You may also be able to vote before election day at your county elections office.  

@@ -5,5 +5,4 @@ weight: 5
 section: "important-dates-deadlines"
 priority: Major
 ---
-
 There are some important dates and deadlines for California voters to know.

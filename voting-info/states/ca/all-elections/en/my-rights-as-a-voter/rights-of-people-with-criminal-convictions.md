@@ -1,7 +1,14 @@
-### What are my voting rights if I have a misdemeanor?  
+---
+title: "Voting rights for people with criminal convictions"
+published: true
+weight: 4
+section: my-rights-as-a-voter
+priority: Minor
+---
+#### What are my voting rights if I have a misdemeanor?  
 A misdemeanor conviction does not affect your right to vote at all. You can vote in all elections.  
 
-### What are my voting rights if I have a felony?  
+#### What are my voting rights if I have a felony?  
 If you have a felony conviction, **you can vote IF you:**  
 - Are on probation, even if you are in county jail as a condition of your probation, or
 - Have completed your probation, or
@@ -19,19 +26,19 @@ The only time **you are not allowed to vote is IF you:**
 Once you have completed your sentence and parole, you can register to vote. 
 If you are unsure what type of sentence you are serving check with your parole or probation officer.  
 
-### Can I vote when I am on parole?
+#### Can I vote when I am on parole?
 No. You can only vote once you have completed your parole.
 
-### Can I vote on mandatory supervision?
+#### Can I vote on mandatory supervision?
 Yes! You can vote at all times when you are on mandatory supervision.
 
-### Can I vote while I am on post-release community supervision?
+#### Can I vote while I am on post-release community supervision?
 Yes! You can vote at all times when you are on post-release community supervision.
  
-### Can I vote when I am on probation?
+#### Can I vote when I am on probation?
 Yes! You can vote at all times when you are on probation, whether your conviction is a felony or a misdemeanor  
 
-### Can I vote while I am in county jail?
+#### Can I vote while I am in county jail?
 Maybe. You **can vote IF** you are in county jail:  
 - Awaiting trial for any crime, or
 - For a misdemeanor conviction, or
@@ -44,7 +51,7 @@ The only time you **lose the right to vote while in county jail** is when you ar
 - Serving an 1170(h) felony sentence in the county jail, or
 - In jail for a parole violation.  
 
-### How do I get back my right to vote?  
+#### How do I get back my right to vote?  
 In California, you do not need to do anything to “restore” your right to vote. It is automatically restored once you have completed your sentence and are no longer on parole. However, you must [register or re-register to vote](#section-register-to-vote) in an upcoming election.
 
 For more information visit [Let Me Vote](https://www.aclu.org/let-me-vote-california).  
