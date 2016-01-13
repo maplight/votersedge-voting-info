@@ -5,7 +5,8 @@ weight: 7
 section: "ways-to-vote"
 priority: Major
 ---
-There are a number of ways to vote in California. You may vote:  
+
+**There are a number of ways to vote in California. You may vote**:  
 
 **By mail**   
 
