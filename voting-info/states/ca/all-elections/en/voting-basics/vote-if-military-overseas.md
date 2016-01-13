@@ -24,7 +24,7 @@ Review the ballot to make sure you voted for every contest you intended.
 - **By fax** if you are living outside the territorial US:  
 	1. Fax the **ballot plus the completed return envelope.** 
 	2. **Fax** an **Oath of Voter** form that your county provides.The oath waives your right to confidential voting because you are faxing your ballot. 
-	3. Your faxed ballot and materials **must be received by county elections office by 8 PM Pacific time on Election Day.**  
+	3. Your faxed ballot and materials **must be received by county elections office by 8 p.m. Pacific time on Election Day.**  
 
 **While you may request your ballot by email or download it, you may not return your completed ballot by email.**  
 

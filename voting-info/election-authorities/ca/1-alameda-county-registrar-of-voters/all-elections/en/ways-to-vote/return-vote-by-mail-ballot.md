@@ -16,11 +16,11 @@ priority: Minor
         	1225 Fallon St, Oakland - Located on the entrance ramp on 12th St.  
             
    	 **OR**
-    - Monday-Friday, 8:30 AM - 5 PM
+    - Monday-Friday, 8:30 a.m. - 5 PM
        - René C. Davidson Courthouse  
         1225 Fallon St, Oakland - Located inside the courthouse next to the Sheriff's check-in station  
         
  	   **OR**
-    - **Drop it off** at any polling place in Alameda County on **Election Day, Date, Month Date, Year** from 7 AM to 8 PM
+    - **Drop it off** at any polling place in Alameda County on **Election Day, Date, Month Date, Year** from 7 a.m. to 8 p.m.
     
 

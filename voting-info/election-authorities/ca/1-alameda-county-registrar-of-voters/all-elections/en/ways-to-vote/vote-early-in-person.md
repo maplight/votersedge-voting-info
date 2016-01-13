@@ -7,9 +7,9 @@ priority: Minor
 ---
 **You can vote in person before Election Day from Day, Month Date, Year through Day, Month Date, Year** 
 
-**Monday through Friday, Month Date** through **Day, Month Date,** 8:30 AM to 5 PM  
+**Monday through Friday, Month Date** through **Day, Month Date,** 8:30 a.m. to 5 p.m.  
 
-**Saturday and Sunday, Day, Month Date - Date,** 9 AM to 3 PM  
+**Saturday and Sunday, Day, Month Date - Date,** 9 a.m. to 3 p.m.  
 
 **Also open on Election Day, Day, Month Date, Year,** from Time to Time  
 
