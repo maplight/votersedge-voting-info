@@ -14,5 +14,6 @@ To register to vote in California, you must be:
 - No longer in prison or on parole for a felony conviction
 - Not found by a court to be mentally incompetent
 
-For more information on the rights of people who have been incarcerated, check [Rights of people with criminal convictions](#item-Rights-of-peoplor e-with-criminal-convictions) visit [Voting Rights for Californians with Criminal Convictions or Detained.](http://www.sos.ca.gov/elections/voting-resources/new-voters/who-can-vote-california/voting-rights-californians/)
+For more information on the rights of people who have been incarcerated, check  
+[Rights of people with criminal convictions](#item-rights-of-people-with-criminal-convictions) or visit [Voting Rights for Californians with Criminal Convictions or Detained.](http://www.sos.ca.gov/elections/voting-resources/new-voters/who-can-vote-california/voting-rights-californians/)
 
