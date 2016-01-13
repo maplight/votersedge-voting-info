@@ -6,11 +6,12 @@ section: "ways-to-vote"
 priority: Minor
 ---
 
-**Request a vote-by-mail ballot from your [County Elections Office.](http://www.sos.ca.gov/elections/voting-resources/new-voters/county-elections-offices/)**
+
+##**Request a vote-by-mail ballot from your [County Elections Office.](http://www.sos.ca.gov/elections/voting-resources/new-voters/county-elections-offices/)**
 
 Make sure that you send in your request so that it’s received by the Elections Office _**no later**_ than 7 days before the election by 5 PM.  For this **[INSERT Election Type]** election the request is due on **[INSERT Day, Month Date, Year]**.  
 
-**Follow the directions to fill out your ballot and envelope.**
+##**Fill out your ballot and envelope** by following the directions.
 1. **Mark** your vote-by-mail ballot.
 2. **Place** the vote-by-mail ballot in the special envelope provided by your county’s election office.
 3. **Fill out** the information on the envelope.  
@@ -19,7 +20,7 @@ Make sure that you send in your request so that it’s received by the Elections
 4. You may have to put **postage** on the envelope.  
 	Make sure that you use the right amount of postage.  
 
-**Return the ballot:**
+##**Return the ballot:**
 1. **By mail** **or**
 2. **Drop it off** at a location designated by your county **or**
 3. **Drop it off** at any polling place in your county by 8 pm on Election Day.  
