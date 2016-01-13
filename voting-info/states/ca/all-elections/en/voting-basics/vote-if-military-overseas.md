@@ -9,7 +9,7 @@ priority: Minor
 **For information on registering check** [How do I register if I am military, overseas, or live abroad?](#item-military-overseas)  
 
 **Receive and complete** your ballot:  
-When you registered to vote using California’s [online voter registration](http://registertovote.ca.gov/) or a [Federal Post Card Application](https://www.fvap.gov/uploads/FVAP/Outreach-Materials/FVAP_FPCA.pdf) **(FPCA)** you had the option to receive your ballot by mail, fax or email In some counties you may be allowed to download a ballot. Check the [county list](http://www.sos.ca.gov/elections/voter-registration/military-overseas-voters/) to see if it is possible. 
+When you registered to vote using California’s [online voter registration](http://registertovote.ca.gov/) or a [Federal Post Card Application](https://www.fvap.gov/uploads/FVAP/Outreach-Materials/FVAP_FPCA.pdf) **(FPCA)** you had the option to receive your ballot by mail, fax or email. In some counties you may be allowed to download a ballot. Check the [county list](http://www.sos.ca.gov/elections/voter-registration/military-overseas-voters/) to see if it is possible. 
 - You should receive your ballot between 45 and 30 days before Election Day.  If you do not receive one, contact your [county](http://www.sos.ca.gov/elections/voter-registration/military-overseas-voters/).
 - If you do not receive a ballot 30 days before Election Day you may be able to request [Federal Write-In Ballot](https://www.fvap.gov/uploads/FVAP/Forms/fwab2013.pdf) that allows you to vote in federal, but not California, elections. Check with your county elections office about this. 
 - **Follow the directions received with your ballot** to fill it out. 
