@@ -1,3 +1,5 @@
-## A New Post
+## How do I find out what political districts I live in?
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+For information on State legislative districts and U.S. Congressional Offices, visit the [California Secretary of State](http://www.sos.ca.gov/elections/additional-elections-information/who-are-my-representatives/).
+
+For information on your city, county, and other local offices contact your [county elections office](http://www.sos.ca.gov/elections/voting-resources/new-voters/county-elections-offices/).
