@@ -6,6 +6,7 @@ section: "my-rights-as-a-voter"
 priority: Minor
 ---
 
+
 #### What are my resources for access to information?  
 The Official Voter Information Guide that is mailed to each registered voter is available in a downloadable MP3 [audio version](http://www.sos.ca.gov/elections/voting-resources/voters-disabilities/), audio cassettes, in American Sign Language and in large print.  
 
@@ -26,4 +27,4 @@ The secretary of state has approved several voting systems for use that allow vo
 	The voting machine permits voters to verify their choices and, if there is an error, allows them to correct those choices before submitting their final ballot.
 - Poll workers must provide [curbside voting](#item-polling-place-access-disabilities) for voters with disabilities who need this assistance.  
 
-For more information visit [Disability Rights California](http://www.disabilityrightsca.org/pubs/PublicationsVoting.htm).
+For more information visit the [California Secretary of State](http://www.sos.ca.gov/elections/voting-resources/voters-disabilities/) or [Disability Rights California](http://www.disabilityrightsca.org/pubs/PublicationsVoting.htm).
