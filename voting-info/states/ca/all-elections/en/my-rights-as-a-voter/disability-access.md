@@ -22,7 +22,7 @@ Poll workers are trained on election laws and the rights of voters with disabili
 Before each election, every registered voter is notified whether their polling place is accessible. This notification appears  on the sample ballot mailed to each voter by their county.  
 
 #### Voting  
-The secretary of state has approved several voting systems for use that allow voters with disabilities to cast their votes privately and independently.
+The California Secretary of State has approved several voting systems for use that allow voters with disabilities to cast their votes privately and independently.
 - Each polling place must have one voting machine that allows voters, including those who are blind or visually impaired, to cast a ballot without assistance.  
 	The voting machine permits voters to verify their choices and, if there is an error, allows them to correct those choices before submitting their final ballot.
 - Poll workers must provide [curbside voting](#item-polling-place-access-disabilities) for voters with disabilities who need this assistance.  
