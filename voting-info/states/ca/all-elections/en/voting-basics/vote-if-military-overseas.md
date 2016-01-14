@@ -6,6 +6,7 @@ section: "voting-basics"
 priority: Minor
 ---
 
+
 **For information on registering check** [How do I register if I am military, overseas, or live abroad?](#item-military-overseas)  
 
 **Receive and complete** your ballot:  
@@ -20,7 +21,7 @@ Review the ballot to make sure you voted for every contest you intended.
 	1. **Fill out and sign** as directed on the back of the return envelope.
 	2. **Mail it using US Post Office** if you are in the U.S.
 	3. **If outside the U.S.** use APO/FPO or diplomatic pouch mail. **OR** use foreign postal system and make sure you use the correct postage.
-    4. **Consult your post office** to find out when the ballot should be mailed to make sure it is postmarked no later than Election Day and arrives in your county no later than three days after Election Day. **In other words, mail your back ballot before Election Day.**
+    4. **Consult your post office** to find out when the ballot should be mailed to make sure it is postmarked no later than Election Day and arrives in your county no later than three days after Election Day. **In other words, mail your ballot back before Election Day.**
 
 - **By fax** if you are living outside the territorial US:  
 	1. Fax the **ballot plus the completed return envelope.** 
