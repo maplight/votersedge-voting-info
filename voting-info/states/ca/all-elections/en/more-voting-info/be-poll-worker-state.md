@@ -5,16 +5,17 @@ weight: 1
 section: "more-voting-info"
 priority: Minor
 ---
+
 **You must be:**
 
 1. A registered California voter or legal resident of the United States.
 2. A high school student who:  
 	- Is a United States citizen
 	- Is at least 16 years old on Election Day
-	- Attending a public or private high school
+	- Attends a public or private high school
     - Has at least a 2.5 grade point average
-    - Has permission from your parents and school
-    - Attends a training session  
+    - Has permission from parents and school
+    - Attended a training session  
     
 #### What does a poll worker do?  
 1. Sets up and closes a polling place
@@ -28,8 +29,3 @@ priority: Minor
 
 #### How do you apply?
 Contact your [county elections office](http://www.sos.ca.gov/elections/voting-resources/new-voters/county-elections-offices/) for an application.
-
-
-
-
-
