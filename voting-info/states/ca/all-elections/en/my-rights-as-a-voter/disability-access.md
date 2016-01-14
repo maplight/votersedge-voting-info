@@ -7,10 +7,11 @@ priority: Minor
 ---
 
 
-#### What are my resources for access to information?  
-The Official Voter Information Guide that is mailed to each registered voter is available in a downloadable MP3 [audio version](http://www.sos.ca.gov/elections/voting-resources/voters-disabilities/), audio cassettes, in American Sign Language and in large print.  
 
-You may call 1-800-345-8683 to request these versions.  
+#### What are my resources for access to information?  
+The Official Voter Information Guide that is mailed to each registered voter is available in a downloadable MP3 [audio version](http://www.sos.ca.gov/elections/voting-resources/voters-disabilities/), audio cassettes, in American Sign Language and in large print.  You may call 1-800-345-8683 to request these versions. 
+
+The California Secretary of State also maintains a Voter Hotline for voters who are  deaf, hard of hearing, or speech-impaired at: **(800) 833-8683 – TTY/TDD**
 
 #### What are my rights to access and vote at polling places?  
 State and federal laws require polling places to be physically accessible to voters with disabilities.  
