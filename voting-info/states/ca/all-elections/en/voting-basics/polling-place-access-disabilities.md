@@ -6,9 +6,14 @@ section: "voting-basics"
 priority: Minor
 ---
 
+
 ### Accessible voting places  
 
-Before each election, every registered voter is notified as to whether their polling place is accessible. This notification appears on the sample ballot mailed to each voter by their county.  
+Before each election, every registered voter is notified as to whether their polling place is accessible. This notification appears on the sample ballot mailed to each voter by their county. 
+
+### Signing in at the polling place
+
+[You can vote even if you can't sign your name](http://www.disabilityrightsca.org/pubs/547301.pdf)!
 
 ### Accessible voting machines  
 
