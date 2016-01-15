@@ -1,7 +1,7 @@
 ---
 title: "How do I register if I am a college student?"
 published: true
-weight: 8
+weight: 12
 section: "register-to-vote"
 priority: Minor
 ---

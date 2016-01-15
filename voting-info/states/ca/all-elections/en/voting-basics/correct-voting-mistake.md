@@ -1,7 +1,7 @@
 ---
 title: "How do I correct a voting mistake?"
 published: true
-weight: 1
+weight: 12
 section: "voting-basics"
 priority: Minor
 ---

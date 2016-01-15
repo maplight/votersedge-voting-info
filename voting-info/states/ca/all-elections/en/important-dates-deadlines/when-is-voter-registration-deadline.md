@@ -1,7 +1,7 @@
 ---
 title: "When is voter registration deadline?"
 published: true
-weight: 1
+weight: 2
 section: "important-dates-deadlines"
 priority: Minor
 ---

@@ -1,7 +1,7 @@
 ---
 title: "When should I register to vote?"
 published: true
-weight: 1
+weight: 4
 section: "register-to-vote"
 priority: Minor
 ---

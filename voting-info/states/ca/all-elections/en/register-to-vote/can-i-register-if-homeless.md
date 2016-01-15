@@ -1,7 +1,7 @@
 ---
 title: "Can I register if I am homeless?"
 published: true
-weight: 2
+weight: 13
 section: "register-to-vote"
 priority: Minor
 ---

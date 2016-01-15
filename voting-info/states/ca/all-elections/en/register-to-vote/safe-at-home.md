@@ -1,7 +1,7 @@
 ---
 title: "What is Safe-at-Home?"
 published: true
-weight: 0
+weight: 7
 section: "register-to-vote"
 priority: Minor
 ---

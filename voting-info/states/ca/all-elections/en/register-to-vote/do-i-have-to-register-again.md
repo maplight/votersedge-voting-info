@@ -1,7 +1,7 @@
 ---
 title: "Once I am registered to vote do I ever have to register again?"
 published: true
-weight: 3
+weight: 9
 section: "register-to-vote"
 priority: Minor
 ---
