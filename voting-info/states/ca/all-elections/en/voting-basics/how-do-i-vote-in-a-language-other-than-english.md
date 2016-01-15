@@ -5,6 +5,7 @@ weight: 8
 section: "voting-basics"
 priority: Minor
 ---
+
 The Secretary of State's office provides voting-related materials and assistance in nine languages other than English.  
 
 For answers to your questions about voting and elections, or to request mail delivery of a voter registration form, vote-by-mail application, or the [Official Voter Information Guide](http://www.voterguide.sos.ca.gov/) in any of these languages, please call one of the toll-free Voter Hotlines shown below.  
@@ -19,7 +20,4 @@ For answers to your questions about voting and elections, or to request mail del
 - (855) 345-3933 - ภาษาไทย / Thai  
 - (800) 339-8163 - Việt ngữ / Vietnamese  
 
-For more information on in-language voting resources visit the [California Secretary of State](http://www.sos.ca.gov/elections/voting-resources/). 
-
-
-
+For more information on in-language voting resources visit the [California Secretary of State](http://www.sos.ca.gov/elections/voting-resources/) and read this handy [Language Assistance Fact Sheet](http://advancingjustice-la.org/sites/default/files/LanguageAssistanceFactSheet.pdf).
