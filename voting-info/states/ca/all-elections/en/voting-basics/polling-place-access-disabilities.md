@@ -7,6 +7,7 @@ priority: Minor
 ---
 
 
+
 ### Accessible voting places  
 
 Before each election, every registered voter is notified as to whether their polling place is accessible. This notification appears on the sample ballot mailed to each voter by their county. 
@@ -27,4 +28,4 @@ Poll workers must also provide curbside voting for voters with disabilities who 
 
 A poll worker will bring the list to sign and the ballot to the voter’s car.  The poll worker will take the list and ballot back into the polling place and put the ballot in the ballot box or scanner.  
 
-Check [Rights of voters with disabilities](#item-disability-access) and [http://www.disabilityrightsca.org/pubs/541201.pdf](Disability Rights California Guide for Voters) for more information.
+Check [Rights of voters with disabilities](http://www.disabilityrightsca.org/pubs/541201.pdf) for more information.
