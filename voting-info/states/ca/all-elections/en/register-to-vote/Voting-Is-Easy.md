@@ -7,6 +7,7 @@ priority: Minor
 ---
 
 
+
 #### 1. Sign up!
 
 > Fill out a voter registration form by MONTH DATE YEAR.
