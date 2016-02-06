@@ -28,7 +28,7 @@ Check [Can I Register To Vote?](#item-can-i-register-to-vote) for more informati
 	2. An Official Voter Information Guide about statewide candidates and measures.
 - You can use this site for more information about everything on your ballot plus a handy way to find your [polling place](#section-my-polling-place).   
 
-Find your [**polling place and ballot**](#section-my-polling-place).
+Find your [polling place and ballot](#section-my-polling-place).
 
 #### 3. Vote!
 
