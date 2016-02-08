@@ -1,10 +1,11 @@
 ---
-title: Language assistance
+title: "How do I vote if I speak a language other than English?"
 published: true
-weight: 1
+weight: 7
 section: "voting-basics"
 priority: Minor
 ---
+
 
 The California Secretary of State's online application is available in English, Spanish, Chinese, Hindi, Japanese, Khmer, Korean, Tagalog, Thai, and Vietnamese. To register in one of these languages please select your language below.
  
@@ -16,4 +17,4 @@ The California Secretary of State's online application is available in English, 
 [한국어  Korean](http://www.sos.ca.gov/elections/voting-resources/new-voters/korean/)  
 [Tagalog](http://www.sos.ca.gov/elections/voting-resources/new-voters/tagalog/)  
 [ภาษาไทย  Thai](http://www.sos.ca.gov/elections/voting-resources/new-voters/thai/)  
-[Tiếng Việt  Vietnamese](http://www.sos.ca.gov/elections/voting-resources/new-voters/vietnamese/)  
+[Tiếng Việt  Vietnamese](http://www.sos.ca.gov/elections/voting-resources/new-voters/vietnamese/)
