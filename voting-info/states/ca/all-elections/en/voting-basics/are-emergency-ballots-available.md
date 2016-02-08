@@ -6,6 +6,7 @@ section: "voting-basics"
 priority: Minor
 ---
 
+
 If it is **six or fewer days before Election Day,** you may be able to get an emergency vote-by-mail ballot.  
 
 ### Situations where emergency ballots are available  
@@ -16,12 +17,12 @@ You can make a written request for this ballot if you:
 - Are unable to go to your polling place because of conditions resulting in your absence from the precinct on Election Day.
 
 **How do I make the emergency request?**
-Make a written request. Your [county elections office](http://www.sos.ca.gov/elections/voting-resources/new-voters/county-elections-offices/) might have a pre-printed form for you to use.  
+Make a written request. Your [county elections office](#section-election-office-contact) might have a pre-printed form for you to use.  
 - If you don’t have a form, then make sure that the request authorizes a particular person to bring you the ballot and is signed under the penalty of perjury.  
 	You can use this [Los Angeles County Emergency Vote-by-Mail Application](https://www.lavote.net/documents/emergency-vote-by-mail-application.pdf) sample request as a guide to help you write a request to your county.
 - Mark the ballot as directed. For detailed instructions check [How do I vote by mail?](#item-vote-by-mail)
 - Return the ballot and envelope personally, or through your authorized representative, to either the county elections office or any polling place in your county.  
 
-Or, if you are able, you can go to your [county elections office](http://www.sos.ca.gov/elections/voting-resources/new-voters/county-elections-offices/) during open hours and [vote early in person.](#item-vote-early-in-person)  
+Or, if you are able, you can go to your [county elections office](#section-election-office-contact) during open hours and [vote early in person.](#item-vote-early-in-person)  
 
 For more information and sample requests, visit [Disability Rights California](http://www.disabilityrightsca.org/OPR/Empowerment/HospVoter.htm).
