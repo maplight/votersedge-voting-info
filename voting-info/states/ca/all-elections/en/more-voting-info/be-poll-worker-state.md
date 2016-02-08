@@ -6,6 +6,7 @@ section: "more-voting-info"
 priority: Minor
 ---
 
+
 **You must be:**
 
 1. A registered California voter or legal resident of the United States.
@@ -28,4 +29,4 @@ priority: Minor
 3. Earn extra money (varies by county)  
 
 #### How do you apply?
-Contact your [county elections office](http://www.sos.ca.gov/elections/voting-resources/new-voters/county-elections-offices/) for an application.
+Contact your [county elections office](#section-election-office-contact) for an application.
