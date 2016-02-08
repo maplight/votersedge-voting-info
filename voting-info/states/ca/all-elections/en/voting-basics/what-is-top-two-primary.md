@@ -1,8 +1,15 @@
 ---
-title: "What is a top two primary?"
+title: "How California Primary Elections work: Top-two explanation"
 published: false
-weight: 1
+weight: 11
 section: "voting-basics"
 priority: Minor
 ---
-Nothing entered yet
+
+
+**All voters can vote in the primary election.**  
+- A primary election in June chooses the candidates who will run in the General Election in November  
+- You may see three different types of primaries on your ballot.  
+
+**The way each primary works depends on the office.**  
+
