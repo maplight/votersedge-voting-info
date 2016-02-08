@@ -1,10 +1,11 @@
 ---
 title: "How do I correct a voting mistake?"
 published: true
-weight: 12
+weight: 2
 section: "voting-basics"
 priority: Minor
 ---
+
 
 
 **I damaged, lost or marked my ballot incorrectly, what do I do to fix this?**
