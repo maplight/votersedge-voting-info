@@ -8,13 +8,14 @@ priority: Minor
 
 
 
+
 > Polling places are open from 7 a.m. to 8 p.m. on [INSERT Election Day, Day, Month Date, Year.]
 
 If you provided your voting address, then your polling location is printed here in the [My Polling Place](#item-my-polling-place) section of this site. 
 
 Or, you can contact your [County Elections Office](#section-election-office-contact) to find your polling place.  
 
-## What are the basic steps for voting in person?  
+**What are the basic steps for voting in person?**  
 
 **Go to the registration table**. Say your name and address and sign the list of voters. A poll worker will give you a ballot.
 
