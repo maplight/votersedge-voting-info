@@ -7,11 +7,12 @@ priority: Minor
 ---
 
 
+
 > Polling places are open from 7 a.m. to 8 p.m. on [INSERT Election Day, Day, Month Date, Year.]
 
 If you provided your voting address, then your polling location is printed here in the [My Polling Place](#item-my-polling-place) section of this site. 
 
-Or, you can contact your [County Elections Office](http://www.sos.ca.gov/elections/voting-resources/county-elections-offices/) to find your polling place.  
+Or, you can contact your [County Elections Office](#section-election-office-contact) to find your polling place.  
 
 ## What are the basic steps for voting in person?  
 
