@@ -6,7 +6,8 @@ section: "important-dates-deadlines"
 priority: Minor
 ---
 
-[INSERT **Day, Month Date, Year**] is the voter registration application deadline for this election.  
+
+The voter registration application deadline is **no later than 15 days before the election.**  
 
 It is important that your voter registration application be filled out completely and:  
 - Submitted online no later than midnight 15 days before the election
