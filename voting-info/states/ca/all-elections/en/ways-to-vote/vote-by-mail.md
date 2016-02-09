@@ -10,9 +10,10 @@ priority: Minor
 
 
 
+
 > Request a vote-by-mail ballot from your [County Elections Office.](#section-election-office-contact)
 
-Make sure that you send in your request so that it’s received by the Elections Office _**no later**_ than 7 days before the election by 5 PM.  For this **[INSERT Election Type]** election the request is due on **[INSERT Day, Month Date, Year]**.  
+Make sure that you send in your request so that it’s received by the Elections Office _**no later**_ than 7 days before the election by 5 PM.  For this election the request is due on **[INSERT Day, Month Date, Year]**.  
 
 **Fill out your ballot and envelope** by following the directions.
 1. **Mark** your vote-by-mail ballot.
