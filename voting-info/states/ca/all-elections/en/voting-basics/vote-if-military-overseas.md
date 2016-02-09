@@ -1,10 +1,11 @@
 ---
 title: "How do I vote if I am military, overseas, or live abroad?"
 published: true
-weight: 8
+weight: 6
 section: "voting-basics"
 priority: Minor
 ---
+
 
 
 
@@ -31,4 +32,4 @@ Review the ballot to make sure you voted for every contest you intended.
 
 **While you may request your ballot by email or download it, you may not return your completed ballot by email.**   
 
-Visit the [California Secretary of State](http://www.sos.ca.gov/elections/voter-registration/military-overseas-voters/) for more information.  
+Visit the [California Secretary of State](http://www.sos.ca.gov/elections/voter-registration/military-overseas-voters/) for more information.
