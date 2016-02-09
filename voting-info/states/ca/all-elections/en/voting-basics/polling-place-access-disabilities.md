@@ -1,10 +1,11 @@
 ---
-title: "How can I vote if I have disabilities?"
+title: "How do I vote if I have disabilities?"
 published: true
 weight: 6
 section: "voting-basics"
 priority: Minor
 ---
+
 
 
 
@@ -29,4 +30,4 @@ Poll workers must also provide curbside voting for voters with disabilities who 
 
 A poll worker will bring the list to sign and the ballot to the voter’s car.  The poll worker will take the list and ballot back into the polling place and put the ballot in the ballot box or scanner.  
 
-Check [Rights of voters with disabilities](http://www.disabilityrightsca.org/pubs/541201.pdf) for more information.  
+Check [Rights of voters with disabilities](http://www.disabilityrightsca.org/pubs/541201.pdf) for more information.
