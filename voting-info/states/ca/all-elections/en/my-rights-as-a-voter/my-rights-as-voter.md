@@ -1,7 +1,8 @@
 ---
-title: "My rights as a voter"
+title: My rights as a voter
 published: true
-weight: 6
+weight: 1
 section: "my-rights-as-a-voter"
 priority: Major
 ---
+
