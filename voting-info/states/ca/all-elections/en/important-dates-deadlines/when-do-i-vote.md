@@ -6,6 +6,7 @@ section: "important-dates-deadlines"
 priority: Minor
 ---
 
+
 #### Before Election Day
 > Both **vote-by-mail** and **early-in-person** voting always start _29 days before Election Day_.
 
@@ -16,7 +17,7 @@ priority: Minor
 > - Once mailed and postmarked, the ballot must be **received** by the elections office no later than 3 days after Election Day.
 
 #### Early-in-person
-> From **Day, Month Date, Year** through **Day, Month Date, Year.**
+> From **Day, Month Date, Year** through **Day, Month Date, Year.** Some early voting locations are open through Election Day.
 
 #### On Election day
 > **Day, Month Date, Year** from **7 a.m. to 8 p.m.**
