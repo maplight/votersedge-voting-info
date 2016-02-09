@@ -1,3 +1,1 @@
-## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+A special election happens when an elected official has left their office before the end of their terms.  This usually happens when the official dies or has resigned from the office.
