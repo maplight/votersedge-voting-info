@@ -1,10 +1,11 @@
 ---
 title: "Are emergency ballots available if I can’t get to the polls on Election Day?"
 published: true
-weight: 9
+weight: 10
 section: "voting-basics"
 priority: Minor
 ---
+
 
 
 
@@ -26,4 +27,4 @@ Make a written request. Your [county elections office](#section-election-office-
 
 Or, if you are able, you can go to your [county elections office](#section-election-office-contact) during open hours and [vote early in person.](#item-vote-early-in-person)  
 
-For more information and sample requests, visit [Disability Rights California](http://www.disabilityrightsca.org/OPR/Empowerment/HospVoter.htm).  
+For more information and sample requests, visit [Disability Rights California](http://www.disabilityrightsca.org/OPR/Empowerment/HospVoter.htm).
