@@ -10,6 +10,7 @@ priority: Minor
 
 
 
+
 #### 1. Sign up!
 
 > Fill out a voter registration form by MONTH DATE YEAR.
@@ -38,7 +39,7 @@ Find your [polling place and ballot](#section-my-polling-place).
 - You choose whether to vote at your polling place or use a “vote-by-mail” ballot.
 - For voting in person, the polls are open from 7 a.m. to 8 p.m.  You may also be able to vote before election day at your county elections office.  
 	If you registered and your name is not on the list of voters at your assigned polling place, you can vote using a “provisional ballot.”
-- To vote by mail, use the form in your Sample Ballot to request a “vote by mail” ballot to be sent to you.  The deadline to ask for one is **no later than 15 days before the election**.  When your “vote by mail” ballot comes, fill it out and mail it back so that it is postmarked **no later than** Election Day.  You may also drop it off at any polling place in your county on election day.  You can sign up to get a “vote by mail” ballot for every election.
+- To vote by mail, use the form in your Sample Ballot to request a “vote by mail” ballot to be sent to you.  The deadline to ask for one is **no later than 7 days before the election**.  When your “vote by mail” ballot comes, fill it out and mail it back so that it is postmarked **no later than** Election Day.  You may also drop it off at any polling place in your county on election day.  You can sign up to get a “vote by mail” ballot for every election.
 
 Check [Ways to Vote](#section-ways-to-vote) for more information.
 
