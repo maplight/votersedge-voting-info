@@ -9,7 +9,8 @@ priority: Minor
 
 
 
-> Polling places are open from 7 a.m. to 8 p.m. on [INSERT Election Day, Day, Month Date, Year.]  
+
+> Polling places are open from 7 a.m. to 8 p.m. on Election Day.  
 
 If you provided your voting address, then your polling location is printed here in the [My Polling Place](#item-my-polling-place) section of this site.  
 
@@ -31,4 +32,4 @@ Or, you can contact your [County Elections Office](#section-election-office-cont
 Not all California counties use the same type of touchscreen voting machines.  
 1. The poll worker will give you either a unique passcode or a computer memory card to gain access to the type of touchscreen in your county.  
 2. Follow the instructions on the machine.  
-3. If you have questions, ask a poll worker.  
+3. If you have questions, ask a poll worker.
