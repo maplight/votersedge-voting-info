@@ -1,3 +1,1 @@
-## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+If your name is missing from the list of registered voters in your precinct, or if the election judge challenges your eligibility to vote for any reason, **you are entitled to cast a provisional ballot.** (See [What is a provisional ballot?](#item-what-is-provisional-ballot))  
