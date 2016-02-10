@@ -1,3 +1,1 @@
-## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+You may register to vote after the regular registration deadline, from the 27th day prior to an election all the way up to Election Day. However, grace period registration is only available if you register in person.  
