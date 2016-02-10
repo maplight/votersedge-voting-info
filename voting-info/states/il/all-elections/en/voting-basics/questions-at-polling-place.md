@@ -1,3 +1,1 @@
-## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+Every Illinois voter is entitled to receive instruction on how to cast their vote from election judges, trained election workers who are there to help you navigate the voting process. If you have questions after you arrive at the polling place, they will be happy to help you.  
