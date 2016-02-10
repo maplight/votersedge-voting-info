@@ -1,3 +1,1 @@
-## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+**You do not need identification to vote in Illinois** unless you did not provide adequate identification when you registered to vote by mail and this is your first time voting in Illinois. (See [What forms of identification do I need to register to vote?](#item-voter-id-to-register))
