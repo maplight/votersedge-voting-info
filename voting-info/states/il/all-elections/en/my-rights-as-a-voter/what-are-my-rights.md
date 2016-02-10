@@ -1,3 +1,1 @@
-## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+**As a voter in the State of Illinois, you have certain rights** guaranteed by state and federal law. Please see this [voter information publication](http://www.elections.state.il.us/downloads/votinginformation/pdf/illinois_voter_information.pdf) from the Illinois State Election Authority for a full list of your voter rights.  
