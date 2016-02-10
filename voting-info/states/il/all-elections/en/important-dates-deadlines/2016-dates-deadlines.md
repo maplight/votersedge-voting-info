@@ -1,3 +1,19 @@
-## A New Post
+**Primary Election - March 15, 2016**  
+- Last day to register to vote: February 16, 2016  
+- Grace Period Registration:  
+	- First Day: February 17, 2016  
+    - Last Day: March 14, 2016  
+- Early Voting Period:  
+	- First Day: February 4, 2016  
+    - Last Day: March 14, 2016  
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+**General Election - November 8, 2016**  
+- Last day to register to vote: October 11, 2016  
+- Grace Period Registration:  
+	- First Day: October 12, 2016
+    - Last Day: November 8, 2016
+- Early Voting Period:  
+	- First Day: September 29, 2016
+    - Last Day: November 7, 2016  
+
+
