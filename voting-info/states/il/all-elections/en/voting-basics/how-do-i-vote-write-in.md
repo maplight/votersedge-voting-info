@@ -1,7 +1,7 @@
 ---
 title: "How do I write in a candidate?"
 published: true
-weight: 14
+weight: 6
 section: "voting-basics"
 priority: Minor
 ---
