@@ -1,7 +1,7 @@
 ---
-title: Republican presidential primaries
+title: Special Note on Republican Presidential Primaries
 published: true
-weight: 1
+weight: 6
 section: "more-voting-info"
 priority: Minor
 ---
