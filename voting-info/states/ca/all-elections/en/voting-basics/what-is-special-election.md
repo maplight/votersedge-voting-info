@@ -1,7 +1,7 @@
 ---
 title: "What is a special election?"
-published: false
-weight: 11
+published: true
+weight: 15
 section: "voting-basics"
 priority: Minor
 ---
