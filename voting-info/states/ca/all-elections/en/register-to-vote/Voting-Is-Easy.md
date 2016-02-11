@@ -8,8 +8,6 @@ priority: Minor
 
 #### 1. Sign up!
 
-> Fill out a voter registration form by MONTH DATE YEAR.
-
 - You are eligible to vote if you are a U.S. citizen, 18 years or older.
 - You must register to get on the official list of voters in your county.  
   The deadline to register is **no later than 15 days before the election** to vote in the election.
