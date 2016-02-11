@@ -1,7 +1,7 @@
 ---
-title: What if my rights eligibility are challenged?
+title: What are my rights as a voter whose eligibility is challenged?
 published: true
-weight: 2
+weight: 4
 section: "my-rights-as-a-voter"
 priority: Minor
 ---
