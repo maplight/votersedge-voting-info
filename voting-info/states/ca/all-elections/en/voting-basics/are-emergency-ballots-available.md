@@ -5,9 +5,10 @@ weight: 10
 section: "voting-basics"
 priority: Minor
 ---
+
 If it is **six or fewer days before Election Day,** you may be able to get an emergency vote-by-mail ballot.  
 
-### Situations where emergency ballots are available  
+**Situations where emergency ballots are available:**  
 You can make a written request for this ballot if you:  
 - Are hospitalized, in a nursing home, sanatorium, or in your residence and you are too sick to get to the polling place.
 - Have a physical handicap that causes you to be unable to get to your polling place.
