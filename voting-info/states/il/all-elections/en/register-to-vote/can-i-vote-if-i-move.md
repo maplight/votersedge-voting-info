@@ -1,7 +1,7 @@
 ---
-title: "Can I vote if I move?"
+title: "Can I still vote if I move?"
 published: true
-weight: 2
+weight: 6
 section: "register-to-vote"
 priority: Minor
 ---
