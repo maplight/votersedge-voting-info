@@ -1,11 +1,11 @@
 ---
 title: "How do I vote early in person?"
-published: true
-weight: 2
+published: false
+weight: 5
 section: "ways-to-vote"
 priority: Minor
 ---
-**You can vote in person before Election Day from Day, Month Date, Year through Day, Month Date, Year** 
+**You can vote in person before Election Day from 29 days before Election Day through the day before Election Day.** 
 
 **Monday through Friday, Month Date** through **Day, Month Date,** 8:30 a.m. to 5 p.m.  
 
