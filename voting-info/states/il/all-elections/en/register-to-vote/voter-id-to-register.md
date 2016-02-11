@@ -1,7 +1,7 @@
 ---
-title: "What kind of identification do I need to register?"
+title: "What forms of identification do I need to register to vote?"
 published: true
-weight: 11
+weight: 4
 section: "register-to-vote"
 priority: Minor
 ---
