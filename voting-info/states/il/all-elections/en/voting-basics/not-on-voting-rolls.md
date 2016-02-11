@@ -1,7 +1,7 @@
 ---
-title: "What if I am not on the voting rolls?"
+title: "What if I am not on the voting rolls at my polling place?"
 published: true
-weight: 14
+weight: 3
 section: "voting-basics"
 priority: Minor
 ---
