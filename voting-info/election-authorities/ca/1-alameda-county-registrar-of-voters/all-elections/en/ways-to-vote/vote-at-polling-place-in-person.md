@@ -1,7 +1,7 @@
 ---
 title: "How do I vote at the polling place in person?"
-published: true
-weight: 3
+published: false
+weight: 6
 section: "ways-to-vote"
 priority: Minor
 ---
