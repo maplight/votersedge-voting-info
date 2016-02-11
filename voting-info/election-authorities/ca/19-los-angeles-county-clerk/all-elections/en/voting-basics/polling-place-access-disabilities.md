@@ -1,3 +1,10 @@
+---
+title: "How do I vote if I have disabilities?"
+published: true
+weight: 8
+section: voting-basics
+priority: minor
+---
 **Check the back cover** of Sample Ballot for the blue symbol that shows if your polling place is wheelchair accessible.  
 
 **Call 1 (562) 466-1310** to find the nearest polling place that has the same ballot as  your polling place if your polling place is not accessible.  
