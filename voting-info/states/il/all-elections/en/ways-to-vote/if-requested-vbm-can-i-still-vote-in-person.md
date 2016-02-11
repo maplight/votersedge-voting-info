@@ -1,7 +1,7 @@
 ---
-title: "If I requested a vote by mail ballot, can I still vote in person?"
-published: false
-weight: 3
+title: "If I requested a vote-by-mail ballot, can I still vote in person on Election Day?"
+published: true
+weight: 4
 section: "ways-to-vote"
 priority: Minor
 ---
