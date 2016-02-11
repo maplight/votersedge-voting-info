@@ -1,6 +1,6 @@
 ---
 title: "Am I eligible to vote by mail?"
-published: false
+published: true
 weight: 1
 section: "ways-to-vote"
 priority: Minor
