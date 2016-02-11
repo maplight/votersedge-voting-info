@@ -1,14 +1,14 @@
 ---
 title: "How do I return my vote-by-mail ballot?"
 published: true
-weight: 2
+weight: 4
 section: "ways-to-vote"
 priority: Minor
 ---
 - **Mail it** to the Alameda County Elections Office.  
 
 	**OR**
-- **Drop it off** at a secure ballot location from **Day, Month Date, Year through Day, Month Date, Year.**
+- **Drop it off** at a secure ballot location **from 29 days before Election Day through the date your county closes the drop off location (usually at the end of Election Day).**
 	- 24-Hour Locations [Need to list time at which location is closed]:  
 	    - Alameda County Administration Building  
         	1221 Oak St, Oakland - Located on the corner of 12th St and Oak St.
@@ -21,6 +21,6 @@ priority: Minor
         1225 Fallon St, Oakland - Located inside the courthouse next to the Sheriff's check-in station  
         
  	   **OR**
-    - **Drop it off** at any polling place in Alameda County on **Election Day, Date, Month Date, Year** from 7 a.m. to 8 p.m.
+    - **Drop it off** at any polling place in Alameda County on **Election Day** from 7 a.m. to 8 p.m.
     
 
