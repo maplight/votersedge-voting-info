@@ -1,5 +1,5 @@
 ---
-title: "What rights do I have for language assistance?"
+title: "What are my rights if I need language assistance?"
 published: true
 weight: 3
 section: "my-rights-as-a-voter"
