@@ -1,3 +1,10 @@
+---
+title: "How do I vote if I speak a language other than English?"
+published: true
+weight: 9
+section: voting-basics
+priority: minor
+---
 **You can request** voter registration information, sample ballots and spoken translation in:  
 English  
 Español  Spanish  
