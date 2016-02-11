@@ -1,7 +1,7 @@
 ---
-title: "Eligible vote by mail?"
+title: "Am I eligible to vote by mail?"
 published: false
-weight: 3
+weight: 1
 section: "ways-to-vote"
 priority: Minor
 ---
