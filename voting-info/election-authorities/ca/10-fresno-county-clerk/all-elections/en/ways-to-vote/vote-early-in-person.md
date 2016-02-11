@@ -1,10 +1,13 @@
 ---
-title: "How Do I Vote Early In Person?"
+title: "How do I vote early in person?"
 published: true
-weight: 2
-section: ways-to-vote
+weight: 5
+section: "ways-to-vote"
 priority: Minor
 ---
-You may vote in person either at your County Elections Office or at another early voting location before Election Day. 
 
-There may be early voting on the weekend which could be more convenient for you.  Check below for locations and hours of early voting locations in your county. 
+**You can vote early in person starting 29 days before Election Day.**  
+
+**Monday-Friday 8:30 AM to 5 PM**  
+
+**Early voting location:** Fresno County Clerk/Registrar of Voters 2221 Kern Street Fresno, CA 93721
