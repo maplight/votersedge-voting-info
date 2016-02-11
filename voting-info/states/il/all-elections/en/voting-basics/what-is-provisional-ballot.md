@@ -1,7 +1,7 @@
 ---
 title: "What is a provisional ballot?"
 published: true
-weight: 3
+weight: 4
 section: "voting-basics"
 priority: Minor
 ---
