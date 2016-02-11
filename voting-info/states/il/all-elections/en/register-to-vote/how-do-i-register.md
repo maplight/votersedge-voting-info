@@ -1,7 +1,7 @@
 ---
 title: "How do I register to vote?"
 published: true
-weight: 3
+weight: 2
 section: "register-to-vote"
 priority: Minor
 ---
