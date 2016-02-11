@@ -1,12 +1,16 @@
 ---
-title: "How Do I Vote at the Polling Place In Person?"
+title: "How do I vote at the polling place in person?"
 published: true
-weight: 3
-section: ways-to-vote
+weight: 6
+section: "ways-to-vote"
 priority: Minor
 ---
-Polls are open on Election Day from 7am to 8pm.
 
-If you provided your voting address, then your polling location is printed here in the “Where do I vote?” section above.
+Find your polling place:  
+Look on the **back cover of your Sample Ballot** for the address  
 
-Or, you can contact your <a href="#election-office-">County Elections Office</a> to find your polling place. 
+**-OR-** Use the [My Polling Place](#section-my-polling-place) section of this site.  
+ 
+**-OR- Call** (559) 600-8683 for information  
+
+For specific information with photos and Spanish translation scroll to [“Help for the New Voter.”](http://www.co.fresno.ca.us/uploadedFiles/Departments/County_Clerk_Registrar_of_Voters/PDF/NewVoterHelp.pdf)  
