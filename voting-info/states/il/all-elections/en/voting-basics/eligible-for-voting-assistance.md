@@ -1,7 +1,7 @@
 ---
 title: "Eligible for voting assistance"
 published: true
-weight: 4
+weight: 5
 section: "voting-basics"
 priority: Minor
 ---
