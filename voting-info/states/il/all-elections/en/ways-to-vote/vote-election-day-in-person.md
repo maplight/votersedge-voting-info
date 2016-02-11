@@ -1,7 +1,7 @@
 ---
-title: "How do I vote on election day in person?"
+title: "How do I vote on Election Day in person?"
 published: true
-weight: 5
+weight: 6
 section: "ways-to-vote"
 priority: Minor
 ---
