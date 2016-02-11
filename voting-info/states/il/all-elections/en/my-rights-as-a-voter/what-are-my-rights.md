@@ -1,5 +1,5 @@
 ---
-title: What are my rights as a voter?
+title: What are my rights as an Illinois voter?
 published: true
 weight: 1
 section: "my-rights-as-a-voter"
