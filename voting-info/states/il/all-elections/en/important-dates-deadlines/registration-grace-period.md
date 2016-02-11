@@ -1,7 +1,7 @@
 ---
-title: Registration grace period
+title: Voter Registration Grace Period
 published: true
-weight: 6
+weight: 3
 section: "important-dates-deadlines"
 priority: Minor
 ---
