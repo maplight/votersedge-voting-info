@@ -1,10 +1,16 @@
 ---
-title: "How Do I Vote Early In Person?"
+title: "How do I vote early in person?"
 published: true
-weight: 2
-section: ways-to-vote
+weight: 5
+section: "ways-to-vote"
 priority: Minor
 ---
-You may vote in person either at your County Elections Office or at another early voting location before Election Day. 
 
-There may be early voting on the weekend which could be more convenient for you.  Check below for locations and hours of early voting locations in your county. 
+[You can vote in person](https://www.lavote.net/home/voting-elections/voting-options/early-voting) before Election Day from Monday, March 14 through Monday, April 12.  
+
+Contact the Norwalk office at 1(800) 815-2666 or (562) 466-1323 to confirm business hours.  
+
+**Early voting location:**  
+	12400 Imperial Hwy.  
+    Third Floor, Room 3002  
+    Norwalk, CA 90650  
