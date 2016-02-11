@@ -1,7 +1,7 @@
 ---
-title: Vote-by-mail application deadline
+title: Vote-By-Mail Application Deadline
 published: true
-weight: 5
+weight: 4
 section: "important-dates-deadlines"
 priority: Minor
 ---
