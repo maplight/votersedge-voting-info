@@ -1,5 +1,5 @@
 ---
-title: "Voting rights for people with criminal convictions"
+title: "Can I vote if I have been convicted of a crime?"
 published: true
 weight: 5
 section: "my-rights-as-a-voter"
