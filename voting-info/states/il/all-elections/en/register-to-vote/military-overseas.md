@@ -1,7 +1,7 @@
 ---
-title: "How do I register if I am military, overseas, or I live abroad?"
+title: "How do I register if I am in the military, overseas, or I live abroad?"
 published: true
-weight: 11
+weight: 7
 section: "register-to-vote"
 priority: Minor
 ---
