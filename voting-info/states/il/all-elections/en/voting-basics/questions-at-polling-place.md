@@ -1,7 +1,7 @@
 ---
-title: "What if I have questions while I am at the polling place?"
+title: "What if I have questions at the polling place?"
 published: true
-weight: 14
+weight: 2
 section: "voting-basics"
 priority: Minor
 ---
