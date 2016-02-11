@@ -1,7 +1,7 @@
 ---
-title: "When is the presidential primary election?"
+title: "What ballot do I get in a presidential primary election?"
 published: true
-weight: 6
+weight: 12
 section: "voting-basics"
 priority: Minor
 ---
