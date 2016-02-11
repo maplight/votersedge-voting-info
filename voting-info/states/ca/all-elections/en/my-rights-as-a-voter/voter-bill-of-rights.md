@@ -5,7 +5,8 @@ weight: 1
 section: "my-rights-as-a-voter"
 priority: Minor
 ---
-### You have the right:
+
+**You have the right:**  
 
 > - To cast a ballot if you are a valid registered voter.
 > - To cast a provisional ballot if your name is not listed on the voting rolls.
@@ -17,5 +18,3 @@ priority: Minor
 > - To election materials in another language if there are sufficient residents in your precinct to warrant production.
 > - To ask questions about election procedures and to observe the elections process.
 > - To report any illegal or fraudulent activity to a local elections official or to the Secretary of State’s office.
-
-
