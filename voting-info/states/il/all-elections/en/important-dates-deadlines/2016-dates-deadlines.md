@@ -1,5 +1,5 @@
 ---
-title: Dates and Deadlines
+title: 2016 Election Dates and Deadlines
 published: true
 weight: 7
 section: "important-dates-deadlines"
