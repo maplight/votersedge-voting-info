@@ -1,7 +1,7 @@
 ---
-title: Declaring party when registering
+title: Do I need to declare a political party when I register to vote?
 published: true
-weight: 1
+weight: 4
 section: "more-voting-info"
 priority: Minor
 ---
