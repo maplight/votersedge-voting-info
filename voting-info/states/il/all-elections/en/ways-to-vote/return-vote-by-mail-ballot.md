@@ -1,7 +1,7 @@
 ---
 title: "How do I return my vote-by-mail ballot?"
-published: false
-weight: 4
+published: true
+weight: 3
 section: "ways-to-vote"
 priority: Minor
 ---
