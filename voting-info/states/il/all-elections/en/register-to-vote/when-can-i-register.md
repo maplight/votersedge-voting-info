@@ -1,5 +1,5 @@
 ---
-title: "When should I register to vote?"
+title: "When can I register to vote?"
 published: true
 weight: 3
 section: "register-to-vote"
