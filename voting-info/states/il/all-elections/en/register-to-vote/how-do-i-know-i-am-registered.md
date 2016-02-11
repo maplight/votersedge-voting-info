@@ -1,7 +1,7 @@
 ---
 title: "How do I know if I am registered to vote?"
 published: true
-weight: 2
+weight: 5
 section: "register-to-vote"
 priority: Minor
 ---
