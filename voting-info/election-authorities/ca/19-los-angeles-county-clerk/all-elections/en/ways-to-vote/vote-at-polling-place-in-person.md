@@ -1,12 +1,17 @@
 ---
-title: "How Do I Vote at the Polling Place In Person?"
+title: "How do I vote at the polling place in person?"
 published: true
-weight: 3
-section: ways-to-vote
+weight: 6
+section: "ways-to-vote"
 priority: Minor
 ---
-Polls are open on Election Day from 7am to 8pm.
 
-If you provided your voting address, then your polling location is printed here in the “Where do I vote?” section above.
+Find your polling place:  
 
-Or, you can contact your <a href="#election-office-">County Elections Office</a> to find your polling place. 
+In the [My Polling Place](#section-my-polling-place) section of this site.  
+
+**-OR-** On the Los Angeles County Registrar-Recorder/County Clerk [polling place locator](https://www.lavote.net/locator/)  
+
+**-OR-** in your [E-Sample ballot link](https://www.lavote.net/home/voting-elections/voting-options/e-sample-ballot) if you subscribe to the service  
+
+**-OR-** on the back of your Sample Ballot.  
