@@ -1,7 +1,7 @@
 ---
-title: "What if I am admitted to a healthcare facility?"
+title: "How do I vote if I have been admitted to a healthcare facility?"
 published: true
-weight: 5
+weight: 8
 section: "ways-to-vote"
 priority: Minor
 ---
