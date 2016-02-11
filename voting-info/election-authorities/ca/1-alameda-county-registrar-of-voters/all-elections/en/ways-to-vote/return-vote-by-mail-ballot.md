@@ -8,7 +8,7 @@ priority: Minor
 - **Mail it** to the Alameda County Elections Office.  
 
 	**OR**
-- **Drop it off** at a secure ballot location **from 29 days before Election Day through the date your county closes the drop off location (usually at the end of Election Day).**
+- **Drop it off** at a secure ballot location **from 29 days before Election Day through Election Day.**
 	- 24-Hour Locations [Need to list time at which location is closed]:  
 	    - Alameda County Administration Building  
         	1221 Oak St, Oakland - Located on the corner of 12th St and Oak St.
