@@ -1,7 +1,7 @@
 ---
-title: When to vote early in person
+title: Early Voting Period
 published: true
-weight: 4
+weight: 6
 section: "important-dates-deadlines"
 priority: Minor
 ---
