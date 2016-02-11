@@ -1,7 +1,7 @@
 ---
-title: "Do I need an id in order to vote?"
+title: "Do I need Voter ID?"
 published: true
-weight: 14
+weight: 1
 section: "voting-basics"
 priority: Minor
 ---
