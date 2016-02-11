@@ -1,3 +1,1 @@
-## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+Call (559) 600-8683 for specific questions about Fresno County.  
