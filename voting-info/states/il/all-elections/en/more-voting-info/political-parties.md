@@ -1,3 +1,10 @@
+---
+title: What is a political party?
+published: true
+weight: 1
+section: "more-voting-info"
+priority: Minor
+---
 **What is a political party?**  
 A political party is a group of people who try to determine public policy and influence government by getting their candidates elected to office.  
 

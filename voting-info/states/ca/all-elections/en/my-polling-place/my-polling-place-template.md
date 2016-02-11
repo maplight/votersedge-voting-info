@@ -5,4 +5,4 @@ weight: 1
 section: my-polling-place
 priority: Minor
 ---
-placeholder
+

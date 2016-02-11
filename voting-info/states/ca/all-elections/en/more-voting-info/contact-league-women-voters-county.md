@@ -5,7 +5,4 @@ weight: 10
 section: "more-voting-info"
 priority: Minor
 ---
-
-
-
 Find your [local League of Women Voters](https://cavotes.org/local)

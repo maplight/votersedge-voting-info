@@ -5,8 +5,6 @@ weight: 14
 section: "voting-basics"
 priority: Minor
 ---
-
-
 - Each race has a blank spot with a line drawn on it for a write-in candidate.
 - Mark the spot beside the line as if you were voting for a candidate whose name is printed on the ballot.
 - Write the name of the candidate you wish to vote for on the line.

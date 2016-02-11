@@ -5,13 +5,6 @@ weight: 2
 section: "ways-to-vote"
 priority: Minor
 ---
-
-
-
-
-
-
-
 > Request a vote-by-mail ballot from your [County Elections Office.](#section-election-office-contact)
 
 Make sure that you send in your request so that it’s received by the Elections Office _**no later**_ than 7 days before the election by 5 PM.   

@@ -1,3 +1,10 @@
+---
+title: "Can I register to vote?"
+published: true
+weight: 2
+section: "register-to-vote"
+priority: Minor
+---
 To register to vote in Illinois:  
 - You must be a United States Citizen.  
 - You must be 17 years old on or before the date of the Primary Election and turn 18 on or before the date of the General Election.  

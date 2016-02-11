@@ -5,9 +5,6 @@ weight: 13
 section: "voting-basics"
 priority: Minor
 ---
-
-
-
 Ranked choice voting allows voters to election a 1st, 2nd, and 3rd choice candidate for a single office. This makes it possible to elect local officials by majority vote without the need for a second run-off election.
 
 **How ranked-choice voting works**:

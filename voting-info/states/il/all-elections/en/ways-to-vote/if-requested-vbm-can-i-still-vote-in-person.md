@@ -1,3 +1,10 @@
+---
+title: "If I requested a vote by mail ballot, can I still vote in person?"
+published: false
+weight: 3
+section: "ways-to-vote"
+priority: Minor
+---
 If you requested a vote-by-mail ballot, you will not be permitted to vote at your polling place on Election Day.  
 
 **However, there are exceptions which may apply:**  

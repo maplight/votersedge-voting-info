@@ -5,10 +5,6 @@ weight: 3
 section: "voting-basics"
 priority: Minor
 ---
-
-
-
-
 **A provisional ballot is a regular ballot that is put inside of a provisional envelope.** 
 
 ### Who must vote a provisional ballot?  

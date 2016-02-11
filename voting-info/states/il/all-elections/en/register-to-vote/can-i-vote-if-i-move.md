@@ -1,3 +1,10 @@
+---
+title: "Can I vote if I move?"
+published: true
+weight: 2
+section: "register-to-vote"
+priority: Minor
+---
 **If you moved within 27 days of the election within the same precinct** you can vote a full ballot by signing an affidavit at the polling place.  
 
 **If you moved within 30 days of the election outside of your precinct,** but you still live in the State, you may update your registration to your new address using grace period registration through Election Day. Alternatively, you may vote a full ballot in your old polling place after completing an affidavit.  

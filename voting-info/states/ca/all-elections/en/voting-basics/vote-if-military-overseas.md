@@ -5,10 +5,6 @@ weight: 6
 section: "voting-basics"
 priority: Minor
 ---
-
-
-
-
 **For information on registering check** [How do I register if I am military, overseas, or live abroad?](#item-military-overseas)  
 
 **Receive and complete** your ballot:  

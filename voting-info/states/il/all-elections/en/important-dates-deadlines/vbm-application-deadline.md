@@ -1,3 +1,10 @@
+---
+title: Vote-by-mail application deadline
+published: true
+weight: 5
+section: "important-dates-deadlines"
+priority: Minor
+---
 You may apply for a vote-by-mail ballot **in person** at your [local election authority](http://www.elections.il.gov/ElectionAuthorities/ElecAuthorityList.aspx) no more than 90 days prior to Election Day and no less than 1 day prior Election Day.  
 
 You may apply **by mail inside the U.S.** no more than 90 days prior to Election Day and no less than 5 day prior Election Day.  

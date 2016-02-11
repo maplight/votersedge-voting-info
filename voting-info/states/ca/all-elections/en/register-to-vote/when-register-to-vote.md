@@ -6,8 +6,6 @@ section: "register-to-vote"
 priority: Minor
 ---
 
-
-
 **Fill out a voter registration form no later than 15 days before the election.**  
 
 It is important that your voter registration application be filled out completely and:  

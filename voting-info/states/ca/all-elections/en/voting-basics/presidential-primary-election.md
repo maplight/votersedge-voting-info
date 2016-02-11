@@ -1,3 +1,10 @@
+---
+title: "When is the presidential primary election?"
+published: true
+weight: 6
+section: "voting-basics"
+priority: Minor
+---
 The next Presidential Primary is June 7, 2016.  
 
 **If you are registered to vote with a political party,** you will be given a ballot for that party in a Presidential primary election.  

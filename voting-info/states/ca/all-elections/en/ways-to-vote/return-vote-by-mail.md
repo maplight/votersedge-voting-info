@@ -5,13 +5,10 @@ weight: 4
 section: "ways-to-vote"
 priority: Minor
 ---
-
-
-
 **Return the ballot:**
 1. **By mail** **or**
 2. **Drop it off** at a location designated by your county **or**
-3. **Drop it off** at any polling place in your county by 8 pm on Election Day.  
+3. **Drop it off** at any polling place in your county by 8 pm on Election Day.
 
 **If you mail your ballot back, don’t delay.**  
 

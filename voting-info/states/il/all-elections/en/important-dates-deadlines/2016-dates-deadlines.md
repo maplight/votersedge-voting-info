@@ -1,3 +1,10 @@
+---
+title: Dates and Deadlines
+published: true
+weight: 7
+section: "important-dates-deadlines"
+priority: Minor
+---
 **Primary Election - March 15, 2016**  
 - Last day to register to vote: February 16, 2016  
 - Grace Period Registration:  

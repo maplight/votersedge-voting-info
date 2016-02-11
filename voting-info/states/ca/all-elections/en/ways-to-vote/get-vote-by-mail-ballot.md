@@ -5,5 +5,3 @@ weight: 3
 section: "ways-to-vote"
 priority: Minor
 ---
-
-Needs content

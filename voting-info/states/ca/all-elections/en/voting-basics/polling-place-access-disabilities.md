@@ -5,12 +5,6 @@ weight: 8
 section: "voting-basics"
 priority: Minor
 ---
-
-
-
-
-
-
 ### Accessible voting places  
 
 Before each election, every registered voter is notified as to whether their polling place is accessible. This notification appears on the sample ballot mailed to each voter by their county. 

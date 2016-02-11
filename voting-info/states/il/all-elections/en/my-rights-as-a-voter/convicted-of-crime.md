@@ -1,3 +1,10 @@
+---
+title: "Voting rights for people with criminal convictions"
+published: true
+weight: 5
+section: "my-rights-as-a-voter"
+priority: Minor
+---
 **What are my voting rights if I have been convicted of a misdemeanor?**  
 
 **Your voting rights are not affected by any misdemeanor conviction.** You can vote in all Illinois elections without restriction due to your criminal record.  
