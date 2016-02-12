@@ -1,5 +1,5 @@
 ---
-title: "How California Primary Elections work: Top-two explanation"
+title: "How California primary elections work: Top-Two explanation"
 published: false
 weight: 11
 section: "voting-basics"
