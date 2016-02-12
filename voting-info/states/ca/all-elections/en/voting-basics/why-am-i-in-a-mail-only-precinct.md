@@ -1,7 +1,7 @@
 ---
 title: "Why am I in a Mail Only Precinct?"
 published: true
-weight: 7
+weight: 10
 section: "voting-basics"
 priority: Minor
 ---
