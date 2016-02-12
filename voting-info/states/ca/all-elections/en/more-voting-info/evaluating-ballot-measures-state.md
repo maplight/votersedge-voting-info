@@ -5,6 +5,7 @@ weight: 4
 section: "more-voting-info"
 priority: Minor
 ---
+
 **How to evaluate ballot measures:**  
 - Examine what the measure seeks to accomplish. Do you agree with these goals?  
 - Who are the real sponsors and opponents of the measure?  
@@ -16,4 +17,4 @@ priority: Minor
 - If the measure amends the Constitution, consider whether it really belongs in the Constitution.  
 - Be wary of distortion tactics and commercials that rely on image but tell nothing of substance about the measure. Be aware of half truths.  
 
-For more information visit Fast Facts on State Ballot Measures.
+For more information visit [Fast Facts on State Ballot Measures](http://www.easyvoterguide.org/wp-content/uploads/2011/08/FastFacts-BallotMeasures-v2.pdf).
