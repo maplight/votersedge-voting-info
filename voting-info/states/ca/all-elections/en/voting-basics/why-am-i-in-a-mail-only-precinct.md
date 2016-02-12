@@ -1,5 +1,5 @@
 ---
-title: "Why am I in a Mail Only Precinct?"
+title: "Why am I in a mail-only precinct?"
 published: true
 weight: 10
 section: "voting-basics"
