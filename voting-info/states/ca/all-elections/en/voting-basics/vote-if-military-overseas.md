@@ -1,7 +1,7 @@
 ---
 title: "How do I vote if I am military, overseas, or live abroad?"
 published: true
-weight: 6
+weight: 8
 section: "voting-basics"
 priority: Minor
 ---
