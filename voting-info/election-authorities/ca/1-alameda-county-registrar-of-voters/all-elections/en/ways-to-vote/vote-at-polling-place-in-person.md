@@ -1,6 +1,6 @@
 ---
 title: "How do I vote at the polling place in person in Alameda County?"
-published: false
+published: true
 weight: 6
 section: "ways-to-vote"
 priority: Minor
