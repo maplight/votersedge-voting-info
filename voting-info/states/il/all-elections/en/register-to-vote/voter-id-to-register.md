@@ -5,6 +5,7 @@ weight: 4
 section: "register-to-vote"
 priority: Minor
 ---
+
 **If you register to vote in person,** you need to provide **any two** forms of identification with at least one showing the address of your current residence (e.g., a piece of mail addressed to you). Acceptable forms of identification include the following:  
 - Driver’s license or State ID card  
 - Passport or Military ID  
@@ -22,7 +23,7 @@ priority: Minor
 - Utility, medical, or insurance bill  
 - Official mail from any government agency  
 
-**If you register by mail,** you must submit either your driver’s license number or State identification card number. If you don't have either of those, you will need to provide **one** of the following:  
+**If you register by mail,** you must submit either your driver’s license number or state identification card number. If you don't have either of those, you will need to provide **one** of the following:  
 - The last 4 digits of the your social security number;  
 - A copy of a current and valid photo identification;   
 - A copy of a current utility bill, bank statement, paycheck, government check, **or** other government document that shows your name and address.  
@@ -34,12 +35,4 @@ priority: Minor
 
 **If you are a college student,** you may also submit the following to demonstrate proof of identity:  
 - A photo identification issued by your college or university **and**  
-- Either a copy of your contract or lease for a residence or any postmarked mail delivered to you at your current residence.  
-
-
-
-
-
-
-
-
+- Either a copy of your contract or lease for a residence or any postmarked mail delivered to you at your current residence.
