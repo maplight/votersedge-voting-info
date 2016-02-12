@@ -1,7 +1,7 @@
 ---
 title: "What if I am not on the list of voters at my polling place?  "
 published: true
-weight: 2
+weight: 3
 section: "voting-basics"
 priority: Minor
 ---
