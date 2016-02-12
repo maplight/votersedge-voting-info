@@ -1,6 +1,6 @@
 ---
 title: "Get vote by mail ballot"
-published: true
+published: false
 weight: 2
 section: ways-to-vote
 priority: Minor
