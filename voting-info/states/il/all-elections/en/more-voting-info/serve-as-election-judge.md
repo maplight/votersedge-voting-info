@@ -28,6 +28,3 @@ You can serve as an election judge in the State of Illinois if you meet the foll
 - Get involved in the election process and assist voters  
 - Contribute to your community  
 - Earn extra money (exact amount varies by election authority)  
-
-
-

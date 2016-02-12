@@ -5,7 +5,6 @@ weight: 4
 section: "register-to-vote"
 priority: Minor
 ---
-
 **If you register to vote in person,** you need to provide **any two** forms of identification with at least one showing the address of your current residence (e.g., a piece of mail addressed to you). Acceptable forms of identification include the following:  
 - Driver’s license or State ID card  
 - Passport or Military ID  

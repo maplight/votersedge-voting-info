@@ -5,7 +5,6 @@ weight: 1
 section: "register-to-vote"
 priority: Minor
 ---
-
 #### 1. Sign up!
 
 - You are eligible to vote if you are a U.S. citizen, 18 years or older.

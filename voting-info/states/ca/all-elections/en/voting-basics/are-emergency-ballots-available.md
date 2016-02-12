@@ -5,7 +5,6 @@ weight: 10
 section: "voting-basics"
 priority: Minor
 ---
-
 If it is **six or fewer days before Election Day,** you may be able to get an emergency vote-by-mail ballot.  
 
 **Situations where emergency ballots are available:**  

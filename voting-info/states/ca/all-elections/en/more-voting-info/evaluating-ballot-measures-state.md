@@ -5,8 +5,6 @@ weight: 4
 section: "more-voting-info"
 priority: Minor
 ---
-
-
 **How to evaluate ballot measures:**  
 - Examine what the measure seeks to accomplish. Do you agree with these goals?  
 - Who are the real sponsors and opponents of the measure?  

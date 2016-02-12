@@ -5,8 +5,6 @@ weight: 10
 section: "register-to-vote"
 priority: Minor
 ---
-
-
 **You have a choice.**  
 - You may choose among [qualified political parties](http://www.sos.ca.gov/elections/political-parties/qualified-political-parties/) or choose “other,”  
 - **OR** If you do not want to identify as a member of a political party you can mark the box next to “No, I do not want to disclose a political party preference” on the voter registration form.  

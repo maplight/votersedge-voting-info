@@ -5,7 +5,6 @@ weight: 4
 section: "ways-to-vote"
 priority: Minor
 ---
-
 **Mail it** to the Fresno County Clerk/Registrar of Voters.  
 	**Follow the directions** on the special return envelope.  
     If you mail your ballot, **don’t delay.** **Be sure to mail it so that it is postmarked before or on Election Day.**  

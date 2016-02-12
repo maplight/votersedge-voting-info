@@ -5,7 +5,6 @@ weight: 3
 section: "ways-to-vote"
 priority: Minor
 ---
-
 **Request a one-time vote-by-mail ballot.** Make sure it gets to the elections office no later than 7 days before the election.  
 
 **Apply Online.** [Scroll down to “Application for Vote by Mail Ballot and Permanent Vote by Mail Status.”](http://www.co.fresno.ca.us/DepartmentPage.aspx?id=14199)  

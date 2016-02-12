@@ -5,9 +5,6 @@ weight: 3
 section: "register-to-vote"
 priority: Minor
 ---
-
-
-
 **On the web at [registertovote.ca.gov](https://www.registertovote.ca.gov)**  
 - If you have a California driver license or identification card number, you can authorize use of that signature for the registration form.  Fill out the online application and simply hit “submit” at the end.  
 - If there is no signature on file with the Department of Motor Vehicles, you will need to:  

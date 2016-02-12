@@ -5,7 +5,6 @@ weight: 1
 section: "my-rights-as-a-voter"
 priority: Minor
 ---
-
 **You have the right:**  
 
 > - To cast a ballot if you are a valid registered voter.

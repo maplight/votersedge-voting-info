@@ -5,7 +5,6 @@ weight: 6
 section: "ways-to-vote"
 priority: Minor
 ---
-
 > Polling places are open from 7 a.m. to 8 p.m. on Election Day.  
 
 If you provided your voting address, then your polling location is printed here in the [My Polling Place](#item-my-polling-place) section of this site.  

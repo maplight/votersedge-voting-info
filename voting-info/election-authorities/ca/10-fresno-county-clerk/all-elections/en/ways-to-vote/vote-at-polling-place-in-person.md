@@ -5,7 +5,6 @@ weight: 6
 section: "ways-to-vote"
 priority: Minor
 ---
-
 Find your polling place:  
 Look on the **back cover of your Sample Ballot** for the address  
 

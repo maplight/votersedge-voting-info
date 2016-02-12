@@ -5,7 +5,6 @@ weight: 7
 section: "register-to-vote"
 priority: Minor
 ---
-
 A **military voter** is a member of the U.S. Uniformed Service currently on active duty. This also includes the following:  
 - Any family members or dependents of voting age accompanying the active duty service member  
 - Members of the U.S. Armed Forces, Merchant Marine, Commissioned Corps of the Public Health Service, and the National Oceanic and Atmosphere Administration  

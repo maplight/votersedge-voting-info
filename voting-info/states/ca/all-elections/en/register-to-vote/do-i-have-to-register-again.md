@@ -5,8 +5,6 @@ weight: 9
 section: "register-to-vote"
 priority: Minor
 ---
-
-
 **You must re-register if you**:  
 - Move to a different address.  
 - Change your name.  

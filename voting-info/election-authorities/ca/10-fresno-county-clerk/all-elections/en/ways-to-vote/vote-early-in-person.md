@@ -5,7 +5,6 @@ weight: 5
 section: "ways-to-vote"
 priority: Minor
 ---
-
 **You can vote early in person starting 29 days before Election Day.**  
 
 **Monday-Friday 8:30 AM to 5 PM**  

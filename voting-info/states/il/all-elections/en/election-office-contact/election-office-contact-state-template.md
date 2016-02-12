@@ -1,8 +1,8 @@
 ---
-title: "Contact Election Office"
+title: "Contact State Election Office"
 published: true
 weight: 1
 section: "election-office-contact"
-priority: Major
+priority: Minor
 ---
 

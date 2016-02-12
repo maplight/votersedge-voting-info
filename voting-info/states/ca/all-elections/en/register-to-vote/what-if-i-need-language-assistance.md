@@ -5,7 +5,6 @@ weight: 6
 section: "register-to-vote"
 priority: Minor
 ---
-
 The California Secretary of State's [online application](http://www.sos.ca.gov/elections/voter-registration/) is available in English, Spanish, Chinese, Hindi, Japanese, Khmer, Korean, Tagalog, Thai, and Vietnamese. To register in one of these languages please select your language below.  
 
 [Español Spanish](http://registertovote.ca.gov/es/)       

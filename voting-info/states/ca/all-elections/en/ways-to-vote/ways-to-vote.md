@@ -13,3 +13,4 @@ priority: Major
 Sometimes these early vote locations are available on Election Day too.  
 
 **At the polling place** in person on Election Day
+
