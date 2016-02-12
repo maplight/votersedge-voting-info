@@ -1,5 +1,5 @@
 ---
-title: "How do I vote at the polling place in person?"
+title: "How do I vote at the polling place in person in LA County?"
 published: true
 weight: 6
 section: "ways-to-vote"
