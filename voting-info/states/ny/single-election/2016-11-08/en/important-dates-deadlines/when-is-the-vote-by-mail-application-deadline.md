@@ -3,7 +3,7 @@ title: "When is the Vote-by-Mail Application Deadline?"
 published: true
 weight: 1
 section: important-dates-deadlines
-priority: Minor
+priority: "Minor"
 ---
 
 When is the vote-by-mail application deadline?

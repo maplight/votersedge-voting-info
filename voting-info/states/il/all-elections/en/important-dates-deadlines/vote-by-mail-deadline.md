@@ -3,7 +3,7 @@ title: Vote-By-Mail Deadline
 published: true
 weight: 5
 section: "important-dates-deadlines"
-priority: Minor
+priority: "Minor"
 ---
 You may **return your completed vote-by-mail ballot by mail** no more than 40 days prior to Election Day, and it must be postmarked no later than Election Day and received by the election authority no later than 14 days after the election.  
 

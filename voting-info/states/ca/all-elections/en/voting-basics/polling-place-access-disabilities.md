@@ -3,7 +3,7 @@ title: "How do I vote if I have disabilities?"
 published: true
 weight: 6
 section: "voting-basics"
-priority: Minor
+priority: "Minor"
 ---
 **Accessible voting places**  
 

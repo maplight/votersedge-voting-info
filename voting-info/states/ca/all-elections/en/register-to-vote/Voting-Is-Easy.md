@@ -3,7 +3,7 @@ title: "Voting is Easy:  Sign Up, Get Ready, Vote!"
 published: true
 weight: 1
 section: "register-to-vote"
-priority: Minor
+priority: "Minor"
 ---
 
 #### 1. Sign up!

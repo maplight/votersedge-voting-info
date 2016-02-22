@@ -3,7 +3,7 @@ title: "Voting is easy as 1-2-3"
 published: true
 weight: 4
 section: voting-basics
-priority: Minor
+priority: "Minor"
 ---
 <h4>1. Sign up to vote</h4>
 <p><strong>You can sign up to vote if you are:</strong></p>

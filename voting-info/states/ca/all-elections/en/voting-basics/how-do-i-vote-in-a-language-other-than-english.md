@@ -3,7 +3,7 @@ title: "How do I vote if I speak a language other than English?"
 published: true
 weight: 7
 section: "voting-basics"
-priority: Minor
+priority: "Minor"
 ---
 The Secretary of State's office provides voting-related materials and assistance in nine languages other than English.  
 

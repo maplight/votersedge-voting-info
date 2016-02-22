@@ -3,7 +3,7 @@ title: "How do I register to vote?"
 published: true
 weight: 2
 section: "register-to-vote"
-priority: Minor
+priority: "Minor"
 ---
 You can register to vote **on the web** at the [Illinois Online Voter Application](https://ova.elections.il.gov/) site if you have an Illinois driver's license or state ID.  
 

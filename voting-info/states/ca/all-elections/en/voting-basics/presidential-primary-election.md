@@ -3,7 +3,7 @@ title: "What ballot do I get in a presidential primary election?"
 published: true
 weight: 12
 section: "voting-basics"
-priority: Minor
+priority: "Minor"
 ---
 The next Presidential Primary is June 7, 2016.  
 

@@ -3,7 +3,7 @@ title: "How do I return my vote-by-mail ballot?"
 published: true
 weight: 3
 section: "ways-to-vote"
-priority: Minor
+priority: "Minor"
 ---
 **You may vote by mail starting 40 days prior to Election Day** by sending your completed vote-by-mail ballot to your [local election authority](http://www.elections.il.gov/ElectionAuthorities/ElecAuthorityList.aspx). Please note the following before sending your ballot:  
 - You must sign the affidavit on the ballot envelope.  

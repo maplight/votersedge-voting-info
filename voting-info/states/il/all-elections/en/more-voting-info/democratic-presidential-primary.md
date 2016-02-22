@@ -3,7 +3,7 @@ title: "Special Note on Democratic Presidential Primaries"
 published: true
 weight: 7
 section: "more-voting-info"
-priority: minor
+priority: "Minor"
 ---
 **Democratic primary voters vote not only for their presidential preference, but also for 102 of Illinois's 181 delegates to the Democratic National Convention.**  
 

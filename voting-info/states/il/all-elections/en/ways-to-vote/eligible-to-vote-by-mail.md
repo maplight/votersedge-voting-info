@@ -3,7 +3,7 @@ title: "Am I eligible to vote by mail?"
 published: true
 weight: 1
 section: "ways-to-vote"
-priority: Minor
+priority: "Minor"
 ---
 
 **Anyone who is registered to vote in the State of Illinois** may apply for a vote-by-mail ballot without stating any reason for their inability to vote in person on Election Day.  

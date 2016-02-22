@@ -3,7 +3,7 @@ title: "How Do I Vote by Mail?"
 published: true
 weight: 1
 section: how-to-vote
-priority: Minor
+priority: "Minor"
 ---
 
 Vote by mail

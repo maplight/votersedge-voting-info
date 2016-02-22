@@ -3,7 +3,7 @@ title: "How do I vote if I have been admitted to a healthcare facility?"
 published: true
 weight: 8
 section: "ways-to-vote"
-priority: Minor
+priority: "Minor"
 ---
 
 If you are a registered voter and you are admitted to a healthcare facility **no more than 14 days** before Election Day and are unable to travel to your polling place, you are entitled to personal delivery of your ballot. If you are admitted to a healthcare facility more than 14 days before the election, you may apply for a vote-by-mail ballot.  

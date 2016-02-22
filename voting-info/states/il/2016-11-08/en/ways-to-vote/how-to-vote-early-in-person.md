@@ -3,7 +3,7 @@ title: "How Do I Vote Early In Person?"
 published: true
 weight: 2
 section: how-to-vote
-priority: Minor
+priority: "Minor"
 ---
 
 Vote early in person

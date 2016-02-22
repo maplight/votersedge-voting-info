@@ -3,7 +3,7 @@ title: "How do I vote on Election Day in person?"
 published: true
 weight: 6
 section: "ways-to-vote"
-priority: Minor
+priority: "Minor"
 ---
 On Election Day, the polls are open from 6 AM - 7 PM. If you did not vote early or apply to vote by mail, you must vote in person at your [polling place](http://www.elections.il.gov/VotingInformation/RegistrationLookup.aspx) during these hours. Once you arrive at your polling place, follow these steps to obtain and submit your ballot:  
 1. **Sign an application for your ballot.** An election judge will determine the ballot on which you are qualified to vote, initial it, and direct you to a voting booth. In a Primary Election, you will be required to ask for the ballot of the party in whose primary you wish to vote.  

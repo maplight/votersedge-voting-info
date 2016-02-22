@@ -3,7 +3,7 @@ title: "Can I still vote if I move?"
 published: true
 weight: 6
 section: "register-to-vote"
-priority: Minor
+priority: "Minor"
 ---
 **If you moved within 27 days of the election within the same precinct** you can vote a full ballot by signing an affidavit at the polling place.  
 

@@ -3,7 +3,7 @@ title: "When is the Registration Deadline?"
 published: true
 weight: 0
 section: important-dates-deadlines
-priority: Minor
+priority: "Minor"
 ---
 
 When is the voter registration deadline?

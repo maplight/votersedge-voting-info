@@ -3,7 +3,7 @@ title: "How Do I Vote at the Polling Place In Person?"
 published: true
 weight: 3
 section: how-to-vote
-priority: Minor
+priority: "Minor"
 ---
 
 h3 Vote at the polling place in person

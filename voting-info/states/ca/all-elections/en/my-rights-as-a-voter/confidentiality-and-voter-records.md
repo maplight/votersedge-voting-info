@@ -3,7 +3,7 @@ title: "Is voter registration information confidential?"
 published: true
 weight: 5
 section: "my-rights-as-a-voter"
-priority: Minor
+priority: "Minor"
 ---
 - Voter registration rolls are not available to the general public.
 - Your social security number, your driver license number, and your signature are never provided to anyone requesting information.

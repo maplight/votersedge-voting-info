@@ -3,7 +3,7 @@ title: "When can I register to vote?"
 published: true
 weight: 3
 section: "register-to-vote"
-priority: Minor
+priority: "Minor"
 ---
 **Regular voter registration** is open year-round, except during the 27-day period just prior to an election and during the 2-day period after each election (1 day after in Chicago).  
 

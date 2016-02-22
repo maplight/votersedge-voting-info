@@ -3,7 +3,7 @@ title: "California Voter Bill of Rights"
 published: true
 weight: 10
 section: my-rights-as-a-voter
-priority: Minor
+priority: "Minor"
 ---
 <p>The <a href="http://voterguide.sos.ca.gov/en/voter-info/voter-bill-of-rights.htm">California Voter Bill of Rights</a> says:</p>
 <ol>

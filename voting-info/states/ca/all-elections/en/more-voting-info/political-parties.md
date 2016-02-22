@@ -3,7 +3,7 @@ title: Information about political parties
 published: true
 weight: 2
 section: "more-voting-info"
-priority: Minor
+priority: "Minor"
 ---
 **What is a political party?**  
 

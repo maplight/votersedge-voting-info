@@ -3,7 +3,7 @@ title: "Do I need to declare a political party when I register to vote?"
 published: true
 weight: 4
 section: "more-voting-info"
-priority: Minor
+priority: "Minor"
 ---
 
 **You do not need to declare a political party affiliation when you register to vote** in the state of Illinois in order to vote in party primaries.  

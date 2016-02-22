@@ -3,7 +3,7 @@ title: "When is voter registration deadline?"
 published: true
 weight: 2
 section: "important-dates-deadlines"
-priority: Minor
+priority: "Minor"
 ---
 The voter registration application deadline is **no later than 15 days before the election.**  
 

@@ -3,7 +3,7 @@ title: "How do I know what political districts I live in?"
 published: true
 weight: 5
 section: "more-voting-info"
-priority: Minor
+priority: "Minor"
 ---
 
 For information about the state legislative and judicial districts and U.S. congressional district where you live, visit the Illinois State Board of Elections’ [District/Official search tool](http://www.elections.il.gov/DistrictLocator/DistrictOfficialSearchByAddress.aspx).  

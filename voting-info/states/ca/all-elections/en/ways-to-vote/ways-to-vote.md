@@ -3,7 +3,7 @@ title: "Ways to Vote"
 published: true
 weight: 1
 section: "ways-to-vote"
-priority: Major
+priority: "Major"
 ---
 **There are a number of ways to vote in California. You may vote**:  
 

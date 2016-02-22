@@ -3,7 +3,7 @@ title: How do I serve as an election judge?
 published: true
 weight: 1
 section: "more-voting-info"
-priority: Minor
+priority: "Minor"
 ---
 **How do I serve as an election judge?**
 

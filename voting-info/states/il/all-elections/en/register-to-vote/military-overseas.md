@@ -3,7 +3,7 @@ title: "How do I register if I am in the military, overseas, or I live abroad?"
 published: true
 weight: 7
 section: "register-to-vote"
-priority: Minor
+priority: "Minor"
 ---
 
 A **military voter** is a member of the U.S. Uniformed Service currently on active duty. This also includes the following:  

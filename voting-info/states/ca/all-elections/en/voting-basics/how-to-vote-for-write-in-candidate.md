@@ -3,7 +3,7 @@ title: "How do I write in a candidate?"
 published: true
 weight: 14
 section: "voting-basics"
-priority: Minor
+priority: "Minor"
 ---
 
 - Each race has a blank spot with a line drawn on it for a write-in candidate.

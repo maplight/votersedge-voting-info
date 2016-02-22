@@ -3,7 +3,7 @@ title: Be an Election Day poll worker
 published: true
 weight: 1
 section: "more-voting-info"
-priority: Minor
+priority: "Minor"
 ---
 What does it take to be a poll worker? You must be:  
 

@@ -3,7 +3,7 @@ title: "Can I register to vote?"
 published: true
 weight: 2
 section: "register-to-vote"
-priority: Minor
+priority: "Minor"
 ---
 To register to vote in California, you must be:
 - A United States citizen living in California

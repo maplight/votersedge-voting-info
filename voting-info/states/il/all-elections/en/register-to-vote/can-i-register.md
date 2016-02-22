@@ -3,7 +3,7 @@ title: "Can I register to vote?"
 published: true
 weight: 1
 section: "register-to-vote"
-priority: Minor
+priority: "Minor"
 ---
 To register to vote in Illinois:  
 - You must be a United States Citizen.  

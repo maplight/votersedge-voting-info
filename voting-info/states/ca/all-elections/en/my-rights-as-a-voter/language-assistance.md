@@ -3,7 +3,7 @@ title: "What rights do I have for language assistance?"
 published: true
 weight: 3
 section: "my-rights-as-a-voter"
-priority: Minor
+priority: "Minor"
 ---
 #### What rights do I have for language assistance?  
 - Local elections officials are required to provide services and official election materials to bilingual voters in precincts where there are a certain number of people who speak the language.

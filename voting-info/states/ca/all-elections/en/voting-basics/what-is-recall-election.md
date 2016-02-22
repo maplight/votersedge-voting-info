@@ -3,7 +3,7 @@ title: "What is a recall election?"
 published: true
 weight: 16
 section: "voting-basics"
-priority: Minor
+priority: "Minor"
 ---
 A recall election decides if an elected official is removed from their job and who will replace that official.  
 

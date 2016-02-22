@@ -3,7 +3,7 @@ title: Important Dates and Deadlines
 published: true
 weight: 1
 section: "important-dates-deadlines"
-priority: Major
+priority: "Major"
 ---
 
 There are some important dates and deadlines for Illinois voters to know, including when elections are held in the state.  

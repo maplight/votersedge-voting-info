@@ -3,7 +3,7 @@ title: Evaluating State Ballot Measures
 published: true
 weight: 4
 section: "more-voting-info"
-priority: Minor
+priority: "Minor"
 ---
 
 **How to evaluate ballot measures:**  

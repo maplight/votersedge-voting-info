@@ -3,7 +3,7 @@ title: "How do I register to vote?"
 published: true
 weight: 0
 section: register-to-vote
-priority: Minor
+priority: "Minor"
 ---
 On the web at registertovote.ca.gov
 

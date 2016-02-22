@@ -3,7 +3,7 @@ title: "How do I register if I am a college student?"
 published: true
 weight: 12
 section: "register-to-vote"
-priority: Minor
+priority: "Minor"
 ---
 As a Californian living away from home while attending a college, trade school or technical school, you may choose to register to vote using either the home away from home address you use while at school, or your traditional home address.  
 

@@ -3,7 +3,7 @@ title: "How Do I Mark my Ballot?"
 published: true
 weight: 4
 section: how-to-vote
-priority: Minor
+priority: "Minor"
 ---
 How do I mark my ballot in the polling place?
 

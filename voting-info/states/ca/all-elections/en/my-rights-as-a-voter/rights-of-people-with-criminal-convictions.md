@@ -3,7 +3,7 @@ title: "Voting rights for people with criminal convictions"
 published: true
 weight: 4
 section: "my-rights-as-a-voter"
-priority: Minor
+priority: "Minor"
 ---
 #### What are my voting rights if I have a misdemeanor?  
 A misdemeanor conviction does not affect your right to vote at all. You can vote in all elections.  

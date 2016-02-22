@@ -3,7 +3,7 @@ title: "How do I vote by mail?"
 published: true
 weight: 2
 section: "ways-to-vote"
-priority: Minor
+priority: "Minor"
 ---
 > Request a vote-by-mail ballot from your [County Elections Office.](#section-election-office-contact)
 

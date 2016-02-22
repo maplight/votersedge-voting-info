@@ -3,7 +3,7 @@ title: "Do I have to register as a member of a political party?"
 published: true
 weight: 10
 section: "register-to-vote"
-priority: Minor
+priority: "Minor"
 ---
 **You have a choice.**  
 - You may choose among [qualified political parties](http://www.sos.ca.gov/elections/political-parties/qualified-political-parties/) or choose “other,”  

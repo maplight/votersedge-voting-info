@@ -3,7 +3,7 @@ title: 2016 Election Dates and Deadlines
 published: true
 weight: 7
 section: "important-dates-deadlines"
-priority: Minor
+priority: "Minor"
 ---
 **Primary Election - March 15, 2016**  
 - Last day to register to vote: February 16, 2016  

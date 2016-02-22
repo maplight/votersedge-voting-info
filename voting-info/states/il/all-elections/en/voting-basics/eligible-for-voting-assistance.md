@@ -3,7 +3,7 @@ title: "Am I eligible for voting assistance?"
 published: true
 weight: 5
 section: "voting-basics"
-priority: Minor
+priority: "Minor"
 ---
 **If you are disabled, visually impaired, or cannot read or write the English language,** you are entitled to receive assistance in the casting of your vote in the voting booth on Election Day.  
 

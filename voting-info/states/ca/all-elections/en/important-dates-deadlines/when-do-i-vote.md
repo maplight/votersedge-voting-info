@@ -3,7 +3,7 @@ title: "When do I vote?"
 published: true
 weight: 4
 section: "important-dates-deadlines"
-priority: Minor
+priority: "Minor"
 ---
 #### Before Election Day
 > Both **vote-by-mail** and **early-in-person** voting always start _29 days before Election Day_.  

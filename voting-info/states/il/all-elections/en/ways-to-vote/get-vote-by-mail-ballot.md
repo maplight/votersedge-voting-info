@@ -3,7 +3,7 @@ title: "How do I get a vote-by-mail ballot?"
 published: true
 weight: 2
 section: "ways-to-vote"
-priority: Minor
+priority: "Minor"
 ---
 
 **If you wish to receive a vote-by-mail ballot, you must first submit an application** to vote by mail to your [local election authority](http://www.elections.il.gov/ElectionAuthorities/ElecAuthorityList.aspx). You can obtain an application [online](http://elections.il.gov/VotingInformation/VotingByMailMove.aspx), by mail or in person from your local election authority.  

@@ -3,7 +3,7 @@ title: "What is a provisional ballot?"
 published: true
 weight: 4
 section: "voting-basics"
-priority: Minor
+priority: "Minor"
 ---
 
 Provisional voting allows you to vote on Election Day in a situation where your eligibility to vote has been challenged by the election judge. **You can cast a provisional ballot for any of the following reasons:**  

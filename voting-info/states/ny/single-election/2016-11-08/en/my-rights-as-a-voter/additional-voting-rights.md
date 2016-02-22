@@ -3,7 +3,7 @@ title: "More voter rights"
 published: true
 weight: 1
 section: my-rights-as-a-voter
-priority: Minor
+priority: "Minor"
 ---
 <p>Other important voter rights in California are:</p>
 <ul>

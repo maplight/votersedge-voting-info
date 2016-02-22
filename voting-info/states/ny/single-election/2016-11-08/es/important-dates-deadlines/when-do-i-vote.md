@@ -3,7 +3,7 @@ title: "When do I vote?"
 published: true
 weight: 2
 section: important-dates-deadlines
-priority: Minor
+priority: "Minor"
 ---
 When do I vote?
 

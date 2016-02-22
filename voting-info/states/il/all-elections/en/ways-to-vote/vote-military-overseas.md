@@ -3,7 +3,7 @@ title: "How do I vote if I am in the military or overseas?"
 published: true
 weight: 7
 section: "ways-to-vote"
-priority: Minor
+priority: "Minor"
 ---
 **If you are a U.S. Uniformed Service member on active duty,** there are two ways for you to vote:  
 - You are allowed to vote in person at the designated [polling place](http://www.elections.il.gov/VotingInformation/RegistrationLookup.aspx) for your permanent residence in Illinois, even if you have not registered to vote.  

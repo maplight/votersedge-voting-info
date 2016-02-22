@@ -3,7 +3,7 @@ title: "Are emergency ballots available if I can’t get to the polls on Electio
 published: true
 weight: 9
 section: "voting-basics"
-priority: Minor
+priority: "Minor"
 ---
 If it is **six or fewer days before Election Day,** you may be able to get an emergency vote-by-mail ballot.  
 

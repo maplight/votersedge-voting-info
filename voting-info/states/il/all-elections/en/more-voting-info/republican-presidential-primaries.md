@@ -3,7 +3,7 @@ title: Special Note on Republican Presidential Primaries
 published: true
 weight: 6
 section: "more-voting-info"
-priority: Minor
+priority: "Minor"
 ---
 **Republican primary voters vote not only for their presidential preference, but also for delegates and alternate delegates to the Republican National Convention.**  
 

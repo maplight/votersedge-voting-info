@@ -3,6 +3,6 @@ title: "Links"
 published: false
 weight: 2
 section: "election-office"
-priority: Minor
+priority: "Minor"
 ---
 placeholder
