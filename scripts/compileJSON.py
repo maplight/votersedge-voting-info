@@ -4187,7 +4187,7 @@ for section in votingContentState:
 for file_content in ca_state_file_list:
     content = getFile(file_content)
     # print content
-    ca_state_json_hash[file_content['section']] = content
+    ca_state_json_hash[file_content['section']].append(content)
 
 ## Get EA
 ca_ea_path = "/htdocs/repos/votersedge/voting-info/voting-info/election-authorities/ca"
@@ -4216,26 +4216,49 @@ for ea in ca_ea:
             for file_content in ca_ea_file_list:
                 content = getFile(file_content)
                 # print content
-                ca_ea_json_hash[file_content['section']] = content
+                ca_ea_json_hash[file_content['section']].append(content)
+
+            ca_file = {
+                'content' : {
+                    'stateData': {"votingInfo": ca_state_json_hash},
+                }
+            }
 
             ca_file_merged = {
                 'content' : {
                     'stateData': {"votingInfo": ca_state_json_hash},
                     'electionAuthorityData': {"votingInfo": ca_ea_json_hash},
                 }
-
             }
 
             print json.dumps(ca_file_merged, sort_keys=True, indent=4, separators=(',', ': '))
 
-            json_file_name = json_path_output + '/' + ea_file_name + '.json'
-            if not os.path.exists('file'):
-                open('json_file_name', 'w').close() 
+            json_file_name = json_path_output + '/voting-info.ca.en-' + ea_file_name + '.json'
+            if not os.path.exists(json_file_name):
+                open(json_file_name, 'w').close() 
             fout=open(json_file_name,"w")
             fout.seek(0)
             fout.write(json.dumps(ca_file_merged))
             fout.truncate()
             fout.close()
+        else: 
+            json_file_name = json_path_output + '/voting-info.ca.en-' + ea_file_name + '.json'
+            if not os.path.exists(json_file_name):
+                open(json_file_name, 'w').close() 
+            fout=open(json_file_name,"w")
+            fout.seek(0)
+            fout.write(json.dumps(ca_file))
+            fout.truncate()
+            fout.close()
+
+        ca_json_file_name = json_path_output + '/voting-info.ca.en.json'
+        if not os.path.exists(ca_json_file_name):
+            open(json_file_name, 'w').close() 
+        fout=open(json_file_name,"w")
+        fout.seek(0)
+        fout.write(json.dumps(ca_file))
+        fout.truncate()
+        fout.close()
 
 
     # merge and return state & ea to a new file in json folder
