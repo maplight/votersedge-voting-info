@@ -3,8 +3,9 @@ title: "What is a provisional ballot?"
 published: true
 weight: 4
 section: "voting-basics"
-priority: "Minor"
+priority: Minor
 ---
+
 **A provisional ballot is a regular ballot that is put inside of a provisional envelope.** 
 
 **Who must vote a provisional ballot?**  
@@ -13,7 +14,7 @@ priority: "Minor"
 - Do not appear on the list of voters at the polling place. 
 - Moved into a new precinct and did not update their registration.
 - Registered by mail, but did not provide a CA drivers license number, CA ID number or the last 4 digits of their Social Security Number when they registered.
-- Return absentee ballots to the polls without an envelope.
+- Return vote-by-mail ballots to the polls without an envelope.
 - Vote by mail, but decide that they would prefer to vote in person and do not bring their vote-by-mail ballot to turn in at the polling place.
 - Register too late for their names to be printed on the list of voters.  
 
