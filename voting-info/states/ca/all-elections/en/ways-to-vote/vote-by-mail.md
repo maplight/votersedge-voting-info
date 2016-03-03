@@ -3,13 +3,14 @@ title: "How do I vote by mail?"
 published: true
 weight: 2
 section: "ways-to-vote"
-priority: "Minor"
+priority: Minor
 ---
-> Request a vote-by-mail ballot from your [County Elections Office.](#section-election-office-contact)
 
-Make sure that you send in your request so that it’s received by the Elections Office _**no later**_ than 7 days before the election by 5 PM.   
+**Request** a vote-by-mail ballot from your [County Elections Office.](#section-election-office-contact)
 
-**Fill out your ballot and envelope** by following the directions.
+Make sure that you send in your request so that it’s received by your county elections office _**no later**_ than 7 days before the election by 5 PM.   
+
+**Follow the directions to fill out your ballot and envelope.**  
 1. **Mark** your vote-by-mail ballot.
 2. **Place** the vote-by-mail ballot in the special envelope provided by your county’s election office.
 3. **Fill out** the information on the envelope.  
@@ -27,4 +28,4 @@ Make sure that you send in your request so that it’s received by the Elections
 
 Your completed vote-by-mail ballot must be **postmarked** on or before **Election Day**
 
-Once mailed and postmarked, the ballot must be **received** by the elections office **no later than 3 days after Election Day.**  
+Once mailed and postmarked, the ballot must be **received** by the elections office **no later than 3 days after Election Day.**
