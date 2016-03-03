@@ -27,7 +27,9 @@ If voters are eligible to vote and vote provisionally, their ballots will be cou
 All of the contests and measures for which you are eligible to vote, had you gone to your correct polling place, will be counted. Contests and measures for which you are not eligible to vote will not be counted.  
 
 **How are provisional ballots handled?**  
-- The voter fills out name and current address on the provisional envelope and signs it. 
+- Fill out your name and current address on the provisional envelope and signs it. 
 - After the polls close, the ballot is returned to the election office, where the information on the envelope is verified against the voter registration records.
-- If the information that the voter has written on the envelope matches, then the ballot is removed from the envelope and counted.
-- A voter who casts a provisional ballot can learn whether the ballot was counted and if it was not counted, the reason why. This information is learned by contacting the [county elections office](#section-election-office-contact).
+- If the information that the voter has written on the envelope matches, then the ballot is removed from the envelope and counted.  
+
+**Can I check the status of my provisional ballot?**  
+A voter who casts a provisional ballot can learn whether the ballot was counted and if it was not counted, the reason why. This information is learned by contacting the [county elections office](#section-election-office-contact).
