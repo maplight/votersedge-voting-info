@@ -19,4 +19,4 @@ priority: "Minor"
 #### On Election day  
 > From **7 a.m. to 8 p.m.**  
 
-For detailed information check [Ways to vote](#section-ways-to-vote).  
+For detailed information check [Ways to Vote](#section-ways-to-vote).  

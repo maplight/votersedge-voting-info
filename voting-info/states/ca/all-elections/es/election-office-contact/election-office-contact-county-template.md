@@ -1,5 +1,5 @@
 ---
-title: "Contact County Election Office"
+title: "Contact county election office"
 published: true
 weight: 2
 section: election-office-contact

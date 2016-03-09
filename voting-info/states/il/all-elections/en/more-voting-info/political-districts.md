@@ -1,5 +1,5 @@
 ---
-title: "How do I know what political districts I live in?"
+title: "How do I know which political districts I live in?"
 published: true
 weight: 5
 section: "more-voting-info"
