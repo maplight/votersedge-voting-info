@@ -2,9 +2,9 @@
 
 **Greetings Voting information content writers!**
 
-We are so happy that you are writing or translating content for the Voting Information section of Voter's Edge for your state and region or county. 
+We are so happy that you are writing or translating content for the Voting Information section of Voter’s Edge for your state and region or county. 
 
-All of this content will appear in the Voting Info section of Voter's Edge, reaching potentially millions of people in your state as they research their ballot information. The content of this site will be Creative Commons licensed, and we want it to be really useful, voter-centric, easy to understand and not overwhelming.
+All of this content will appear in the Voting Info section of Voter’s Edge, reaching potentially millions of people in your state as they research their ballot information. The content of this site will be Creative Commons licensed, and we want it to be really useful, voter-centric, easy to understand and not overwhelming.
 
 ## CONTRIBUTION GUIDELINES
 

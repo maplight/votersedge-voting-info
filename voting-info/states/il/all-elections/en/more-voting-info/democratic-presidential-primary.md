@@ -1,5 +1,5 @@
 ---
-title: "Special Note on Democratic Presidential Primaries"
+title: "Special note on Democratic presidential primaries"
 published: true
 weight: 7
 section: "more-voting-info"
