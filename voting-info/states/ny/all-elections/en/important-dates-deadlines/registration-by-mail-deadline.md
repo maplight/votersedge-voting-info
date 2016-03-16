@@ -1,3 +1,3 @@
-## A New Post
+## Voter Registration by Mail Deadline
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+To register to vote by mail, your application must be postmarked no later than 25 days before the election in which you wish to vote and received by your local [board of elections](http://www.elections.ny.gov/CountyBoards.html) no later than 20 days before the election.  
