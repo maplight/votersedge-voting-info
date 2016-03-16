@@ -1,3 +1,4 @@
-## A New Post
+## Deadline to Submit Change of Address  
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+If you move within New York and wish to update your registration, notice of your change of address must be received by your local [board of elections](http://www.elections.ny.gov/CountyBoards.html) **no later than 20 days before the election** in which you wish to vote.  
+
