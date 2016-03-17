@@ -13,8 +13,8 @@ PARENT_ROOT = os.path.abspath(os.path.join(SCRIPT_ROOT, os.pardir))
 REPO_ROOT = os.path.abspath(os.path.join(PARENT_ROOT, os.pardir))
 STATE_ROOT = REPO_ROOT + "/voting-info-new/states/" + STATE
 SRC_ROOT = REPO_ROOT + "/voting-info-new/" + STATE
-STATE_TEMPLATES = REPO_ROOT + "/_templates/state-defaults"
-ELECTION_AUTHORITY_TEMPLATES = REPO_ROOT + "/_templates/election-authority-defaults"
+SINGLE_ELECTION_TEMPLATES = REPO_ROOT + "/_templates/single-election-defaults/" + STATE
+ELECTION_AUTHORITY_TEMPLATES = REPO_ROOT + "/_templates/election-authority-defaults/" + STATE
 ALL_ELECTIONS_ROOT = STATE_ROOT + "/all-elections/" + LANGUAGE
 STATE_SINGLE_ELECTIONS_ROOT = STATE_ROOT + "/single-election/" # election, language
 ELECTION_AUTHORITIES_ROOT = STATE_ROOT + "/election-authorities/" # ea, language
@@ -77,92 +77,28 @@ for election in not_county_elections[STATE_AREA_NAME]['election']:
       if not os.path.exists(STATE_SINGLE_ELECTIONS_ROOT + election_date):
         # Make folder for single election
         os.makedirs(STATE_SINGLE_ELECTIONS_ROOT + election_date)
-        copy(STATE_TEMPLATES, STATE_SINGLE_ELECTIONS_ROOT + election_date)
-        # for section in votingContentState:
-        #     state_single_election_section = STATE_SINGLE_ELECTIONS_ROOT + election_date + '/' + LANGUAGE + '/' + section
-            
-        #     # Get files in each section, add as a flat hash
-        #     if not os.path.exists(state_single_election_section):
-        #         os.makedirs(state_single_election_section)
-        #         # Make new directory
-        #         # Add markdown files
+        copy(SINGLE_ELECTION_TEMPLATES, STATE_SINGLE_ELECTIONS_ROOT + election_date)
 
-
-
-# # --------------------
-# # Get & Build Election Authorities specific content
-# election_authorities_json = {}
-# election_authorities_file_list = []
-# election_authorities_groups = []
-# state_file_merged = {}
-
-# # Process each election authority.
-# for election_authority in election_authorities_in_state:
-#     # Build filename
-#     election_authority_file_name = election_authority['election_authority_id'] + '-' + election_authority['name'].rstrip().lower().replace(' ', '-')
-#     election_authority_file_path = ELECTION_AUTHORITIES_ROOT + '/' + election_authority_file_name
-#     election_authorities_file_list = []
-#     election_authorities_json = {}
-
-#     # Process each section for the election authority
-#     for section in votingContentState:
-#         election_authorities_json[section] = []
-        
-#         # If markdown files exist for the state
-#         if os.path.exists(election_authority_file_path):
-#             if os.path.exists(election_authority_file_path + '/' + section):
-#                 for file in [doc for doc in os.listdir(election_authority_file_path + '/' + section)
-#                     if doc.endswith(".md")]:
-#                         election_authorities_file_list.append( {'path': ALL_ELECTIONS_ROOT + '/' + section + '/' + file, 'section': section})
-
-#             for file_content in election_authorities_file_list:
-#                 content = getFile(file_content)
-#                 election_authorities_json[file_content['section']].append(content)
-
-#             json_file_name = json_path_output + '/voting-info.' + STATE + '.' + LANGUAGE + '-' + election_authority_file_name + '.json'
-#             if not os.path.exists(json_file_name):
-#                 open(json_file_name, 'w').close() 
-#             fout=open(json_file_name,"w")
-#             fout.seek(0)
-#             fout.write(json.dumps(state_file_merged))
-#             fout.truncate()
-#             fout.close()
-
-#             # Build election-authority-specific data for each election.
-#             election_authority_single_elections_json = {}
-
-#             for election in county_elections[election_authority]['election']:
-#                 election_date = election['election_date']
-#                 if (election_date):
-#                     election_authority_single_election_json = {}
-#                     election_authority_single_election_file_list = []
-#                     for section in votingContentState:
-#                         election_authority_single_election_json[section] = []
-#                         election_authority_single_election_section = ELECTION_AUTHORITIES_SINGLE_ELECTIONS_ROOT + election_date + '/' + LANGUAGE + '/' + section
-#                         # Get files in each section, add as a flat hash
-#                         if os.path.exists(election_authority_single_election_section):
-#                             for file in [doc for doc in os.listdir(election_authority_single_election_section)
-#                                 if doc.endswith(".md")]:
-#                                     # print file
-#                                     election_authority_single_election_file_list.append( {'path': election_authority_single_election_section + '/' + file, 'section': section})
-#                     # Process the file list for this election.
-#                     for election_authority_single_election_file_content in election_authority_single_election_file_list:
-#                         election_authority_single_election_content = getFile(election_authority_single_election_file_content)
-#                         election_authority_single_election_json[election_authority_single_election_file_content['section']].append(election_authority_single_election_content)
-#                     election_authority_single_elections_json[election_date] = election_authority_single_election_json
-
-#             # Build election authority file, merging all state data & creating one file for the election authority with all elections
-#             state_file_merged = {
-#                 'content' : {
-#                     'stateData': {"votingInfo": all_elections_json},
-#                     'stateDataSingleElections': {"votingInfo": state_single_elections_json}
-#                     'electionAuthorityData': {"votingInfo": election_authorities_json},
-#                     'electionAuthorityDataSingleElections': {"votingInfo": election_authority_single_elections_json},
-#                 }
-#             }
-
-
-
+# --------------------
+# Get & Build Election Authorities folders
+# Process each election authority.
+for election_authority in election_authorities_in_state:
+    # Build filename
+    election_authority_file_name = election_authority['election_authority_id'] + '-' + election_authority['name'].rstrip().lower().replace(' ', '-')
+    election_authority_file_path = ELECTION_AUTHORITIES_ROOT + '/' + election_authority_file_name
+    if not os.path.exists(ELECTION_AUTHORITIES_ROOT + '/' + election_authority_file_name):
+      # Make folder for election authority
+      os.makedirs(ELECTION_AUTHORITIES_ROOT + '/' + election_authority_file_name)
+      copy(ELECTION_AUTHORITY_TEMPLATES, ELECTION_AUTHORITIES_ROOT + '/' + election_authority_file_name)
+      single_election_folder = ELECTION_AUTHORITIES_ROOT + '/' + election_authority_file_name + '/single-election/'
+      # Set up folders for single election
+      for election in county_elections[election_authority]['election']:
+          election_date = election['election_date']
+          if (election_date):
+            if not os.path.exists(single_election_folder + election_date):
+              # Make folder for single election
+              os.makedirs(single_election_folder + election_date)
+              copy(ELECTION_AUTHORITY_TEMPLATES, single_election_folder + election_date)
 
 print "Done building new file folders: " + STATE
 sys.exit()
