@@ -192,16 +192,16 @@ for election_authority in election_authorities_in_state:
 
 
 
-        # else: 
-        #     # ??? what's this?
-        #     json_file_name = BUILD_ROOT + '/voting-info.' + STATE + '.' + LANGUAGE + '-' + election_authority_file_name + '.json'
-        #     if not os.path.exists(json_file_name):
-        #         open(json_file_name, 'w').close() 
-        #     fout=open(json_file_name,"w")
-        #     fout.seek(0)
-        #     fout.write(json.dumps(state_file))
-        #     fout.truncate()
-        #     fout.close()
+    # else: 
+    #     # ??? what's this?
+    #     json_file_name = BUILD_ROOT + '/voting-info.' + STATE + '.' + LANGUAGE + '-' + election_authority_file_name + '.json'
+    #     if not os.path.exists(json_file_name):
+    #         open(json_file_name, 'w').close() 
+    #     fout=open(json_file_name,"w")
+    #     fout.seek(0)
+    #     fout.write(json.dumps(state_file))
+    #     fout.truncate()
+    #     fout.close()
 
 
 
