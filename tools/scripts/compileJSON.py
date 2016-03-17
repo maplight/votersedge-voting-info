@@ -88,7 +88,8 @@ fout.write(json.dumps(state_file))
 fout.truncate()
 fout.close()
 
-# Get Election Authorities specific content
+
+# Get & Build Election Authorities specific content
 election_authorities_json = {}
 election_authorities_file_list = []
 election_authorities_groups = []
@@ -143,7 +144,61 @@ for ea in state_election_authorities:
             fout.truncate()
             fout.close()
 
+# Get & Build Single Election specific content
+single_election_json = {}
+single_election_file_list = []
+single_election_groups = []
+single_election_file_merged = {}
+
+# # Process each election authority.
+# for ea in state_election_authorities:
+#     # Build filename
+#     ea_file_name = ea['election_authority_id'] + '-' + ea['name'].rstrip().lower().replace(' ', '-')
+#     ea_file_path = ELECTION_AUTHORITIES_ROOT + '/' + ea_file_name
+#     election_authorities_file_list = []
+#     election_authorities_json = {}
+
+#     # Process each section
+#     for section in votingContentState:
+#         election_authorities_json[section] = []
+        
+#         # If markdown files exist for the state
+#         if os.path.exists(ea_file_path):
+#             if os.path.exists(ea_file_path + '/' + section):
+#                 for file in [doc for doc in os.listdir(ea_file_path + '/' + section)
+#                     if doc.endswith(".md")]:
+#                         election_authorities_file_list.append( {'path': ALL_ELECTIONS_ROOT + '/' + section + '/' + file, 'section': section})
+
+#             for file_content in election_authorities_file_list:
+#                 content = getFile(file_content)
+#                 # print content
+#                 election_authorities_json[file_content['section']].append(content)
+
+#             state_file_merged = {
+#                 'content' : {
+#                     'stateData': {"votingInfo": all_elections_json},
+#                     'electionAuthorityData': {"votingInfo": election_authorities_json},
+#                 }
+#             }
+
+#             json_file_name = json_path_output + '/voting-info.' + STATE + '.' + LANGUAGE + '-' + ea_file_name + '.json'
+#             if not os.path.exists(json_file_name):
+#                 open(json_file_name, 'w').close() 
+#             fout=open(json_file_name,"w")
+#             fout.seek(0)
+#             fout.write(json.dumps(state_file_merged))
+#             fout.truncate()
+#             fout.close()
+#         else: 
+#             json_file_name = BUILD_ROOT + '/voting-info.' + STATE + '.' + LANGUAGE + '-' + ea_file_name + '.json'
+#             if not os.path.exists(json_file_name):
+#                 open(json_file_name, 'w').close() 
+#             fout=open(json_file_name,"w")
+#             fout.seek(0)
+#             fout.write(json.dumps(state_file))
+#             fout.truncate()
+#             fout.close()
 
 
-print "Done."
+print "Done: " + STATE
 sys.exit()
