@@ -1,5 +1,24 @@
 {
   "election_authorities":{
+    "not_county":{
+      "State of Illinois":{
+        "election":[
+          {
+            "election_authority_id":"228",
+            "state":"CA",
+            "is_county":"No",
+            "election_authority_name":"Illinois State Board of Elections",
+            "area":"State of Illinois",
+            "election_id":"32",
+            "election_date":"2016-11-08",
+            "election_type":"All",
+            "election_description":"",
+            "is_special":"1",
+            "inactive":"1",
+            "election_auth_id":""
+          },
+        ]
+    },
     "is_county":{
       "Adams County":{
         "election":[

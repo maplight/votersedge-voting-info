@@ -19,7 +19,7 @@ ELECTION_AUTHORITIES_ROOT = STATE_ROOT + "/election-authorities/" # ea, language
 ELECTION_AUTHORITIES_SINGLE_ELECTIONS_ROOT = STATE_ROOT + "/election-authorities/" # ea, election, language
 
 # Load election authorities
-def getElectionAuthorities(filePath):
+def getJSON(filePath):
     # http://maplight-api.elasticbeanstalk.com/api/election_authority/getListByState?state=ca&key=test
     # http://maplight-api-qa.us-west-2.elasticbeanstalk.com/api/election_authority/getListByState?state=ca&key=test
     # http://maplight-api.elasticbeanstalk.com/api/election_authority/getAllElectionAuthorities?&key=test
@@ -31,8 +31,16 @@ def getElectionAuthorities(filePath):
     return data
 
 # Get info about election authorities (currently, all states)
-ea = getElectionAuthorities(PARENT_ROOT  + '/data/election-authorities.json')
-state_election_authorities = ea['election_authority_data'][STATE_EA]
+election_authorities = getJSON(PARENT_ROOT  + '/data/election-authorities.json')
+election_authorities_in_state = election_authorities['election_authority_data'][STATE_EA]
+
+elections = getJSON(PARENT_ROOT  + '/data/elections.' + STATE + '.json')
+county_elections = elections['election_authorities']['is_county']
+
+state_election_authorities = getJSON(PARENT_ROOT  + '/data/state-election-authorities.json')
+state_election_authority = state_election_authorities[STATE]
+
+# @TODO get election for a state or city
 
 # Create list of files.
 ca_single_file_list = []
@@ -97,10 +105,10 @@ election_authorities_groups = []
 state_file_merged = {}
 
 # Process each election authority.
-for ea in state_election_authorities:
+for election_authority in election_authorities_in_state:
     # Build filename
-    ea_file_name = ea['election_authority_id'] + '-' + ea['name'].rstrip().lower().replace(' ', '-')
-    ea_file_path = ELECTION_AUTHORITIES_ROOT + '/' + ea_file_name
+    election_authority_file_name = election_authority['election_authority_id'] + '-' + election_authority['name'].rstrip().lower().replace(' ', '-')
+    election_authority_file_path = ELECTION_AUTHORITIES_ROOT + '/' + election_authority_file_name
     election_authorities_file_list = []
     election_authorities_json = {}
 
@@ -109,9 +117,9 @@ for ea in state_election_authorities:
         election_authorities_json[section] = []
         
         # If markdown files exist for the state
-        if os.path.exists(ea_file_path):
-            if os.path.exists(ea_file_path + '/' + section):
-                for file in [doc for doc in os.listdir(ea_file_path + '/' + section)
+        if os.path.exists(election_authority_file_path):
+            if os.path.exists(election_authority_file_path + '/' + section):
+                for file in [doc for doc in os.listdir(election_authority_file_path + '/' + section)
                     if doc.endswith(".md")]:
                         election_authorities_file_list.append( {'path': ALL_ELECTIONS_ROOT + '/' + section + '/' + file, 'section': section})
 
@@ -127,7 +135,7 @@ for ea in state_election_authorities:
                 }
             }
 
-            json_file_name = json_path_output + '/voting-info.' + STATE + '.' + LANGUAGE + '-' + ea_file_name + '.json'
+            json_file_name = json_path_output + '/voting-info.' + STATE + '.' + LANGUAGE + '-' + election_authority_file_name + '.json'
             if not os.path.exists(json_file_name):
                 open(json_file_name, 'w').close() 
             fout=open(json_file_name,"w")
@@ -136,7 +144,7 @@ for ea in state_election_authorities:
             fout.truncate()
             fout.close()
         else: 
-            json_file_name = BUILD_ROOT + '/voting-info.' + STATE + '.' + LANGUAGE + '-' + ea_file_name + '.json'
+            json_file_name = BUILD_ROOT + '/voting-info.' + STATE + '.' + LANGUAGE + '-' + election_authority_file_name + '.json'
             if not os.path.exists(json_file_name):
                 open(json_file_name, 'w').close() 
             fout=open(json_file_name,"w")

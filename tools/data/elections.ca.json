@@ -1,5 +1,25 @@
 {
   "election_authorities":{
+    "not_county":{
+      "State of California":{
+        "election":[
+          {
+            "election_authority_id":"227",
+            "state":"CA",
+            "is_county":"No",
+            "election_authority_name":"California Secretary of State",
+            "area":"State of California",
+            "election_id":"26",
+            "election_date":"2016-11-08",
+            "election_type":"All",
+            "election_description":"",
+            "is_special":"1",
+            "inactive":"1",
+            "election_auth_id":""
+          },
+        ]
+      }        
+    },
     "is_county":{
       "Alameda County":{
         "election":[

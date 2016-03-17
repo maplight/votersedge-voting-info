@@ -1,1 +1,44 @@
-[]
+{
+  "election_authorities":{
+      "not_county":{
+        "State of New York":{
+          "election":[
+            {
+              "election_authority_id":"228",
+              "state":"NY",
+              "is_county":"No",
+              "election_authority_name":"New York State Board of Elections",
+              "area":"State of New York",
+              "election_id":"32",
+              "election_date":"2016-11-08",
+              "election_type":"All",
+              "election_description":"",
+              "is_special":"1",
+              "inactive":"1",
+              "election_auth_id":""
+            },
+          ]
+      },
+      "is_county":{
+        "Brooklyn":{
+          "election":[
+            {
+              "election_authority_id":"1",
+              "state":"NY",
+              "is_county":"Yes",
+              "election_authority_name":"Brooklyn Registrar of Voters",
+              "area":"Brooklyn",
+              "election_id":"26",
+              "election_date":"2016-11-08",
+              "election_type":"Primary",
+              "election_description":"Galactic Primary",
+              "is_special":"1",
+              "inactive":"1",
+              "election_auth_id":"26-1"
+            }
+          ]
+        }
+      }
+    }
+  }
+}
