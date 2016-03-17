@@ -61,7 +61,8 @@ not_county_elections = elections['election_authorities']['not_county']
 state_election_authorities = getJSON(PARENT_ROOT  + '/data/state-election-authorities.json')
 state_election_authority = state_election_authorities[STATE]
 
-# @TODO get election for a state or city
+# @TODO update real election data for a state
+# @TODO handle "not county" election authorities
 
 # Load markdown files for all elections, for each voting content section.
 all_elections_json = {}
@@ -109,7 +110,6 @@ state_file = {
 
 # Build state json file (no election authority info)
 state_json_file_name = BUILD_ROOT + '/voting-info.' + STATE + '.' + LANGUAGE + '.json'
-
 if not os.path.exists(state_json_file_name):
     open(state_json_file_name, 'w').close() 
 fout=open(state_json_file_name,"w")
@@ -118,7 +118,7 @@ fout.write(json.dumps(state_file))
 fout.truncate()
 fout.close()
 
-
+# --------------------
 # Get & Build Election Authorities specific content
 election_authorities_json = {}
 election_authorities_file_list = []
@@ -133,7 +133,7 @@ for election_authority in election_authorities_in_state:
     election_authorities_file_list = []
     election_authorities_json = {}
 
-    # Process each section
+    # Process each section for the election authority
     for section in votingContentState:
         election_authorities_json[section] = []
         
@@ -146,33 +146,65 @@ for election_authority in election_authorities_in_state:
 
             for file_content in election_authorities_file_list:
                 content = getFile(file_content)
-                # print content
                 election_authorities_json[file_content['section']].append(content)
 
-            state_file_merged = {
-                'content' : {
-                    'stateData': {"votingInfo": all_elections_json},
-                    'electionAuthorityData': {"votingInfo": election_authorities_json},
-                }
-            }
+    # Build election-authority-specific data for each election.
+    election_authority_single_elections_json = {}
+    if (election_authority['area']):
+        if (election_authority['area'] in county_elections):
+            for election in county_elections[election_authority['area']]['election']:
+                election_date = election['election_date']
+                if (election_date):
+                    election_authority_single_election_json = {}
+                    election_authority_single_election_file_list = []
+                    for section in votingContentState:
+                        election_authority_single_election_json[section] = []
+                        election_authority_single_election_section = ELECTION_AUTHORITIES_SINGLE_ELECTIONS_ROOT + election_date + '/' + LANGUAGE + '/' + section
+                        # Get files in each section, add as a flat hash
+                        if os.path.exists(election_authority_single_election_section):
+                            for file in [doc for doc in os.listdir(election_authority_single_election_section)
+                                if doc.endswith(".md")]:
+                                    # print file
+                                    election_authority_single_election_file_list.append( {'path': election_authority_single_election_section + '/' + file, 'section': section})
+                    # Process the file list for this election.
+                    for election_authority_single_election_file_content in election_authority_single_election_file_list:
+                        election_authority_single_election_content = getFile(election_authority_single_election_file_content)
+                        election_authority_single_election_json[election_authority_single_election_file_content['section']].append(election_authority_single_election_content)
+                    election_authority_single_elections_json[election_date] = election_authority_single_election_json
 
-            json_file_name = json_path_output + '/voting-info.' + STATE + '.' + LANGUAGE + '-' + election_authority_file_name + '.json'
-            if not os.path.exists(json_file_name):
-                open(json_file_name, 'w').close() 
-            fout=open(json_file_name,"w")
-            fout.seek(0)
-            fout.write(json.dumps(state_file_merged))
-            fout.truncate()
-            fout.close()
-        else: 
-            json_file_name = BUILD_ROOT + '/voting-info.' + STATE + '.' + LANGUAGE + '-' + election_authority_file_name + '.json'
-            if not os.path.exists(json_file_name):
-                open(json_file_name, 'w').close() 
-            fout=open(json_file_name,"w")
-            fout.seek(0)
-            fout.write(json.dumps(state_file))
-            fout.truncate()
-            fout.close()
+    # Build election authority file, merging all state data & creating one file for the election authority with all elections
+    state_file_merged = {
+        'content' : {
+            'stateData': {"votingInfo": all_elections_json},
+            'stateDataSingleElections': {"votingInfo": state_single_elections_json},
+            'electionAuthorityData': {"votingInfo": election_authorities_json},
+            'electionAuthorityDataSingleElections': {"votingInfo": election_authority_single_elections_json},
+        }
+    }
+    json_file_name = BUILD_ROOT + '/voting-info.' + STATE + '.' + LANGUAGE + '-' + election_authority_file_name + '.json'
+    if not os.path.exists(json_file_name):
+        open(json_file_name, 'w').close() 
+    fout=open(json_file_name,"w")
+    fout.seek(0)
+    fout.write(json.dumps(state_file_merged))
+    fout.truncate()
+    fout.close()
+
+
+
+        # else: 
+        #     # ??? what's this?
+        #     json_file_name = BUILD_ROOT + '/voting-info.' + STATE + '.' + LANGUAGE + '-' + election_authority_file_name + '.json'
+        #     if not os.path.exists(json_file_name):
+        #         open(json_file_name, 'w').close() 
+        #     fout=open(json_file_name,"w")
+        #     fout.seek(0)
+        #     fout.write(json.dumps(state_file))
+        #     fout.truncate()
+        #     fout.close()
+
+
+
 
 print "Done: " + STATE
 sys.exit()
