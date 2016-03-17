@@ -5,3 +5,5 @@ The markdown files are then compiled into a lot of json files for every county i
 
 ### Git hooks
 To run either after push or commit, whenever something is saved on Prose.io (or otherwise committed.)
+
+post-commit -> .git/hooks/post-commit  (runs a python script)
