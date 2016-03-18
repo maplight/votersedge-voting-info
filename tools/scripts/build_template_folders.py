@@ -12,13 +12,14 @@ SCRIPT_ROOT = os.path.dirname(os.path.realpath(__file__))
 PARENT_ROOT = os.path.abspath(os.path.join(SCRIPT_ROOT, os.pardir))
 REPO_ROOT = os.path.abspath(os.path.join(PARENT_ROOT, os.pardir))
 STATE_ROOT = REPO_ROOT + "/voting-info-new/states/" + STATE
-SRC_ROOT = REPO_ROOT + "/voting-info-new/" + STATE
-SINGLE_ELECTION_TEMPLATES = REPO_ROOT + "/_templates/single-election-defaults/" + STATE
-ELECTION_AUTHORITY_TEMPLATES = REPO_ROOT + "/_templates/election-authority-defaults/" + STATE
-ALL_ELECTIONS_ROOT = STATE_ROOT + "/all-elections/" + LANGUAGE
-STATE_SINGLE_ELECTIONS_ROOT = STATE_ROOT + "/single-election/" # election, language
-ELECTION_AUTHORITIES_ROOT = STATE_ROOT + "/election-authorities/" # ea, language
-ELECTION_AUTHORITIES_SINGLE_ELECTIONS_ROOT = STATE_ROOT + "/election-authorities/" # ea, election, language
+
+ALL_ELECTIONS_ROOT = STATE_ROOT + "/state-all-elections/"
+STATE_SINGLE_ELECTIONS_ROOT = STATE_ROOT + "/state-single-election/"
+ELECTION_AUTHORITIES_ROOT = STATE_ROOT + "/election-authorities/"
+
+# Only copy single election & election authority.
+SINGLE_ELECTION_TEMPLATES = REPO_ROOT + "/_templates/" + STATE + "/state-single-election"
+ELECTION_AUTHORITY_TEMPLATES = REPO_ROOT + "/_templates/" + STATE + "/election-authorities"
 
 # Folder structure all sections.
 votingContentState = {
@@ -69,7 +70,6 @@ state_election_authority = state_election_authorities[STATE]
 
 # Find non-existing folders, add markdown folder template as new files.
 # Build state-specific data for each election.
-
 for election in not_county_elections[STATE_AREA_NAME]['election']:
     election_date = election['election_date']
 
@@ -90,15 +90,19 @@ for election_authority in election_authorities_in_state:
       # Make folder for election authority
       os.makedirs(ELECTION_AUTHORITIES_ROOT + '/' + election_authority_file_name)
       copy(ELECTION_AUTHORITY_TEMPLATES, ELECTION_AUTHORITIES_ROOT + '/' + election_authority_file_name)
-      single_election_folder = ELECTION_AUTHORITIES_ROOT + '/' + election_authority_file_name + '/single-election/'
-      # Set up folders for single election
-      for election in county_elections[election_authority]['election']:
-          election_date = election['election_date']
-          if (election_date):
-            if not os.path.exists(single_election_folder + election_date):
-              # Make folder for single election
-              os.makedirs(single_election_folder + election_date)
-              copy(ELECTION_AUTHORITY_TEMPLATES, single_election_folder + election_date)
+    
+    single_election_folder = ELECTION_AUTHORITIES_ROOT + election_authority_file_name + '/single-election/'
+    if os.path.exists(ELECTION_AUTHORITIES_ROOT + election_authority_file_name):
+        if (election_authority['area']):
+                if (election_authority['area'] in county_elections):
+                    for election in county_elections[election_authority['area']]['election']:
+                        election_date = election['election_date']
+                        if (election_date):
+                            if not os.path.exists(single_election_folder + election_date):
+                                # Make folder for single election
+                                print single_election_folder
+                                os.makedirs(single_election_folder + election_date)
+                                copy(ELECTION_AUTHORITY_TEMPLATES, single_election_folder + election_date)
 
 print "Done building new file folders: " + STATE
 sys.exit()
