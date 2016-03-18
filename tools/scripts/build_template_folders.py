@@ -99,10 +99,11 @@ for election_authority in election_authorities_in_state:
                         election_date = election['election_date']
                         if (election_date):
                             if not os.path.exists(single_election_folder + election_date):
+                                # shutil.rmtree(single_election_folder + election_date)
                                 # Make folder for single election
                                 print single_election_folder
                                 os.makedirs(single_election_folder + election_date)
-                                copy(ELECTION_AUTHORITY_TEMPLATES, single_election_folder + election_date)
+                                copy(SINGLE_ELECTION_TEMPLATES, single_election_folder + election_date)
 
 print "Done building new file folders: " + STATE
 sys.exit()

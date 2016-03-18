@@ -135,20 +135,24 @@ state_file_merged = {}
 for election_authority in election_authorities_in_state:
     # Build filename
     election_authority_file_name = election_authority['election_authority_id'] + '-' + election_authority['name'].rstrip().lower().replace(' ', '-')
-    election_authority_file_path = ELECTION_AUTHORITIES_ROOT + '/' + election_authority_file_name
+    # election_authority_file_path = ELECTION_AUTHORITIES_ROOT + election_authority_file_name 
+    election_authority_file_path = ELECTION_AUTHORITIES_ROOT + election_authority_file_name + '/all-elections/' + LANGUAGE
+    # election_authority_file_root = ELECTION_AUTHORITIES_ROOT + election_authority_file_name
     election_authorities_file_list = []
     election_authorities_json = {}
 
     # Process each section for the election authority
     for section in votingContentState:
         election_authorities_json[section] = []
-        
         # If markdown files exist for the state
         if os.path.exists(election_authority_file_path):
+            
             if os.path.exists(election_authority_file_path + '/' + section):
+                print election_authority_file_path + '/' + section
                 for file in [doc for doc in os.listdir(election_authority_file_path + '/' + section)
                     if doc.endswith(".md")]:
-                        election_authorities_file_list.append( {'path': ALL_ELECTIONS_ROOT + '/' + section + '/' + file, 'section': section})
+                        print election_authority_file_path + '/' + section + '/' + file
+                        election_authorities_file_list.append( {'path': election_authority_file_path + '/' + section + '/' + file, 'section': section})
 
             for file_content in election_authorities_file_list:
                 content = getFile(file_content)
@@ -165,7 +169,7 @@ for election_authority in election_authorities_in_state:
                     election_authority_single_election_file_list = []
                     for section in votingContentState:
                         election_authority_single_election_json[section] = []
-                        election_authority_single_election_section = ELECTION_AUTHORITIES_SINGLE_ELECTIONS_ROOT + election_date + '/' + LANGUAGE + '/' + section
+                        election_authority_single_election_section = ELECTION_AUTHORITIES_ROOT + '/single-election/' + election_date + '/' + LANGUAGE + '/' + section
                         # Get files in each section, add as a flat hash
                         if os.path.exists(election_authority_single_election_section):
                             for file in [doc for doc in os.listdir(election_authority_single_election_section)
