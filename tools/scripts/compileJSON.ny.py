@@ -2,10 +2,10 @@
 import sys, os, datetime, time, json
 
 # Script settings (pass in to script as args)
-STATE = 'ca'
+STATE = 'ny'
 STATE_EA = STATE.upper()
 LANGUAGE = 'en'
-STATE_AREA_NAME = 'State of California'
+STATE_AREA_NAME = 'State of New York'
 
 # DIRECTORY FOLDER MAPPINGS
 SCRIPT_ROOT = os.path.dirname(os.path.realpath(__file__))

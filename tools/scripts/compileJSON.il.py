@@ -2,10 +2,10 @@
 import sys, os, datetime, time, json
 
 # Script settings (pass in to script as args)
-STATE = 'ca'
+STATE = 'il'
 STATE_EA = STATE.upper()
 LANGUAGE = 'en'
-STATE_AREA_NAME = 'State of California'
+STATE_AREA_NAME = "State of Illinois"
 
 # DIRECTORY FOLDER MAPPINGS
 SCRIPT_ROOT = os.path.dirname(os.path.realpath(__file__))
@@ -45,12 +45,10 @@ votingContentState = {
 def getJSON(filePath):
     with open(filePath) as data_file:    
         data = json.load(data_file)
-    # print json.dumps(data, sort_keys=True, indent=4, separators=(',', ': '))
+    print json.dumps(data, sort_keys=True, indent=4, separators=(',', ': '))
     return data
 
 def getFile(file):
-    # print file['path']
-    # Create file, write content, save, close.
     output = ''
     fout=open(file['path'],"r")
     output = fout.read()
@@ -61,8 +59,11 @@ election_authorities = getJSON(PARENT_ROOT  + '/data/election-authorities.json')
 election_authorities_in_state = election_authorities['election_authority_data'][STATE_EA]
 
 elections = getJSON(PARENT_ROOT  + '/data/elections.' + STATE + '.json')
+
 county_elections = elections['election_authorities']['is_county']
 not_county_elections = elections['election_authorities']['not_county']
+
+print not_county_elections
 
 state_election_authorities = getJSON(PARENT_ROOT  + '/data/state-election-authorities.json')
 state_election_authority = state_election_authorities[STATE]

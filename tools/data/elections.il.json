@@ -16,8 +16,9 @@
             "is_special":"1",
             "inactive":"1",
             "election_auth_id":""
-          },
+          }
         ]
+      }
     },
     "is_county":{
       "Adams County":{
