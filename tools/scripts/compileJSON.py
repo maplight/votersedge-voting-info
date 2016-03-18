@@ -11,11 +11,17 @@ STATE_AREA_NAME = 'State of California'
 SCRIPT_ROOT = os.path.dirname(os.path.realpath(__file__))
 PARENT_ROOT = os.path.abspath(os.path.join(SCRIPT_ROOT, os.pardir))
 REPO_ROOT = os.path.abspath(os.path.join(PARENT_ROOT, os.pardir))
-STATE_ROOT = REPO_ROOT + "/voting-info/states/" + STATE
+STATE_ROOT = REPO_ROOT + "/voting-info-new/states/" + STATE
+
+ALL_ELECTIONS_ROOT = STATE_ROOT + "/state-all-elections/" + LANGUAGE
+STATE_SINGLE_ELECTIONS_ROOT = STATE_ROOT + "/state-single-election/" 
+ELECTION_AUTHORITIES_ROOT = STATE_ROOT + "/election-authorities/"
+
+#STATE_ROOT = REPO_ROOT + "/voting-info-new/states/" + STATE
 BUILD_ROOT = REPO_ROOT + "/build/" + STATE
-ALL_ELECTIONS_ROOT = STATE_ROOT + "/all-elections/" + LANGUAGE
-STATE_SINGLE_ELECTIONS_ROOT = STATE_ROOT + "/single-election/" # election, language
-ELECTION_AUTHORITIES_ROOT = STATE_ROOT + "/election-authorities/" # ea, language
+#ALL_ELECTIONS_ROOT = STATE_ROOT + "/all-elections/" + LANGUAGE
+#STATE_SINGLE_ELECTIONS_ROOT = STATE_ROOT + "/single-election/" # election, language
+#ELECTION_AUTHORITIES_ROOT = STATE_ROOT + "/election-authorities/" # ea, language
 ELECTION_AUTHORITIES_SINGLE_ELECTIONS_ROOT = STATE_ROOT + "/election-authorities/" # ea, election, language
 
 # http://maplight-api.elasticbeanstalk.com/api/election_authority/getListByState?state=ca&key=test
@@ -92,7 +98,7 @@ for election in not_county_elections[STATE_AREA_NAME]['election']:
             if os.path.exists(state_single_election_section):
                 for file in [doc for doc in os.listdir(state_single_election_section)
                     if doc.endswith(".md")]:
-                        # print file
+                        print file
                         state_single_election_file_list.append( {'path': state_single_election_section + '/' + file, 'section': section})
         # Process the file list for this election.
         for state_single_election_file_content in state_single_election_file_list:
