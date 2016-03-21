@@ -1,3 +1,3 @@
-## A New Post
+## What if I have questions at the polling place?
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+As a New York voter, you can ask for instruction on how to cast your vote from trained poll workers who are there to help you navigate the voting process. If you have questions after you arrive at the polling place, they will be happy to help you.
