@@ -1,3 +1,4 @@
-## A New Post
+## Do I need identification to vote?
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+You do not need identification to vote in the state of New York. Some form of identification may be required when you first register to vote, however. (See [Register to Vote](#section-register-to-vote).)
+
