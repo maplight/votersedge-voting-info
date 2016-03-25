@@ -1,45 +1,2116 @@
-// {
-//   "election_authorities":{
-//       "not_county":{
-//         "State of New York":{
-//           "election":[
-//             {
-//               "election_authority_id":"228",
-//               "state":"NY",
-//               "is_county":"No",
-//               "election_authority_name":"New York State Board of Elections",
-//               "area":"State of New York",
-//               "election_id":"32",
-//               "election_date":"2016-11-08",
-//               "election_type":"All",
-//               "election_description":"",
-//               "is_special":"1",
-//               "inactive":"1",
-//               "election_auth_id":""
-//             },
-//           ]
-//         }
-//       },
-//       "is_county":{
-//         "Brooklyn":{
-//           "election":[
-//             {
-//               "election_authority_id":"1",
-//               "state":"NY",
-//               "is_county":"Yes",
-//               "election_authority_name":"Brooklyn Registrar of Voters",
-//               "area":"Brooklyn",
-//               "election_id":"26",
-//               "election_date":"2016-11-08",
-//               "election_type":"Primary",
-//               "election_description":"Galactic Primary",
-//               "is_special":"1",
-//               "inactive":"1",
-//               "election_auth_id":"26-1"
-//             }
-//           ]
-//         }
-//       }
-//     }
-//   }
-// }
+{
+  "election_authorities":{
+    "state":{
+      "State of New York":{
+        "election":[
+          {
+            "election_authority_id":"229",
+            "state":"NY",
+            "is_county":"No",
+            "election_authority_name":"New York State Board of Elections",
+            "area":"State of New York",
+            "election_id":"26",
+            "election_date":"2016-11-08",
+            "election_type":"All",
+            "election_description":"",
+            "is_special":"1",
+            "inactive":"1",
+            "election_auth_id":""
+          }
+        ]
+      }    
+    },
+    "is_county":{
+      "Albany County":{
+        "election":[
+          {
+            "election_authority_id":"169",
+            "state":"NY",
+            "is_county":"Yes",
+            "election_authority_name":"Albany County Board of Elections",
+            "area":"Albany County",
+            "election_id":"18",
+            "election_date":"2014-11-04",
+            "election_type":"General",
+            "election_description":"November General Election",
+            "is_special":"1",
+            "translations":"1",
+            "inactive":"1",
+            "election_timestamp":"2016-02-18 09:01:14",
+            "election_auth_id":"18-169"
+          },
+          {
+            "election_authority_id":"169",
+            "state":"NY",
+            "is_county":"Yes",
+            "election_authority_name":"Albany County Board of Elections",
+            "area":"Albany County",
+            "election_id":"38",
+            "election_date":"2016-04-19",
+            "election_type":"Primary",
+            "election_description":"New York Presidential Primary & Special Elections",
+            "is_special":"1",
+            "translations":"0",
+            "inactive":"0",
+            "election_timestamp":"2016-03-15 16:08:36",
+            "election_auth_id":"38-169"
+          }
+        ]
+      },
+      "Allegany County":{
+        "election":[
+          {
+            "election_authority_id":"170",
+            "state":"NY",
+            "is_county":"Yes",
+            "election_authority_name":"Allegany County Board of Elections",
+            "area":"Allegany County",
+            "election_id":"18",
+            "election_date":"2014-11-04",
+            "election_type":"General",
+            "election_description":"November General Election",
+            "is_special":"1",
+            "translations":"1",
+            "inactive":"1",
+            "election_timestamp":"2016-02-18 09:01:14",
+            "election_auth_id":"18-170"
+          },
+          {
+            "election_authority_id":"170",
+            "state":"NY",
+            "is_county":"Yes",
+            "election_authority_name":"Allegany County Board of Elections",
+            "area":"Allegany County",
+            "election_id":"38",
+            "election_date":"2016-04-19",
+            "election_type":"Primary",
+            "election_description":"New York Presidential Primary & Special Elections",
+            "is_special":"1",
+            "translations":"0",
+            "inactive":"0",
+            "election_timestamp":"2016-03-15 16:08:36",
+            "election_auth_id":"38-170"
+          }
+        ]
+      },
+      "Broome County":{
+        "election":[
+          {
+            "election_authority_id":"171",
+            "state":"NY",
+            "is_county":"Yes",
+            "election_authority_name":"Broome County Board of Elections",
+            "area":"Broome County",
+            "election_id":"18",
+            "election_date":"2014-11-04",
+            "election_type":"General",
+            "election_description":"November General Election",
+            "is_special":"1",
+            "translations":"1",
+            "inactive":"1",
+            "election_timestamp":"2016-02-18 09:01:14",
+            "election_auth_id":"18-171"
+          },
+          {
+            "election_authority_id":"171",
+            "state":"NY",
+            "is_county":"Yes",
+            "election_authority_name":"Broome County Board of Elections",
+            "area":"Broome County",
+            "election_id":"38",
+            "election_date":"2016-04-19",
+            "election_type":"Primary",
+            "election_description":"New York Presidential Primary & Special Elections",
+            "is_special":"1",
+            "translations":"0",
+            "inactive":"0",
+            "election_timestamp":"2016-03-15 16:08:36",
+            "election_auth_id":"38-171"
+          }
+        ]
+      },
+      "Cattaraugus County":{
+        "election":[
+          {
+            "election_authority_id":"172",
+            "state":"NY",
+            "is_county":"Yes",
+            "election_authority_name":"Cattaraugus County Board of Elections",
+            "area":"Cattaraugus County",
+            "election_id":"18",
+            "election_date":"2014-11-04",
+            "election_type":"General",
+            "election_description":"November General Election",
+            "is_special":"1",
+            "translations":"1",
+            "inactive":"1",
+            "election_timestamp":"2016-02-18 09:01:14",
+            "election_auth_id":"18-172"
+          },
+          {
+            "election_authority_id":"172",
+            "state":"NY",
+            "is_county":"Yes",
+            "election_authority_name":"Cattaraugus County Board of Elections",
+            "area":"Cattaraugus County",
+            "election_id":"38",
+            "election_date":"2016-04-19",
+            "election_type":"Primary",
+            "election_description":"New York Presidential Primary & Special Elections",
+            "is_special":"1",
+            "translations":"0",
+            "inactive":"0",
+            "election_timestamp":"2016-03-15 16:08:36",
+            "election_auth_id":"38-172"
+          }
+        ]
+      },
+      "Cayuga County":{
+        "election":[
+          {
+            "election_authority_id":"173",
+            "state":"NY",
+            "is_county":"Yes",
+            "election_authority_name":"Cayuga County Board of Elections",
+            "area":"Cayuga County",
+            "election_id":"18",
+            "election_date":"2014-11-04",
+            "election_type":"General",
+            "election_description":"November General Election",
+            "is_special":"1",
+            "translations":"1",
+            "inactive":"1",
+            "election_timestamp":"2016-02-18 09:01:14",
+            "election_auth_id":"18-173"
+          },
+          {
+            "election_authority_id":"173",
+            "state":"NY",
+            "is_county":"Yes",
+            "election_authority_name":"Cayuga County Board of Elections",
+            "area":"Cayuga County",
+            "election_id":"38",
+            "election_date":"2016-04-19",
+            "election_type":"Primary",
+            "election_description":"New York Presidential Primary & Special Elections",
+            "is_special":"1",
+            "translations":"0",
+            "inactive":"0",
+            "election_timestamp":"2016-03-15 16:08:36",
+            "election_auth_id":"38-173"
+          }
+        ]
+      },
+      "Chautauqua County":{
+        "election":[
+          {
+            "election_authority_id":"174",
+            "state":"NY",
+            "is_county":"Yes",
+            "election_authority_name":"Chautauqua County Board of Elections",
+            "area":"Chautauqua County",
+            "election_id":"18",
+            "election_date":"2014-11-04",
+            "election_type":"General",
+            "election_description":"November General Election",
+            "is_special":"1",
+            "translations":"1",
+            "inactive":"1",
+            "election_timestamp":"2016-02-18 09:01:14",
+            "election_auth_id":"18-174"
+          },
+          {
+            "election_authority_id":"174",
+            "state":"NY",
+            "is_county":"Yes",
+            "election_authority_name":"Chautauqua County Board of Elections",
+            "area":"Chautauqua County",
+            "election_id":"38",
+            "election_date":"2016-04-19",
+            "election_type":"Primary",
+            "election_description":"New York Presidential Primary & Special Elections",
+            "is_special":"1",
+            "translations":"0",
+            "inactive":"0",
+            "election_timestamp":"2016-03-15 16:08:36",
+            "election_auth_id":"38-174"
+          }
+        ]
+      },
+      "Chemung County":{
+        "election":[
+          {
+            "election_authority_id":"175",
+            "state":"NY",
+            "is_county":"Yes",
+            "election_authority_name":"Chemung County Board of Elections",
+            "area":"Chemung County",
+            "election_id":"18",
+            "election_date":"2014-11-04",
+            "election_type":"General",
+            "election_description":"November General Election",
+            "is_special":"1",
+            "translations":"1",
+            "inactive":"1",
+            "election_timestamp":"2016-02-18 09:01:14",
+            "election_auth_id":"18-175"
+          },
+          {
+            "election_authority_id":"175",
+            "state":"NY",
+            "is_county":"Yes",
+            "election_authority_name":"Chemung County Board of Elections",
+            "area":"Chemung County",
+            "election_id":"38",
+            "election_date":"2016-04-19",
+            "election_type":"Primary",
+            "election_description":"New York Presidential Primary & Special Elections",
+            "is_special":"1",
+            "translations":"0",
+            "inactive":"0",
+            "election_timestamp":"2016-03-15 16:08:36",
+            "election_auth_id":"38-175"
+          }
+        ]
+      },
+      "Chenango County":{
+        "election":[
+          {
+            "election_authority_id":"176",
+            "state":"NY",
+            "is_county":"Yes",
+            "election_authority_name":"Chenango County Board of Elections",
+            "area":"Chenango County",
+            "election_id":"18",
+            "election_date":"2014-11-04",
+            "election_type":"General",
+            "election_description":"November General Election",
+            "is_special":"1",
+            "translations":"1",
+            "inactive":"1",
+            "election_timestamp":"2016-02-18 09:01:14",
+            "election_auth_id":"18-176"
+          },
+          {
+            "election_authority_id":"176",
+            "state":"NY",
+            "is_county":"Yes",
+            "election_authority_name":"Chenango County Board of Elections",
+            "area":"Chenango County",
+            "election_id":"38",
+            "election_date":"2016-04-19",
+            "election_type":"Primary",
+            "election_description":"New York Presidential Primary & Special Elections",
+            "is_special":"1",
+            "translations":"0",
+            "inactive":"0",
+            "election_timestamp":"2016-03-15 16:08:36",
+            "election_auth_id":"38-176"
+          }
+        ]
+      },
+      "Clinton County":{
+        "election":[
+          {
+            "election_authority_id":"177",
+            "state":"NY",
+            "is_county":"Yes",
+            "election_authority_name":"Clinton County Board of Elections",
+            "area":"Clinton County",
+            "election_id":"18",
+            "election_date":"2014-11-04",
+            "election_type":"General",
+            "election_description":"November General Election",
+            "is_special":"1",
+            "translations":"1",
+            "inactive":"1",
+            "election_timestamp":"2016-02-18 09:01:14",
+            "election_auth_id":"18-177"
+          },
+          {
+            "election_authority_id":"177",
+            "state":"NY",
+            "is_county":"Yes",
+            "election_authority_name":"Clinton County Board of Elections",
+            "area":"Clinton County",
+            "election_id":"38",
+            "election_date":"2016-04-19",
+            "election_type":"Primary",
+            "election_description":"New York Presidential Primary & Special Elections",
+            "is_special":"1",
+            "translations":"0",
+            "inactive":"0",
+            "election_timestamp":"2016-03-15 16:08:36",
+            "election_auth_id":"38-177"
+          }
+        ]
+      },
+      "Columbia County":{
+        "election":[
+          {
+            "election_authority_id":"178",
+            "state":"NY",
+            "is_county":"Yes",
+            "election_authority_name":"Columbia County Board of Elections",
+            "area":"Columbia County",
+            "election_id":"18",
+            "election_date":"2014-11-04",
+            "election_type":"General",
+            "election_description":"November General Election",
+            "is_special":"1",
+            "translations":"1",
+            "inactive":"1",
+            "election_timestamp":"2016-02-18 09:01:14",
+            "election_auth_id":"18-178"
+          },
+          {
+            "election_authority_id":"178",
+            "state":"NY",
+            "is_county":"Yes",
+            "election_authority_name":"Columbia County Board of Elections",
+            "area":"Columbia County",
+            "election_id":"38",
+            "election_date":"2016-04-19",
+            "election_type":"Primary",
+            "election_description":"New York Presidential Primary & Special Elections",
+            "is_special":"1",
+            "translations":"0",
+            "inactive":"0",
+            "election_timestamp":"2016-03-15 16:08:36",
+            "election_auth_id":"38-178"
+          }
+        ]
+      },
+      "Cortland County":{
+        "election":[
+          {
+            "election_authority_id":"179",
+            "state":"NY",
+            "is_county":"Yes",
+            "election_authority_name":"Cortland County Board of Elections",
+            "area":"Cortland County",
+            "election_id":"18",
+            "election_date":"2014-11-04",
+            "election_type":"General",
+            "election_description":"November General Election",
+            "is_special":"1",
+            "translations":"1",
+            "inactive":"1",
+            "election_timestamp":"2016-02-18 09:01:14",
+            "election_auth_id":"18-179"
+          },
+          {
+            "election_authority_id":"179",
+            "state":"NY",
+            "is_county":"Yes",
+            "election_authority_name":"Cortland County Board of Elections",
+            "area":"Cortland County",
+            "election_id":"38",
+            "election_date":"2016-04-19",
+            "election_type":"Primary",
+            "election_description":"New York Presidential Primary & Special Elections",
+            "is_special":"1",
+            "translations":"0",
+            "inactive":"0",
+            "election_timestamp":"2016-03-15 16:08:36",
+            "election_auth_id":"38-179"
+          }
+        ]
+      },
+      "Delaware County":{
+        "election":[
+          {
+            "election_authority_id":"180",
+            "state":"NY",
+            "is_county":"Yes",
+            "election_authority_name":"Delaware County Board of Elections",
+            "area":"Delaware County",
+            "election_id":"18",
+            "election_date":"2014-11-04",
+            "election_type":"General",
+            "election_description":"November General Election",
+            "is_special":"1",
+            "translations":"1",
+            "inactive":"1",
+            "election_timestamp":"2016-02-18 09:01:14",
+            "election_auth_id":"18-180"
+          },
+          {
+            "election_authority_id":"180",
+            "state":"NY",
+            "is_county":"Yes",
+            "election_authority_name":"Delaware County Board of Elections",
+            "area":"Delaware County",
+            "election_id":"38",
+            "election_date":"2016-04-19",
+            "election_type":"Primary",
+            "election_description":"New York Presidential Primary & Special Elections",
+            "is_special":"1",
+            "translations":"0",
+            "inactive":"0",
+            "election_timestamp":"2016-03-15 16:08:36",
+            "election_auth_id":"38-180"
+          }
+        ]
+      },
+      "Dutchess County":{
+        "election":[
+          {
+            "election_authority_id":"181",
+            "state":"NY",
+            "is_county":"Yes",
+            "election_authority_name":"Dutchess County Board of Elections",
+            "area":"Dutchess County",
+            "election_id":"18",
+            "election_date":"2014-11-04",
+            "election_type":"General",
+            "election_description":"November General Election",
+            "is_special":"1",
+            "translations":"1",
+            "inactive":"1",
+            "election_timestamp":"2016-02-18 09:01:14",
+            "election_auth_id":"18-181"
+          },
+          {
+            "election_authority_id":"181",
+            "state":"NY",
+            "is_county":"Yes",
+            "election_authority_name":"Dutchess County Board of Elections",
+            "area":"Dutchess County",
+            "election_id":"38",
+            "election_date":"2016-04-19",
+            "election_type":"Primary",
+            "election_description":"New York Presidential Primary & Special Elections",
+            "is_special":"1",
+            "translations":"0",
+            "inactive":"0",
+            "election_timestamp":"2016-03-15 16:08:36",
+            "election_auth_id":"38-181"
+          }
+        ]
+      },
+      "Erie County":{
+        "election":[
+          {
+            "election_authority_id":"182",
+            "state":"NY",
+            "is_county":"Yes",
+            "election_authority_name":"Erie County Board of Elections",
+            "area":"Erie County",
+            "election_id":"18",
+            "election_date":"2014-11-04",
+            "election_type":"General",
+            "election_description":"November General Election",
+            "is_special":"1",
+            "translations":"1",
+            "inactive":"1",
+            "election_timestamp":"2016-02-18 09:01:14",
+            "election_auth_id":"18-182"
+          },
+          {
+            "election_authority_id":"182",
+            "state":"NY",
+            "is_county":"Yes",
+            "election_authority_name":"Erie County Board of Elections",
+            "area":"Erie County",
+            "election_id":"38",
+            "election_date":"2016-04-19",
+            "election_type":"Primary",
+            "election_description":"New York Presidential Primary & Special Elections",
+            "is_special":"1",
+            "translations":"0",
+            "inactive":"0",
+            "election_timestamp":"2016-03-15 16:08:36",
+            "election_auth_id":"38-182"
+          }
+        ]
+      },
+      "Essex County":{
+        "election":[
+          {
+            "election_authority_id":"183",
+            "state":"NY",
+            "is_county":"Yes",
+            "election_authority_name":"Essex County Board of Elections",
+            "area":"Essex County",
+            "election_id":"18",
+            "election_date":"2014-11-04",
+            "election_type":"General",
+            "election_description":"November General Election",
+            "is_special":"1",
+            "translations":"1",
+            "inactive":"1",
+            "election_timestamp":"2016-02-18 09:01:14",
+            "election_auth_id":"18-183"
+          },
+          {
+            "election_authority_id":"183",
+            "state":"NY",
+            "is_county":"Yes",
+            "election_authority_name":"Essex County Board of Elections",
+            "area":"Essex County",
+            "election_id":"38",
+            "election_date":"2016-04-19",
+            "election_type":"Primary",
+            "election_description":"New York Presidential Primary & Special Elections",
+            "is_special":"1",
+            "translations":"0",
+            "inactive":"0",
+            "election_timestamp":"2016-03-15 16:08:36",
+            "election_auth_id":"38-183"
+          }
+        ]
+      },
+      "Franklin County":{
+        "election":[
+          {
+            "election_authority_id":"184",
+            "state":"NY",
+            "is_county":"Yes",
+            "election_authority_name":"Franklin County Board of Elections",
+            "area":"Franklin County",
+            "election_id":"18",
+            "election_date":"2014-11-04",
+            "election_type":"General",
+            "election_description":"November General Election",
+            "is_special":"1",
+            "translations":"1",
+            "inactive":"1",
+            "election_timestamp":"2016-02-18 09:01:14",
+            "election_auth_id":"18-184"
+          },
+          {
+            "election_authority_id":"184",
+            "state":"NY",
+            "is_county":"Yes",
+            "election_authority_name":"Franklin County Board of Elections",
+            "area":"Franklin County",
+            "election_id":"38",
+            "election_date":"2016-04-19",
+            "election_type":"Primary",
+            "election_description":"New York Presidential Primary & Special Elections",
+            "is_special":"1",
+            "translations":"0",
+            "inactive":"0",
+            "election_timestamp":"2016-03-15 16:08:36",
+            "election_auth_id":"38-184"
+          }
+        ]
+      },
+      "Fulton County":{
+        "election":[
+          {
+            "election_authority_id":"185",
+            "state":"NY",
+            "is_county":"Yes",
+            "election_authority_name":"Fulton County Board of Elections",
+            "area":"Fulton County",
+            "election_id":"18",
+            "election_date":"2014-11-04",
+            "election_type":"General",
+            "election_description":"November General Election",
+            "is_special":"1",
+            "translations":"1",
+            "inactive":"1",
+            "election_timestamp":"2016-02-18 09:01:14",
+            "election_auth_id":"18-185"
+          },
+          {
+            "election_authority_id":"185",
+            "state":"NY",
+            "is_county":"Yes",
+            "election_authority_name":"Fulton County Board of Elections",
+            "area":"Fulton County",
+            "election_id":"38",
+            "election_date":"2016-04-19",
+            "election_type":"Primary",
+            "election_description":"New York Presidential Primary & Special Elections",
+            "is_special":"1",
+            "translations":"0",
+            "inactive":"0",
+            "election_timestamp":"2016-03-15 16:08:36",
+            "election_auth_id":"38-185"
+          }
+        ]
+      },
+      "Genesee County":{
+        "election":[
+          {
+            "election_authority_id":"186",
+            "state":"NY",
+            "is_county":"Yes",
+            "election_authority_name":"Genesee County Board of Elections",
+            "area":"Genesee County",
+            "election_id":"18",
+            "election_date":"2014-11-04",
+            "election_type":"General",
+            "election_description":"November General Election",
+            "is_special":"1",
+            "translations":"1",
+            "inactive":"1",
+            "election_timestamp":"2016-02-18 09:01:14",
+            "election_auth_id":"18-186"
+          },
+          {
+            "election_authority_id":"186",
+            "state":"NY",
+            "is_county":"Yes",
+            "election_authority_name":"Genesee County Board of Elections",
+            "area":"Genesee County",
+            "election_id":"38",
+            "election_date":"2016-04-19",
+            "election_type":"Primary",
+            "election_description":"New York Presidential Primary & Special Elections",
+            "is_special":"1",
+            "translations":"0",
+            "inactive":"0",
+            "election_timestamp":"2016-03-15 16:08:36",
+            "election_auth_id":"38-186"
+          }
+        ]
+      },
+      "Greene County":{
+        "election":[
+          {
+            "election_authority_id":"187",
+            "state":"NY",
+            "is_county":"Yes",
+            "election_authority_name":"Greene County Board of Elections",
+            "area":"Greene County",
+            "election_id":"18",
+            "election_date":"2014-11-04",
+            "election_type":"General",
+            "election_description":"November General Election",
+            "is_special":"1",
+            "translations":"1",
+            "inactive":"1",
+            "election_timestamp":"2016-02-18 09:01:14",
+            "election_auth_id":"18-187"
+          },
+          {
+            "election_authority_id":"187",
+            "state":"NY",
+            "is_county":"Yes",
+            "election_authority_name":"Greene County Board of Elections",
+            "area":"Greene County",
+            "election_id":"38",
+            "election_date":"2016-04-19",
+            "election_type":"Primary",
+            "election_description":"New York Presidential Primary & Special Elections",
+            "is_special":"1",
+            "translations":"0",
+            "inactive":"0",
+            "election_timestamp":"2016-03-15 16:08:36",
+            "election_auth_id":"38-187"
+          }
+        ]
+      },
+      "Hamilton County":{
+        "election":[
+          {
+            "election_authority_id":"188",
+            "state":"NY",
+            "is_county":"Yes",
+            "election_authority_name":"Hamilton County Board of Elections",
+            "area":"Hamilton County",
+            "election_id":"18",
+            "election_date":"2014-11-04",
+            "election_type":"General",
+            "election_description":"November General Election",
+            "is_special":"1",
+            "translations":"1",
+            "inactive":"1",
+            "election_timestamp":"2016-02-18 09:01:14",
+            "election_auth_id":"18-188"
+          },
+          {
+            "election_authority_id":"188",
+            "state":"NY",
+            "is_county":"Yes",
+            "election_authority_name":"Hamilton County Board of Elections",
+            "area":"Hamilton County",
+            "election_id":"38",
+            "election_date":"2016-04-19",
+            "election_type":"Primary",
+            "election_description":"New York Presidential Primary & Special Elections",
+            "is_special":"1",
+            "translations":"0",
+            "inactive":"0",
+            "election_timestamp":"2016-03-15 16:08:36",
+            "election_auth_id":"38-188"
+          }
+        ]
+      },
+      "Herkimer County":{
+        "election":[
+          {
+            "election_authority_id":"189",
+            "state":"NY",
+            "is_county":"Yes",
+            "election_authority_name":"Herkimer County Board of Elections",
+            "area":"Herkimer County",
+            "election_id":"18",
+            "election_date":"2014-11-04",
+            "election_type":"General",
+            "election_description":"November General Election",
+            "is_special":"1",
+            "translations":"1",
+            "inactive":"1",
+            "election_timestamp":"2016-02-18 09:01:14",
+            "election_auth_id":"18-189"
+          },
+          {
+            "election_authority_id":"189",
+            "state":"NY",
+            "is_county":"Yes",
+            "election_authority_name":"Herkimer County Board of Elections",
+            "area":"Herkimer County",
+            "election_id":"38",
+            "election_date":"2016-04-19",
+            "election_type":"Primary",
+            "election_description":"New York Presidential Primary & Special Elections",
+            "is_special":"1",
+            "translations":"0",
+            "inactive":"0",
+            "election_timestamp":"2016-03-15 16:08:36",
+            "election_auth_id":"38-189"
+          }
+        ]
+      },
+      "Jefferson County":{
+        "election":[
+          {
+            "election_authority_id":"190",
+            "state":"NY",
+            "is_county":"Yes",
+            "election_authority_name":"Jefferson County Board of Elections",
+            "area":"Jefferson County",
+            "election_id":"18",
+            "election_date":"2014-11-04",
+            "election_type":"General",
+            "election_description":"November General Election",
+            "is_special":"1",
+            "translations":"1",
+            "inactive":"1",
+            "election_timestamp":"2016-02-18 09:01:14",
+            "election_auth_id":"18-190"
+          },
+          {
+            "election_authority_id":"190",
+            "state":"NY",
+            "is_county":"Yes",
+            "election_authority_name":"Jefferson County Board of Elections",
+            "area":"Jefferson County",
+            "election_id":"38",
+            "election_date":"2016-04-19",
+            "election_type":"Primary",
+            "election_description":"New York Presidential Primary & Special Elections",
+            "is_special":"1",
+            "translations":"0",
+            "inactive":"0",
+            "election_timestamp":"2016-03-15 16:08:36",
+            "election_auth_id":"38-190"
+          }
+        ]
+      },
+      "Lewis County":{
+        "election":[
+          {
+            "election_authority_id":"191",
+            "state":"NY",
+            "is_county":"Yes",
+            "election_authority_name":"Lewis County Board of Elections",
+            "area":"Lewis County",
+            "election_id":"18",
+            "election_date":"2014-11-04",
+            "election_type":"General",
+            "election_description":"November General Election",
+            "is_special":"1",
+            "translations":"1",
+            "inactive":"1",
+            "election_timestamp":"2016-02-18 09:01:14",
+            "election_auth_id":"18-191"
+          },
+          {
+            "election_authority_id":"191",
+            "state":"NY",
+            "is_county":"Yes",
+            "election_authority_name":"Lewis County Board of Elections",
+            "area":"Lewis County",
+            "election_id":"38",
+            "election_date":"2016-04-19",
+            "election_type":"Primary",
+            "election_description":"New York Presidential Primary & Special Elections",
+            "is_special":"1",
+            "translations":"0",
+            "inactive":"0",
+            "election_timestamp":"2016-03-15 16:08:36",
+            "election_auth_id":"38-191"
+          }
+        ]
+      },
+      "Livingston County":{
+        "election":[
+          {
+            "election_authority_id":"192",
+            "state":"NY",
+            "is_county":"Yes",
+            "election_authority_name":"Livingston County Board of Elections",
+            "area":"Livingston County",
+            "election_id":"18",
+            "election_date":"2014-11-04",
+            "election_type":"General",
+            "election_description":"November General Election",
+            "is_special":"1",
+            "translations":"1",
+            "inactive":"1",
+            "election_timestamp":"2016-02-18 09:01:14",
+            "election_auth_id":"18-192"
+          },
+          {
+            "election_authority_id":"192",
+            "state":"NY",
+            "is_county":"Yes",
+            "election_authority_name":"Livingston County Board of Elections",
+            "area":"Livingston County",
+            "election_id":"38",
+            "election_date":"2016-04-19",
+            "election_type":"Primary",
+            "election_description":"New York Presidential Primary & Special Elections",
+            "is_special":"1",
+            "translations":"0",
+            "inactive":"0",
+            "election_timestamp":"2016-03-15 16:08:36",
+            "election_auth_id":"38-192"
+          }
+        ]
+      },
+      "Madison County":{
+        "election":[
+          {
+            "election_authority_id":"193",
+            "state":"NY",
+            "is_county":"Yes",
+            "election_authority_name":"Madison County Board of Elections",
+            "area":"Madison County",
+            "election_id":"18",
+            "election_date":"2014-11-04",
+            "election_type":"General",
+            "election_description":"November General Election",
+            "is_special":"1",
+            "translations":"1",
+            "inactive":"1",
+            "election_timestamp":"2016-02-18 09:01:14",
+            "election_auth_id":"18-193"
+          },
+          {
+            "election_authority_id":"193",
+            "state":"NY",
+            "is_county":"Yes",
+            "election_authority_name":"Madison County Board of Elections",
+            "area":"Madison County",
+            "election_id":"38",
+            "election_date":"2016-04-19",
+            "election_type":"Primary",
+            "election_description":"New York Presidential Primary & Special Elections",
+            "is_special":"1",
+            "translations":"0",
+            "inactive":"0",
+            "election_timestamp":"2016-03-15 16:08:36",
+            "election_auth_id":"38-193"
+          }
+        ]
+      },
+      "Monroe County":{
+        "election":[
+          {
+            "election_authority_id":"194",
+            "state":"NY",
+            "is_county":"Yes",
+            "election_authority_name":"Monroe County Board of Elections",
+            "area":"Monroe County",
+            "election_id":"18",
+            "election_date":"2014-11-04",
+            "election_type":"General",
+            "election_description":"November General Election",
+            "is_special":"1",
+            "translations":"1",
+            "inactive":"1",
+            "election_timestamp":"2016-02-18 09:01:14",
+            "election_auth_id":"18-194"
+          },
+          {
+            "election_authority_id":"194",
+            "state":"NY",
+            "is_county":"Yes",
+            "election_authority_name":"Monroe County Board of Elections",
+            "area":"Monroe County",
+            "election_id":"38",
+            "election_date":"2016-04-19",
+            "election_type":"Primary",
+            "election_description":"New York Presidential Primary & Special Elections",
+            "is_special":"1",
+            "translations":"0",
+            "inactive":"0",
+            "election_timestamp":"2016-03-15 16:08:36",
+            "election_auth_id":"38-194"
+          }
+        ]
+      },
+      "Montgomery County":{
+        "election":[
+          {
+            "election_authority_id":"195",
+            "state":"NY",
+            "is_county":"Yes",
+            "election_authority_name":"Montgomery County Board of Elections",
+            "area":"Montgomery County",
+            "election_id":"18",
+            "election_date":"2014-11-04",
+            "election_type":"General",
+            "election_description":"November General Election",
+            "is_special":"1",
+            "translations":"1",
+            "inactive":"1",
+            "election_timestamp":"2016-02-18 09:01:14",
+            "election_auth_id":"18-195"
+          },
+          {
+            "election_authority_id":"195",
+            "state":"NY",
+            "is_county":"Yes",
+            "election_authority_name":"Montgomery County Board of Elections",
+            "area":"Montgomery County",
+            "election_id":"38",
+            "election_date":"2016-04-19",
+            "election_type":"Primary",
+            "election_description":"New York Presidential Primary & Special Elections",
+            "is_special":"1",
+            "translations":"0",
+            "inactive":"0",
+            "election_timestamp":"2016-03-15 16:08:36",
+            "election_auth_id":"38-195"
+          }
+        ]
+      },
+      "Nassau County":{
+        "election":[
+          {
+            "election_authority_id":"196",
+            "state":"NY",
+            "is_county":"Yes",
+            "election_authority_name":"Nassau County Board of Elections",
+            "area":"Nassau County",
+            "election_id":"18",
+            "election_date":"2014-11-04",
+            "election_type":"General",
+            "election_description":"November General Election",
+            "is_special":"1",
+            "translations":"1",
+            "inactive":"1",
+            "election_timestamp":"2016-02-18 09:01:14",
+            "election_auth_id":"18-196"
+          },
+          {
+            "election_authority_id":"196",
+            "state":"NY",
+            "is_county":"Yes",
+            "election_authority_name":"Nassau County Board of Elections",
+            "area":"Nassau County",
+            "election_id":"38",
+            "election_date":"2016-04-19",
+            "election_type":"Primary",
+            "election_description":"New York Presidential Primary & Special Elections",
+            "is_special":"1",
+            "translations":"0",
+            "inactive":"0",
+            "election_timestamp":"2016-03-15 16:08:36",
+            "election_auth_id":"38-196"
+          }
+        ]
+      },
+      "Niagara County":{
+        "election":[
+          {
+            "election_authority_id":"198",
+            "state":"NY",
+            "is_county":"Yes",
+            "election_authority_name":"Niagara County Board of Elections",
+            "area":"Niagara County",
+            "election_id":"18",
+            "election_date":"2014-11-04",
+            "election_type":"General",
+            "election_description":"November General Election",
+            "is_special":"1",
+            "translations":"1",
+            "inactive":"1",
+            "election_timestamp":"2016-02-18 09:01:14",
+            "election_auth_id":"18-198"
+          },
+          {
+            "election_authority_id":"198",
+            "state":"NY",
+            "is_county":"Yes",
+            "election_authority_name":"Niagara County Board of Elections",
+            "area":"Niagara County",
+            "election_id":"38",
+            "election_date":"2016-04-19",
+            "election_type":"Primary",
+            "election_description":"New York Presidential Primary & Special Elections",
+            "is_special":"1",
+            "translations":"0",
+            "inactive":"0",
+            "election_timestamp":"2016-03-15 16:08:36",
+            "election_auth_id":"38-198"
+          }
+        ]
+      },
+      "Oneida County":{
+        "election":[
+          {
+            "election_authority_id":"199",
+            "state":"NY",
+            "is_county":"Yes",
+            "election_authority_name":"Oneida County Board of Elections",
+            "area":"Oneida County",
+            "election_id":"18",
+            "election_date":"2014-11-04",
+            "election_type":"General",
+            "election_description":"November General Election",
+            "is_special":"1",
+            "translations":"1",
+            "inactive":"1",
+            "election_timestamp":"2016-02-18 09:01:14",
+            "election_auth_id":"18-199"
+          },
+          {
+            "election_authority_id":"199",
+            "state":"NY",
+            "is_county":"Yes",
+            "election_authority_name":"Oneida County Board of Elections",
+            "area":"Oneida County",
+            "election_id":"38",
+            "election_date":"2016-04-19",
+            "election_type":"Primary",
+            "election_description":"New York Presidential Primary & Special Elections",
+            "is_special":"1",
+            "translations":"0",
+            "inactive":"0",
+            "election_timestamp":"2016-03-15 16:08:36",
+            "election_auth_id":"38-199"
+          }
+        ]
+      },
+      "Onondaga County":{
+        "election":[
+          {
+            "election_authority_id":"200",
+            "state":"NY",
+            "is_county":"Yes",
+            "election_authority_name":"Onondaga County Board of Elections",
+            "area":"Onondaga County",
+            "election_id":"18",
+            "election_date":"2014-11-04",
+            "election_type":"General",
+            "election_description":"November General Election",
+            "is_special":"1",
+            "translations":"1",
+            "inactive":"1",
+            "election_timestamp":"2016-02-18 09:01:14",
+            "election_auth_id":"18-200"
+          },
+          {
+            "election_authority_id":"200",
+            "state":"NY",
+            "is_county":"Yes",
+            "election_authority_name":"Onondaga County Board of Elections",
+            "area":"Onondaga County",
+            "election_id":"38",
+            "election_date":"2016-04-19",
+            "election_type":"Primary",
+            "election_description":"New York Presidential Primary & Special Elections",
+            "is_special":"1",
+            "translations":"0",
+            "inactive":"0",
+            "election_timestamp":"2016-03-15 16:08:36",
+            "election_auth_id":"38-200"
+          }
+        ]
+      },
+      "Ontario County":{
+        "election":[
+          {
+            "election_authority_id":"201",
+            "state":"NY",
+            "is_county":"Yes",
+            "election_authority_name":"Ontario County Board of Elections",
+            "area":"Ontario County",
+            "election_id":"18",
+            "election_date":"2014-11-04",
+            "election_type":"General",
+            "election_description":"November General Election",
+            "is_special":"1",
+            "translations":"1",
+            "inactive":"1",
+            "election_timestamp":"2016-02-18 09:01:14",
+            "election_auth_id":"18-201"
+          },
+          {
+            "election_authority_id":"201",
+            "state":"NY",
+            "is_county":"Yes",
+            "election_authority_name":"Ontario County Board of Elections",
+            "area":"Ontario County",
+            "election_id":"38",
+            "election_date":"2016-04-19",
+            "election_type":"Primary",
+            "election_description":"New York Presidential Primary & Special Elections",
+            "is_special":"1",
+            "translations":"0",
+            "inactive":"0",
+            "election_timestamp":"2016-03-15 16:08:36",
+            "election_auth_id":"38-201"
+          }
+        ]
+      },
+      "Orange County":{
+        "election":[
+          {
+            "election_authority_id":"202",
+            "state":"NY",
+            "is_county":"Yes",
+            "election_authority_name":"Orange County Board of Elections",
+            "area":"Orange County",
+            "election_id":"18",
+            "election_date":"2014-11-04",
+            "election_type":"General",
+            "election_description":"November General Election",
+            "is_special":"1",
+            "translations":"1",
+            "inactive":"1",
+            "election_timestamp":"2016-02-18 09:01:14",
+            "election_auth_id":"18-202"
+          },
+          {
+            "election_authority_id":"202",
+            "state":"NY",
+            "is_county":"Yes",
+            "election_authority_name":"Orange County Board of Elections",
+            "area":"Orange County",
+            "election_id":"38",
+            "election_date":"2016-04-19",
+            "election_type":"Primary",
+            "election_description":"New York Presidential Primary & Special Elections",
+            "is_special":"1",
+            "translations":"0",
+            "inactive":"0",
+            "election_timestamp":"2016-03-15 16:08:36",
+            "election_auth_id":"38-202"
+          }
+        ]
+      },
+      "Orleans County":{
+        "election":[
+          {
+            "election_authority_id":"203",
+            "state":"NY",
+            "is_county":"Yes",
+            "election_authority_name":"Orleans County Board of Elections",
+            "area":"Orleans County",
+            "election_id":"18",
+            "election_date":"2014-11-04",
+            "election_type":"General",
+            "election_description":"November General Election",
+            "is_special":"1",
+            "translations":"1",
+            "inactive":"1",
+            "election_timestamp":"2016-02-18 09:01:14",
+            "election_auth_id":"18-203"
+          },
+          {
+            "election_authority_id":"203",
+            "state":"NY",
+            "is_county":"Yes",
+            "election_authority_name":"Orleans County Board of Elections",
+            "area":"Orleans County",
+            "election_id":"38",
+            "election_date":"2016-04-19",
+            "election_type":"Primary",
+            "election_description":"New York Presidential Primary & Special Elections",
+            "is_special":"1",
+            "translations":"0",
+            "inactive":"0",
+            "election_timestamp":"2016-03-15 16:08:36",
+            "election_auth_id":"38-203"
+          }
+        ]
+      },
+      "Oswego County":{
+        "election":[
+          {
+            "election_authority_id":"204",
+            "state":"NY",
+            "is_county":"Yes",
+            "election_authority_name":"Oswego County Board of Elections",
+            "area":"Oswego County",
+            "election_id":"18",
+            "election_date":"2014-11-04",
+            "election_type":"General",
+            "election_description":"November General Election",
+            "is_special":"1",
+            "translations":"1",
+            "inactive":"1",
+            "election_timestamp":"2016-02-18 09:01:14",
+            "election_auth_id":"18-204"
+          },
+          {
+            "election_authority_id":"204",
+            "state":"NY",
+            "is_county":"Yes",
+            "election_authority_name":"Oswego County Board of Elections",
+            "area":"Oswego County",
+            "election_id":"38",
+            "election_date":"2016-04-19",
+            "election_type":"Primary",
+            "election_description":"New York Presidential Primary & Special Elections",
+            "is_special":"1",
+            "translations":"0",
+            "inactive":"0",
+            "election_timestamp":"2016-03-15 16:08:36",
+            "election_auth_id":"38-204"
+          }
+        ]
+      },
+      "Otsego County":{
+        "election":[
+          {
+            "election_authority_id":"205",
+            "state":"NY",
+            "is_county":"Yes",
+            "election_authority_name":"Otsego County Board of Elections",
+            "area":"Otsego County",
+            "election_id":"18",
+            "election_date":"2014-11-04",
+            "election_type":"General",
+            "election_description":"November General Election",
+            "is_special":"1",
+            "translations":"1",
+            "inactive":"1",
+            "election_timestamp":"2016-02-18 09:01:14",
+            "election_auth_id":"18-205"
+          },
+          {
+            "election_authority_id":"205",
+            "state":"NY",
+            "is_county":"Yes",
+            "election_authority_name":"Otsego County Board of Elections",
+            "area":"Otsego County",
+            "election_id":"38",
+            "election_date":"2016-04-19",
+            "election_type":"Primary",
+            "election_description":"New York Presidential Primary & Special Elections",
+            "is_special":"1",
+            "translations":"0",
+            "inactive":"0",
+            "election_timestamp":"2016-03-15 16:08:36",
+            "election_auth_id":"38-205"
+          }
+        ]
+      },
+      "Putnam County":{
+        "election":[
+          {
+            "election_authority_id":"206",
+            "state":"NY",
+            "is_county":"Yes",
+            "election_authority_name":"Putnam County Board of Elections",
+            "area":"Putnam County",
+            "election_id":"18",
+            "election_date":"2014-11-04",
+            "election_type":"General",
+            "election_description":"November General Election",
+            "is_special":"1",
+            "translations":"1",
+            "inactive":"1",
+            "election_timestamp":"2016-02-18 09:01:14",
+            "election_auth_id":"18-206"
+          },
+          {
+            "election_authority_id":"206",
+            "state":"NY",
+            "is_county":"Yes",
+            "election_authority_name":"Putnam County Board of Elections",
+            "area":"Putnam County",
+            "election_id":"38",
+            "election_date":"2016-04-19",
+            "election_type":"Primary",
+            "election_description":"New York Presidential Primary & Special Elections",
+            "is_special":"1",
+            "translations":"0",
+            "inactive":"0",
+            "election_timestamp":"2016-03-15 16:08:36",
+            "election_auth_id":"38-206"
+          }
+        ]
+      },
+      "Rensselaer County":{
+        "election":[
+          {
+            "election_authority_id":"207",
+            "state":"NY",
+            "is_county":"Yes",
+            "election_authority_name":"Rensselaer County Board of Elections",
+            "area":"Rensselaer County",
+            "election_id":"18",
+            "election_date":"2014-11-04",
+            "election_type":"General",
+            "election_description":"November General Election",
+            "is_special":"1",
+            "translations":"1",
+            "inactive":"1",
+            "election_timestamp":"2016-02-18 09:01:14",
+            "election_auth_id":"18-207"
+          },
+          {
+            "election_authority_id":"207",
+            "state":"NY",
+            "is_county":"Yes",
+            "election_authority_name":"Rensselaer County Board of Elections",
+            "area":"Rensselaer County",
+            "election_id":"38",
+            "election_date":"2016-04-19",
+            "election_type":"Primary",
+            "election_description":"New York Presidential Primary & Special Elections",
+            "is_special":"1",
+            "translations":"0",
+            "inactive":"0",
+            "election_timestamp":"2016-03-15 16:08:36",
+            "election_auth_id":"38-207"
+          }
+        ]
+      },
+      "Rockland County":{
+        "election":[
+          {
+            "election_authority_id":"208",
+            "state":"NY",
+            "is_county":"Yes",
+            "election_authority_name":"Rockland County Board of Elections",
+            "area":"Rockland County",
+            "election_id":"18",
+            "election_date":"2014-11-04",
+            "election_type":"General",
+            "election_description":"November General Election",
+            "is_special":"1",
+            "translations":"1",
+            "inactive":"1",
+            "election_timestamp":"2016-02-18 09:01:14",
+            "election_auth_id":"18-208"
+          },
+          {
+            "election_authority_id":"208",
+            "state":"NY",
+            "is_county":"Yes",
+            "election_authority_name":"Rockland County Board of Elections",
+            "area":"Rockland County",
+            "election_id":"38",
+            "election_date":"2016-04-19",
+            "election_type":"Primary",
+            "election_description":"New York Presidential Primary & Special Elections",
+            "is_special":"1",
+            "translations":"0",
+            "inactive":"0",
+            "election_timestamp":"2016-03-15 16:08:36",
+            "election_auth_id":"38-208"
+          }
+        ]
+      },
+      "Saint Lawrence County":{
+        "election":[
+          {
+            "election_authority_id":"209",
+            "state":"NY",
+            "is_county":"Yes",
+            "election_authority_name":"Saint Lawrence County Board of Elections",
+            "area":"Saint Lawrence County",
+            "election_id":"18",
+            "election_date":"2014-11-04",
+            "election_type":"General",
+            "election_description":"November General Election",
+            "is_special":"1",
+            "translations":"1",
+            "inactive":"1",
+            "election_timestamp":"2016-02-18 09:01:14",
+            "election_auth_id":"18-209"
+          },
+          {
+            "election_authority_id":"209",
+            "state":"NY",
+            "is_county":"Yes",
+            "election_authority_name":"Saint Lawrence County Board of Elections",
+            "area":"Saint Lawrence County",
+            "election_id":"38",
+            "election_date":"2016-04-19",
+            "election_type":"Primary",
+            "election_description":"New York Presidential Primary & Special Elections",
+            "is_special":"1",
+            "translations":"0",
+            "inactive":"0",
+            "election_timestamp":"2016-03-15 16:08:36",
+            "election_auth_id":"38-209"
+          }
+        ]
+      },
+      "Saratoga County":{
+        "election":[
+          {
+            "election_authority_id":"210",
+            "state":"NY",
+            "is_county":"Yes",
+            "election_authority_name":"Saratoga County Board of Elections",
+            "area":"Saratoga County",
+            "election_id":"18",
+            "election_date":"2014-11-04",
+            "election_type":"General",
+            "election_description":"November General Election",
+            "is_special":"1",
+            "translations":"1",
+            "inactive":"1",
+            "election_timestamp":"2016-02-18 09:01:14",
+            "election_auth_id":"18-210"
+          },
+          {
+            "election_authority_id":"210",
+            "state":"NY",
+            "is_county":"Yes",
+            "election_authority_name":"Saratoga County Board of Elections",
+            "area":"Saratoga County",
+            "election_id":"38",
+            "election_date":"2016-04-19",
+            "election_type":"Primary",
+            "election_description":"New York Presidential Primary & Special Elections",
+            "is_special":"1",
+            "translations":"0",
+            "inactive":"0",
+            "election_timestamp":"2016-03-15 16:08:36",
+            "election_auth_id":"38-210"
+          }
+        ]
+      },
+      "Schenectady County":{
+        "election":[
+          {
+            "election_authority_id":"211",
+            "state":"NY",
+            "is_county":"Yes",
+            "election_authority_name":"Schenectady County Board of Elections",
+            "area":"Schenectady County",
+            "election_id":"18",
+            "election_date":"2014-11-04",
+            "election_type":"General",
+            "election_description":"November General Election",
+            "is_special":"1",
+            "translations":"1",
+            "inactive":"1",
+            "election_timestamp":"2016-02-18 09:01:14",
+            "election_auth_id":"18-211"
+          },
+          {
+            "election_authority_id":"211",
+            "state":"NY",
+            "is_county":"Yes",
+            "election_authority_name":"Schenectady County Board of Elections",
+            "area":"Schenectady County",
+            "election_id":"38",
+            "election_date":"2016-04-19",
+            "election_type":"Primary",
+            "election_description":"New York Presidential Primary & Special Elections",
+            "is_special":"1",
+            "translations":"0",
+            "inactive":"0",
+            "election_timestamp":"2016-03-15 16:08:36",
+            "election_auth_id":"38-211"
+          }
+        ]
+      },
+      "Schoharie County":{
+        "election":[
+          {
+            "election_authority_id":"212",
+            "state":"NY",
+            "is_county":"Yes",
+            "election_authority_name":"Schoharie County Board of Elections",
+            "area":"Schoharie County",
+            "election_id":"18",
+            "election_date":"2014-11-04",
+            "election_type":"General",
+            "election_description":"November General Election",
+            "is_special":"1",
+            "translations":"1",
+            "inactive":"1",
+            "election_timestamp":"2016-02-18 09:01:14",
+            "election_auth_id":"18-212"
+          },
+          {
+            "election_authority_id":"212",
+            "state":"NY",
+            "is_county":"Yes",
+            "election_authority_name":"Schoharie County Board of Elections",
+            "area":"Schoharie County",
+            "election_id":"38",
+            "election_date":"2016-04-19",
+            "election_type":"Primary",
+            "election_description":"New York Presidential Primary & Special Elections",
+            "is_special":"1",
+            "translations":"0",
+            "inactive":"0",
+            "election_timestamp":"2016-03-15 16:08:36",
+            "election_auth_id":"38-212"
+          }
+        ]
+      },
+      "Schuyler County":{
+        "election":[
+          {
+            "election_authority_id":"213",
+            "state":"NY",
+            "is_county":"Yes",
+            "election_authority_name":"Schuyler County Board of Elections",
+            "area":"Schuyler County",
+            "election_id":"18",
+            "election_date":"2014-11-04",
+            "election_type":"General",
+            "election_description":"November General Election",
+            "is_special":"1",
+            "translations":"1",
+            "inactive":"1",
+            "election_timestamp":"2016-02-18 09:01:14",
+            "election_auth_id":"18-213"
+          },
+          {
+            "election_authority_id":"213",
+            "state":"NY",
+            "is_county":"Yes",
+            "election_authority_name":"Schuyler County Board of Elections",
+            "area":"Schuyler County",
+            "election_id":"38",
+            "election_date":"2016-04-19",
+            "election_type":"Primary",
+            "election_description":"New York Presidential Primary & Special Elections",
+            "is_special":"1",
+            "translations":"0",
+            "inactive":"0",
+            "election_timestamp":"2016-03-15 16:08:36",
+            "election_auth_id":"38-213"
+          }
+        ]
+      },
+      "Seneca County":{
+        "election":[
+          {
+            "election_authority_id":"214",
+            "state":"NY",
+            "is_county":"Yes",
+            "election_authority_name":"Seneca County Board of Elections",
+            "area":"Seneca County",
+            "election_id":"18",
+            "election_date":"2014-11-04",
+            "election_type":"General",
+            "election_description":"November General Election",
+            "is_special":"1",
+            "translations":"1",
+            "inactive":"1",
+            "election_timestamp":"2016-02-18 09:01:14",
+            "election_auth_id":"18-214"
+          },
+          {
+            "election_authority_id":"214",
+            "state":"NY",
+            "is_county":"Yes",
+            "election_authority_name":"Seneca County Board of Elections",
+            "area":"Seneca County",
+            "election_id":"38",
+            "election_date":"2016-04-19",
+            "election_type":"Primary",
+            "election_description":"New York Presidential Primary & Special Elections",
+            "is_special":"1",
+            "translations":"0",
+            "inactive":"0",
+            "election_timestamp":"2016-03-15 16:08:36",
+            "election_auth_id":"38-214"
+          }
+        ]
+      },
+      "Steuben County":{
+        "election":[
+          {
+            "election_authority_id":"215",
+            "state":"NY",
+            "is_county":"Yes",
+            "election_authority_name":"Steuben County Board of Elections",
+            "area":"Steuben County",
+            "election_id":"18",
+            "election_date":"2014-11-04",
+            "election_type":"General",
+            "election_description":"November General Election",
+            "is_special":"1",
+            "translations":"1",
+            "inactive":"1",
+            "election_timestamp":"2016-02-18 09:01:14",
+            "election_auth_id":"18-215"
+          },
+          {
+            "election_authority_id":"215",
+            "state":"NY",
+            "is_county":"Yes",
+            "election_authority_name":"Steuben County Board of Elections",
+            "area":"Steuben County",
+            "election_id":"38",
+            "election_date":"2016-04-19",
+            "election_type":"Primary",
+            "election_description":"New York Presidential Primary & Special Elections",
+            "is_special":"1",
+            "translations":"0",
+            "inactive":"0",
+            "election_timestamp":"2016-03-15 16:08:36",
+            "election_auth_id":"38-215"
+          }
+        ]
+      },
+      "Suffolk County":{
+        "election":[
+          {
+            "election_authority_id":"216",
+            "state":"NY",
+            "is_county":"Yes",
+            "election_authority_name":"Suffolk County Board of Elections",
+            "area":"Suffolk County",
+            "election_id":"18",
+            "election_date":"2014-11-04",
+            "election_type":"General",
+            "election_description":"November General Election",
+            "is_special":"1",
+            "translations":"1",
+            "inactive":"1",
+            "election_timestamp":"2016-02-18 09:01:14",
+            "election_auth_id":"18-216"
+          },
+          {
+            "election_authority_id":"216",
+            "state":"NY",
+            "is_county":"Yes",
+            "election_authority_name":"Suffolk County Board of Elections",
+            "area":"Suffolk County",
+            "election_id":"38",
+            "election_date":"2016-04-19",
+            "election_type":"Primary",
+            "election_description":"New York Presidential Primary & Special Elections",
+            "is_special":"1",
+            "translations":"0",
+            "inactive":"0",
+            "election_timestamp":"2016-03-15 16:08:36",
+            "election_auth_id":"38-216"
+          }
+        ]
+      },
+      "Sullivan County":{
+        "election":[
+          {
+            "election_authority_id":"217",
+            "state":"NY",
+            "is_county":"Yes",
+            "election_authority_name":"Sullivan County Board of Elections",
+            "area":"Sullivan County",
+            "election_id":"18",
+            "election_date":"2014-11-04",
+            "election_type":"General",
+            "election_description":"November General Election",
+            "is_special":"1",
+            "translations":"1",
+            "inactive":"1",
+            "election_timestamp":"2016-02-18 09:01:14",
+            "election_auth_id":"18-217"
+          },
+          {
+            "election_authority_id":"217",
+            "state":"NY",
+            "is_county":"Yes",
+            "election_authority_name":"Sullivan County Board of Elections",
+            "area":"Sullivan County",
+            "election_id":"38",
+            "election_date":"2016-04-19",
+            "election_type":"Primary",
+            "election_description":"New York Presidential Primary & Special Elections",
+            "is_special":"1",
+            "translations":"0",
+            "inactive":"0",
+            "election_timestamp":"2016-03-15 16:08:36",
+            "election_auth_id":"38-217"
+          }
+        ]
+      },
+      "Tioga County":{
+        "election":[
+          {
+            "election_authority_id":"218",
+            "state":"NY",
+            "is_county":"Yes",
+            "election_authority_name":"Tioga County Board of Elections",
+            "area":"Tioga County",
+            "election_id":"18",
+            "election_date":"2014-11-04",
+            "election_type":"General",
+            "election_description":"November General Election",
+            "is_special":"1",
+            "translations":"1",
+            "inactive":"1",
+            "election_timestamp":"2016-02-18 09:01:14",
+            "election_auth_id":"18-218"
+          },
+          {
+            "election_authority_id":"218",
+            "state":"NY",
+            "is_county":"Yes",
+            "election_authority_name":"Tioga County Board of Elections",
+            "area":"Tioga County",
+            "election_id":"38",
+            "election_date":"2016-04-19",
+            "election_type":"Primary",
+            "election_description":"New York Presidential Primary & Special Elections",
+            "is_special":"1",
+            "translations":"0",
+            "inactive":"0",
+            "election_timestamp":"2016-03-15 16:08:36",
+            "election_auth_id":"38-218"
+          }
+        ]
+      },
+      "Tompkins County":{
+        "election":[
+          {
+            "election_authority_id":"219",
+            "state":"NY",
+            "is_county":"Yes",
+            "election_authority_name":"Tompkins County Board of Elections",
+            "area":"Tompkins County",
+            "election_id":"18",
+            "election_date":"2014-11-04",
+            "election_type":"General",
+            "election_description":"November General Election",
+            "is_special":"1",
+            "translations":"1",
+            "inactive":"1",
+            "election_timestamp":"2016-02-18 09:01:14",
+            "election_auth_id":"18-219"
+          },
+          {
+            "election_authority_id":"219",
+            "state":"NY",
+            "is_county":"Yes",
+            "election_authority_name":"Tompkins County Board of Elections",
+            "area":"Tompkins County",
+            "election_id":"38",
+            "election_date":"2016-04-19",
+            "election_type":"Primary",
+            "election_description":"New York Presidential Primary & Special Elections",
+            "is_special":"1",
+            "translations":"0",
+            "inactive":"0",
+            "election_timestamp":"2016-03-15 16:08:36",
+            "election_auth_id":"38-219"
+          }
+        ]
+      },
+      "Ulster County":{
+        "election":[
+          {
+            "election_authority_id":"220",
+            "state":"NY",
+            "is_county":"Yes",
+            "election_authority_name":"Ulster County Board of Elections",
+            "area":"Ulster County",
+            "election_id":"18",
+            "election_date":"2014-11-04",
+            "election_type":"General",
+            "election_description":"November General Election",
+            "is_special":"1",
+            "translations":"1",
+            "inactive":"1",
+            "election_timestamp":"2016-02-18 09:01:14",
+            "election_auth_id":"18-220"
+          },
+          {
+            "election_authority_id":"220",
+            "state":"NY",
+            "is_county":"Yes",
+            "election_authority_name":"Ulster County Board of Elections",
+            "area":"Ulster County",
+            "election_id":"38",
+            "election_date":"2016-04-19",
+            "election_type":"Primary",
+            "election_description":"New York Presidential Primary & Special Elections",
+            "is_special":"1",
+            "translations":"0",
+            "inactive":"0",
+            "election_timestamp":"2016-03-15 16:08:36",
+            "election_auth_id":"38-220"
+          }
+        ]
+      },
+      "Warren County":{
+        "election":[
+          {
+            "election_authority_id":"221",
+            "state":"NY",
+            "is_county":"Yes",
+            "election_authority_name":"Warren County Board of Elections",
+            "area":"Warren County",
+            "election_id":"18",
+            "election_date":"2014-11-04",
+            "election_type":"General",
+            "election_description":"November General Election",
+            "is_special":"1",
+            "translations":"1",
+            "inactive":"1",
+            "election_timestamp":"2016-02-18 09:01:14",
+            "election_auth_id":"18-221"
+          },
+          {
+            "election_authority_id":"221",
+            "state":"NY",
+            "is_county":"Yes",
+            "election_authority_name":"Warren County Board of Elections",
+            "area":"Warren County",
+            "election_id":"38",
+            "election_date":"2016-04-19",
+            "election_type":"Primary",
+            "election_description":"New York Presidential Primary & Special Elections",
+            "is_special":"1",
+            "translations":"0",
+            "inactive":"0",
+            "election_timestamp":"2016-03-15 16:08:36",
+            "election_auth_id":"38-221"
+          }
+        ]
+      },
+      "Washington County":{
+        "election":[
+          {
+            "election_authority_id":"222",
+            "state":"NY",
+            "is_county":"Yes",
+            "election_authority_name":"Washington County Board of Elections",
+            "area":"Washington County",
+            "election_id":"18",
+            "election_date":"2014-11-04",
+            "election_type":"General",
+            "election_description":"November General Election",
+            "is_special":"1",
+            "translations":"1",
+            "inactive":"1",
+            "election_timestamp":"2016-02-18 09:01:14",
+            "election_auth_id":"18-222"
+          },
+          {
+            "election_authority_id":"222",
+            "state":"NY",
+            "is_county":"Yes",
+            "election_authority_name":"Washington County Board of Elections",
+            "area":"Washington County",
+            "election_id":"38",
+            "election_date":"2016-04-19",
+            "election_type":"Primary",
+            "election_description":"New York Presidential Primary & Special Elections",
+            "is_special":"1",
+            "translations":"0",
+            "inactive":"0",
+            "election_timestamp":"2016-03-15 16:08:36",
+            "election_auth_id":"38-222"
+          }
+        ]
+      },
+      "Wayne County":{
+        "election":[
+          {
+            "election_authority_id":"223",
+            "state":"NY",
+            "is_county":"Yes",
+            "election_authority_name":"Wayne County Board of Elections",
+            "area":"Wayne County",
+            "election_id":"18",
+            "election_date":"2014-11-04",
+            "election_type":"General",
+            "election_description":"November General Election",
+            "is_special":"1",
+            "translations":"1",
+            "inactive":"1",
+            "election_timestamp":"2016-02-18 09:01:14",
+            "election_auth_id":"18-223"
+          },
+          {
+            "election_authority_id":"223",
+            "state":"NY",
+            "is_county":"Yes",
+            "election_authority_name":"Wayne County Board of Elections",
+            "area":"Wayne County",
+            "election_id":"38",
+            "election_date":"2016-04-19",
+            "election_type":"Primary",
+            "election_description":"New York Presidential Primary & Special Elections",
+            "is_special":"1",
+            "translations":"0",
+            "inactive":"0",
+            "election_timestamp":"2016-03-15 16:08:36",
+            "election_auth_id":"38-223"
+          }
+        ]
+      },
+      "Westchester County":{
+        "election":[
+          {
+            "election_authority_id":"224",
+            "state":"NY",
+            "is_county":"Yes",
+            "election_authority_name":"Westchester County Board of Elections",
+            "area":"Westchester County",
+            "election_id":"18",
+            "election_date":"2014-11-04",
+            "election_type":"General",
+            "election_description":"November General Election",
+            "is_special":"1",
+            "translations":"1",
+            "inactive":"1",
+            "election_timestamp":"2016-02-18 09:01:14",
+            "election_auth_id":"18-224"
+          },
+          {
+            "election_authority_id":"224",
+            "state":"NY",
+            "is_county":"Yes",
+            "election_authority_name":"Westchester County Board of Elections",
+            "area":"Westchester County",
+            "election_id":"38",
+            "election_date":"2016-04-19",
+            "election_type":"Primary",
+            "election_description":"New York Presidential Primary & Special Elections",
+            "is_special":"1",
+            "translations":"0",
+            "inactive":"0",
+            "election_timestamp":"2016-03-15 16:08:36",
+            "election_auth_id":"38-224"
+          }
+        ]
+      },
+      "Wyoming County":{
+        "election":[
+          {
+            "election_authority_id":"225",
+            "state":"NY",
+            "is_county":"Yes",
+            "election_authority_name":"Wyoming County Board of Elections",
+            "area":"Wyoming County",
+            "election_id":"18",
+            "election_date":"2014-11-04",
+            "election_type":"General",
+            "election_description":"November General Election",
+            "is_special":"1",
+            "translations":"1",
+            "inactive":"1",
+            "election_timestamp":"2016-02-18 09:01:14",
+            "election_auth_id":"18-225"
+          },
+          {
+            "election_authority_id":"225",
+            "state":"NY",
+            "is_county":"Yes",
+            "election_authority_name":"Wyoming County Board of Elections",
+            "area":"Wyoming County",
+            "election_id":"38",
+            "election_date":"2016-04-19",
+            "election_type":"Primary",
+            "election_description":"New York Presidential Primary & Special Elections",
+            "is_special":"1",
+            "translations":"0",
+            "inactive":"0",
+            "election_timestamp":"2016-03-15 16:08:36",
+            "election_auth_id":"38-225"
+          }
+        ]
+      },
+      "Yates County":{
+        "election":[
+          {
+            "election_authority_id":"226",
+            "state":"NY",
+            "is_county":"Yes",
+            "election_authority_name":"Yates County Board of Elections",
+            "area":"Yates County",
+            "election_id":"18",
+            "election_date":"2014-11-04",
+            "election_type":"General",
+            "election_description":"November General Election",
+            "is_special":"1",
+            "translations":"1",
+            "inactive":"1",
+            "election_timestamp":"2016-02-18 09:01:14",
+            "election_auth_id":"18-226"
+          },
+          {
+            "election_authority_id":"226",
+            "state":"NY",
+            "is_county":"Yes",
+            "election_authority_name":"Yates County Board of Elections",
+            "area":"Yates County",
+            "election_id":"38",
+            "election_date":"2016-04-19",
+            "election_type":"Primary",
+            "election_description":"New York Presidential Primary & Special Elections",
+            "is_special":"1",
+            "translations":"0",
+            "inactive":"0",
+            "election_timestamp":"2016-03-15 16:08:36",
+            "election_auth_id":"38-226"
+          }
+        ]
+      }
+    },
+    "not_county":{
+      "New York City (Admin Offices)":{
+        "election":[
+          {
+            "election_authority_id":"197",
+            "state":"NY",
+            "is_county":"No",
+            "election_authority_name":"New York City Board of Elections",
+            "area":"New York City (Admin Offices)",
+            "election_id":"18",
+            "election_date":"2014-11-04",
+            "election_type":"General",
+            "election_description":"November General Election",
+            "is_special":"1",
+            "translations":"1",
+            "inactive":"1",
+            "election_timestamp":"2016-02-18 09:01:14",
+            "election_auth_id":"18-197"
+          },
+          {
+            "election_authority_id":"197",
+            "state":"NY",
+            "is_county":"No",
+            "election_authority_name":"New York City Board of Elections",
+            "area":"New York City (Admin Offices)",
+            "election_id":"38",
+            "election_date":"2016-04-19",
+            "election_type":"Primary",
+            "election_description":"New York Presidential Primary & Special Elections",
+            "is_special":"1",
+            "translations":"0",
+            "inactive":"0",
+            "election_timestamp":"2016-03-15 16:08:36",
+            "election_auth_id":"38-197"
+          }
+        ]
+      }
+    }
+  }
+}

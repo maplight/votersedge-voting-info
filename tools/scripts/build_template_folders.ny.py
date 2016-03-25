@@ -64,13 +64,14 @@ election_authorities_in_state = election_authorities['election_authority_data'][
 elections = getJSON(PARENT_ROOT  + '/data/elections.' + STATE + '.json')
 county_elections = elections['election_authorities']['is_county']
 not_county_elections = elections['election_authorities']['not_county']
+state_elections = elections['election_authorities']['state']
 
 state_election_authorities = getJSON(PARENT_ROOT  + '/data/state-election-authorities.json')
 state_election_authority = state_election_authorities[STATE]
 
 # Find non-existing folders, add markdown folder template as new files.
 # Build state-specific data for each election.
-for election in not_county_elections[STATE_AREA_NAME]['election']:
+for election in state_elections[STATE_AREA_NAME]['election']:
     election_date = election['election_date']
 
     if (election_date):

@@ -63,12 +63,14 @@ election_authorities_in_state = election_authorities['election_authority_data'][
 elections = getJSON(PARENT_ROOT  + '/data/elections.' + STATE + '.json')
 county_elections = elections['election_authorities']['is_county']
 not_county_elections = elections['election_authorities']['not_county']
+state_elections = elections['election_authorities']['state']
 
 state_election_authorities = getJSON(PARENT_ROOT  + '/data/state-election-authorities.json')
 state_election_authority = state_election_authorities[STATE]
 
 # @TODO update real election data for a state
 # @TODO handle "not county" election authorities
+
 
 # Load markdown files for all elections, for each voting content section.
 all_elections_json = {}
@@ -86,7 +88,7 @@ for file_content in all_elections_file_list:
 
 # Build state-specific data for each election.
 state_single_elections_json = {}
-for election in not_county_elections[STATE_AREA_NAME]['election']:
+for election in state_elections[STATE_AREA_NAME]['election']:
     election_date = election['election_date']
     if (election_date):
         state_single_election_json = {}

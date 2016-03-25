@@ -62,8 +62,7 @@ elections = getJSON(PARENT_ROOT  + '/data/elections.' + STATE + '.json')
 
 county_elections = elections['election_authorities']['is_county']
 not_county_elections = elections['election_authorities']['not_county']
-
-print not_county_elections
+state_elections = elections['election_authorities']['state']
 
 state_election_authorities = getJSON(PARENT_ROOT  + '/data/state-election-authorities.json')
 state_election_authority = state_election_authorities[STATE]
@@ -87,7 +86,7 @@ for file_content in all_elections_file_list:
 
 # Build state-specific data for each election.
 state_single_elections_json = {}
-for election in not_county_elections[STATE_AREA_NAME]['election']:
+for election in state_elections[STATE_AREA_NAME]['election']:
     election_date = election['election_date']
     if (election_date):
         state_single_election_json = {}
