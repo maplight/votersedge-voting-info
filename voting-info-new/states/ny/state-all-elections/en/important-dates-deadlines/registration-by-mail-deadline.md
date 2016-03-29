@@ -1,9 +1,9 @@
 ---
 title: "Voter Registration by Mail Deadline"
-published: false
+published: true
 weight: 8
-section: important-dates-deadlines
-priority: Minor
+section: "important-dates-deadlines"
+priority: "Minor"
 ---
 ## Voter Registration by Mail Deadline
 

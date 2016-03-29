@@ -1,6 +1,6 @@
 ---
 title: "Deadline to Submit Change of Address"
-published: false
+published: true
 weight: 9
 section: important-dates-deadlines
 priority: Minor
