@@ -11,7 +11,7 @@ STATE_AREA_NAME = 'State of California'
 SCRIPT_ROOT = os.path.dirname(os.path.realpath(__file__))
 PARENT_ROOT = os.path.abspath(os.path.join(SCRIPT_ROOT, os.pardir))
 REPO_ROOT = os.path.abspath(os.path.join(PARENT_ROOT, os.pardir))
-STATE_ROOT = REPO_ROOT + "/voting-info-new/states/" + STATE
+STATE_ROOT = REPO_ROOT + "/voting-info/states/" + STATE
 
 ALL_ELECTIONS_ROOT = STATE_ROOT + "/state-all-elections/"
 STATE_SINGLE_ELECTIONS_ROOT = STATE_ROOT + "/state-single-election/"
