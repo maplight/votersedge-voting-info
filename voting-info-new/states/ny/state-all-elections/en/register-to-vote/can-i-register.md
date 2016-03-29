@@ -1,9 +1,9 @@
 ---
 title: "Can I register to vote?"
-published: false
-weight: 10
-section: register-to-vote
-priority: Minor
+published: true
+weight: 1
+section: "register-to-vote"
+priority: "Minor"
 ---
 To register to vote in New York:
 - You must be a United States Citizen.  
