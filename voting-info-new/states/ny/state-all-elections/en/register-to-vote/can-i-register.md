@@ -1,5 +1,10 @@
-## Can I register to vote?  
-
+---
+title: "Can I register to vote?"
+published: false
+weight: 10
+section: register-to-vote
+priority: Minor
+---
 To register to vote in New York:
 - You must be a United States Citizen.  
 - You must be 18 years old by December 31 of the year in which you register, and you must be 18 years old by the date of the election in which you want to vote.  

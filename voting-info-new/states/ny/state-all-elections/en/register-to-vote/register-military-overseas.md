@@ -1,5 +1,10 @@
-## How do I register to vote if I am in the military or living overseas?  
-
+---
+title: "How do I register to vote if I am in the military or living overseas?"
+published: false
+weight: 10
+section: register-to-vote
+priority: Minor
+---
 If you are serving in the U.S. military, you, along with your spouse and any dependents of voting age living with you, may register as a military voter in the state of New York. This means you will be able to receive an absentee ballot for all federal, state, and local elections in which you would be eligible to vote based on your residence in the state of New York.  
 
 **To register as a military or overseas voter, please refer to the following instructions:**  

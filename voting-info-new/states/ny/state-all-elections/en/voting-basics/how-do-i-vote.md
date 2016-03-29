@@ -1,5 +1,10 @@
-## How do I vote?  
-
+---
+title: "How do I vote?"
+published: false
+weight: 10
+section: voting-basics
+priority: Minor
+---
 When you arrive at your designated polling place, sign in and get your ballot and voting instructions from a poll worker. Make sure to mark your ballot completely, according to the instructions.  
 
 If you have a paper ballot, make sure to turn your ballot over! There may be candidates or ballot measures to vote for on the other side.  

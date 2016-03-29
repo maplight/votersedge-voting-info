@@ -1,5 +1,10 @@
-## How do I vote if I am in the military or overseas?  
-
+---
+title: "How do I vote if I am in the military or overseas?"
+published: true
+weight: 10
+section: ways-to-vote
+priority: Minor
+---
 Anyone serving in the military or living outside the U.S. whose last U.S. residence was in New York, along with their spouses and/or dependents, may register as a military or special federal voter in New York. (See [How do I register if I am in the military or overseas?](#item-register-military-overseas) for details on how to register and receive your ballot.)  
 
 To cast your vote, you must return your ballot to your local [board of elections office](http://www.elections.ny.gov/CountyBoards.html) by postal mail. Your ballot must be postmarked no later than the day before the election and must be received by the board of elections no later than seven days after the election.  

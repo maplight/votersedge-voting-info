@@ -1,5 +1,10 @@
-## What forms of identification do I need to register to vote?  
-
+---
+title: "What forms of identification do I need to register to vote?"
+published: false
+weight: 10
+section: register-to-vote
+priority: Minor
+---
 To register to vote in the State of New York, you must provide one of the following with your completed New York State Voter Registration Form:  
 - DMV Number (i.e., driver’s license number or non-driver ID number)  
 - Last four digits of your social security number  

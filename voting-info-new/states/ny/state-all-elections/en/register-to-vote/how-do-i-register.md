@@ -1,5 +1,10 @@
-## How do I register to vote?  
-
+---
+title: "How do I register to vote?"
+published: false
+weight: 10
+section: register-to-vote
+priority: Minor
+---
 **You can register to vote in person** at your local [board of elections office](http://www.elections.ny.gov/CountyBoards.html) or at any New York State agency-based voter registration center, including any of the following New York State agency offices:  
 - Alcoholism and Substance Abuse Services  
 - City Universities of New York (CUNY)  
