@@ -1,6 +1,6 @@
 ---
 title: "How do I change my political party or enroll in a party for the first time?"
-published: false
+published: true
 weight: 7
 section: "register-to-vote"
 priority: "Minor"
