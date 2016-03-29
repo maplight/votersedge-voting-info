@@ -1,7 +1,7 @@
 ---
 title: "Election office section title"
 published: false
-weight: 0
+weight: 1
 section: "election-office"
 priority: "Minor"
 ---

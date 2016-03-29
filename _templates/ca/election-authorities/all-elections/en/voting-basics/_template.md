@@ -1,7 +1,7 @@
 ---
 title: "Voting basics section title"
 published: false
-weight: -10
+weight: 1
 section: "voting-basics"
 priority: "Minor"
 ---

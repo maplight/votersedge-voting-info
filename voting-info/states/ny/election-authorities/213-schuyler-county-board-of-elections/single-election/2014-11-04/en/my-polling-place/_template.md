@@ -1,8 +1,8 @@
 ---
-title: "Ways to vote section title"
+title: "My polling place section title"
 published: false
 weight: -10
-section: "ways-to-vote"
-priority: Minor
+section: "my-polling-place"
+priority: "Minor"
 ---
 
