@@ -1,9 +1,9 @@
 ---
 title: " How do I return my absentee ballot?"
 published: true
-weight: 10
-section: ways-to-vote
-priority: Minor
+weight: 4
+section: "ways-to-vote"
+priority: "Minor"
 ---
 After completing your absentee ballot, you will need to mail it to your local [board of elections office](http://www.elections.ny.gov/CountyBoards.html). To have your absentee ballot counted, it must be postmarked **no later than the day before the election** and the board of elections must receive it **no later than 7 days after the election.**  
 

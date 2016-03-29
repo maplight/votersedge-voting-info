@@ -1,9 +1,9 @@
 ---
 title: "How do I vote on Election Day in person?"
 published: true
-weight: 10
-section: ways-to-vote
-priority: Minor
+weight: 6
+section: "ways-to-vote"
+priority: "Minor"
 ---
 If you are registered to vote, you should receive a voter card in the mail 2-3 weeks after registering that contains your polling location information. You can also check [My Polling Place](#section-my-polling-place) to find your polling location.  
 

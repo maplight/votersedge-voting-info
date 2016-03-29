@@ -1,9 +1,9 @@
 ---
 title: "How do I get an absentee ballot? "
 published: true
-weight: 10
-section: ways-to-vote
-priority: Minor
+weight: 2
+section: "ways-to-vote"
+priority: "Minor"
 ---
  
 Applications for absentee ballots are available to be picked up in person at your local [board of elections office](http://www.elections.ny.gov/CountyBoards.html). Alternatively, you can download a PDF version of the New York State Ballot Application Form in [English](http://www.elections.ny.gov/NYSBOE/download/voting/Absentee06152010.pdf) or [Spanish](http://www.elections.ny.gov/NYSBOE/download/voting/Absentee2012-Spanish.pdf) from the New York State Board of Elections.  

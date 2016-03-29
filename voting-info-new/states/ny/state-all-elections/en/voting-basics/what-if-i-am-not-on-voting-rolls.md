@@ -1,9 +1,9 @@
 ---
 title: "What if I am not on the voting rolls at my polling place?"
-published: false
-weight: 10
-section: voting-basics
-priority: Minor
+published: true
+weight: 3
+section: "voting-basics"
+priority: "Minor"
 ---
 If your name is not found in the voter book when you sign in to vote, make sure you are signing in at the correct polling location. A poll worker will be available at your polling location to assist you in determining which district you live in if you need assistance.  
 

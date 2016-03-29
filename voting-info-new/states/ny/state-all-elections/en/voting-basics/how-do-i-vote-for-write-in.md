@@ -1,9 +1,9 @@
 ---
 title: "How do I vote for a write-in candidate?"
-published: false
+published: true
 weight: 10
-section: voting-basics
-priority: Minor
+section: "voting-basics"
+priority: "Minor"
 ---
 If you wish to vote for a candidate who is not listed on the ballot, you may do so by completely filling in the oval on your ballot in the area provided for a write-in candidate and writing the name of your preferred candidate in the space provided.  
 

@@ -1,9 +1,9 @@
 ---
 title: "How do I vote if I am in the military or overseas?"
 published: true
-weight: 10
-section: ways-to-vote
-priority: Minor
+weight: 7
+section: "ways-to-vote"
+priority: "Minor"
 ---
 Anyone serving in the military or living outside the U.S. whose last U.S. residence was in New York, along with their spouses and/or dependents, may register as a military or special federal voter in New York. (See [How do I register if I am in the military or overseas?](#item-register-military-overseas) for details on how to register and receive your ballot.)  
 
