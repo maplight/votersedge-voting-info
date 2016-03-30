@@ -1,7 +1,7 @@
-**In addition to their presidential preference, Democratic primary voters vote for 148 of New York’s 291 delegates to the Democratic National Convention.**  
+**New York’s 95 delegates to the Republican National Convention will be allocated based on the district-level and statewide presidential preference vote results.**  
 
-Delegates do not appear on Voter’s Edge, but they will appear on the Democratic primary ballot. Delegates are bound to the candidate for whom they have stated their support on the ballot. A candidate must receive at least 15 percent of the presidential preference vote in order to receive any delegates in a congressional district.  
+Eighty-one delegates are district-level delegates---three for each of New York’s 27 congressional districts. The first place finisher in a district will receive two of that district’s delegates, and the second place finisher will receive one delegate. A candidate must win at least 20 percent of the vote in a district in order to be eligible to receive a share of that district’s delegates. If a candidate wins more than 50 percent of the vote in a district, they will receive all of that district’s delegates.  
 
-The remainder of New York’s Democratic delegates are apportioned as follows: 30 are pledged party leaders and elected officials, 49 are pledged at-large delegates, and 19 are pledged alternates. These delegates are allocated proportionally based on statewide primary results.  
+Eleven of New York’s delegates will serve at-large and will be allocated on a proportional basis; a candidate must win at least 20 percent of the statewide vote in order to be eligible to receive a share of the state's at-large delegates. If a candidate wins more than 50 percent of the statewide vote, he or she will receive all of the state's at-large delegates.  
 
-An additional 44 party leaders and elected officials serve as unpledged delegates and are not required to adhere to the results of the state primary.  
+The remaining three of New York’s delegates are national party leaders; they will be required to pledge their support to the winner of the state’s primary.  
