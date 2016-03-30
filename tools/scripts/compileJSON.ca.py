@@ -18,7 +18,7 @@ STATE_SINGLE_ELECTIONS_ROOT = STATE_ROOT + "/state-single-election/"
 ELECTION_AUTHORITIES_ROOT = STATE_ROOT + "/election-authorities/"
 
 #STATE_ROOT = REPO_ROOT + "/voting-info/states/" + STATE
-BUILD_ROOT = REPO_ROOT + "/build/" + STATE
+BUILD_ROOT = REPO_ROOT + "/json/" + STATE
 #ALL_ELECTIONS_ROOT = STATE_ROOT + "/all-elections/" + LANGUAGE
 #STATE_SINGLE_ELECTIONS_ROOT = STATE_ROOT + "/single-election/" # election, language
 #ELECTION_AUTHORITIES_ROOT = STATE_ROOT + "/election-authorities/" # ea, language

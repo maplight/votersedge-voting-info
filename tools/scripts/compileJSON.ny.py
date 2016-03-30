@@ -18,7 +18,7 @@ STATE_SINGLE_ELECTIONS_ROOT = STATE_ROOT + "/state-single-election/"
 ELECTION_AUTHORITIES_ROOT = STATE_ROOT + "/election-authorities/"
 
 #STATE_ROOT = REPO_ROOT + "/voting-info/states/" + STATE
-BUILD_ROOT = REPO_ROOT + "/build/" + STATE
+BUILD_ROOT = REPO_ROOT + "/json/" + STATE
 #ALL_ELECTIONS_ROOT = STATE_ROOT + "/all-elections/" + LANGUAGE
 #STATE_SINGLE_ELECTIONS_ROOT = STATE_ROOT + "/single-election/" # election, language
 #ELECTION_AUTHORITIES_ROOT = STATE_ROOT + "/election-authorities/" # ea, language
@@ -147,9 +147,8 @@ for election_authority in election_authorities_in_state:
         election_authorities_json[section] = []
         # If markdown files exist for the state
         if os.path.exists(election_authority_file_path):
-            
             if os.path.exists(election_authority_file_path + '/' + section):
-                print election_authority_file_path + '/' + section
+                # print election_authority_file_path + '/' + section
                 for file in [doc for doc in os.listdir(election_authority_file_path + '/' + section)
                     if doc.endswith(".md")]:
                         print election_authority_file_path + '/' + section + '/' + file
