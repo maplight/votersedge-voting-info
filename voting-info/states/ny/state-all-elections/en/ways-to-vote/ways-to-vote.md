@@ -1,16 +1,13 @@
 ---
-title: "Ways to Vote"
+title: Ways to Vote
 published: true
 weight: 1
 section: "ways-to-vote"
-priority: "Major"
+priority: Major
 ---
-**There are a number of ways to vote in California. You may vote**:  
 
-**By mail**   
+**There are a number of ways to vote in New York. You may vote**:  
 
-**Early in person** at designated places in your county  
-Sometimes these early vote locations are available on Election Day too.  
+**By absentee ballot**   
 
 **At the polling place** in person on Election Day
-
