@@ -1,8 +1,8 @@
-## Can I vote if I have been conviceted of a misdemeanor?  
+**Can I vote if I have been conviceted of a misdemeanor?**  
 
 Yes, you may vote normally if you have been convicted of a misdemeanor. However, if you are currently in jail you will have to vote by absentee ballot. (See [Ways to Vote](#section-ways-to-vote) for more information.)  
 
-## Can I vote if I have been convicted of a felony?  
+**Can I vote if I have been convicted of a felony?**  
 
 If you have been convicted of a felony, you may vote in the state of New York in the following circumstances:  
 - You are on probation  
