@@ -1,4 +1,4 @@
-## How do I know which political districts I live in?  
+**How do I know which political districts I live in?**   
 
 For information about the State legislative and U.S. Congressional district where you live, visit the New York State Board of Elections’ [District/Representative search tool](http://www.elections.ny.gov/district-map/district-map.html).  
 
