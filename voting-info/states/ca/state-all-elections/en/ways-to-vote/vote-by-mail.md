@@ -6,6 +6,7 @@ section: "ways-to-vote"
 priority: Minor
 ---
 
+
 **Request** a vote-by-mail ballot from your [County Elections Office.](#section-election-office-contact)
 
 Make sure that you send in your request so that it’s received by your county elections office _**no later**_ than 7 days before the election by 5 PM.   
@@ -23,6 +24,8 @@ Make sure that you send in your request so that it’s received by your county e
 1. **By mail** **or**
 2. **Drop it off** at a location designated by your county **or**
 3. **Drop it off** at any polling place in your county by 8 pm on Election Day.  
+
+You can have a relative or person living in your house drop off your vote-by-mail ballot at a polling place on election day. Fill in the information on the return envelope.  
 
 **If you mail your ballot back, don’t delay.**  
 
