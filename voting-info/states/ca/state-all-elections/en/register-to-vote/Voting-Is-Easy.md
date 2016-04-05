@@ -3,10 +3,11 @@ title: "Voting is Easy:  Sign Up, Get Ready, Vote!"
 published: true
 weight: 1
 section: "register-to-vote"
-priority: "Minor"
+priority: Minor
 ---
 
-#### 1. Sign up!
+
+#### 1. Sign Up!
 
 - You are eligible to vote if you are a U.S. citizen, 18 years or older.
 - You must register to get on the official list of voters in your county.  
