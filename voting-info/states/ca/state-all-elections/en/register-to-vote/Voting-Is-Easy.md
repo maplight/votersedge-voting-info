@@ -24,7 +24,7 @@ For more information, check [Can I Register To Vote?](#item-can-i-register-to-vo
 - All registered voters receive two things in the mail:  
 	1. A Sample Ballot that lists everything that will be on your ballot along with where you vote (your “polling place”).
 	2. An Official Voter Information Guide about statewide candidates and measures.
-- You can use this site for more information about everything on your ballot plus a handy way to find your [polling place](#section-my-polling-place).   
+- You can use this Voter's Edge California site for more information about everything on your ballot plus a handy way to find your [polling place](#section-my-polling-place).   
 
 Find your [polling place and ballot](#section-my-polling-place).
 
