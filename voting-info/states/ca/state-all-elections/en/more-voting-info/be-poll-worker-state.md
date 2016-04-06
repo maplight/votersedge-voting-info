@@ -1,5 +1,5 @@
 ---
-title: Be an Election Day poll worker
+title: Be an Election Day poll Worker
 published: true
 weight: 1
 section: "more-voting-info"
@@ -11,9 +11,9 @@ What does it take to be a poll worker? You must be:
 2. A high school student who:  
 	- Is a United States citizen  
 	- Is at least 16 years old on Election Day  
-	- Attends a public or private high school   
+	- Is attending a public or private high school   
     - Has at least a 2.5 grade point average  
-    - Has permission from your parents and school  
+    - Has permission from parents and school  
     - Attends a training session  
     
 #### What does a poll worker do?  
