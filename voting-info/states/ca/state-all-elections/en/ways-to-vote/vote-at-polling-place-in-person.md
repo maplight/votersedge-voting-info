@@ -1,11 +1,11 @@
 ---
-title: "How do I vote at the polling place in person?"
+title: "Vote at the Polls on Election Day"
 published: true
 weight: 6
 section: "ways-to-vote"
 priority: Minor
 ---
-
+**How do I vote at the polling place in person?**  
 > Polling places are open from 7 a.m. to 8 p.m. on Election Day.  
 
 **How do I find my polling place?**   
