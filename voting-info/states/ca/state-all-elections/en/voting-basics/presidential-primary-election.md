@@ -9,17 +9,23 @@ priority: Minor
 
 The next Presidential Primary is June 7, 2016.  
 
-**If you are registered to vote with a political party,** you will be given a ballot for that party in a Presidential primary election.  
-
-**If you checked "I do not want to disclose a political party preference"** on the voter registration form, you will not get a ballot containing the names of candidates running for president. You will get a ballot containing all the other races and ballot measures.  
-
-**-OR-** If **you checked "I do not want to disclose a political party preference"** on the voter registration form, **you can request the ballot** of one of the following parties when you are at the polling place or in your request for a vote-by-mail ballot:  
-- Anerican Independent Party  
+When you register to vote, you decide if you want to choose a "political party." There are six qualified political parties in California. They are:  
+- American Independent Party  
 - Democratic Party  
+- Green Party  
 - Libertarian Party  
+- Peace and Freedom Party  
+- Republican Party  
+Or you can register without choosing a political party.  
 
-**What if I registered with no party preference and I want to vote in the Green, Peace and Freedom, or Republican Presidential Primary?**  
+The choices you make when you register will determine which candidates for President appear on your ballot.  
 
-If you registered with no party preference, and you want to vote for a Primary candidate in the Green, Peace and Freedom, or Republican Party, then you must [re-register](http://registertovote.ca.gov/) as member of the party. You may [re-register](http://registertovote.ca.gov/) as a member of one of these parties by May 23, 2016. You can always [re-register](http://registertovote.ca.gov/) again after the primary as either a “no party preference” voter or with any political party.  
+**If you are registered to vote with a political party,** you will be given a ballot for that party in a Presidential primary election, and you will be able to choose one of the candidates in that party.  
 
-For detailed information check [Register to Vote](#section-register-to-vote).
+**If you registered without choosing a political party,** there will NOT be any presidential candidates on your ballot, but it will contain candidates for all other contests and ballot measures.    
+
+Even if you register without choosing a political party, there is still a way you can vote for a candidate for President:  
+- Three of the political parties, American Independent, Democratic, and Libertarian, will allow voters with  “no party preference” to ask for their ballots in the June 7 election.  
+- But if you want to vote on presidential candidates for the Green, Peace & Freedom, or Republican Party  then you must [re-register](http://registertovote.ca.gov/) and select that party. Just make sure you [re-register](http://registertovote.ca.gov/) by the May 23 deadline. You can always [re-register](http://registertovote.ca.gov/) again after the primary as either a "no party preference" voter or with any political party.  
+
+For more information on political parties check [Information about political parties](#item-political-parties). For detailed information on registration check [Register to Vote](#section-register-to-vote).
