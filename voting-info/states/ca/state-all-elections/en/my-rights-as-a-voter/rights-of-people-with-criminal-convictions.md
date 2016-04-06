@@ -1,5 +1,5 @@
 ---
-title: "Voting rights for people with criminal convictions"
+title: "Voting Rights of People with Criminal Convictions"
 published: true
 weight: 4
 section: "my-rights-as-a-voter"
