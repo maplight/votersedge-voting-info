@@ -1,5 +1,5 @@
 ---
-title: "How do I vote early in person?"
+title: "Vote Early in Person"
 published: true
 weight: 5
 section: "ways-to-vote"
