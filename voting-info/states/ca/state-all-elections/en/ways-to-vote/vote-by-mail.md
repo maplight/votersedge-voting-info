@@ -1,5 +1,5 @@
 ---
-title: "How do I vote by mail?"
+title: "Vote by Mail"
 published: true
 weight: 2
 section: "ways-to-vote"
