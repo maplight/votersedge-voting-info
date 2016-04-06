@@ -5,4 +5,4 @@ weight: 3
 section: "voting-basics"
 priority: "Minor"
 ---
-If your name is not on the list of registered voters at your polling place you have the right to cast a [provisional ballot](#item-what-is-provisional-ballot).
+If your name is not on the list of registered voters at your polling place you have the right to cast a provisional ballot. For more information check [What is a provisional ballot?](#item-what-is-provisional-ballot)
