@@ -15,4 +15,4 @@ If you **miss the deadline** your application will still be processed.  If appro
 
 [Check the status of your voter registration](http://www.sos.ca.gov/elections/registration-status/) to make sure you’re registered.  
 
-For detailed information check [Register to vote](#section-register-to-vote).
+For detailed information check [Register to Vote](#section-register-to-vote).
