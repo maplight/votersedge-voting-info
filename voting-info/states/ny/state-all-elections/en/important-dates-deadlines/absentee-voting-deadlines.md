@@ -1,7 +1,7 @@
 ---
 title: "Deadlines for Absentee Voting"
 published: true
-weight: 10
+weight: 5
 section: "important-dates-deadlines"
 priority: "Minor"
 ---
