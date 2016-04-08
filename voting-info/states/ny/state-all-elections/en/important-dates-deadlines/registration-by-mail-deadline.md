@@ -1,7 +1,7 @@
 ---
 title: "Voter Registration by Mail Deadline"
 published: true
-weight: 8
+weight: 3
 section: "important-dates-deadlines"
 priority: "Minor"
 ---
