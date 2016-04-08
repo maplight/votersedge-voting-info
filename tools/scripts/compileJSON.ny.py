@@ -101,6 +101,7 @@ for election in election_dates:
                 for file in [doc for doc in os.listdir(state_single_election_section)
                     if doc.endswith(".md")]:
                         print file
+
                         state_single_election_file_list.append( {'path': state_single_election_section + '/' + file, 'section': section})
         # Process the file list for this election.
         for state_single_election_file_content in state_single_election_file_list:
@@ -152,12 +153,13 @@ for election_authority in election_authorities_in_state:
                 # print election_authority_file_path + '/' + section
                 for file in [doc for doc in os.listdir(election_authority_file_path + '/' + section)
                     if doc.endswith(".md")]:
-                        print election_authority_file_path + '/' + section + '/' + file
+                        # print election_authority_file_path + '/' + section + '/' + file
+
                         election_authorities_file_list.append( {'path': election_authority_file_path + '/' + section + '/' + file, 'section': section})
 
-            for file_content in election_authorities_file_list:
-                content = getFile(file_content)
-                election_authorities_json[file_content['section']].append(content)
+    for file_content in election_authorities_file_list:
+        content = getFile(file_content)
+        election_authorities_json[file_content['section']].append(content)
 
     # Build election-authority-specific data for each election.
     election_authority_single_elections_json = {}
