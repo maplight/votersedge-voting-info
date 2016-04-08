@@ -14,7 +14,7 @@ REPO_ROOT = os.path.abspath(os.path.join(PARENT_ROOT, os.pardir))
 STATE_ROOT = REPO_ROOT + "/voting-info/states/" + STATE
 
 ALL_ELECTIONS_ROOT = STATE_ROOT + "/state-all-elections/" + LANGUAGE
-STATE_SINGLE_ELECTIONS_ROOT = STATE_ROOT + "/state-single-election/" 
+STATE_SINGLE_ELECTIONS_ROOT = STATE_ROOT + "/state-single-election/"
 ELECTION_AUTHORITIES_ROOT = STATE_ROOT + "/election-authorities/"
 
 #STATE_ROOT = REPO_ROOT + "/voting-info/states/" + STATE
@@ -43,7 +43,7 @@ votingContentState = {
 };
 
 def getJSON(filePath):
-    with open(filePath) as data_file:    
+    with open(filePath) as data_file:
         data = json.load(data_file)
     print json.dumps(data, sort_keys=True, indent=4, separators=(',', ': '))
     return data
@@ -63,6 +63,7 @@ elections = getJSON(PARENT_ROOT  + '/data/elections.' + STATE + '.json')
 county_elections = elections['election_authorities']['is_county']
 not_county_elections = elections['election_authorities']['not_county']
 state_elections = elections['election_authorities']['state']
+election_dates = elections['election_dates']
 
 state_election_authorities = getJSON(PARENT_ROOT  + '/data/state-election-authorities.json')
 state_election_authority = state_election_authorities[STATE]
@@ -86,7 +87,7 @@ for file_content in all_elections_file_list:
 
 # Build state-specific data for each election.
 state_single_elections_json = {}
-for election in state_elections[STATE_AREA_NAME]['election']:
+for election in election_dates:
     election_date = election['election_date']
     if (election_date):
         state_single_election_json = {}
@@ -117,7 +118,7 @@ state_file = {
 # Build state json file (no election authority info)
 state_json_file_name = BUILD_ROOT + '/voting-info.' + STATE + '.' + LANGUAGE + '.json'
 if not os.path.exists(state_json_file_name):
-    open(state_json_file_name, 'w').close() 
+    open(state_json_file_name, 'w').close()
 fout=open(state_json_file_name,"w")
 fout.seek(0)
 fout.write(json.dumps(state_file))
@@ -135,7 +136,7 @@ state_file_merged = {}
 for election_authority in election_authorities_in_state:
     # Build filename
     election_authority_file_name = election_authority['election_authority_id'] + '-' + election_authority['name'].rstrip().lower().replace(' ', '-')
-    # election_authority_file_path = ELECTION_AUTHORITIES_ROOT + election_authority_file_name 
+    # election_authority_file_path = ELECTION_AUTHORITIES_ROOT + election_authority_file_name
     election_authority_file_path = ELECTION_AUTHORITIES_ROOT + election_authority_file_name + '/all-elections/' + LANGUAGE
     # election_authority_file_root = ELECTION_AUTHORITIES_ROOT + election_authority_file_name
     election_authorities_file_list = []
@@ -146,7 +147,7 @@ for election_authority in election_authorities_in_state:
         election_authorities_json[section] = []
         # If markdown files exist for the state
         if os.path.exists(election_authority_file_path):
-            
+
             if os.path.exists(election_authority_file_path + '/' + section):
                 print election_authority_file_path + '/' + section
                 for file in [doc for doc in os.listdir(election_authority_file_path + '/' + section)
@@ -193,7 +194,7 @@ for election_authority in election_authorities_in_state:
     }
     json_file_name = BUILD_ROOT + '/voting-info.' + STATE + '.' + LANGUAGE + '-' + election_authority_file_name + '.json'
     if not os.path.exists(json_file_name):
-        open(json_file_name, 'w').close() 
+        open(json_file_name, 'w').close()
     fout=open(json_file_name,"w")
     fout.seek(0)
     fout.write(json.dumps(state_file_merged))
@@ -202,11 +203,11 @@ for election_authority in election_authorities_in_state:
 
 
 
-    # else: 
+    # else:
     #     # ??? what's this?
     #     json_file_name = BUILD_ROOT + '/voting-info.' + STATE + '.' + LANGUAGE + '-' + election_authority_file_name + '.json'
     #     if not os.path.exists(json_file_name):
-    #         open(json_file_name, 'w').close() 
+    #         open(json_file_name, 'w').close()
     #     fout=open(json_file_name,"w")
     #     fout.seek(0)
     #     fout.write(json.dumps(state_file))

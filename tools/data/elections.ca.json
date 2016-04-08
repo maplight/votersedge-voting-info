@@ -1,4 +1,21 @@
 {
+  "election_dates": [
+    {
+        "election_date": "2016-04-05"
+    },
+    {
+        "election_date": "2016-04-12"
+    },
+    {
+        "election_date": "2016-04-19"
+    },
+    {
+        "election_date": "2016-05-03"
+    },
+    {
+        "election_date": "2016-06-07"
+    }
+  ],
   "election_authorities":{
     "state":{
       "State of California":{
@@ -18,7 +35,7 @@
             "election_auth_id":""
           }
         ]
-      }    
+      }
     },
     "is_county":{
       "Alameda County":{
