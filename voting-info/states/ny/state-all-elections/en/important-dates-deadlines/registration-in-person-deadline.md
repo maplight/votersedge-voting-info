@@ -1,7 +1,7 @@
 ---
 title: "Deadline to Register to Vote In Person"
 published: true
-weight: 7
+weight: 2
 section: "important-dates-deadlines"
 priority: "Minor"
 ---
