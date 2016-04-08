@@ -1,7 +1,7 @@
 ---
 title: "Registration Deadline for April 19 Elections"
 published: true
-weight: 5
+weight: 6
 section: "important-dates-deadlines"
 priority: "Minor"
 ---
