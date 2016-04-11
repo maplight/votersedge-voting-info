@@ -1,3 +1,11 @@
+ ---
+title: "Special Note on Democratic Presidential Primaries"
+published: true
+weight: 6
+section: "more-voting-info"
+priority: "Minor"
+---
+
 **In addition to their presidential preference, Democratic primary voters vote for 163 of New York’s 291 delegates to the Democratic National Convention.**  
 
 Delegates do not appear on Voter’s Edge, but they will appear on the Democratic primary ballot.  
