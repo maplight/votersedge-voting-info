@@ -1,5 +1,5 @@
 ---
-title: "Voting Rights of People with Criminal Convictions"
+title: "Rights of people with criminal convictions"
 published: true
 weight: 4
 section: "my-rights-as-a-voter"
@@ -55,4 +55,4 @@ The only time you **lose the right to vote while in county jail** is when you ar
 In California, you do not need to do anything to “restore” your right to vote. It is automatically restored once you have completed your sentence and are no longer on parole. However, you must [register or re-register to vote](#section-register-to-vote) in an upcoming election.
 
 For more information visit [Let Me Vote](https://www.aclu.org/let-me-vote-california).  
-Download palm cards in [English](https://www.aclusandiego.org/wp-content/uploads/2015/10/2015-palm-card-english2.pdf) and in [Spanish](https://www.letmevoteca.org/docs/08.2015-SPANISH-KYR-card.pdf). 
+Download palm cards in [English](https://www.letmevoteca.org/docs/2015-palm-card-english.pdf) and in [Spanish](https://www.letmevoteca.org/docs/08.2015-SPANISH-KYR-card.pdf). 
