@@ -1,4 +1,4 @@
- ---
+---
 title: "Special Note on Democratic Presidential Primaries"
 published: true
 weight: 6
