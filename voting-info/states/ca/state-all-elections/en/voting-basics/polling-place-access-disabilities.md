@@ -37,4 +37,4 @@ Poll workers must provide curbside voting for voters with disabilities who need 
 
 A poll worker will bring the list to sign, the ballot, and other required materials to the voter’s car.  The poll worker will take everything back into the polling place and put the ballot in the ballot box or scanner.  
 
-Check [Rights of voters with disabilities](#item-disability-access) for more information.
+For more information check [Rights of voters with disabilities](#item-disability-access).
