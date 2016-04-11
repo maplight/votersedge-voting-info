@@ -23,4 +23,4 @@ For more information on in-language voting resources visit the [California Secre
 
 To find out what languages are available in your county, contact your [county elections office](#section-election-office-contact). The information is often listed on the county's web site and may also appear on the county voter guide you receive in the mail.  
 
-For more information check [Rights of Voters to Language Assistance](#item-language-assistance) 
+For more information check [Rights of voters to language assistance.](#item-language-assistance) 
