@@ -1,3 +1,11 @@
+---
+title: "What are my rights as a voter in the state of New York?"
+published: true
+weight: 2
+section: "my-rights-as-a-voter"
+priority: "minor"
+---
+
 **What are my rights as a voter in the state of New York?**  
 
 You have the right to vote in a primary election if you are a registered voter and you are enrolled in the political party that is holding the primary.  
