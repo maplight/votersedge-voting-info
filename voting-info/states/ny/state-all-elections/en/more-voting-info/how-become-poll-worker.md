@@ -1,7 +1,7 @@
 ---
 title: "How do I become a poll worker?"
 published: true
-weight: 10
+weight: 1
 section: "more-voting-info"
 priority: "Minor"
 ---
