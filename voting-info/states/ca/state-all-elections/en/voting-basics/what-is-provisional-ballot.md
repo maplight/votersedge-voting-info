@@ -24,12 +24,15 @@ For a more extensive list of people who must vote with a provisional ballot, che
 If voters are eligible to vote and vote provisionally, their ballots will be counted.  
 
 **What if I go to the wrong polling place and have to vote a provisional ballot, will my ballot still be counted?**  
-All of the candidates and measures that were on the ballot you were supposed to vote with, if you had gone to your correct polling place, will be counted. But any contests and measures that were not also on your correct polling place ballot will not be counted.  
+Firstly, you must always vote in the couny where you are registered to vote.  
+If you're in the right county but the wrong polling place, then all of the candidates and measures that are on the ballot you were supposed to vote with, if you had gone to the correct location, will be counted.  
+
+But any contests and measures that are not also on the ballot at your correct polling place will not be counted.  
 
 **How are provisional ballots handled?**  
 - Fill out your name and current address on the provisional envelope and sign it. 
 - After the polls close, the ballot is returned to the election office, where the information on the envelope is verified against the voter registration records.  
-If the information that the voter has written on the envelope matches, then the ballot is removed from the envelope and counted.  
+- If the information that the voter has written on the envelope matches, then the ballot is removed from the envelope and counted.  
 
 **Can I check the status of my provisional ballot?**  
 **You may contact the [county elections office](http://www.sos.ca.gov/elections/voting-resources/county-elections-offices/) to learn whether your provisional ballot was counted and if it was not counted, the reason why.  
