@@ -1,7 +1,7 @@
 ---
 title: "How California rimary elections work: Top-Two explanation"
 published: true
-weight: 11
+weight: 13
 section: "voting-basics"
 priority: Minor
 ---
