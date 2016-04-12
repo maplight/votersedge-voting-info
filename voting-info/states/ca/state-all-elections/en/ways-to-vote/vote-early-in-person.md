@@ -1,7 +1,7 @@
 ---
 title: "Vote Early in Person"
 published: true
-weight: 5
+weight: 10
 section: "ways-to-vote"
 priority: Minor
 ---
