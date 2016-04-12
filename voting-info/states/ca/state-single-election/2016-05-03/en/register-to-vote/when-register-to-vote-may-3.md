@@ -3,7 +3,7 @@ title: "When should I register to vote?"
 published: true
 weight: 4
 section: "register-to-vote"
-priority: Minor
+priority: "Minor"
 ---
 
 **Fill out a voter registration form no later than Monday, April 18.**  

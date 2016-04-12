@@ -3,10 +3,10 @@ title: "Vote at the Polls on Election Day"
 published: true
 weight: 6
 section: "ways-to-vote"
-priority: Minor
+priority: "Minor"
 ---
 **How do I vote at the polling place in person?**  
-> Polling places are open from 7 a.m. to 8 p.m. on Tuesday, May 3.  
+> Polling places are open from 7 a.m. to 8 p.m. on Tuesday, June 7.  
 
 **How do I find my polling place?**   
 - If you provided your voting address, then your polling location is printed here in the [My Polling Place](#item-my-polling-place) section of this site.  
