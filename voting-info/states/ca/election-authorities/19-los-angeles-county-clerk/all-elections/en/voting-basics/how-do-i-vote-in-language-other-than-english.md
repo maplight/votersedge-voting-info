@@ -6,6 +6,7 @@ section: voting-basics
 priority: Minor
 ---
 **You can request** voter registration information, sample ballots and spoken translation in:  
+
 English  
 Español  Spanish  
 中文  Chinese  
