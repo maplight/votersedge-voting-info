@@ -1,7 +1,7 @@
 ---
 title: "How do I vote if I speak a language other than English?"
 published: true
-weight: 9
+weight: 10
 section: "voting-basics"
 priority: "Minor"
 ---
