@@ -1,7 +1,7 @@
 ---
 title: "What is a recall election?"
 published: true
-weight: 17
+weight: 19
 section: "voting-basics"
 priority: "Minor"
 ---
