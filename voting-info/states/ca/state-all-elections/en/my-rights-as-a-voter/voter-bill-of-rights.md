@@ -39,6 +39,6 @@ priority: Minor
 - By phone at **(800) 345-VOTE (8683)**  
 - By email at **elections@sos.cac.gov**
 
-If you believe you have been denied any of these rights, call the Secretary of State's confidential toll-free voter hotline at **(800) 345-VOTE (8683).**
+If you believe you have been denied any of these rights, call the Secretary of State's confidential toll-free voter hotline at **(800) 345-VOTE (8683).**  
 
-
+Download your [California Voter Bill of Rights](https://drive.google.com/file/d/0B0h2E_kd8S-LTFJWbm9hbkFDTUlGdFVoeWpDWFVfT1pjUUpJ/view?usp=sharing) from the Secretary of State.
