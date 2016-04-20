@@ -1,12 +1,13 @@
 ---
-title: "How Do I Vote at the Polling Place In Person?"
-published: false
-weight: 3
+title: "How do I vote at the polling place in person in San Francisco County?"
+published: true
+weight: 6
 section: ways-to-vote
 priority: Minor
 ---
-Polls are open on Election Day from 7am to 8pm.
 
-If you provided your voting address, then your polling location is printed here in the “Where do I vote?” section above.
-
-Or, you can contact your <a href="#election-office-">County Elections Office</a> to find your polling place. 
+Find your polling place:  
+- In the [My Polling Place](#section-my-polling-place) section of this site.  
+- On the [San Francisco Department of Elections Office](http://sfelections.org/tools/pollsite/) website.  
+- By calling 415-554-4375  
+- By looking on the back cover of your Voter Information Pamphlet for the address.  
