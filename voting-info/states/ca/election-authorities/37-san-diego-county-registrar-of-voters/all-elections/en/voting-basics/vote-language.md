@@ -3,7 +3,7 @@ title: "How do I vote in San Diego County if I speak a language other than Engli
 published: true
 weight: 11
 section: "voting-basics"
-priority: Minor
+priority: "Minor"
 ---
 
 In compliance with federal law and local ordinance, the Registrar of Voters provides services and official election materials to voters in English, 中文/Chinese,  Español /Spanish, Tagalog/Filipino and Tiếng Việt/Vietnamese.  

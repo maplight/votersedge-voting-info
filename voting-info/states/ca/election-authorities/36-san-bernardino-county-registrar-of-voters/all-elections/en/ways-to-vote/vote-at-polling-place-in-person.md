@@ -3,7 +3,7 @@ title: "How do I vote at the polling place in person in San Bernardino County?"
 published: true
 weight: 6
 section: "ways-to-vote"
-priority: Minor
+priority: "Minor"
 ---
 
 Find your polling place:  

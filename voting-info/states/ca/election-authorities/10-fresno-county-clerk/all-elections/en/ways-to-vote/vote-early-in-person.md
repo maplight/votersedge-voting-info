@@ -3,7 +3,7 @@ title: "How do I vote early in person in Fresno County?"
 published: true
 weight: 5
 section: "ways-to-vote"
-priority: Minor
+priority: "Minor"
 ---
 **You can vote early in person from Monday, May 9, through Election Day, Tuesday, June 7.**  
 

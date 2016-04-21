@@ -3,7 +3,7 @@ title: "How do I return my vote-by-mail ballot in Fresno County?"
 published: true
 weight: 4
 section: "ways-to-vote"
-priority: Minor
+priority: "Minor"
 ---
 - **Mail it** to the [Fresno County Clerk Elections Office](#section-election-office-contact).  
 - **Drop it off** at the Fresno County Clerk/Registrar of Voters office 2221 Kern Street Fresno, CA 93721  

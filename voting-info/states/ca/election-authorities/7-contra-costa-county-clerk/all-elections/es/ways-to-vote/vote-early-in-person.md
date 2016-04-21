@@ -3,7 +3,7 @@ title: "How Do I Vote Early In Person?"
 published: true
 weight: 2
 section: ways-to-vote
-priority: Minor
+priority: "Minor"
 ---
 You may vote in person either at your County Elections Office or at another early voting location before Election Day. 
 

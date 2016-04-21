@@ -3,7 +3,7 @@ title: "How do I vote at the polling place in person in Santa Clara County?"
 published: true
 weight: 6
 section: ways-to-vote
-priority: Minor
+priority: "Minor"
 ---
 
 Fine your polling place:  

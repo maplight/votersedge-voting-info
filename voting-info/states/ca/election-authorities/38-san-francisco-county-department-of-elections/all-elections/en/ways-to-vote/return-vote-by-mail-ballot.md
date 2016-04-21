@@ -3,7 +3,7 @@ title: "How do I return my vote-by-mail ballot in San Francisco County?"
 published: true
 weight: 4
 section: ways-to-vote
-priority: Minor
+priority: "Minor"
 ---
 
 - **Mail it** to the [San Francisco Department of Elections.](#section-election-office-contact)  

@@ -3,7 +3,7 @@ title: "How do I vote if I speak a language other than English in LA County?"
 published: true
 weight: 11
 section: voting-basics
-priority: Minor
+priority: "Minor"
 ---
 **You can request** voter registration information, sample ballots and spoken translation in:  
 

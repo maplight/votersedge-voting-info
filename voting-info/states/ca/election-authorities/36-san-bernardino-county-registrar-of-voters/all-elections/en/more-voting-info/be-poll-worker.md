@@ -3,7 +3,7 @@ title: "Be an Election Day poll worker in San Bernardino County"
 published: true
 weight: 1
 section: "more-voting-info"
-priority: Minor
+priority: "Minor"
 ---
 
 Be an Election Worker in San Bernardino County!  

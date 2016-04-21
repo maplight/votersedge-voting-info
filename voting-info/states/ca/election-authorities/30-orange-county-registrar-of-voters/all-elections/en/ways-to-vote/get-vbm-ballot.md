@@ -3,7 +3,7 @@ title: "Ho do I get a vote-by-mail ballot in Orange County?"
 published: true
 weight: 3
 section: "ways-to-vote"
-priority: Minor
+priority: "Minor"
 ---
 
 Request a one-time vote-by-mail ballot.  

@@ -3,7 +3,7 @@ title: "How do I vote early in person in Santa Clara County?"
 published: true
 weight: 4
 section: ways-to-vote
-priority: Minor
+priority: "Minor"
 ---
 
 **You can vote in person starting before Election Day from Monday, May 9 through Election Day, Tuesday, June 7.**  

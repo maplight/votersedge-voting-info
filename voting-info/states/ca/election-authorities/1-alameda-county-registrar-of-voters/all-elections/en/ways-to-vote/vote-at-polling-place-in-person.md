@@ -3,7 +3,7 @@ title: "How do I vote at the polling place in person in Alameda County?"
 published: true
 weight: 6
 section: "ways-to-vote"
-priority: Minor
+priority: "Minor"
 ---
 Find your polling place:  
 - In the [My Polling Place](#section-my-polling-place) section of this site.

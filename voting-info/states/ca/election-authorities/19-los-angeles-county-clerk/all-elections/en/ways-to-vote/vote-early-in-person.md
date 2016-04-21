@@ -3,7 +3,7 @@ title: "How do I vote early in person in LA County?"
 published: true
 weight: 5
 section: "ways-to-vote"
-priority: Minor
+priority: "Minor"
 ---
 
 [You can vote in person](https://www.lavote.net/home/voting-elections/voting-options/early-voting) starting 29 days before Election Day through the day before Election Day. Many Early Voting Locations are also open on Election Day.  

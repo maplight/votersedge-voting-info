@@ -3,7 +3,7 @@ title: "How do I vote in Santa Cruz County if I speak a language other than Engl
 published: true
 weight: 11
 section: "voting-basics"
-priority: Minor
+priority: "Minor"
 ---
 
 Santa Cruz County is required to provide voting information in Spanish at most precincts. They will also provide election materials in Chinese and Tagalog at selected voting precincts.  

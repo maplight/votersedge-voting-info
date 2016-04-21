@@ -3,7 +3,7 @@ title: "How do I return my vote-by-mail ballot in LA County?"
 published: true
 weight: 4
 section: "ways-to-vote"
-priority: Minor
+priority: "Minor"
 ---
 
 - **Mail it** to the [Los Angeles County Registrar-Recorder/County Clerk](https://www.lavote.net/home/voting-elections/voting-options/vote-by-mail/how-to-vote-by-mail)  

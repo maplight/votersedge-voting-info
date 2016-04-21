@@ -3,7 +3,7 @@ title: "How do I return my vote-by-mail ballot in San Diego County?"
 published: true
 weight: 4
 section: "ways-to-vote"
-priority: Minor
+priority: "Minor"
 ---
 
 - **Mail it** to the [San Diego County Elections Office](#section-election-office-contact) using the envelope provided. It must be postmarked on or before Election Day.  

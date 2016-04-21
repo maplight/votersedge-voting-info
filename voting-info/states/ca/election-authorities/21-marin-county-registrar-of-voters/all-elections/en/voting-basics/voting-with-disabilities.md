@@ -3,7 +3,7 @@ title: "How do I vote in Marin County if I have disabilities?"
 published: true
 weight: 9
 section: "voting-basics"
-priority: Minor
+priority: "Minor"
 ---
 
 **Accessible Voting Places**  

@@ -3,7 +3,7 @@ title: "How do I return my vote-by-mail ballot in San Joaquin County?"
 published: true
 weight: 4
 section: "ways-to-vote"
-priority: Minor
+priority: "Minor"
 ---
 
 - Mail it to the San Joaquin [County Elections Office](#section-election-office-contact).  

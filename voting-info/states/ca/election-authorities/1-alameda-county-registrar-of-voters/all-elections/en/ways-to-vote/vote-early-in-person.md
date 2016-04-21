@@ -3,7 +3,7 @@ title: "How do I vote early in person in Alameda County?"
 published: true
 weight: 5
 section: "ways-to-vote"
-priority: Minor
+priority: "Minor"
 ---
 **You can vote in person before Election Day from 29 days before Election Day through the day before Election Day.** 
 

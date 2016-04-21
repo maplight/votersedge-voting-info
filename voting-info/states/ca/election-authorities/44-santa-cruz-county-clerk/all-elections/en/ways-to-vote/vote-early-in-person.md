@@ -3,7 +3,7 @@ title: "How do I vote early in person in Sant Cruz County?"
 published: true
 weight: 5
 section: "ways-to-vote"
-priority: Minor
+priority: "Minor"
 ---
 
 **How do I vote early in person for the June 7 Presidential Primary Election?**  

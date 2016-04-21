@@ -3,7 +3,7 @@ title: "How do I return my vote-by-mail ballot in Santa Cruz County?"
 published: true
 weight: 4
 section: "ways-to-vote"
-priority: Minor
+priority: "Minor"
 ---
 
 **How do I return my vote-by-mail ballot for the May 3 All-Mail Ballot Special Election?**  

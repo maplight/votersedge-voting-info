@@ -3,7 +3,7 @@ title: "How do I vote at the polling place in Imperial County?"
 published: true
 weight: 7
 section: "ways-to-vote"
-priority: Minor
+priority: "Minor"
 ---
 
 Find your polling place:  
