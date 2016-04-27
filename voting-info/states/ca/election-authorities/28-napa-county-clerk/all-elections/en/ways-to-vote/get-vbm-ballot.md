@@ -1,5 +1,5 @@
 ---
-title: "Ways to vote section title"
+title: "How do I get a vote-by-mail ballot in Napa County?"
 published: true
 weight: 3
 section: "ways-to-vote"
