@@ -10,7 +10,7 @@ priority: "Minor"
 
 #### By Mail
 > From **Monday, May 9** through **Election Day, Tuesday, June 7.**  
-> - Your completed vote-by-mail ballot must be **postmarked** on or before **Election Day.**  
+> - Your completed vote-by-mail ballot must be **postmarked** on or before **Election Day, Tuesday, June 7.**  
 > - Once mailed and postmarked, the ballot must be **received** by the elections office **no later than 3 days after Election Day.**  
 
 #### Early-in-person
