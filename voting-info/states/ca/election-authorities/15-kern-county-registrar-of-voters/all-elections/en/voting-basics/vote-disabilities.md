@@ -1,5 +1,5 @@
 ---
-title: "How do I vote if I have disabilities?"
+title: "How do I vote in Kern County if I have disabilities?"
 published: true
 weight: 9
 section: "voting-basics"
