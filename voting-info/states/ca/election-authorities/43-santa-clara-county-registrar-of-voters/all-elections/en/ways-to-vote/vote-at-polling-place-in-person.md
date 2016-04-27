@@ -6,7 +6,7 @@ section: ways-to-vote
 priority: "Minor"
 ---
 
-Fine your polling place:  
+Find your polling place:  
 - In the [My Polling Place](#section-my-polling-place) section of this site.  
 - On the [Santa Clara County Registrar of Voters](https://eservices.sccgov.org/rov/?tab=) website  
 - By calling 415-554-4375  
