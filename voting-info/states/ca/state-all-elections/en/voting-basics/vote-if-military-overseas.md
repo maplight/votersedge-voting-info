@@ -16,15 +16,15 @@ Review the ballot to make sure you voted for every contest you intended.
 
 **Return** your ballot:  
 - **By mail:**  
-	1. **Fill out and sign** as directed on the back of the return envelope.  
-	2. **Mail it using US Post Office** if you are in the U.S.  
-	3. **If outside the U.S.** use APO/FPO or diplomatic pouch mail. **OR** use foreign postal system and make sure you use the correct postage.  
-    4. **Consult your post office** to find out when the ballot should be mailed to make sure it is postmarked no later than Election Day and arrives in your county no later than three days after Election Day. **In other words, mail your ballot back before Election Day.**  
+	- **Fill out and sign** as directed on the back of the return envelope.  
+	- **Mail it using US Post Office** if you are in the U.S.  
+	- **If outside the U.S.** use APO/FPO or diplomatic pouch mail. **OR** use foreign postal system and make sure you use the correct postage.  
+    	- **Consult your post office** to find out when the ballot should be mailed to make sure it is postmarked no later than Election Day and arrives in your county no later than three days after Election Day. **In other words, mail your ballot back before Election Day.**  
 
 - **By fax** if you are living outside the territorial US:  
-	1. Fax the **ballot plus the completed return envelope.**  
-	2. **Fax** an **Oath of Voter** form that your county provides.The oath waives your right to confidential voting because you are faxing your ballot.  
-	3. Your faxed ballot and materials **must be received by county elections office by 8 p.m. Pacific time on Election Day.**   
+	- Fax the **ballot plus the completed return envelope.**  
+	- **Fax** an **Oath of Voter** form that your county provides.The oath waives your right to confidential voting because you are faxing your ballot.  
+	- Your faxed ballot and materials **must be received by county elections office by 8 p.m. Pacific time on Election Day.**   
 
 **While you may request your ballot by email or download it, you may not return your completed ballot by email.**   
 
