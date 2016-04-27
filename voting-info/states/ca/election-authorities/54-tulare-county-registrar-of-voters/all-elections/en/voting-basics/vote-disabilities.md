@@ -2,7 +2,7 @@
 title: "How do I vote in Tulare County if I have disabilities?"
 published: true
 weight: 9
-section: "ways-to-vote"
+section: "voting-basics"
 priority: "Minor"
 ---
 
