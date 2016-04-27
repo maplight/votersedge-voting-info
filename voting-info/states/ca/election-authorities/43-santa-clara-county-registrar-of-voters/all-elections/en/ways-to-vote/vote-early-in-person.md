@@ -19,7 +19,7 @@ priority: "Minor"
 
 **-OR-**  
 
-Vote early at [Voting Centers](https://www.sccgov.org/sites/rov/VBM/Pages/VoteEarly.aspx) on weekends only:  
+**Vote early at [Voting Centers](https://www.sccgov.org/sites/rov/VBM/Pages/VoteEarly.aspx) on weekends only:**  
   **Saturday & Sunday** May 28-29 from 12 PM - 5 PM  
   **Saturday & Sunday** June 4-5 from 12 PM - 5 PM  
 
