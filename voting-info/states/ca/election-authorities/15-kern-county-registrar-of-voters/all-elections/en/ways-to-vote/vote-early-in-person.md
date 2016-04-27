@@ -1,5 +1,5 @@
 ---
-title: "How do I vote early in person?"
+title: "How do I vote early in person in Kern County?"
 published: true
 weight: 5
 section: "ways-to-vote"
