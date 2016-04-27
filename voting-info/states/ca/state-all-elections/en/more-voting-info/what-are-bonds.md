@@ -17,12 +17,12 @@ Projects such as roads, school building, prisons, parks, office buildings, and h
 
 **What types of bonds does the state sell?**  
 
-1. General Obligation Bonds  
-		These are the most common type of bonds, and are largely repaid from the state's unrestricted general tax revenues. These bonds have to be approved by the voters, and their repayment is guaranteed by the state.  
-2. Revenue Bonds  
-		These are repaid from a designated source, such as bridge tolls. Revenue bonds do not require voter approval and repayment is not guaranteed by the state.  
-3. Lease-Revenue Bonds  
-		There are repaid from lease payments by state agencies using the leased facilities. Lease-Revenue bonds do not require voter approval and repayment is not guaranteed by the state.  
+- General Obligation Bonds  
+	These are the most common type of bonds, and are largely repaid from the state's unrestricted general tax revenues. These bonds have to be approved by the voters, and their repayment is guaranteed by the state.  
+- Revenue Bonds  
+	These are repaid from a designated source, such as bridge tolls. Revenue bonds do not require voter approval and repayment is not guaranteed by the state.  
+- Lease-Revenue Bonds  
+	There are repaid from lease payments by state agencies using the leased facilities. Lease-Revenue bonds do not require voter approval and repayment is not guaranteed by the state.  
 
 **What are the direct costs of bond financing?**  
 
