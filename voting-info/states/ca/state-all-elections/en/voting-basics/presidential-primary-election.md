@@ -8,7 +8,7 @@ priority: Minor
 
 **Take a look at [Do you want to vote for President?](https://drive.google.com/file/d/0B0h2E_kd8S-LemNBUGhaWTZXamRqQnRXb1pNMXFjeVZ4eWJz/view?usp=sharing)**  
 
-**Six political parties are holding Presidential Primaries:**    
+**Six political parties are holding presidential primaries:**    
 - American Independent Party  
 - Democratic Party  
 - Green Party  
@@ -24,14 +24,14 @@ You can only vote for the County Central Committees/County Councils if you are r
 
 If you are not registered with one of the six political parties, or if you registered Decline to State, Independent, or Nonpartisan, then you are a **No Party Preference (NPP) Voter.**  
 
-**Three parties allow NPP voters to vote in their Presidential Primary:**  
+**Three parties allow NPP voters to vote in their presidential primary:**  
 - American Independent Party  
 - Democratic Party  
 - Libertarian Party  
 
-If you want to vote in one of these party primaries, you must ask for that ballot.  Otherwise you will receive a Nonpartisan ballot that will not include the office of President.  
+If you want to vote in one of these party primaries, you must ask for that ballot.  Otherwise you will receive a Nonpartisan ballot that will not include the office of president.  
 
-**Three parties allow only voters registered with their party to vote in their Presidential Primary:**  
+**Three parties allow only voters registered with their party to vote in their presidential primary:**  
 - Green Party  
 - Peace and Freedom Party  
 - Republican Party  
