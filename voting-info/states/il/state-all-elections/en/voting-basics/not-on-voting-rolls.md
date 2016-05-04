@@ -5,4 +5,4 @@ weight: 3
 section: "voting-basics"
 priority: "Minor"
 ---
-If your name is missing from the list of registered voters in your precinct, or if the election judge challenges your eligibility to vote for any reason, **you are entitled to cast a provisional ballot.** (See [What is a provisional ballot?](#item-what-is-provisional-ballot))  
+If your name is missing from the list of registered voters in your precinct, or if the election judge challenges your eligibility to vote for any reason, **you are entitled to cast a provisional ballot.** (See [What is a provisional ballot?](#menu-item-what-is-provisional-ballot))  

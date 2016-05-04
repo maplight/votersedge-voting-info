@@ -42,7 +42,7 @@ To be counted for the June 7 Primary Election your ballot must be postmarked on 
 
   **-OR-**  
   
-- Drop it off at one of the early vote locations listed in the [How do I vote early in person in Santa Cruz County?](#item-vote-early-in-person)  
+- Drop it off at one of the early vote locations listed in the [How do I vote early in person in Santa Cruz County?](#menu-item-vote-early-in-person)  
 
   **-OR-**  
 

@@ -10,4 +10,4 @@ When you register you can choose to have vote-by-mail ballots (“absentee” ba
 
 If you are already registered, you may also contact your [county elections office](#section-election-office-contact) to change your status to be a permanent vote-by-mail voter.  
 
-For more information, check [How do I vote by mail?](#item-vote-by-mail)
+For more information, check [How do I vote by mail?](#menu-item-vote-by-mail)

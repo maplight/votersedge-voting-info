@@ -8,4 +8,4 @@ priority: "Minor"
 
 Your vote-by-mail request must be received in the county elections office **no later than Tuesday, April 5, by 5 PM.**  
 
-For detailed information check [How do I vote by mail?](#item-vote-by-mail)
+For detailed information check [How do I vote by mail?](#menu-item-vote-by-mail)
