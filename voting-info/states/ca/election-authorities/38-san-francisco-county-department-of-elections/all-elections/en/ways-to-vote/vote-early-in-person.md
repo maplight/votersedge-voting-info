@@ -1,5 +1,5 @@
 ---
-title: "How Do I vote early in person in San Francisco County?"
+title: "How do I vote early in person in San Francisco County?"
 published: true
 weight: 5
 section: ways-to-vote
