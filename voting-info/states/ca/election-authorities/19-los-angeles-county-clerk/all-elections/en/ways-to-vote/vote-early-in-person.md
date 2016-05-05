@@ -6,7 +6,7 @@ section: "ways-to-vote"
 priority: "Minor"
 ---
 
-[You can vote in person](https://www.lavote.net/home/voting-elections/voting-options/early-voting) starting 29 days before Election Day through the day before Election Day. Many Early Voting Locations are also open on Election Day.  
+[You can vote in person](https://www.lavote.net/home/voting-elections/voting-options/early-voting) before Election Day from Monday, May 9 through Election Day, Tuesday, June 7.  
 
 **Early voting location & hours:**  
 	12400 Imperial Hwy.  
