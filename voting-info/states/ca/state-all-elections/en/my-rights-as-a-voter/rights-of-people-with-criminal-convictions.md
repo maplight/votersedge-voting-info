@@ -1,58 +1,58 @@
 ---
-title: "Rights of people with criminal convictions"
+title: "Los derechos de las personas con condenas penales"
 published: true
 weight: 4
 section: "my-rights-as-a-voter"
-priority: "Minor"
+priority: "low"
 ---
-#### What are my voting rights if I have a misdemeanor?  
-A misdemeanor conviction does not affect your right to vote at all. You can vote in all elections.  
+#### ¿Cuáles son mis derechos electorales si tengo un delito menor?  
+Una condena por delito menor no afecta en absoluto su derecho a votar. Puede votar en todas las elecciones.  
 
-#### What are my voting rights if I have a felony?  
-If you have a felony conviction, **you can vote IF you:**  
-- Are on probation, even if you are in county jail as a condition of your probation, or
-- Have completed your probation, or
-- Are awaiting a judge’s decision on a probation violation, or
-- Are on mandatory supervision, or
-- Are on post-release community supervision, or
-- Have completed your parole.  
+#### ¿Cuáles son mis derechos electorales si tengo un delito mayor?  
+Si tiene una condena por delito mayor, **puede votar SI usted:**  
+- Está en libertad probatoria, incluso si se encuentra en la cárcel del condado como una condición de su libertad probatoria,
+- ha concluido su libertad probatoria,
+- está en espera de la decisión de un juez por una violación de la libertad probatoria,
+- está en supervisión obligatoria,
+- está en supervisión comunitaria posterior a la liberación o
+- ha concluido su libertad condicional.  
 
-The only time **you are not allowed to vote is IF you:**  
-- Have a felony conviction and you are still in state prison, or
-- Are serving an 1170(h) felony sentence in county jail, or
-- Are awaiting transfer to a state prison, or
-- Are on parole.  
+Las únicas condiciones en las que **no se le permite votar son Si usted:**  
+- Tiene una condena por delito mayor y sigue en una prisión estatal,
+- está cumpliendo una sentencia mayor de 1170 (horas) en la cárcel del condado,
+- está en espera de ser trasladado a una prisión estatal o
+- está en libertad condicional.  
 
-Once you have completed your sentence and parole, you can register to vote. 
-If you are unsure what type of sentence you are serving check with your parole or probation officer.  
+Una vez que haya terminado su sentencia y libertad condicional, puede inscribirse para votar. 
+Si no está seguro de qué tipo de sentencia está cumpliendo, consulte con su oficial de libertad condicional o probatoria.  
 
-#### Can I vote when I am on parole?
-No. You can only vote once you have completed your parole.
+#### ¿Puedo votar cuando esté en libertad condicional?
+No. Solo puede votar una vez que haya concluido su libertad condicional.
 
-#### Can I vote on mandatory supervision?
-Yes! You can vote at all times when you are on mandatory supervision.
+#### ¿Puedo votar si estoy en supervisión obligatoria?
+¡Sí! Usted pude votar todas las veces cuando esté en supervisión obligatoria.
 
-#### Can I vote while I am on post-release community supervision?
-Yes! You can vote at all times when you are on post-release community supervision.
+#### ¿Puedo votar mientras estoy en supervisión comunitaria posterior a la liberación?
+¡Sí! Usted pude votar todas las veces cuando esté en supervisión comunitaria posterior a la liberación.
  
-#### Can I vote when I am on probation?
-Yes! You can vote at all times when you are on probation, whether your conviction is a felony or a misdemeanor  
+#### ¿Puedo votar cuando esté en libertad probatoria?
+¡Sí! Usted puede votar todas las veces cuando esté en libertad probatoria, si su condena es por un delito mayor o un delito menor.  
 
-#### Can I vote while I am in county jail?
-Maybe. You **can vote IF** you are in county jail:  
-- Awaiting trial for any crime, or
-- For a misdemeanor conviction, or
-- On a probation violation, or
-- On felony probation.  
+#### ¿Puedo votar mientras esté en la cárcel del condado?
+Tal vez. Usted **puede votar** al estar en la cárcel del condado SI está:  
+- en espera de un juicio por cualquier delito,
+- por una condena por delito menor,
+- en una violación de libertad probatoria o
+- en libertad probatoria por un delito menor.  
 
-The only time you **lose the right to vote while in county jail** is when you are:  
-- In state prison for a felony conviction, or
-- In jail awaiting transfer to a state prison for a felony conviction, or
-- Serving an 1170(h) felony sentence in the county jail, or
-- In jail for a parole violation.  
+Las condiciones en las que usted **pierde el derecho al voto al estar en la cárcel del condado** es cuando usted está:  
+- en la prisión estatal por una condena por delito mayor,
+- en la cárcel en espera de ser trasladado a la prisión estatal por una condena por delito mayor,
+- cumpliendo una sentencia por delito mayor de 1170 (horas) en la cárcel del condado o
+- en la cárcel por una violación de la libertad condicional.  
 
-#### How do I get back my right to vote?  
-In California, you do not need to do anything to “restore” your right to vote. It is automatically restored once you have completed your sentence and are no longer on parole. However, you must [register or re-register to vote](#section-register-to-vote) in an upcoming election.
+#### ¿Cómo recupero mi derecho al voto?  
+En California, no necesita hacer nada para “restaurar” su derecho al voto. Se restaura de forma automática, una vez que usted termine su sentencia y ya no esté en libertad condicional. Sin embargo, debe [inscribirse o volver a inscribirse para votar](#sección de Inscribirse para votar) en las próximas elecciones.
 
-For more information visit [Let Me Vote](https://www.aclu.org/let-me-vote-california).  
-Download palm cards in [English](https://www.letmevoteca.org/docs/2015-palm-card-english.pdf) and in [Spanish](https://www.letmevoteca.org/docs/08.2015-SPANISH-KYR-card.pdf). 
+Para obtener más información, visite la página [Permítanme votar](https://www.aclu.org/let-me-vote-california).  
+Descargue las tarjetas políticas en [inglés] (https://www.letmevoteca.org/docs/2015-palm-card-english.pdf) y en [español] (https://www.letmevoteca.org/docs/08.2015-SPANISH-KYR-card.pdf). 
