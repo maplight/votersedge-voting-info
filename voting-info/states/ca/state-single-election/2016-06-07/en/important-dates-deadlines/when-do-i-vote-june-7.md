@@ -17,6 +17,6 @@ priority: "Minor"
 > From **Monday, May 9** through **Monday, June 6.** Some early voting locations are also open through Election Day.  
 
 #### On Election day  
-> Tuesday, June 7, from **7 a.m. to 8 p.m.**  
+> **Tuesday, June 7**, from **7 a.m. to 8 p.m.**  
 
 For detailed information check [Ways to Vote](#section-ways-to-vote).  
