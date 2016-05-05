@@ -1,5 +1,5 @@
 ---
-title: "My rights as a voter"
+title: "Mis derechos como elector"
 published: true
 weight: 6
 section: my-rights-as-a-voter
