@@ -1,7 +1,7 @@
 ---
 title: "How do I vote in Alameda County if I have disabilities?"
 published: true
-weight: 3
+weight: 9
 section: "voting-basics"
 priority: "Minor"
 ---
