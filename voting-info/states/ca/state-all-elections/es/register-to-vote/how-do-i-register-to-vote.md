@@ -1,5 +1,5 @@
 ---
-title: "How do I register to vote?"
+title: "¿Cómo me registro para votar?"
 published: true
 weight: 0
 section: register-to-vote
