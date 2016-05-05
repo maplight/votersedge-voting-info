@@ -5,4 +5,3 @@ weight: 1
 section: "ways-to-vote"
 priority: "Major"
 ---
-&nbsp;
