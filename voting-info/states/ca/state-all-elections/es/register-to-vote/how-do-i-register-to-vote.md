@@ -5,22 +5,16 @@ weight: 0
 section: register-to-vote
 priority: "Minor"
 ---
-On the web at registertovote.ca.gov
+**En la red en [registertovote.ca.gov](http://registertovote.ca.gov//)**
 
-• If you have a California driver license or identification card number, you can authorize use of that signature for the registration form.  Fill out the online application and simply hit “submit” at the end. 
-• If there is no signature on file with the Department of Motor Vehicles, you will need to
-o enter your date of birth and last four digits of your social security number
-o click “print”
-o sign the paper application
-o mail it to the address provided
-o No printer? Go ahead and click “I don’t have the ability to print” and your county elections official will mail you a form to sign and return.
+- Si tiene licencia de conducir de California o el número de credencial de su identificación, puede autorizar el uso de esa firma para el formulario de inscripción.  Llene la solicitud en línea y presione “enviar” al final.  
+- Si no hay firma registrada en el Departamento de Vehículos Automotores, necesitará:  
+	1. Ingresar su fecha de nacimiento y los últimos cuatro dígitos de su número de seguro social.  
+	2. Hacer clic en “imprimir”.  
+	3. Firmar la solicitud en papel.  
+  4. Enviarla por correo a la dirección proporcionada.  
+  5. ¿No tiene impresora? Siga adelante y haga clic en “No puedo imprimir”; su funcionario de elecciones del condado le enviará por correo un formato para que lo firme y lo devuelva.  
 
-  By calling 800.345.VOTE (800.345.8683) and asking to have a voter registration form sent to your home.
+**Llame al 800-345-VOTE (800-345-8683)** y pida que le envíen a su casa un formulario de inscripción del elector.  
 
-    By picking up an official registration postcard from your county elections office, any  DMV office, or a public library, post office, public assistance office, or any government   office that serves the disabled.
-
-It is important that your voter registration application be filled out completely and be submitted online no later than midnight 15 days before the election; or postmarked or hand-delivered to your county elections office at least 15 days before the election.  If you miss the deadline your application will still be processed, and if approved, you will be able to vote in future elections.
-
-What’s next?
-
-If time permits, your county elections official will contact you when your voter registration application is approved or if more information is needed to confirm your eligibility.   You can check with your county election office to make sure you’re registered. Find county contact information here: Check Status of Your Voter Registration.
+**Recoja un formulario de tarjeta postal de inscripción oficial** en su [	oficina electoral del condado](#sección de Contacto de la oficina electoral), en cualquier oficina del Departamento de Vehículos Automotores (Department of Motor Vehicles, DMV), o en una biblioteca pública, oficina postal u oficina de 	 asistencia pública, o cualquier oficina gubernamental que atienda a personas discapacitadas.
