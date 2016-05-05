@@ -1,5 +1,5 @@
 ---
-title: "What if I need language assistance?"
+title: "¿Qué sucede si necesito ayuda con el idioma?"
 published: true
 weight: 2
 section: register-to-vote
