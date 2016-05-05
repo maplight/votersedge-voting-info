@@ -1,8 +1,23 @@
 ---
-title: "What if I am in the military and overseas voter, or I live abroad?"
+title: "¿Cómo me inscribo si soy militar, me encuentro en el extranjero o vivo fuera?"
 published: true
 weight: 0
 section: register-to-vote
 priority: "Minor"
 ---
-Military and overseas voters are United States citizens who are members of the Uniformed Services (on active duty) and their eligible dependents, members of the Merchant Marine and their eligible dependents, commissioned corps of the Public Health Service, commissioned corps of the National Oceanic and Atmospheric Administration, or United States citizens residing outside the United States. To apply to register to vote, receive your elections materials, and vote, you must apply for a special absentee ballot by filling out the Federal Post Card Application (FPCA).
+Inscríbase para votar ya sea utilizando [la inscripción del elector en línea] de California (http://registertovote.ca.gov/) o al presentar llenada la [Solicitud de tarjeta postal federal (Federal Post Card Application, FPCA)](https://www.fvap.gov/uploads/FVAP/Forms/fpca2013.pdf), si es un ciudadano de los Estados Unidos que es:  
+- miembro de los Servicios Uniformados (en activo) o un dependiente elegible  
+- miembro de la Marina Mercante o un dependiente elegible  
+- del cuerpo comisionado del Servicio de Salud Pública  
+- del cuerpo comisionado de la Administración Nacional Atmosférica y del Océano  
+- residente fuera de los Estados Unidos  
+
+Para obtener más información sobre cómo utilizar u obtener la FPCA, visite la [Secretaría del Estado de California](http://www.sos.ca.gov/elections/voter-registration/military-overseas-voters/) o [este sitio federal](https://www.fvap.gov/).  
+
+Asegúrese de llenar y enviar la inscripción del elector en línea o la FPCA de **60 a 90 días antes de la elección.**  Esto dará tiempo  para que la información y las boletas electorales se le envíen y para que las devuelva. La **fecha límite definitiva** para que envíe su formulario de inscripción en línea, por correo o en persona a la oficina electoral del condado es **15 días antes de la elección.**  
+
+Cuando se inscriba para votar, tendrá la opción de escoger entre que se le envíe su boleta electoral por correo, fax o correo electrónico.  
+
+Recibirá un voto permanente por correo, pero cada vez que se mude deberá llenar un nuevo [formulario de inscripción del elector de California en línea](http://registertovote.ca.gov/) o [FPCA](https://www.fvap.gov/).  
+
+Para obtener información sobre la votación, consulte ["¿Cómo me inscribo si soy militar, me encuentro en el extranjero o vivo fuera?"](#punto de Votar como militar en el extranjero
