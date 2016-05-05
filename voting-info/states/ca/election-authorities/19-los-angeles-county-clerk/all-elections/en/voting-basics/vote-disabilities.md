@@ -20,6 +20,3 @@ priority: "Minor"
 - Wheelchair-accessible voting booth  
 - TDD services for the deaf and hard of hearing--call 1 (562) 462-2259  
 - Audio Sample Ballots for major elections--call 1(562) 462-2117  
-
-
-
