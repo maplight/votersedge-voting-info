@@ -1,8 +1,14 @@
 ---
-title: "Do I have to register as a member of a political party?"
+title: "¿Tengo que inscribirme como miembro de un partido político?"
 published: true
 weight: 4
 section: register-to-vote
 priority: "Minor"
 ---
-You may either register as a member of a political party (Republican, Democratic, Green, etc.) or you may choose not to state a party preference. Your choice between registering as a party member or as a no-party-preference voter may affect whether or not you’re allowed to vote in a primary election to choose a candidate to run for a political party in the general election.
+**Usted puede elegir.**  
+- Usted puede elegir entre [partidos políticos calificados](http://www.sos.ca.gov/elections/political-parties/qualified-political-parties/) o elija “otro”  
+- **O** si usted no quiere inscribirse como miembro de un partido político, puede marcar la casilla junto a “No, no quiero revelar una preferencia por algún partido político” en el formulario de inscripción del elector.  
+- Su elección de no inscribirse con una preferencia por algún partido político puede afectar su capacidad de votar en una **Elección Primaria de Junio** para la presidencia de los Estados Unidos y para los Comités Centrales del Condado (cargos nominados por los partidos), pero aún podrá votar por los cargos y las iniciativas de ley en la boleta electoral.  
+- Podrá inscribirse sin preferencia por algún partido político y, aun así, podrá votar por cualquier candidato en la boleta electoral en la **Elección General de Noviembre**.  
+
+Para obtener más información, consulte [Cómo funcionan las Elecciones Primarias de California: explicación de los dos mejores](#punto de Qué son los dos mejores en la elección primaria) y [Cómo votar en la Elección Primaria Presidencial].(#punto de Elección primaria presidencial)
