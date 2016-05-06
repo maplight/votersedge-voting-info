@@ -1,5 +1,5 @@
 ---
-title: Be an Election Day Poll Worker
+title: Be an Election Day poll worker
 published: true
 weight: 1
 section: "more-voting-info"

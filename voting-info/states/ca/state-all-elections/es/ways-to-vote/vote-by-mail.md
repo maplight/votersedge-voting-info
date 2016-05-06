@@ -1,20 +1,17 @@
 ---
-title: "How Do I Vote by Mail?"
+title: "¿Cómo voto por correo?"
 published: true
 weight: 1
 section: ways-to-vote
 priority: "Minor"
 ---
-Request a vote-by-mail ballot from your County Elections Office.  
+Solicite una boleta electoral por correo en la oficina electoral de su condado.  
 
+Asegúrese de enviar su solicitud a tiempo para que se reciba en la oficina electoral al menos 7 días antes del día de las elecciones a las 5 p. m. 
 
+Siga las instrucciones para llenar su boleta electoral y no olvide firmar y sellar el sobre especial que se le entregó. Puede regresar su boleta:
+- por correo postal 
+- entregándola en una ubicación designada por su condado 
+- entregándola en cualquier lugar de votación de su condado antes de las 8 p. m. el día de las elecciones
 
-Make sure that you send in your request so that it’s received by the Elections Office no later than 7 days before the election by 5 PM. 
-
-Follow the directions to fill out your ballot and don’t forget to sign & seal the special envelope provided. You can return the ballot:
-- By mail 
-- Drop it off at a location designated by your county 
-- Drop it off at any polling place in your county by 8 pm on Election Day.
-
-If you mail it back don’t delay! Mailed ballots must be sent before or on Election Day and the Elections Office must receive it no later than 3 days after Election Day.
- 
+¡No se retrase si la envía por correo! Las boletas electorales regresadas por correo se deben enviar antes o el día de las elecciones y se deberán recibir en la oficina electoral a más tardar 3 días después del día de las elecciones.

@@ -1,10 +1,10 @@
 ---
-title: "What if I need language assistance?"
+title: "¿Qué sucede si necesito ayuda con el idioma?"
 published: true
 weight: 2
 section: register-to-vote
 priority: "Minor"
 ---
-The California Secretary of State's online application is available in English, Spanish, Chinese, Hindi, Japanese, Khmer, Korean, Tagalog, Thai, and Vietnamese. To register in one of these languages please select your language below.
+La [solicitud en línea de registro de votantes] de la Secretaría del Estado de California (http://www.sos.ca.gov/elections/voter-registration/) está disponible en:  
 
-Español Spanish 中文 Chinese हिन्दी Hindi 日本語 Japanese ខ្មែរ Khmer 한국어 Korean Tagalog ภาษาไทย Thai Tiếng Việt Vietnamese
+Español 中文 Chino हिन्दी Hindi 日本語 Japonés ខ្មែរ Jemer 한국어 Coreano Tagalog ภาษาไทย Tailandés Tiếng Việt Vietnamita
