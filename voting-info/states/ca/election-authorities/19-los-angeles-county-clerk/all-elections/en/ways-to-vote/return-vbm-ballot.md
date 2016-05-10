@@ -15,4 +15,4 @@ priority: "Minor"
 	
 Contact the Norwalk office at 1(800) 815-2666 or (562) 466-1323 to confirm business hours.  
 	
-**Drop it off** at any polling place in Los Angeles County on **Election Day,** from 7 AM to 8 PM.  
+**Drop it off** at any polling place in Los Angeles County on **Election Day, Tuesday, June 7** from 7 AM to 8 PM.  
