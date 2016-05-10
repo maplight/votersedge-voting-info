@@ -6,13 +6,6 @@ section: "ways-to-vote"
 priority: "Minor"
 ---
 
-**How do I return my vote-by-mail ballot for the May 3 Mail Ballot Special Election?**  
-
-May 3 is a mail-only special election. Every registered voter will receive a ballot for this election in the mail. **This is not the June 7 Presidential Primary election.** For information about the Presidential Primary, read the section below on the June 7 Primary Election.  
-
-**For the May 3 Mail Ballot Special Election:**  
-- Follow the instructions on the envelope, **sign** the envelope, and **mail it** back to the Marin County Elections Office making sure it’s **postmarked no later than May 3.**  
-
 **How do I return my vote-by-mail ballot for the June 7 Presidential Primary Election?**  
 - **Mail it** to the [Marin County Elections Department.](#section-election-office-contact)  
 
