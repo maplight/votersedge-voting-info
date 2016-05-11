@@ -1,5 +1,5 @@
 ---
-title: "Register to Vote"
+title: "Inscribase para votar"
 published: true
 weight: 0
 section: register-to-vote

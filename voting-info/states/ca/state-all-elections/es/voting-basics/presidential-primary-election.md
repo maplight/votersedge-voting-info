@@ -2,7 +2,7 @@
 title: "Cómo votar en la Elección Primaria Presidencial"
 published: true
 weight: 14
-section: "voting-basics"
+section: voting-info
 priority: low
 ---
 
