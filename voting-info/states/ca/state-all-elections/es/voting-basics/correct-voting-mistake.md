@@ -2,8 +2,8 @@
 title: "¿Cómo puedo corregir un error en mi votación?"
 published: true
 weight: 4
-section: "Información básica sobre la votación"
-priority: "baja"
+section: voting-info
+priority: low
 ---
 **Dañé, perdí o marqué incorrectamente mi boleta electoral, ¿cómo corrijo esto?**
 - Puede obtener una boleta electoral nueva **en tanto que todavía no haya emitido (votado) su boleta electoral.**
