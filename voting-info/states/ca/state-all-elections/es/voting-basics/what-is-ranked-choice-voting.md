@@ -2,7 +2,7 @@
 title: "¿Qué es la votación por orden de preferencia?"
 published: true
 weight: 16
-section: voting-basics
+section: voting-info
 priority: "low"
 ---
 La votación por orden de preferencia les permite a los electores votar por una 1.a, 2.a y 3.a opción de los candidatos para un solo cargo. Esto hace posible la elección de cargos locales por mayoría de votos sin la necesidad de una elección de segunda vuelta.
