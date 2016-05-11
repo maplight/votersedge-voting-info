@@ -1,8 +1,8 @@
 ---
-title: "Voter Registration Drives"
+title: Voter registration drives
 published: true
-weight: 8
-section: more-voting-info
+weight: 7
+section: "more-voting-info"
 priority: "Minor"
 ---
-yeah
+Visit the California Secretary of State's [Guide to Voter Registration Drives.](http://www.sos.ca.gov/elections/additional-elections-information/publications-and-resources/guide-vr-drives/)
