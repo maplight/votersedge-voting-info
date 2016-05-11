@@ -1,6 +1,6 @@
 ---
 title: "Voting is easy"
-published: true
+published: false
 weight: 4
 section: voting-basics
 priority: "Minor"
