@@ -3,7 +3,7 @@ title: "Cómo votar en la Elección Primaria Presidencial"
 published: true
 weight: 14
 section: voting-info
-priority: low
+priority: minor
 ---
 
 **Consulte [¿Quiere votar por el Presidente?](https://drive.google.com/file/d/0B0h2E_kd8S-LemNBUGhaWTZXamRqQnRXb1pNMXFjeVZ4eWJz/view?usp=sharing)**  
