@@ -1,6 +1,6 @@
 ---
 title: "Voting Basics"
-published: true
+published: false
 weight: 1
 section: voting-basics
 priority: "Major"
