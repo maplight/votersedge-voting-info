@@ -1,9 +1,9 @@
 ---
 title: "Votar es fácil: ¡regístrese, prepárese y vote!"
-published: false
+published: true
 weight: 1
 section: register-to-vote
-priority: low
+priority: minor
 ---
 
 
