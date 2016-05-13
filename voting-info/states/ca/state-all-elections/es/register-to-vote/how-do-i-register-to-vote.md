@@ -1,7 +1,7 @@
 ---
 title: "¿Cómo me registro para votar?"
 published: true
-weight: 0
+weight: 3
 section: register-to-vote
 priority: "Minor"
 ---
