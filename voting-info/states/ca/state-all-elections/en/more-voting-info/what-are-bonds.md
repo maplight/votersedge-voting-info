@@ -6,7 +6,6 @@ section: "more-voting-info"
 priority: Minor
 ---
 
-
 **What are bonds?**  
 
 Bonds are a form of long-term borrowing that the state uses to raise money for large projects. The state sells bonds to investors and agrees to repay the investors, with interest, over a certain number of years, somewhat like a mortgage.  
