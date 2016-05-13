@@ -1,7 +1,7 @@
 ---
 title: "¿Qué sucede si necesito ayuda con el idioma?"
 published: true
-weight: 2
+weight: 6
 section: register-to-vote
 priority: "Minor"
 ---
