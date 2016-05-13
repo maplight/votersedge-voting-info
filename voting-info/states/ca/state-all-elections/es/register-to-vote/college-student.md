@@ -1,7 +1,7 @@
 ---
 title: "¿Cómo me registro si soy estudiante universitario?"
 published: true
-weight: 8
+weight: 12
 section: register-to-vote
 priority: "Minor"
 ---
