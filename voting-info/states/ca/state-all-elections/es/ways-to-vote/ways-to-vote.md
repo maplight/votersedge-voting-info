@@ -1,5 +1,5 @@
 ----
- -title: "Ways to Vote"
+ -title: "Formas de Votar"
  -published: true
  -weight: 7
  -section: ways-to-vote
