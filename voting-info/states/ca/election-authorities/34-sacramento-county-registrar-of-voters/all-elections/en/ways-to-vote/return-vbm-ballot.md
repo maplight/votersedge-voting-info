@@ -24,7 +24,7 @@ priority: "Minor"
 
   **-OR-**  
   
-**Drop it off at a Voter Service Center** -- see times and locations listed below in the section [“How do I vote early in person?”](#item-vote-early-in-person)  
+**Drop it off at a Voter Service Center** -- see times and locations listed below in the section [“How do I vote early in person?”](#menu-item-vote-early-in-person)  
 
 **-OR-**  
 
