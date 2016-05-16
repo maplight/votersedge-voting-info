@@ -1,6 +1,6 @@
 ---
 title: "How do I vote in Orange County if I have disabilities?"
-published: false
+published: true
 weight: 9
 section: "voting-basics"
 priority: "Minor"
