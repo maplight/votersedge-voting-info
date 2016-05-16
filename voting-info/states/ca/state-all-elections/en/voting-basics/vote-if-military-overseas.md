@@ -5,7 +5,7 @@ weight: 6
 section: "voting-basics"
 priority: "Minor"
 ---
-**For information on registering check** [How do I register if I am military, overseas, or live abroad?](#menu-item-military-overseas)  
+**For information on registering check** [How do I register if I am military, overseas, or live abroad?](#menu-item-how-do-i-register-if-i-am-military-overseas-or-i-live-abroad)  
 
 **Receive and complete** your ballot:  
 When you registered to vote using California’s [online voter registration](http://registertovote.ca.gov/) or a [Federal Post Card Application](https://www.fvap.gov/uploads/FVAP/Outreach-Materials/FVAP_FPCA.pdf) **(FPCA)** you had the option to receive your ballot by mail, fax or email. In some counties you may be allowed to download a ballot. Check the [county list](http://www.sos.ca.gov/elections/voter-registration/military-overseas-voters/) to see if downloading is possible.  
