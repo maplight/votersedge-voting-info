@@ -20,7 +20,7 @@ priority: "Minor"
 
   **-OR-**  
   
-**Drop it off** at another convenient secure ballot location [Online List of Drop-Off Locations & Times Coming Soon!](http://www.elections.saccounty.net/ElectionInformation/Pages/InfoUpcomingElect.aspx)  
+**Drop it off** at another convenient secure ballot location [Online List of Drop-Off Locations & Times Coming Soon!](http://www.elections.saccounty.net/Documents/VBM%20Drop%20Off%20Sites%20Filler%20Page_ENG.pdf)  
 
   **-OR-**  
   
