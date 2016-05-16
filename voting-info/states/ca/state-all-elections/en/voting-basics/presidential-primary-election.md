@@ -38,6 +38,6 @@ If you want to vote in one of these party primaries, you must ask for that ballo
 
 **If you want to change your party registration before the primary,** then you **must** [re-register](http://registertovote.ca.gov/) and select that party. The last day to re-register to vote is May 23, 2016. You can always re-register again after the primary as either a “No Party Preference” voter or with any political party.  
 
-Also check [Information about political parties](#menu-item-political-parties). For detailed information on registration check [Register to Vote](#section-register-to-vote).  
+Also check [Information about political parties](#menu-item-information-about-political-parties). For detailed information on registration check [Register to Vote](#section-register-to-vote).  
 
 For more in-depth information visit [Everything you Need to Know About Presidential Primaries](http://lwv.org/blog/everything-you-need-know-about-presidential-primaries) and [Voting in the Primary Election](https://cavotes.org/vote/primary).  
