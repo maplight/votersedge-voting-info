@@ -6,8 +6,6 @@ section: "ways-to-vote"
 priority: "Minor"
 ---
 
-**How do I vote early in person for the June 7 Presidential Primary Election?**  
-
 **You can vote in person starting before Election Day from Monday, May 9 through Election Day, Tuesday, June 7.**  
 
 **Early voting location and hours:**  
