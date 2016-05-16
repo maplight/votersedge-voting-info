@@ -19,6 +19,6 @@ Tagalog/Filipino
 ภาษาไทย  Thai  
 Tiếng Việt  Vietnamese  
 
-To request a Sample Ballot in one of these languages or to request an interpreter or multilingual materials before an election, call 1 (800) 481-8683 or visit [Multilingual Assistance](https://www.lavote.net/home/voting-elections/voter-education/translation-services#Chinese).  
+To request a Sample Ballot in one of these languages or to request an interpreter or multilingual materials before an election, call 1 (800) 481-8683 or visit [Multilingual Assistance](https://www.lavote.net/home/voting-elections/voter-education/multilingual-services-program/multilingual-services-program).  
 
 **Bilingual services are available at polling places** across the County based on the different language needs of each community. Signs are posted in those poll locations identifying the language(s) spoken.  
