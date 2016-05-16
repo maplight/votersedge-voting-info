@@ -20,4 +20,4 @@ When you register to vote you will have the option to choose to have your ballot
 
 You will receive a permanent vote by mail status, but each time you move you must fill out either a new [online California voter registration form](http://registertovote.ca.gov/) or [FPCA](https://www.fvap.gov/).  
 
-For information on voting, check [How do I vote if I am military, overseas, or I live abroad?](#menu-item-vote-if-military-overseas)  
+For information on voting, check [How do I vote if I am military, overseas, or I live abroad?](#menu-item-how-do-i-vote-if-i-am-military-overseas-or-live-abroad)  
