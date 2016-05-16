@@ -35,7 +35,7 @@ priority: Minor
 **9. The right to ask questions to elections officials about election procedures** and watch the election process. If the person you ask cannot answer your questions, they must send youto the right person for an answer. If you are disruptive, they can stop answering you.  
 
 **10. The right to report any illigal or fraudulent election activity** to an elections official or the Secretary of State's office.  
-- On the web at **[www.sos.ca.gov](www.sos.ca.gov)**  
+- On the web at **[www.sos.ca.gov](https://www.sos.ca.gov)**  
 - By phone at **(800) 345-VOTE (8683)**  
 - By email at **elections@sos.cac.gov**
 
