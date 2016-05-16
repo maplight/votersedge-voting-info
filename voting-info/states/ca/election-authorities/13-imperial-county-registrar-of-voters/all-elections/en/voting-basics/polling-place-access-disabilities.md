@@ -7,7 +7,7 @@ priority: "Minor"
 ---
 
 **Accessible Voting Places**  
-**Check the back cover** of your Sample Ballot for the wheelchair symbol that shows whether or your polling place is accessible.  \
+**Check the back cover** of your Sample Ballot for the wheelchair symbol that shows whether or your polling place is accessible.  
 - "YES" means the voter’s polling place is accessible.  
 - "NO" means the voter’s polling place is not accessible.  
 
