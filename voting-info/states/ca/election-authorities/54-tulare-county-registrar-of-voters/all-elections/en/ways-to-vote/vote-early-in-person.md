@@ -1,5 +1,5 @@
 ---
-title: "Ways to vote section title"
+title: "How do I vote early in person in Tulare County?"
 published: true
 weight: 5
 section: "ways-to-vote"
