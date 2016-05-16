@@ -9,7 +9,7 @@ If you moved on or before the registration deadline, which is 15 days prior to t
 
 **I moved within the same county:**  
 - If you moved within 14 days before the election you can vote at the polling place for your old address.  
-- You may vote a [provisional ballot](#menu-item-what-is-provisional-ballot) at your new [polling place](#section-my-polling-place) or at the [county elections office](#section-election-office-contact).  
+- You may vote a [provisional ballot](#menu-item-what-is-a-provisional-ballot) at your new [polling place](#section-my-polling-place) or at the [county elections office](#section-election-office-contact).  
 You will need to fill out a written confirmation that you’re eligible to vote and registered in the county where you’re voting.  
 - If you moved to an address that is assigned to the same polling location as your old address, then no matter when you moved you may vote at that location. However, you **must** confirm your change of address at the polling place.  
 
