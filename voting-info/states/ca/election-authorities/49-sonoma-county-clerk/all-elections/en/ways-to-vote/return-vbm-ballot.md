@@ -22,7 +22,7 @@ priority: "Minor"
 - Santa Rosa Veteran’s Memorial Building 1351 Maple Ave.  
 - Sonoma County Registrar of Voters Office 435 Fiscal Dr.  
 
-  **-OR-**  
+ **-OR-**  
 
 **Drop it off on Saturday, May 28 and Saturday June, 4 from 10 AM - 4 PM**  
 - **Cloverdale Veteran’s Memorial Building** 205 West First St.  
@@ -37,7 +37,7 @@ priority: "Minor"
 - **Windsor Town Hall** 9291 Old Redwood Hwy. Bldg. 400  
 - **Sonoma County Registrar of Voters Office** 435 Fiscal Dr.  
 
-  **-OR-**  
+ **-OR-**  
 
 **Drop it off** at any polling place in Sonoma County on **Election Day, Tuesday, June 7** from 7 AM to 8 PM.  
 
