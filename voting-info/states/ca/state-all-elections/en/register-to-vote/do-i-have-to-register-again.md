@@ -7,6 +7,7 @@ priority: Minor
 ---
 
 **You must [re-register](http://registertovote.ca.gov/) if you**:  
+
 - Move to a different address.  
 - Change your name.  
 - Wish to change political parties or to register with no party preference.  
