@@ -1,44 +1,42 @@
 ---
-title: "California's Voter Bill of Rights"
+title: "Declaración de Derechos de los Votantes"
 published: true
-weight: 1
+weight: 0
 section: "my-rights-as-a-voter"
-priority: Minor
+priority: "Minor"
 ---
 
-**You have the following rights:**  
+**Usted Tiene Los Siguientes Derechos**
 
-**1. The right to vote if you are a registered voter.**  
-	You are eligible to vote if you are:  
-   - a U.S. citizen living in California  
-   - at least 18 years old  
-   - registered where you currently live  
-   - not in prison or on parole for a felony  
-   
-**2. The right to vote if you are a registered voter even if your name is not on the list.** You will vote using a provisional ballot. Your vote will be counted if elections officials determine that you are eligible to vote.  
+**1. El derecho a votar, si está inscrito como votante.** Puede votar si: 
+- es ciudadano de los EE.UU. y vive en California
+- está inscrito en el lugar donde vive actualmente
+- tiene al menos 18 años de edad
+- no está en prisión o en libertad condicional por haber cometido un delito mayor
 
-**3. The right to vote if you are still in line when the polls close.**  
+**2. El derecho a votar si está inscrito como votante, incluso si su nombre no está en la lista.** Votará con una boleta provisional. Si los funcionarios electorales determinan que es calificado para votar, su voto se contará.
 
-**4. The right to cast a secret ballot** without anyone bothering you or telling you how to vote.  
+**3. El derecho a votar si se encuentra en la cola a la hora en que cierran los centros de votación.**
 
-**5. The right to get a new ballot if you have made a mistake,** if you have not already cast your ballot. You can:  
-- **Ask an elections official at a polling place** for a new ballot; or  
-- **Exchange your vote-by-mail ballot** for a new one at an elections office, or at your polling place; or  
-- **Vote using a provisional ballot,** if you do not have your orginal vote-by-mail ballot.  
-    
-**6. The right to get help casting your ballot** from anyone you choose, except from your employer or union representative.  
+**4. El derecho a emitir un voto en secreto** sin que nadie lo moleste o le diga cómo votar.
 
-**7. The right to drop off your completed vote-by-mail ballot at any polling place** in the county where you are registered to vote.  
+**5. El derecho a obtener una boleta nueva si cometió un error**, siempre que todavía no haya emitido su voto. Puede:
+- **Pedirle a un funcionario electoral de un centro de votación** una nueva boleta; o
+- **Cambiar su boleta de votación por correo** por una nueva en una oficina electoral o en su centro de votación; o
+- **Votar usando una boleta provisional**, si no tiene su boleta original de votación por correo.
 
-**8. The right to get election materials in a language other than English** if enough people in your voting precinct speak that language.  
+**6. El derecho a recibir ayuda para emitir su voto de cualquier persona que usted elija**, excepto su empleador o representante sindical.
 
-**9. The right to ask questions to elections officials about election procedures** and watch the election process. If the person you ask cannot answer your questions, they must send youto the right person for an answer. If you are disruptive, they can stop answering you.  
+**7. El derecho a dejar su boleta de votación por correo completada en cualquier centro de votación** del condado en que está inscrito para votar.
 
-**10. The right to report any illigal or fraudulent election activity** to an elections official or the Secretary of State's office.  
-- On the web at **[www.sos.ca.gov](www.sos.ca.gov)**  
-- By phone at **(800) 345-VOTE (8683)**  
-- By email at **elections@sos.cac.gov**
+**8. El derecho a recibir materiales electorales en un idioma que no sea inglés**, si hay una cantidad suficiente de gente en su distrito electoral que hablaese idioma.
 
-If you believe you have been denied any of these rights, call the Secretary of State's confidential toll-free voter hotline at **(800) 345-VOTE (8683).**  
+**9. El derecho a hacerles preguntas a los funcionarios electorales sobre los procedimientos de votación** y a observar el proceso electoral. Si la personaa quien le pregunta no puede contestar sus preguntas, tendrá que dirigirlea una persona que le pueda contestar. Si usted estorba, pueden dejar decontestarle.
 
-Download your Spanish version of the [California Voter Bill of Rights](http://elections.cdn.sos.ca.gov//voter-bill-of-rights/spanish.pdf) from the Secretary of State.
+**10. El derecho a denunciar toda actividad electoral ilegal o fraudulenta** a unfuncionario electoral o a la oficina del Secretario de Estado.
+- En la web en **[www.sos.ca.gov](www.sos.ca.gov)**
+- Por teléfono al **(800) 232-VOTA (8682)**
+- Por email a **elections@sos.ca.gov**
+
+Si cree que le negaron cualquierade estos derechos, llame en forma confidencial y sin cargo a la Línea deasistencia al votante del Secretario de Estado al **(800) 232-VOTA (8682)**.
+
