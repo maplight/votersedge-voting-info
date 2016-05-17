@@ -20,11 +20,11 @@ priority: "Minor"
 
   **-OR-**  
   
-**Drop it off** at another convenient secure ballot location [Online List of Drop-Off Locations & Times Coming Soon!](http://www.elections.saccounty.net/ElectionInformation/Pages/InfoUpcomingElect.aspx)  
+**Drop it off** at another convenient secure ballot location [Online List of Drop-Off Locations & Times Coming Soon!](http://www.elections.saccounty.net/Documents/VBM%20Drop%20Off%20Sites%20Filler%20Page_ENG.pdf)  
 
   **-OR-**  
   
-**Drop it off at a Voter Service Center** -- see times and locations listed below in the section [“How do I vote early in person?”](#menu-item-vote-early-in-person)  
+**Drop it off at a Voter Service Center** -- see times and locations listed below in the section [“How do I vote early in person?”](#menu-item-how-do-i-vote-early-in-person-in-sacramento-county)  
 
 **-OR-**  
 
