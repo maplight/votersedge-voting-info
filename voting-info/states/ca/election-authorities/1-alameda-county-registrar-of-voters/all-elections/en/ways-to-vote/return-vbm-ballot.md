@@ -18,12 +18,9 @@ priority: "Minor"
 
 	**-OR-**  
 
-- At the René C. Davidson Courthouse, 1225 Fallon St, Oakland - located inside the courthouse next to the Sheriff's check-in station on:
-	Monday-Friday, 8:30 a.m. - 5 PM   
-	Saturday – May 28, 9:00AM – 3:00 PM  
-	Sunday – May 29, 9:00AM – 3:00 PM  
-	Saturday – June 4, 9:00AM – 3:00 PM  
-	Sunday – June 5	9:00AM – 3:00 PM  
+- Monday-Friday, 8:30 a.m. - 5 PM  
+       René C. Davidson Courthouse  
+       1225 Fallon St, Oakland - Located inside the courthouse next to the Sheriff's check-in station  
 
 **-OR-**  
 	

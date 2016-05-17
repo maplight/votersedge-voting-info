@@ -1,7 +1,7 @@
 ---
 title: "¿Cómo voto en persona en un lugar de votación?"
 published: true
-weight: 3
+weight: 5
 section: ways-to-vote
 priority: "Minor"
 ---

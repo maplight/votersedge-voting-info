@@ -11,4 +11,4 @@ Find your polling place:
 - On the [Contra Costa Elections](http://www.cocovote.us/current-election/where-do-i-vote/#Search) website.  
 - Call (925) 335-7800 for information.  
 - Look on the **back cover of your Sample Ballot** for the address.  
-- New voters can find helpful information on the [Contra Costa County Elections Division website.](http://www.cocovote.us/voting/voting-frequently-asked-questions/)  
+- New voters can find helpful infgormation on the [Contra Costa County Elections Division website.](http://www.cocovote.us/voting/voting-frequently-asked-questions/)  

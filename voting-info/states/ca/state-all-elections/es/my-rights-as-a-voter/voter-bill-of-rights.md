@@ -41,4 +41,4 @@ priority: Minor
 
 If you believe you have been denied any of these rights, call the Secretary of State's confidential toll-free voter hotline at **(800) 345-VOTE (8683).**  
 
-Download your Spanish version of the [California Voter Bill of Rights](http://elections.cdn.sos.ca.gov//voter-bill-of-rights/spanish.pdf) from the Secretary of State.
+Download your [California Voter Bill of Rights](https://drive.google.com/file/d/0B0h2E_kd8S-LTFJWbm9hbkFDTUlGdFVoeWpDWFVfT1pjUUpJ/view?usp=sharing) from the Secretary of State.

@@ -3,9 +3,8 @@ title: "Los derechos de las personas con condenas penales"
 published: true
 weight: 4
 section: "my-rights-as-a-voter"
-priority: "minor"
+priority: "low"
 ---
-
 #### ¿Cuáles son mis derechos electorales si tengo un delito menor?  
 Una condena por delito menor no afecta en absoluto su derecho a votar. Puede votar en todas las elecciones.  
 

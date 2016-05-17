@@ -1,6 +1,6 @@
 ---
 title: "How do I vote if I speak a language other than English in Imperial County?"
-published: true
+published: false
 weight: 11
 section: "voting-basics"
 priority: "Minor"

@@ -1,7 +1,7 @@
 ---
 title: "¿Qué sucede si divulgar mi dirección puede ponerme en una situación en la que mi vida esté en riesgo?"
 published: true
-weight: 7
+weight: 0
 section: register-to-vote
 priority: "Minor"
 ---

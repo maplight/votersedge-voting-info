@@ -1,5 +1,5 @@
 ---
-title: "How do I vote at the polling place in person in Riverside County?"
+title: "Ways to vote section title"
 published: true
 weight: 6
 section: "ways-to-vote"

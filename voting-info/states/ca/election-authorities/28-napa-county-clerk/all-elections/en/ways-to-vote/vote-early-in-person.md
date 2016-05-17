@@ -15,7 +15,7 @@ priority: "Minor"
   
 **-OR-**  
   
-**Go to a Voting Assistance Center!** These are places where voters can receive a ballot/ be re-issued a vote-by-mail ballot, obtain an envelope, or drop off their voted ballot.  
+**Go to a Voting Assistance Center!** These are places where voters can receive a ballot/ be re-issued a vote-by-mail ballot, obtain an envelope, or drop of their voted ballot.  
 
   **Voting Assistance Center Hours:**  
   **Saturday, June 4 and Sunday, June 5** from 8:30 AM to 4:30 PM  

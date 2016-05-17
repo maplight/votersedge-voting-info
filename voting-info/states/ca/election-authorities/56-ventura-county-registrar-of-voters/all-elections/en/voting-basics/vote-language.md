@@ -8,7 +8,7 @@ priority: "Minor"
 
 **How do I vote if I speak a language other than English?**  
 
-The Ventura County Department of Elections **website and Sample Ballot** is available in: [Español/Spanish](http://recorder.countyofventura.org/elecciones/?lang=es)  
+The Ventura County Department of Elections **website and Sample Ballot** is available in: [Español  Spanish](http://recorder.countyofventura.org/elecciones/?lang=es)  
 
 **Facsimile ballots** are available at some polling places in these languages:  
 中文 /Chinese  

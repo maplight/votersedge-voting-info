@@ -1,5 +1,5 @@
 ---
-title: "How do I vote at the polling place in person in San Luis Obispo County?"
+title: "How do I vote at the polling place in person?"
 published: true
 weight: 6
 section: "ways-to-vote"

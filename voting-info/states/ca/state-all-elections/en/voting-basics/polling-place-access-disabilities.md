@@ -7,7 +7,7 @@ priority: "Minor"
 ---
 **Accessible information**  
 
-The state [Official Voter Information Guide](http://voterguide.sos.ca.gov/) that is mailed to each registered voter is available in a downloadable MP3 [audio version](http://www.sos.ca.gov/elections/voting-resources/voters-disabilities/), audio cassettes, in American Sign Language, and in large print. You may call (800) 345-8683 to request these versions.  
+The state Official Voter Information Guide that is mailed to each registered voter is available in a downloadable MP3 [audio version](http://www.sos.ca.gov/elections/voting-resources/voters-disabilities/), audio cassettes, in American Sign Language, and in large print. You may call (800) 345-8683 to request these versions.  
 
 The California Secretary of State also maintains a Voter Hotline for voters who are deaf, hard of hearing, or speech-impaired at: (800) 833-8683 - TTY/TDD  
 
@@ -37,4 +37,4 @@ Poll workers must provide curbside voting for voters with disabilities who need 
 
 A poll worker will bring the list to sign, the ballot, and other required materials to the voter’s car.  The poll worker will take everything back into the polling place and put the ballot in the ballot box or scanner.  
 
-For more information check [Rights of voters with disabilities](#menu-item-rights-of-voters-with-disabilities).  
+For more information check [Rights of voters with disabilities](#menu-item-disability-access).

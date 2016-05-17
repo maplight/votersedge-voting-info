@@ -7,7 +7,7 @@ priority: "Minor"
 ---
 
 **Accessible Voting Places**  
-Check [online](http://elections.co.kern.ca.us/elections/VoterInfo/Address.asp) or on the back cover of your Sample Ballot for the wheelchair symbol that shows whether or your polling place is accessible. Accessible voting is also available at the County Elections Office.  
+**Check [online](http://elections.co.kern.ca.us/elections/VoterInfo/Address.asp) or on the back cover of your Sample Ballot for the wheelchair symbol that shows whether or your polling place is accessible. Accessible voting is also available at the County Elections Office.  
 
 **Accessible Voting Information**  
 

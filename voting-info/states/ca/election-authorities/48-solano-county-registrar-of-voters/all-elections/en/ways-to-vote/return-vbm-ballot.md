@@ -22,4 +22,4 @@ priority: "Minor"
   
 **Drop it off** at any polling place in Solano County on **Election Day, Tuesday, June 7** from 7 AM to 8 PM  
 
-For more information about voting by mail, visit the [Solano County Registrar of Voters Office](http://www.solanocounty.com/depts/rov/voting_by_mail/default.asp) online.  
+For more information about voting by mail, visit the [Solano County Registrar of Voters Office](http://www.solanocounty.com/depts/rov/voting_by_mail/voting_by_mail_(vbm)_information.asp) online.  

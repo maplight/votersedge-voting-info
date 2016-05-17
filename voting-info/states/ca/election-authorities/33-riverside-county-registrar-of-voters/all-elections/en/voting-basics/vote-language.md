@@ -1,5 +1,5 @@
 ---
-title: "How do I vote in Riverside County if I speak a language other than English?"
+title: "How do I vote in Riverside County if I have disabilities?"
 published: true
 weight: 11
 section: "voting-basics"

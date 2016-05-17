@@ -6,7 +6,7 @@ section: "ways-to-vote"
 priority: "Minor"
 ---
 
-**You can vote in person starting before Election Day from Monday, May 9 through Election Day, Tuesday, June 7.**  
+You can vote in person starting before Election Day from from 29 days before Election Day through the day before Election Day.  
 
 **Early voting location and hours:**  
 Imperial County Elections Office  

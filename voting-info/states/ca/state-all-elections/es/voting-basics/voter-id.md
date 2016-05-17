@@ -3,7 +3,7 @@ title: "¿Debo mostrar una identificación para poder votar?"
 published: true
 weight: 1
 section: voting-basics
-priority: minor
+priority: low
 ---
 
 Para **inscribirse para votar** deberá proporcionar el número de su licencia de conducir o de su tarjeta de identificación de California, o proporcionar los últimos cuatro dígitos de su número de seguro social.  

@@ -1,7 +1,7 @@
 ---
 title: "What is a permanent vote-by-mail voter?"
 published: true
-weight: 8
+weight: 5
 section: register-to-vote
 priority: "Minor"
 ---
