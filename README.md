@@ -16,3 +16,9 @@ voting-info contains:
             single-election - override individual all-elections pages by election date & section
 
  as of 12-24 ca is our working example, which we will base IL and NY off 
+
+
+# How to compile:
+cd tools/scripts
+./compileJSON.py
+and git commit the changes.
