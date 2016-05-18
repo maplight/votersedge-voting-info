@@ -45,7 +45,7 @@ votingContentState = {
 def getJSON(filePath):
     with open(filePath) as data_file:
         data = json.load(data_file)
-    print json.dumps(data, sort_keys=True, indent=4, separators=(',', ': '))
+    # print json.dumps(data, sort_keys=True, indent=4, separators=(',', ': '))
     return data
 
 def getFile(file):
@@ -99,7 +99,7 @@ for election in election_dates:
             if os.path.exists(state_single_election_section):
                 for file in [doc for doc in os.listdir(state_single_election_section)
                     if doc.endswith(".md")]:
-                        print file
+                        # print file
                         state_single_election_file_list.append( {'path': state_single_election_section + '/' + file, 'section': section})
         # Process the file list for this election.
         for state_single_election_file_content in state_single_election_file_list:
@@ -149,7 +149,7 @@ for election_authority in election_authorities_in_state:
         if os.path.exists(election_authority_file_path):
 
             if os.path.exists(election_authority_file_path + '/' + section):
-                print election_authority_file_path + '/' + section
+                # print election_authority_file_path + '/' + section
                 for file in [doc for doc in os.listdir(election_authority_file_path + '/' + section)
                     if doc.endswith(".md")]:
                         # print election_authority_file_path + '/' + section + '/' + file
@@ -218,4 +218,4 @@ for election_authority in election_authorities_in_state:
 
 
 print "Done: " + STATE
-sys.exit()
+
