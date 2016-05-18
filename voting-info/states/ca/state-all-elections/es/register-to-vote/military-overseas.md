@@ -2,7 +2,7 @@
 title: "¿Cómo me inscribo si soy militar, me encuentro en el extranjero o vivo fuera?"
 published: true
 weight: 11
-section: register-to-vote
+section: "register-to-vote"
 priority: "Minor"
 ---
 Inscríbase para votar ya sea utilizando [la inscripción del elector en línea] de California (http://registertovote.ca.gov/) o al presentar llenada la [Solicitud de tarjeta postal federal (Federal Post Card Application, FPCA)](https://www.fvap.gov/uploads/FVAP/Forms/fpca2013.pdf), si es un ciudadano de los Estados Unidos que es:  

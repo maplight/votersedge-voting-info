@@ -3,7 +3,7 @@ title: "Do I have to register as a member of a political party?"
 published: true
 weight: 10
 section: "register-to-vote"
-priority: Minor
+priority: "Minor"
 ---
 
 **You have a choice.**  

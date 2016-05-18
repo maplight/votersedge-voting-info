@@ -2,7 +2,7 @@
 title: "Do I have to register again if I already registered to vote?"
 published: true
 weight: 9
-section: register-to-vote
+section: "register-to-vote"
 priority: "Minor"
 ---
 You must reregister if you:

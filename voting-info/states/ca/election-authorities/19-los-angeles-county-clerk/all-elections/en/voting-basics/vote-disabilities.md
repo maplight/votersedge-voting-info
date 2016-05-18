@@ -2,7 +2,7 @@
 title: "How do I vote if I have disabilities in LA County?"
 published: true
 weight: 9
-section: voting-basics
+section: "voting-basics"
 priority: "Minor"
 ---
 **Check the back cover** of Sample Ballot for the blue symbol that shows if your polling place is wheelchair accessible.  

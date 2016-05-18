@@ -2,7 +2,7 @@
 title: "How do I vote at the polling place in person in San Francisco County?"
 published: true
 weight: 6
-section: ways-to-vote
+section: "ways-to-vote"
 priority: "Minor"
 ---
 

@@ -2,7 +2,7 @@
 title: "¿Cómo me registro para votar?"
 published: true
 weight: 3
-section: register-to-vote
+section: "register-to-vote"
 priority: "Minor"
 ---
 **En la red en [registertovote.ca.gov](http://registertovote.ca.gov//)**

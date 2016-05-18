@@ -3,7 +3,7 @@ title: "How to vote in the Presidential Primary"
 published: true
 weight: 14
 section: "voting-basics"
-priority: Minor
+priority: "Minor"
 ---
 
 **Take a look at [Do you want to vote for President?](https://drive.google.com/file/d/0B0h2E_kd8S-LemNBUGhaWTZXamRqQnRXb1pNMXFjeVZ4eWJz/view?usp=sharing)**  

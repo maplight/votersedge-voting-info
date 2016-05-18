@@ -2,7 +2,7 @@
 title: "¿Qué sucede si divulgar mi dirección puede ponerme en una situación en la que mi vida esté en riesgo?"
 published: true
 weight: 7
-section: register-to-vote
+section: "register-to-vote"
 priority: "Minor"
 ---
 En caso de que divulgar su dirección pueda ponerlo en una situación en la que su vida esté en riesgo, es posible que califique para el programa de domicilios confidenciales [Seguro en casa](http://www.sos.ca.gov/registries/safe-home/).  

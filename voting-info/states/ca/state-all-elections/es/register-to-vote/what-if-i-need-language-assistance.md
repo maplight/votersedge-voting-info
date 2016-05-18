@@ -2,7 +2,7 @@
 title: "¿Qué sucede si necesito ayuda con el idioma?"
 published: true
 weight: 6
-section: register-to-vote
+section: "register-to-vote"
 priority: "Minor"
 ---
 La [solicitud en línea de registro de votantes] de la Secretaría del Estado de California (http://www.sos.ca.gov/elections/voter-registration/) está disponible en:  

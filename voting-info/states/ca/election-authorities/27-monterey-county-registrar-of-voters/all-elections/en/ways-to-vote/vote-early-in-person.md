@@ -2,7 +2,7 @@
 title: "How do I vote early in person in Monterey County?"
 published: true
 weight: 5
-section: ways-to-vote
+section: "ways-to-vote"
 priority: "Minor"
 ---
 

@@ -3,7 +3,7 @@ title: "Do I have to show identification to vote?"
 published: true
 weight: 1
 section: "voting-basics"
-priority: Minor
+priority: "Minor"
 ---
 
 To **register to vote,** you will need to provide your California driver’s license or ID card number or the last four digits of your Social Security number.  

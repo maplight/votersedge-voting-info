@@ -2,7 +2,7 @@
 title: "¿Cómo voto por correo?"
 published: true
 weight: 1
-section: ways-to-vote
+section: "ways-to-vote"
 priority: "Minor"
 ---
 Solicite una boleta electoral por correo en la oficina electoral de su condado.  

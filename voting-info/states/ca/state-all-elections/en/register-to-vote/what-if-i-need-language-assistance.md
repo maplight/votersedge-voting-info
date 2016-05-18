@@ -3,7 +3,7 @@ title: "What if I need language assistance?"
 published: true
 weight: 6
 section: "register-to-vote"
-priority: Minor
+priority: "Minor"
 ---
 
 The California Secretary of State's [online voter registration application](http://www.sos.ca.gov/elections/voter-registration/) is available in:  

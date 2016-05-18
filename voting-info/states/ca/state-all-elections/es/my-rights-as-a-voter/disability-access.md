@@ -2,7 +2,7 @@
 title: "Los derechos de los electores con discapacidades"
 published: true
 weight: 2
-section: my-rights-as-a-voter
+section: "my-rights-as-a-voter"
 priority: "Minor"
 ---
 #### ¿Cuáles son mis derechos para ingresar y votar en los lugares de votación?  

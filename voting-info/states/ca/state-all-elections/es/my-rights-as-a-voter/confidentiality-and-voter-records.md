@@ -2,7 +2,7 @@
 title: "¿La información del registro de votantes es confidencial?"
 published: true
 weight: 5
-section: my-rights-as-a-voter
+section: "my-rights-as-a-voter"
 priority: "Minor"
 ---
 - La lista del registro de votantes no está disponible para el público en general.

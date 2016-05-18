@@ -3,7 +3,7 @@ title: "Vote at the Polls on Election Day"
 published: false
 weight: 6
 section: "ways-to-vote"
-priority: Minor
+priority: "Minor"
 ---
 **How do I vote at the polling place in person?**  
 > Polling places are open from 7 a.m. to 8 p.m. on Election Day.  

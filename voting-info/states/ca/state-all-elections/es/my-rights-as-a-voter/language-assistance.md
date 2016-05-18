@@ -2,7 +2,7 @@
 title: "El derecho de los electores a recibir ayuda en otros idiomas"
 published: true
 weight: 3
-section: my-rights-as-a-voter
+section: "my-rights-as-a-voter"
 priority: "Minor"
 ---
 #### ¿Qué derechos tengo para recibir ayuda en otros idiomas?  

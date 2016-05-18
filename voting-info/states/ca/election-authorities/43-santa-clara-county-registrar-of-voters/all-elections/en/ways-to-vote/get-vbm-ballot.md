@@ -2,7 +2,7 @@
 title: "How do I get a vote-by-mail ballot in Santa Clara County?"
 published: true
 weight: 3
-section: ways-to-vote
+section: "ways-to-vote"
 priority: "Minor"
 ---
 

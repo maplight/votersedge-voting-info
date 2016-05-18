@@ -2,7 +2,7 @@
 title: "¿Puedo inscribirme para votar?"
 published: true
 weight: 2
-section: register-to-vote
+section: "register-to-vote"
 priority: "Minor"
 ---
 Para poder inscribirse para votar en California, usted debe:

@@ -2,8 +2,8 @@
 title: "¿Cómo voto si hablo un idioma distinto al inglés?"
 published: true
 weight: 10
-section: voting-info
-priority: minor
+section: "voting-info"
+priority: "Minor"
 ---
 La oficina de la Secretaría del Estado proporciona materiales y ayuda relacionados con la votación en nueve idiomas distintos al inglés.  
 

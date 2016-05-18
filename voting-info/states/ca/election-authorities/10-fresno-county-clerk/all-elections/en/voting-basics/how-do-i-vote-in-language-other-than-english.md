@@ -2,7 +2,7 @@
 title: "How do I vote if I speak a language other than English in Fresno County?"
 published: true
 weight: 11
-section: voting-basics
+section: "voting-basics"
 priority: "Minor"
 ---
 The Fresno County Clerk/Registrar of Voters offers the [Application for Vote-by-Mail Ballot](http://www.co.fresno.ca.us/uploadedFiles/Departments/County_Clerk_Registrar_of_Voters/PDF/VotebyMailEnglish-Spanish.pdf) and Sample Ballots in Spanish.  

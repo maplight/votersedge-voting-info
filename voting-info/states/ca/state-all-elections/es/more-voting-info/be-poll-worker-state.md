@@ -2,7 +2,7 @@
 title: "Sé un trabajador electoral el día de las elecciones"
 published: true
 weight: 1
-section: more-voting-info
+section: "more-voting-info"
 priority: "Minor"
 ---
 ¿Qué se necesita para ser un trabajador electoral? Debes ser:  

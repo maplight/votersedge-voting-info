@@ -2,7 +2,7 @@
 title: "How do I vote in Contra Costa County if I have disabilities?"
 published: true
 weight: 9
-section: voting-basics
+section: "voting-basics"
 priority: "Minor"
 ---
 

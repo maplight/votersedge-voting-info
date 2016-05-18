@@ -2,7 +2,7 @@
 title: "Announcements"
 published: false
 weight: -10
-section: election-office
+section: "election-office"
 priority: "Minor"
 ---
 No announcements entered

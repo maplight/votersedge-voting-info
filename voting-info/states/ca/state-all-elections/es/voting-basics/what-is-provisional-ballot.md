@@ -3,7 +3,7 @@ title: "What is a provisional ballot?"
 published: true
 weight: 3
 section: "voting-basics"
-priority: Minor
+priority: "Minor"
 ---
 
 **A provisional ballot is a regular ballot that is put inside of a provisional envelope.** 

@@ -3,7 +3,7 @@ title: "What is a permanent vote-by-mail voter?"
 published: true
 weight: 8
 section: "register-to-vote"
-priority: Minor
+priority: "Minor"
 ---
 
 When you register you can choose to have vote-by-mail ballots (“absentee” ballots) automatically sent to you for every election.   
