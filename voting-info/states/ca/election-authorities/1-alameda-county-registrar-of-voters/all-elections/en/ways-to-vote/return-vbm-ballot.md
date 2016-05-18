@@ -22,6 +22,7 @@ priority: "Minor"
   René C. Davidson Courthouse  
   1225 Fallon St, Oakland - Located inside the courthouse next to the Sheriff's check-in station  
 
+
 **-OR-**  
 	
 **Drop it off** at any polling place in Alameda County on **Election Day** from 7 AM to 8 PM  

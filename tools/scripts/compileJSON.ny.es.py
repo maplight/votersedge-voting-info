@@ -100,7 +100,7 @@ for election in election_dates:
             if os.path.exists(state_single_election_section):
                 for file in [doc for doc in os.listdir(state_single_election_section)
                     if doc.endswith(".md")]:
-                        print file
+                        # print file
 
                         state_single_election_file_list.append( {'path': state_single_election_section + '/' + file, 'section': section})
         # Process the file list for this election.
@@ -220,4 +220,4 @@ for election_authority in election_authorities_in_state:
 
 
 print "Done: " + STATE
-sys.exit()
+
