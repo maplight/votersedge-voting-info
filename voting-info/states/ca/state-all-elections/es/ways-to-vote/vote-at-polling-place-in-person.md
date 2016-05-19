@@ -20,15 +20,15 @@ priority: "Minor"
 **Vaya a la mesa de registro**. Diga su nombre y dirección, y firme la lista de electores. Un trabajador electoral le dará una boleta electoral.  
 
 **Para boleta electoral de papel**  
- 1. **Marque (llene)** su boleta electoral de acuerdo con las siguientes instrucciones.  
- 2. **Desprenda** el talón que está en la parte superior de la boleta electoral. Puede usar este talón después para verificar que se contó su boleta electoral.  
- 3. Para preservar la confidencialidad de su voto, **meterá su boleta electoral** en un sobre o en una carpeta, o la doblará si su condado se lo indica.  
- 4. **Emita** su boleta electoral siguiendo los procedimientos requeridos por su condado.  
- 5. **Coloque su boleta electoral** ya sea en una urna electoral o en un escáner, si su lugar de votación usa escáner.  
+- **Marque (llene)** su boleta electoral de acuerdo con las siguientes instrucciones.  
+- **Desprenda** el talón que está en la parte superior de la boleta electoral. Puede usar este talón después para verificar que se contó su boleta electoral.  
+- Para preservar la confidencialidad de su voto, **meterá su boleta electoral** en un sobre o en una carpeta, o la doblará si su condado se lo indica.  
+- **Emita** su boleta electoral siguiendo los procedimientos requeridos por su condado.  
+- **Coloque su boleta electoral** ya sea en una urna electoral o en un escáner, si su lugar de votación usa escáner.  
 
 **Para máquinas para votar con pantalla táctil**  
 
 No todos los condados de California usan el mismo tipo de máquinas para votar con pantalla táctil.  
- 1. El trabajador electoral le dará un código de acceso único o una tarjeta de memoria para computadora para tener acceso al tipo de pantalla táctil en su condado.  
- 2. Siga las instrucciones de la máquina.  
- 3. Si tiene alguna pregunta, pregunte al trabajador electoral.
+- El trabajador electoral le dará un código de acceso único o una tarjeta de memoria para computadora para tener acceso al tipo de pantalla táctil en su condado.  
+- Siga las instrucciones de la máquina.  
+- Si tiene alguna pregunta, pregunte al trabajador electoral.  
