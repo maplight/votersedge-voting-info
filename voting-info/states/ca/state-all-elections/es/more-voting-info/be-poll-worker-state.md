@@ -27,5 +27,4 @@ priority: "Minor"
 3. Gana dinero extra (varía según el condado).  
 
 #### ¿Cómo puedes hacer una solicitud?  
-Para pedir una solicitud, comunícate a tu [oficina electoral del condado](#sección de Contacto de la oficina electoral).
---
+Para pedir una solicitud, comunícate a tu [oficina electoral del condado](#menu-item-contact-county-election-office).  
