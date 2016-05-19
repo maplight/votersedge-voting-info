@@ -7,7 +7,7 @@ priority: "Minor"
 ---
 
 
-**Request** a vote-by-mail ballot from your [County Elections Office.](#section-election-office-contact)
+**Request** a vote-by-mail ballot from your [County Elections Office.](http://www.sos.ca.gov/elections/voting-resources/county-elections-offices/)
 
 Make sure that you send in your request so that it’s received by your county elections office _**no later**_ than 7 days before the election by 5 PM.   
 
