@@ -27,4 +27,4 @@ What does it take to be a poll worker? You must be:
 3. Earn extra money (varies by county)  
 
 #### How do you apply?  
-Contact your [county elections office](#section-election-office-contact) for an application.
+Contact your [county elections office](http://www.sos.ca.gov/elections/voting-resources/county-elections-offices/) for an application.
