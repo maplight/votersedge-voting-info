@@ -18,9 +18,9 @@ You can make a written request for this ballot if you:
 Make a written request. Your [county elections office](#section-election-office-contact) might have a pre-printed form for you to use.  
 - If you don’t have a form, then make sure that the request authorizes a particular person to bring you the ballot and is signed under the penalty of perjury.  
 	You can use this [Los Angeles County Emergency Vote-by-Mail Application](https://www.lavote.net/documents/emergency-vote-by-mail-application.pdf) sample request as a guide to help you write a request to your county.
-- Mark the ballot as directed. For detailed instructions check [How do I vote by mail?](#menu-item-vote-by-mail)  
+- Mark the ballot as directed. For detailed instructions check [How do I vote by mail?](#menu-item-¿cómo-voto-por-correo)  
 - Return the ballot and envelope personally, or through your authorized representative, to either the county elections office or any polling place in your county.  
 
-Or, if you are able, you can go to your [county elections office](#section-election-office-contact) during open hours and [vote early in person.](#menu-item-vote-early-in-person)  
+Or, if you are able, you can go to your [county elections office](#section-election-office-contact) during open hours and [vote early in person.](#menu-item-vote-anticipadamente-en-persona)  
 
 For more information and sample requests, visit [Disability Rights California](http://www.disabilityrightsca.org/OPR/Empowerment/HospVoter.htm).
