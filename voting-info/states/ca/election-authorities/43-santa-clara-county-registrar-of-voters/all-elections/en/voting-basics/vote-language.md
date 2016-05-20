@@ -22,7 +22,7 @@ The Santa Clara County Department of Elections **website, Voter Information Pamp
  ខ្មែរ  Khmer/Cambodian
 한국어  Korean  
 
-**Telephone assistance88 is available  
+**Telephone assistance** is available  
 - 中文  Chinese  	408-282-3086  
 - Español  Spanish 	408-282-3095  
 - Tagalog/Filipino 	408-535-3916  
