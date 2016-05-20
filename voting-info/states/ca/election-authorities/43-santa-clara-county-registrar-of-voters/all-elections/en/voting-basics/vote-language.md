@@ -17,7 +17,7 @@ The Santa Clara County Department of Elections **website, Voter Information Pamp
 
 **Facsimile ballots and State Voter Information Guides** are available in certain polling places in the following languages:  
 
-हिन्दी  Hindi,  
+हिन्दी  Hindi  
 日本語  Japanese  
 ខ្មែរ  Khmer/Cambodian  
 한국어  Korean  
