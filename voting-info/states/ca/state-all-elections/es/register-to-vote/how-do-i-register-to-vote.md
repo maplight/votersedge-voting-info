@@ -17,4 +17,4 @@ priority: "Minor"
 
 **Llame al 800-345-VOTE (800-345-8683)** y pida que le envíen a su casa un formulario de inscripción del elector.  
 
-**Recoja un formulario de tarjeta postal de inscripción oficial** en su [	oficina electoral del condado](#sección de Contacto de la oficina electoral), en cualquier oficina del Departamento de Vehículos Automotores (Department of Motor Vehicles, DMV), o en una biblioteca pública, oficina postal u oficina de 	 asistencia pública, o cualquier oficina gubernamental que atienda a personas discapacitadas.
+**Recoja un formulario de tarjeta postal de inscripción oficial** en su [oficina electoral del condado](#section-election-office-contact), en cualquier oficina del Departamento de Vehículos Automotores (Department of Motor Vehicles, DMV), o en una biblioteca pública, oficina postal u oficina de asistencia pública, o cualquier oficina gubernamental que atienda a personas discapacitadas.
