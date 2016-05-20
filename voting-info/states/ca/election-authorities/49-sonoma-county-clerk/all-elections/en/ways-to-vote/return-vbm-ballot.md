@@ -17,10 +17,11 @@ priority: "Minor"
  **-OR-**  
 
 **Drop it off** at a secure 24 hour Drive-Through Drop Box available from **Monday, May 23 to Monday, June 6.** These boxes will NOT be available on Election Day, Tuesday, June 7.  
+
 **Drop Box Locations:**  
-- Petaluma Veteran’s Memorial Building 1094 Petaluma Blvd. South  
-- Santa Rosa Veteran’s Memorial Building 1351 Maple Ave.  
-- Sonoma County Registrar of Voters Office 435 Fiscal Dr.  
+- **Petaluma Veteran’s Memorial Building** 1094 Petaluma Blvd. South  
+- **Santa Rosa Veteran’s Memorial Building** 1351 Maple Ave.  
+- **Sonoma County Registrar of Voters Office** 435 Fiscal Dr.  
 
  **-OR-**  
 
