@@ -21,6 +21,6 @@ Para obtener respuestas a sus preguntas sobre la votación y las elecciones, o p
 
 Para obtener más información sobre recursos para votar en distintos idiomas, visite la [Secretaría del Estado de California](http://www.sos.ca.gov/elections/voting-resources/) y lea este folleto [Hoja informativa de ayuda en otros idiomas](http://advancingjustice-la.org/sites/default/files/LanguageAssistanceFactSheet.pdf).  
 
-Para saber qué idiomas están disponibles en su condado, contacte a su [Oficina electoral del condado](#sección de Contacto de la oficina electoral). La información por lo general se encuentra en el sitio web del condado y puede aparecer además en la guía para el votante del condado que recibe por correo.  
+Para saber qué idiomas están disponibles en su condado, contacte a su [Oficina electoral del condado](#section-election-office-contact). La información por lo general se encuentra en el sitio web del condado y puede aparecer además en la guía para el votante del condado que recibe por correo.  
 
-Para obtener más información, consulte [El derecho de los electores a recibir ayuda en otros idiomas.](#punto de Ayuda en otros idiomas) 
+Para obtener más información, consulte [El derecho de los electores a recibir ayuda en otros idiomas.](#menu-item-el-derecho-de-los-electores-a-recibir-ayuda-en-otros-idiomas) 
