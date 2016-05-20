@@ -9,9 +9,9 @@ priority: "Minor"
 > Los lugares de votación están abiertos de las 7 a. m. a las 8 p. m. el día de las elecciones.  
 
 **¿Cómo encuentro mi lugar de votación?**  
-- Si proporcionó su dirección electoral, entonces la ubicación de su lugar de votación está impresa aquí, en la sección [Mi lugar de votación](#punto de Mi lugar de votación) en este sitio.  
+- Si proporcionó su dirección electoral, entonces la ubicación de su lugar de votación está impresa aquí, en la sección [Mi lugar de votación](#section-my-polling-place) en este sitio.  
 - Puede encontrar la ubicación de su lugar de votación en la parte de atrás de su boleta electoral de muestra (o en el panfleto de información para el elector) que su condado le envió por correo o  
-- Puede ponerse en contacto con la [Oficina electoral de su condado](#sección de Contacto de la oficina electoral) para encontrar su lugar de votación.  
+- Puede ponerse en contacto con la [Oficina electoral de su condado](#section-election-office-contact) para encontrar su lugar de votación.  
 - Puede enviar un mensaje de texto con la palabra "Vote" a GOVOTE (468683) o  
 - Puede llamar al (800) 345-VOTE (8683) y elegir la opción 5.  
 
