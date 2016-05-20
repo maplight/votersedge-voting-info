@@ -1,10 +1,10 @@
 ---
-title: "Can I register if I am homeless?"
+title: "¿Puedo inscribirme si soy indigente?"
 published: true
 weight: 13
 section: "register-to-vote"
 priority: "Minor"
 ---
-**Yes, you can register if you are homeless if**:  
-- You have a fixed location where you can be assigned to a voting precinct. You must describe your location using cross streets, landmarks, or other information to explain where you live.  
-- **AND** you have a place where you can receive mail, such as a post office box or homeless shelter.
+**Sí, puede inscribirse si es indigente siempre y cuando**:  
+- Tenga una ubicación fija a la que se le pueda asignar un recinto electoral. Debe describir su ubicación utilizando cruces de calles, puntos de referencia u otra información para explicar dónde vive.  
+- **Y** tenga un lugar en el que pueda recibir correspondencia, como un apartado postal o un refugio para indigentes.
