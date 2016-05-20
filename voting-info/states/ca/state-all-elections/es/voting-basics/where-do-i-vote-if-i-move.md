@@ -5,7 +5,7 @@ weight: 5
 section: "voting-basics"
 priority: "Minor"
 ---
-If you moved on or before the registration deadline, which is 15 days prior to the election, then you should re-register at your new address. Check [How do I register to vote?](#menu-item-how-do-i-register-to-vote)  
+If you moved on or before the registration deadline, which is 15 days prior to the election, then you should re-register at your new address. Check [How do I register to vote?](#menu-item-¿cómo-me-registro-para-votar)  
 
 **I moved within the same county:**  
 - If you moved within 14 days before the election you can vote at the polling place for your old address.  
@@ -15,4 +15,4 @@ You will need to fill out a written confirmation that you’re eligible to vote 
 
 **I moved to a new county:**  
 - If you moved within 14 days before the election you can vote at the polling place for your old address.  
-- If you moved on or before the registration deadline, which is 15 days prior to the election, then you **must** re-register at your new address in order to vote at the upcoming election. Check [How do I register to vote?](#menu-item-how-do-i-register-to-vote)  
+- If you moved on or before the registration deadline, which is 15 days prior to the election, then you **must** re-register at your new address in order to vote at the upcoming election. Check [How do I register to vote?](#menu-item-¿cómo-me-registro-para-votar)  
