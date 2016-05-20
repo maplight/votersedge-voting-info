@@ -5,7 +5,7 @@ weight: 9
 section: "register-to-vote"
 priority: "Minor"
 ---
-You must reregister if you:
+You must [reregister](http://registertovote.ca.gov/) if you:
 
 - move your address
 - change your name 
