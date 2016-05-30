@@ -28,3 +28,7 @@ priority: "Minor"
 **-OR-**  
 	
 **Drop it off** at any polling place in Alameda County on **Election Day** from 7 AM to 8 PM  
+
+**-OR-**  
+
+**Drop it off** at any of the Alameda County vote-by-mail drop boxes listed [here](http://www.acgov.org/rov/maps/ballotdropbox_map.htm) any day up to and including **Election Day, Tuesday, June 7** from 7AM to 8PM.  
