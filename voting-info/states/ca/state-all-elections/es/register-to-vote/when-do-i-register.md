@@ -6,9 +6,9 @@ sección: register-to-vote
 priority: low
 ---
 
-**Llene un formulario de inscripción del elector a más tardar 15 días antes de la elección.**  
+**Llene un formulario de inscripción de votante a más tardar 15 días antes de la elección.**  
 
-Es importante que llene por completo su solicitud de inscripción del elector y:  
+Es importante que llene por completo su solicitud de inscripción de votante y:  
 - la presente en línea antes de la media noche, 15 días antes de la elección o  
 - la entregue por correo o en persona en la oficina electoral de su condado al menos 15 días antes de la elección.  
 
