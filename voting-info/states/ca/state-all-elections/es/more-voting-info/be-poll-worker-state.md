@@ -7,7 +7,7 @@ priority: "Minor"
 ---
 ¿Qué se necesita para ser un trabajador electoral? Debes ser:  
 
-- Un elector inscrito en California o un residente legal de los Estados Unidos.
+- Un votante inscrito en California o un residente legal de los Estados Unidos.
 - Un estudiante de preparatoria y:  
 	- ser ciudadano de los Estados Unidos  
 	- tener al menos 16 años cumplidos el día de las elecciones  
@@ -18,11 +18,11 @@ priority: "Minor"
     
 #### ¿Qué hace un trabajador electoral?  
 - Prepara y cierra un lugar de votación.  
-- Ayuda a los electores a entender sus derechos.  
+- Ayuda a los votantes a entender sus derechos.  
 - Protege las boletas electorales y el equipo para votar.  
 
 #### ¿Por qué ser un trabajador electoral?  
-- Participa y ayuda a los electores.  
+- Participa y ayuda a los votantes.  
 - Contribuye con tu comunidad.  
 - Gana dinero extra (varía según el condado).  
 
