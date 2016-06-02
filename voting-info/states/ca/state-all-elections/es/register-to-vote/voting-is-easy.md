@@ -1,5 +1,5 @@
 ---
-title: "Votar es fácil: ¡regístrese, prepárese y vote!"
+title: "Votar es muy fácil: ¡regístrese, prepárese y vote!"
 published: true
 weight: 1
 section: "register-to-vote"
