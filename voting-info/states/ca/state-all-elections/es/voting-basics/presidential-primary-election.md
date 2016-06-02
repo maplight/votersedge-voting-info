@@ -22,14 +22,14 @@ Si está registrado en un partido político, no podrá votar en una boleta elect
 
 Solo puede votar por los Comités Centrales del Condado y por los Concejos del Condado, si está registrado en ese partido.  
 
-Si no está registrado en uno de los seis partidos políticos, o si se registró como que se rehúsa a declarar, independiente o sin ninguna afiliación partidista, entonces usted es un elector **Sin Preferencia de Partido (No Party Preference, NPP).**  
+Si no está registrado en uno de los seis partidos políticos, o si se registró como que se rehúsa a declarar, no partidista o sin ninguna afiliación partidista, entonces usted es un votante **Sin Preferencia de Partido (No Party Preference, NPP).**  
 
-**Tres partidos permiten a los electores NPP votar en su Elección Primaria Presidencial:**  
+**Tres partidos permiten a los votantes NPP votar en su Elección Primaria Presidencial:**  
 - Partido Independiente Americano  
 - Partido Demócrata  
 - Partido Libertario  
 
-Si desea votar en una de estas elecciones primarias del partido, tiene que solicitar esa boleta electoral.  De lo contrario, recibirá una boleta electoral sin ninguna afiliación partidista que no incluirá el cargo de Presidente.  
+Si desea votar en una de estas elecciones primarias del partido, tiene que solicitar esa boleta electoral.  De lo contrario, recibirá una boleta electoral no partidista que no incluirá el cargo de Presidente.  
 
 **Tres partidos permiten que solo los electores registrados en su partido voten en su Elección Primaria Presidencial:**  
 - Partido Verde  
