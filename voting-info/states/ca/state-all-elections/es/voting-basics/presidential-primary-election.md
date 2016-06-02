@@ -31,12 +31,12 @@ Si no está registrado en uno de los seis partidos políticos, o si se registró
 
 Si desea votar en una de estas elecciones primarias del partido, tiene que solicitar esa boleta electoral.  De lo contrario, recibirá una boleta electoral no partidista que no incluirá el cargo de Presidente.  
 
-**Tres partidos permiten que solo los electores registrados en su partido voten en su Elección Primaria Presidencial:**  
+**Tres partidos permiten que solo los votantes registrados en su partido voten en su Elección Primaria Presidencial:**  
 - Partido Verde  
 - Partido Paz y Libertad  
 - Partido Republicano  
 
-**Si desea cambiar su registro de partido antes de las elecciones primarias,** entonces **debe** [volver a registrarse](http://registertovote.ca.gov/) y seleccionar ese partido. El último día para volver a registrarse para votar es el 23 de mayo de 2016. Puede volver a registrarse después de la elección primaria, al ser un elector "Sin Preferencia de Partido" o sin ningún partido político.  
+**Si desea cambiar su registro de partido antes de las elecciones primarias,** entonces **debe** [volver a registrarse](http://registertovote.ca.gov/) y seleccionar ese partido. El último día para volver a registrarse para votar es el 23 de mayo de 2016. Puede volver a registrarse después de la elección primaria, al ser un votante "Sin Preferencia de Partido" o sin ningún partido político.  
 
 También consulte [la información sobre los partidos políticos](#menu-item-information-about-political-parties). Para obtener información detallada sobre el registro, consulte [Inscríbase para votar](#section-register-to-vote).  
 
