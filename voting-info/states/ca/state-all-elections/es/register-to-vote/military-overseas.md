@@ -1,5 +1,5 @@
 ---
-title: "¿Cómo me inscribo si soy militar, me encuentro en el extranjero o vivo fuera?"
+title: "¿Cómo me inscribo si soy militar, me encuentro en el extranjero o vivo fuera del país?"
 published: true
 weight: 11
 section: "register-to-vote"
@@ -14,10 +14,10 @@ Inscríbase para votar ya sea utilizando [la inscripción de votante en línea](
 
 Para obtener más información sobre cómo utilizar u obtener la FPCA, visite la [Secretaría del Estado de California](http://www.sos.ca.gov/elections/voter-registration/military-overseas-voters/) o [este sitio federal](https://www.fvap.gov/).  
 
-Asegúrese de llenar y enviar la inscripción de votante en línea o la FPCA de **60 a 90 días antes de la elección.**  Esto dará tiempo  para que la información y las boletas electorales se le envíen y para que las devuelva. La **fecha límite definitiva** para que envíe su formulario de inscripción en línea, por correo o en persona a la oficina electoral del condado es **15 días antes de la elección.**  
+Asegúrese de llenar y enviar la inscripción de votante en línea o la FPCA de **60 a 90 días antes de la elección.**  Esto dará tiempo  para que se le envíen la información y las boletas electorales y para que las devuelva. La **fecha límite definitiva** para que envíe su formulario de inscripción en línea, por correo o en persona a la oficina electoral del condado es **15 días antes de la elección.**  
 
 Cuando se inscriba para votar, tendrá la opción de escoger entre que se le envíe su boleta electoral por correo, fax o correo electrónico.  
 
 Recibirá un voto permanente por correo, pero cada vez que se mude deberá llenar un nuevo [formulario de inscripción de votante de California en línea](http://registertovote.ca.gov/) o [FPCA](https://www.fvap.gov/).  
 
-Para obtener información sobre la votación, consulte ["¿Cómo me inscribo si soy militar, me encuentro en el extranjero o vivo fuera?"](#menu-item-how-do-i-vote-if-i-am-military-overseas-or-live-abroad)  
+Para obtener información sobre la votación, consulte ["¿Cómo puedo votar si soy militar, me encuentro en el extranjero o vivo fuera?"](#menu-item-how-do-i-vote-if-i-am-military-overseas-or-live-abroad)  
