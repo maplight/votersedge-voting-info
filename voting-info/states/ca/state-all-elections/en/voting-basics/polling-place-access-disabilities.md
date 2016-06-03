@@ -5,6 +5,9 @@ weight: 8
 section: "voting-basics"
 priority: "Minor"
 ---
+
+Disability Rights California (DRC) will operate a toll-free hotline on Primary Election Day, June 7, for voters with disabilities. The service is designed to help those who have difficulty accessing polling places, casting ballots or simply have questions about voting. **The toll-free number for voice calls is 888-569-7955. The statewide number for video calls is 800-719-5798.**  
+
 **Accessible information**  
 
 The state [Official Voter Information Guide](http://voterguide.sos.ca.gov/) that is mailed to each registered voter is available in a downloadable MP3 [audio version](http://www.sos.ca.gov/elections/voting-resources/voters-disabilities/), audio cassettes, in American Sign Language, and in large print. You may call (800) 345-8683 to request these versions.  
