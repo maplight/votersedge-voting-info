@@ -5,7 +5,7 @@ weight: 1
 section: "more-voting-info"
 priority: "Minor"
 ---
-You can become a poll worker if you are a registered voter and a resident of the county in which you want to be a poll worker (or, in the case of New York City, a city resident). You will be obligated to work a few days a year when your county or city holds elections, and you will be paid a small stipend by your board of elections.  
+Dedicated and well-trained poll workers are essential to the smooth functioning of democracy. You can become a poll worker if you are a registered voter and a resident of the county in which you want to be a poll worker (or, in the case of New York City, a city resident). You will be obligated to work a few days a year when your county or city holds elections, and you will be paid a small stipend by your board of elections.  
 
 Poll workers have the following responsibilities on Election Day:  
 - Prepare the polling place for voting  
