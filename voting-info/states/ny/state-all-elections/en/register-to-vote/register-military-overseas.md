@@ -13,5 +13,5 @@ If you are serving in the U.S. military, you, along with your spouse and any dep
 - In addition the above link, you may request a Federal Post Card Application from your Voting Assistance Officer on base. You can also visit the [Federal Voting Assistance Program Website](https://www.fvap.gov/) or the [Military and Overseas Federal Voting Website](https://newyork.overseasvotefoundation.org/vote/home.htm) for forms and further information.  
 - When you register and apply for your ballot, you may specify the format in which you would like to receive your ballot (i.e., mail, fax, or email). If you select the online ballot delivery option, you will receive an email directing you to the state of New York’s [ballot delivery site](https://ny.secureballotusa.com/NY_loginSelection.action), where you can access your ballot.  
 - If you have any questions about registering to vote, you can call the New York State Board of Elections at (518) 473-5086 or the Federal Voter Assistance Program at (800) 438-8683. You may also contact your U.S. Embassy.  
-
-
+- Regardless of the method in which you receive your ballot, you must return your ballot to your local [board of elections](http://www.elections.ny.gov/CountyBoards.html) by postal mail.  
+- If you have requested your ballot, but have not yet received it, you may use the [Federal Write-In Absentee Ballot](http://www.fvap.gov/uploads/FVAP/Forms/fwab2013.pdf) and return that to your local [board of elections](http://www.elections.ny.gov/CountyBoards.html).  
