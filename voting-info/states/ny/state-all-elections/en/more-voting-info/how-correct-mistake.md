@@ -1,5 +1,5 @@
 ---
-title: "How do I correct a voting mistake?"
+title: "How do I correct a mistake while marking my ballot?"
 published: true
 weight: 2
 section: "more-voting-info"
