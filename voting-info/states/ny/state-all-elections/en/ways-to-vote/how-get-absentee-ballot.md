@@ -14,4 +14,4 @@ You may also request an absentee ballot by mail by sending a letter to your loca
 - Your reason for requesting an absentee ballot  
 - Your signature as it appears on your voter registration  
 
-If you cannot pick up your ballot, or will not be able to receive it by mail, you may designate someone to pick it up for you on your ballot application. Only the person designated on your application will be permitted to pick up and deliver your ballot.  
+In response to your letter the BOE will send an application along with your ballot.  For your ballot to count, the application must be completely filled out. If you cannot pick up your ballot, or will not be able to receive it by mail, you may designate someone to pick it up for you on your ballot application. Only the person designated on your application will be permitted to pick up and deliver your ballot.  
