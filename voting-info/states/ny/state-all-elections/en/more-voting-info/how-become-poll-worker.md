@@ -16,6 +16,4 @@ Poll workers have the following responsibilities on Election Day:
 - Canvass and report election results  
 - Close the polling place  
 
-If you are interested in becoming a poll worker, you can contact the State Board of Elections [here](http://www.elections.ny.gov/BecomePollworker.html).  
-
-
+If you are interested in becoming a poll worker, you can contact the State Board of Elections [here](http://www.elections.ny.gov/BecomePollworker.html). New York City voters can [apply online](https://nyc.electiondayworker.com/r/rA_4yzXNYkmL7ahEXYi0dw#.V1HNfvkrKUk) or [download an application](http://vote.nyc.ny.us/downloads/pdf/forms/boe/pollworkers/PollworkerApplication.pdf) on the NYC Board of Elections website.  
