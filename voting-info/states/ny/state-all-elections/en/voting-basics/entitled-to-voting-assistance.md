@@ -1,7 +1,7 @@
 ---
-title: "Am I entitled to voting assistance?"
+title: "What if I need assistance to vote?"
 published: true
-weight: 10
+weight: 5
 section: "voting-basics"
 priority: "Minor"
 ---

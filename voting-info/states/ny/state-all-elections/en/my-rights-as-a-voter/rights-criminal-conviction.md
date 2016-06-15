@@ -6,20 +6,21 @@ section: "my-rights-as-a-voter"
 priority: "Minor"
 ---
 
-**Can I vote if I have been conviceted of a misdemeanor?**  
+**Does a misdemeanor conviction affect my right to register and vote?**  
 
-Yes, you may vote normally if you have been convicted of a misdemeanor. However, if you are currently in jail you will have to vote by absentee ballot. (See [Ways to Vote](#section-ways-to-vote) for more information.)  
+You can register and vote, even from jail, if you have been convicted of only a misdemeanor. The same rules apply whether you were convicted in a New York court, another state’s court, or a federal court. You do not need to provide any documentation about your criminal record in order to register and vote. (See [Ways to Vote](#section-ways-to-vote) for more information.)  
 
-**Can I vote if I have been convicted of a felony?**  
+**Does a felony conviction affect my right to register and vote in New York State?**  
 
-If you have been convicted of a felony, you may vote in the state of New York in the following circumstances:  
-- You are on probation  
-- You were not sentenced to prison or had your prison sentence suspended  
-- You served your maximum prison sentence  
-- You were discharged from parole  
-- You were pardoned  
+You may **not** register or vote if you have been convicted of a felony and for that felony:
+- You are currently incarcerated, or  
+- You are under parole supervision.  
 
-**You may not vote if you are currently incarcerated or under parole supervision for a felony conviction.** After your incarceration and/or parole ends, your right to vote is restored. However, you must register to vote, even if you were previously registered before your conviction. (See [Register to Vote](#section-register-to-vote) for more information.)  
+You **may** register and vote if you were convicted of a felonly and for that felony:  
+- You were sentenced to probation;  
+- You were not sentenced to incarceration or your prison sentence was suspended;  
+- You have served your maximum prison sentence, **in which case you are able to re-register to vote;**  
+- You were on parole and then discharged, **in which case you are able to re-register to vote;** or  
+- You have received a pardon.  
 
-
-
+Note that if you were previously registered to vote, you must re-register once you are elibible. (See [Register to Vote](#section-register-to-vote) for more information.)  
