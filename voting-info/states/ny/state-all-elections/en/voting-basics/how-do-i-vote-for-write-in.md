@@ -1,7 +1,7 @@
 ---
 title: "How do I vote for a write-in candidate?"
 published: true
-weight: 10
+weight: 6
 section: "voting-basics"
 priority: "Minor"
 ---
