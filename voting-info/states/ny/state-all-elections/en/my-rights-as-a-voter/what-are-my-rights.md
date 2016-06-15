@@ -19,3 +19,6 @@ In any election you have the following rights as a New York voter:
 - Vote even if the voting machine is broken.  
 - Vote by "affidavit ballot' if your name is missing from the list of voters at your polling site.  
 
+You may have to show identification if you are voting for the first time at your polling place.  
+- Acceptable forms of identification include valid photo ID or current utility bill, bank statement, government check or paycheck, or government document that shows name and address.  
+- If you cannot or choose not to show identification, you have the right to vote by affidavit ballot.  
