@@ -7,7 +7,7 @@ priority: "Minor"
 ---
 **How do I serve as an election judge?**
 
-**Election judges are responsible for the proper and lawful conduct of the election** by ensuring that every person who votes at their polling place is qualified to vote and that everyone who is qualified to vote has the opportunity to vote. Election judges also help set up and close the polling place, provide instructions to aid voters in successfully casting their ballots and understanding their rights, and protect ballots and voting equipment.  
+**Election judges are responsible for the proper and lawful conduct of the election.** They ensure that every person who votes at their polling place is qualified to vote and that everyone who is qualified to vote has the opportunity to vote. Election judges also help set up and close the polling place, provide instructions to aid voters in successfully casting their ballots and understanding their rights, and protect ballots and voting equipment.  
 
 You can serve as an election judge in the State of Illinois if you meet the following requirements:  
 - You are a U.S. citizen and registered to vote in the next election  
