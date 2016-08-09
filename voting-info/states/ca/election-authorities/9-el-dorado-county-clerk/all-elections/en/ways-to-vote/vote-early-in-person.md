@@ -1,6 +1,6 @@
 ---
 title: "How do I vote early in person in El Dorado County?"
-published: true
+published: false
 weight: 5
 section: "ways-to-vote"
 priority: "Minor"
