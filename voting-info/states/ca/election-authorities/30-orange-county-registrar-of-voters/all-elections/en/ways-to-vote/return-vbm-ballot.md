@@ -1,6 +1,6 @@
 ---
 title: "How do I return my vote-by-mail ballot in Orange County?"
-published: false
+published: true
 weight: 4
 section: "ways-to-vote"
 priority: "Minor"
