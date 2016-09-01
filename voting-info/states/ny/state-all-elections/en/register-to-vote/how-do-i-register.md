@@ -5,7 +5,15 @@ weight: 2
 section: "register-to-vote"
 priority: "Minor"
 ---
-**You can register to vote in person** at your local [board of elections office](http://www.elections.ny.gov/CountyBoards.html) or at any New York State agency-based voter registration center, including any of the following New York State agency offices:  
+If you have a valid ID from the New York State Department of Motor Vehicles, you can register to vote online using the DMV's [electronic voter registration application](https://dmv.ny.gov/more-info/electronic-voter-registration-application).  
+
+**You can go online to request a New York State Voter Registration Form to be mailed to you** by entering your name in the New York State Board of Elections’ [mailing list database](http://www.elections.ny.gov/VoterRegFormRequest.html), or **you can request one over the phone** by calling 1-800-FOR-VOTE.  
+
+**You can also download a PDF version of the New York State Voter Registration Form** in [English](http://www.elections.ny.gov/NYSBOE/download/voting/voteform.pdf) or [Spanish](http://www.elections.ny.gov/NYSBOE/download/voting/spanishvoteform.pdf). New York City residents can download a registration form in [English](http://www.vote.nyc.ny.us/downloads/pdf/forms/boe/voterreg/voterregenglish.pdf), [Bengali](http://www.vote.nyc.ny.us/downloads/pdf/forms/boe/voterreg/voterregbengali.pdf), [Chinese](http://www.vote.nyc.ny.us/downloads/pdf/forms/boe/voterreg/voterregchinese.pdf), [Korean](http://www.vote.nyc.ny.us/downloads/pdf/forms/boe/voterreg/voterregkorean.pdf), or [Spanish](http://www.vote.nyc.ny.us/downloads/pdf/forms/boe/voterreg/voterregspanish.pdf). Print the form, complete it, sign it, and mail it to your local [board of elections office](http://www.elections.ny.gov/CountyBoards.html).  
+
+Alternatively, you can fill out the PDF version of the New York State Voter Registration Form online in English or Spanish by typing in the requested information and selecting the appropriate boxes. Once you have completed the form, you still need to print the form, sign it, and mail it to your local county board of elections office.  
+
+**You can also register to vote in person** at your local [board of elections office](http://www.elections.ny.gov/CountyBoards.html) or at any New York State agency-based voter registration center, including any of the following New York State agency offices:  
 - Alcoholism and Substance Abuse Services  
 - City Universities of New York (CUNY)  
 - Commission for the Blind and Visually Impaired  
@@ -50,15 +58,3 @@ New York City residents can register to vote at a number of city agencies includ
 - Department of Youth and Community Development  
 - Fire Department  
 - Human Resources Administration
-
-**You can go online to request a New York State Voter Registration Form to be mailed to you** by entering your name in the New York State Board of Elections’ [mailing list database](http://www.elections.ny.gov/VoterRegFormRequest.html), or **you can request one over the phone** by calling 1-800-FOR-VOTE.  
-
-**You can also download a PDF version of the New York State Voter Registration Form** in [English](http://www.elections.ny.gov/NYSBOE/download/voting/voteform.pdf) or [Spanish](http://www.elections.ny.gov/NYSBOE/download/voting/spanishvoteform.pdf). New York City residents can download a registration form in [English](http://www.vote.nyc.ny.us/downloads/pdf/forms/boe/voterreg/voterregenglish.pdf), [Bengali](http://www.vote.nyc.ny.us/downloads/pdf/forms/boe/voterreg/voterregbengali.pdf), [Chinese](http://www.vote.nyc.ny.us/downloads/pdf/forms/boe/voterreg/voterregchinese.pdf), [Korean](http://www.vote.nyc.ny.us/downloads/pdf/forms/boe/voterreg/voterregkorean.pdf), or [Spanish](http://www.vote.nyc.ny.us/downloads/pdf/forms/boe/voterreg/voterregspanish.pdf). Print the form, complete it, sign it, and mail it to your local [board of elections office](http://www.elections.ny.gov/CountyBoards.html).  
-
-Alternatively, you can fill out the PDF version of the New York State Voter Registration Form online in English or Spanish by typing in the requested information and selecting the appropriate boxes. Once you have completed the form, you still need to print the form, sign it, and mail it to your local county board of elections office.
-
-
-
-
-
-
