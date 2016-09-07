@@ -1,7 +1,7 @@
 ---
 title: Contact the League of Women Voters of California Education Fund
 published: true
-weight: 9
+weight: 10
 section: "more-voting-info"
 priority: "Minor"
 ---
