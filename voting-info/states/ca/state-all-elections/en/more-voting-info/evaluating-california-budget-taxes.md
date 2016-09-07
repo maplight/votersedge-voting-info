@@ -1,7 +1,7 @@
 ---
 title: Evaluating California budget and taxes
 published: true
-weight: 5
+weight: 6
 section: "more-voting-info"
 priority: "Minor"
 ---
