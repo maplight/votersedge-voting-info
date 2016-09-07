@@ -1,7 +1,7 @@
 ---
 title: "How do I find out what political districts I live in?"
 published: true
-weight: 3
+weight: 4
 section: "more-voting-info"
 priority: "Minor"
 ---
