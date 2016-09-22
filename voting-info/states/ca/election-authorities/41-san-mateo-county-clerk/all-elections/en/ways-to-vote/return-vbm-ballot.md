@@ -1,6 +1,6 @@
 ---
 title: "How do I return my vote-by-mail ballot in San Mateo County?"
-published: false
+published: true
 weight: 4
 section: "ways-to-vote"
 priority: "Minor"
@@ -23,7 +23,7 @@ priority: "Minor"
   - Office of the Assessor-County Clerk-Recorder, [555 County Center, 1st Floor, Redwood City, CA 94063](https://www.google.com/maps/place/555+County+Center,+Redwood+City,+CA+94063/@37.48928,-122.230153,16z/data=!4m2!3m1!1s0x808fa2525e583f83:0x5b45de978d636891?hl=en)  
   - South San francisco Public Library, [840 West Orange Ave., South San Francisco 94080](https://www.google.com/maps/place/840+W+Orange+Ave,+South+San+Francisco,+CA+94080/@37.6525195,-122.438885,17z/data=!3m1!4b1!4m5!3m4!1s0x808f79780baa956f:0xb7fa5d0e5efb9413!8m2!3d37.6525195!4d-122.4366963)  
 
-* Closed Monday, October 10 for Columbus Day  
+*Closed Monday, October 10 for Columbus Day  
 
 **-OR-**  
 
