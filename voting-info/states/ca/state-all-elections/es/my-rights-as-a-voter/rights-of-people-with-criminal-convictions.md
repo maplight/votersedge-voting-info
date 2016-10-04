@@ -3,7 +3,7 @@ title: "Los derechos de las personas con condenas penales"
 published: true
 weight: 4
 section: "my-rights-as-a-voter"
-priority: "minor"
+priority: "Minor"
 ---
 
 #### ¿Cuáles son mis derechos electorales si tengo un delito menor?  
