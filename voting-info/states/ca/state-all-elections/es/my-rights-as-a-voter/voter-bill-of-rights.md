@@ -38,5 +38,6 @@ priority: "Minor"
 - Por teléfono al **(800) 232-VOTA (8682)**
 - Por email a **elections@sos.ca.gov**
 
-Si cree que le negaron cualquierade estos derechos, llame en forma confidencial y sin cargo a la Línea deasistencia al votante del Secretario de Estado al **(800) 232-VOTA (8682)**.
+Si cree que le negaron cualquierade estos derechos, llame en forma confidencial y sin cargo a la Línea deasistencia al votante del Secretario de Estado al **(800) 232-VOTA (8682)**.  
 
+Descargar las instrucciones del votante [Declaración de Derechos de California](http://elections.cdn.sos.ca.gov//voter-bill-of-rights/spanish.pdf) de la Secretaría de Estado.  
