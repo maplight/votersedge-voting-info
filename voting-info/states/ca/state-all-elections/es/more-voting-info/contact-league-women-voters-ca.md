@@ -1,7 +1,7 @@
 ---
 title: "Comuníquese a la League of Women Voters of California Education Fund"
 published: true
-weight: 2
+weight: 9
 section: "more-voting-info"
 priority: "Minor"
 ---
