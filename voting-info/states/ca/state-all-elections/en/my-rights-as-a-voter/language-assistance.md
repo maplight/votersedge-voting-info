@@ -18,7 +18,7 @@ http://www.advancingjustice-alc.org/know-your-voting-rights/). The materials wil
 [Chinese](http://www.advancingjustice-alc.org/wp-content/uploads/2016/09/KYVR-Chinese.pdf)  
 [English](http://www.advancingjustice-alc.org/wp-content/uploads/2016/09/KYVR-English.pdf)  
 [Hindi](http://www.advancingjustice-alc.org/wp-content/uploads/2016/09/KYVR-Hindi.pdf)  
-[Hmong](http://www.advancingjustice-alc.org/wp-content/uploads/2016/09/KYVR-Hmong.pdf}  
+[Hmong](http://www.advancingjustice-alc.org/wp-content/uploads/2016/09/KYVR-Hmong.pdf)  
 [Japanese](http://www.advancingjustice-alc.org/wp-content/uploads/2016/09/KYVR-Japanese.pdf)  
 [Khmer](http://www.advancingjustice-alc.org/wp-content/uploads/2016/09/KYVR-Khmer.pdf)  
 [Korean](http://www.advancingjustice-alc.org/wp-content/uploads/2016/09/KYVR-Korean.pdf)  
