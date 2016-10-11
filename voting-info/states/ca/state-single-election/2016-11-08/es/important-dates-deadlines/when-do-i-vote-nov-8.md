@@ -1,24 +1,24 @@
 ---
-title: "When do I vote?"
+title: "¿Cuando voto?"
 published: true
 weight: 4
 section: "important-dates-deadlines"
 priority: "Minor"
 ---
-#### Before Election Day
-Both **vote-by-mail** and **early-in-person** voting always start _29 days before Election Day_.  
+#### Antes del día de las elecciones
+Tanto la **votación por correo** como **la votación anticipada en persona** comienzan siempre _29 días antes del día de las elecciones_.
 
-#### By Mail  
-From **Monday, October 10*** through **Election Day, Tuesday, November 8.**  
-- Your completed vote-by-mail ballot must be **postmarked** on or before **Election Day, Tuesday, November 8.**  
-- Once mailed and postmarked, the ballot must be **received** by the elections office **no later than 3 days after Election Day.**  
+#### Por correo postal
+Desde el **lunes 10 de octubre**\* hasta el **día de las elecciones, martes 8 de noviembre.**
+	•	Su boleta electoral para voto por correo completada deberá estar **sellada** el **día de las elecciones, martes 8 de noviembre, o antes.**
+	•	Una vez enviada por correo y sellada, la boleta electoral deberá **recibirse** en la oficina electoral **a más tardar 3 días después del día de las elecciones.**
 
-#### Early-in-person  
-From **Monday, October 10*** through **Monday, November 7.** Some early voting locations are also open through Election Day.  
+#### Voto anticipado en persona
+Desde el **lunes 10 de octubre**\* hasta el **lunes 7 de noviembre.** Algunos lugares para votaciones anticipadas también permanecen abiertos el día de las elecciones.
 
-#### On Election day  
-**Tuesday, November 8**, from **7 a.m. to 8 p.m.**  
+#### El día de las elecciones
+**Martes 8 de noviembre**, desde las **7 a. m. hasta las 8 p. m.**  
 
-For detailed information check [Ways to Vote](#section-ways-to-vote).  
+Para obtener información detallada, consulte la sección [Formas de votar](#section-ways-to-vote).  
 
-*Monday, October 10 is Columbus Day and some election offices may be closed. Check with your [County Elections Office](#section-election-office-contact) to find out whether or not they have locations open.  
+*El lunes 10 de octubre se celebra el Día de la Raza (Columbus Day) y es posible que algunas oficinas electorales permanezcan cerradas. Consulte en [la oficina electoral de su condado](#section-election-office-contact) para saber si tienen lugares abiertos.
