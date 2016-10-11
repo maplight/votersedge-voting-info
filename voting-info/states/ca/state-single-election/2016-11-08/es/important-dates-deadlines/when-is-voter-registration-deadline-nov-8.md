@@ -1,18 +1,18 @@
 ---
-title: "When is the voter registration deadline?"
+title: "Cual es la fecha límite para inscribirse para votar"
 published: true
 weight: 2
 section: "important-dates-deadlines"
 priority: "Minor"
 ---
-The voter registration application deadline is **no later than Monday, October 24.**  
+La fecha límite para presentar la solicitud de inscripción del elector es **a más tardar el lunes 24 de octubre.**  
 
-It is important that your voter registration application be filled out completely and:  
-- Submitted online no later than midnight 15 days before the election
-- **OR** postmarked or hand-delivered to your county elections office at least 15 days before the election.
+Es importante que llene por completo su solicitud de inscripción del elector y:
+	•	la presente en línea antes de la medianoche, 15 días antes de la elección
+	•	**O** la entregue por correo o en persona en la oficina electoral de su condado al menos 15 días antes de la elección.  
+  
+Si **no cumple con la fecha límite**, aun así se procesará su solicitud. Si se aprueba, usted podrá votar en las próximas elecciones.  
 
-If you **miss the deadline** your application will still be processed.  If approved, you will be able to vote in future elections.  
+[Verifique el estado de su inscripción del elector](http://www.sos.ca.gov/elections/registration-status/) para asegurarse de que esté inscrito.  
 
-[Check the status of your voter registration](http://www.sos.ca.gov/elections/registration-status/) to make sure you’re registered.  
-
-For detailed information check [Register to Vote](#section-register-to-vote).
+Para obtener información detallada, consulte la sección [Inscríbase para votar.](#section-register-to-vote).
