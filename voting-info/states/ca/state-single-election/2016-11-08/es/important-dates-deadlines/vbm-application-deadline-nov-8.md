@@ -5,7 +5,6 @@ weight: 3
 section: "important-dates-deadlines"
 priority: "Minor"
 ---
-
-Your vote-by-mail request must be received in the county elections office **no later than Tuesday, November 1, by 5 PM.**  
-
-For detailed information check [How do I vote by mail?](#menu-item-vote-by-mail)
+Su solicitud de voto por correo deberá recibirse en la oficina de elecciones del condado **a más tardar el martes 1.º de noviembre, antes de las 5 p. m.**  
+  
+Para obtener información detallada, consulte la sección [¿Cómo voto por correo?](#menu-item-vote-by-mail)
