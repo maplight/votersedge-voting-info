@@ -7,8 +7,8 @@ priority: "Minor"
 ---
 La fecha límite para presentar la solicitud de inscripción del elector es **a más tardar el lunes 24 de octubre.**  
 
-Es importante que llene por completo su solicitud de inscripción del elector y:
-	•	la presente en línea antes de la medianoche, 15 días antes de la elección
+Es importante que llene por completo su solicitud de inscripción del elector y:  
+	•	la presente en línea antes de la medianoche, 15 días antes de la elección  
 	•	**O** la entregue por correo o en persona en la oficina electoral de su condado al menos 15 días antes de la elección.  
   
 Si **no cumple con la fecha límite**, aun así se procesará su solicitud. Si se aprueba, usted podrá votar en las próximas elecciones.  
