@@ -1,5 +1,5 @@
 ---
-title: "Cual es la fecha límite para inscribirse para votar"
+title: "¿Cual es la fecha límite para inscribirse para votar?"
 published: true
 weight: 2
 section: "important-dates-deadlines"
