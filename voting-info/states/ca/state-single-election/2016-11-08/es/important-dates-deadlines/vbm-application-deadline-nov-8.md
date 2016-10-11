@@ -1,5 +1,5 @@
 ---
-title: "When is the vote-by-mail application deadline?"
+title: "Cual es la fecha límite para presentar su solicitud de voto por correo?"
 published: true
 weight: 3
 section: "important-dates-deadlines"
