@@ -37,7 +37,7 @@ priority: "Minor"
 **10. The right to report any illigal or fraudulent election activity** to an elections official or the Secretary of State's office.  
 - On the web at **[www.sos.ca.gov](https://www.sos.ca.gov)**  
 - By phone at **(800) 345-VOTE (8683)**  
-- By email at **elections@sos.cac.gov**
+- By email at **elections@sos.cac.gov**  
 
 If you believe you have been denied any of these rights, call the Secretary of State's confidential toll-free voter hotline at **(800) 345-VOTE (8683).**  
 
