@@ -1,26 +1,26 @@
 ---
 title: "How do I vote early in person in Sacramento County?"
-published: false
+published: true
 weight: 5
 section: "ways-to-vote"
 priority: "Minor"
 ---
 
-**You can vote in person starting before Election Day from Monday, May 9 through Election Day, Tuesday, June 7.**  
+**You can vote in person starting before Election Day from Tuesday, October 11 through Election Day, Tuesday, November 8.**  
 
-**Monday through Friday** from 8:00 AM to 5 PM  
+**Monday through Friday** from 8 AM - 5 PM  
 
-**Election Day, Tuesday, June 7**, 7 AM - 8 PM  
+**Election Day, Tuesday, November 8**, 7 AM - 8 PM  
 
 **Early voting location:** Sacramento County Voter Registration & Elections Office  
 7000 65th Street, Suite A Sacramento, CA 95823  
 
 **Weekend Hours at Voter Service Centers:**  
-  May 28 – Saturday 	10 am to 5 pm  
-  May 29 – Sunday		12:00 noon to 5 pm  
-  June 4 – Saturday		10 am to 5 pm  
-  June 5 – Sunday		12:00 noon to 5 pm  
-  
+  Saturday, October 29 	10 am to 5 pm  
+  Sunday, October 30		12:00 noon to 5 pm  
+  Saturday, November 5		10 am to 5 pm  
+  Sunday, November 6		12:00 noon to 5 pm  
+
 **Locations:**  
 
 **Carmichael Library**  
