@@ -1,6 +1,6 @@
 ---
 title: "What are my rights as a voter in the state of New York?"
-published: true
+published: false
 weight: 2
 section: "my-rights-as-a-voter"
 priority: "Minor"
