@@ -7,7 +7,7 @@ priority: "Minor"
 ---
 If you are newly registered to vote, you should receive a voter card in the mail 2-3 weeks after registering that contains your polling location information. You can also check [My Polling Place](#section-my-polling-place) to find your polling location. In August of each year, all registered voters receive a mailing with information about the state/local primary and general elections, including their poll site location.  
 
-New York City voters can confirm their poll site information at [nyc.pollsitelocator.com](nyc.pollsitelocator.com). Outside New York CIty, your poll site location can be confirmed using the [New York State voter lookup service](https://voterlookup.elections.state.ny.us/).  
+New York City voters can confirm their poll site information at [nyc.pollsitelocator.com](nyc.pollsitelocator.com). Outside New York City, your poll site location can be confirmed using the [New York State voter lookup service](https://voterlookup.elections.state.ny.us/).  
 
 To vote in person on Election Day, go to your designated polling location before 9 p.m. Poll opening times vary by election and county; contact your local [board of elections](http://www.elections.ny.gov/CountyBoards.html).  
 
