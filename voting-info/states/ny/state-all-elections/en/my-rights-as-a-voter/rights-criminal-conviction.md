@@ -16,7 +16,7 @@ You may **not** register or vote if you have been convicted of a felony and for 
 - You are currently incarcerated, or  
 - You are under parole supervision.  
 
-You **may** register and vote if you were convicted of a felonly and for that felony:  
+You **may** register and vote if you were convicted of a felony and for that felony:  
 - You were sentenced to probation;  
 - You were not sentenced to incarceration or your prison sentence was suspended;  
 - You have served your maximum prison sentence, **in which case you are able to re-register to vote;**  
