@@ -1,5 +1,5 @@
 ---
-title: "How do I vote for President if I am registered as No Party Preference?"
+title: "How do I vote for President in the Primary if I am registered as No Party Preference?"
 published: true
 weight: 15
 section: "voting-basics"
