@@ -55,4 +55,5 @@ The only time you **lose the right to vote while in county jail** is when you ar
 In California, you do not need to do anything to “restore” your right to vote. It is automatically restored once you have completed your sentence and are no longer on parole. However, you must [register or re-register to vote](#section-register-to-vote) in an upcoming election.
 
 For more information visit [Let Me Vote](https://www.letmevoteca.org/).  
-Download palm cards in [English](https://www.letmevoteca.org/wp-content/uploads/2016/09/Brochure-HowYourVoteMatters.pdf) and in [Spanish](https://www.letmevoteca.org/wp-content/uploads/2016/09/Brochure-ComoTuVotoImporta.pdf). 
+Download brochures in [English](https://www.letmevoteca.org/wp-content/uploads/2016/09/Brochure-HowYourVoteMatters.pdf) and in [Spanish](https://www.letmevoteca.org/wp-content/uploads/2016/09/Brochure-ComoTuVotoImporta.pdf).  
+You can also download and print Let Me Vote palm cards in [English](https://www.letmevoteca.org/wp-content/uploads/2016/09/GraphicPostcard-LetMeVote.pdf) and Spanish.  
