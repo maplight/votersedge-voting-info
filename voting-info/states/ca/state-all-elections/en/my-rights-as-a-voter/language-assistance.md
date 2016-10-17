@@ -10,7 +10,7 @@ priority: "Minor"
 - In some localities, voter information pamphlets and sample ballots are translated into Chinese, Spanish, Tagalog and Vietnamese, among other languages.
 - In some polling places, bilingual poll workers are available to assist voters in their own language.  
 
-**Know your rights in 11 languages.**  
+**Know your rights in 13 languages.**  
 Get information about your rights in eleven languages from [Asian Americans Advancing Justice, California](
 http://www.advancingjustice-alc.org/know-your-voting-rights/). The materials will help first-time voters, immigrant voters, and limited-English proficient voters exercise their right to vote on Election Day. They have instructions on how to register to vote, how to vote, how to access language assistance in the voting process, and how to handle problems encountered during Election Day, among other subjects.  
 
