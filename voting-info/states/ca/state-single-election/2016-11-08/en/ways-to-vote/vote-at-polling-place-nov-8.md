@@ -6,7 +6,7 @@ section: "ways-to-vote"
 priority: "Minor"
 ---
 **How do I vote at the polling place in person?**  
-> Polling places are open from 7 a.m. to 8 p.m. on Tuesday, November 8.  
+Polling places are open from 7 a.m. to 8 p.m. on Tuesday, November 8.  
 
 **How do I find my polling place?**   
 - If you provided your voting address, then your polling location is printed here in the [My Polling Place](#section-my-polling-place) section of this site.  
