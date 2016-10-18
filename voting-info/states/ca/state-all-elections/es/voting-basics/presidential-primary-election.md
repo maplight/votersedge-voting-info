@@ -1,6 +1,6 @@
 ---
 title: "Cómo votar en la Elección Primaria Presidencial"
-published: true
+published: false
 weight: 14
 section: "voting-info"
 priority: "Minor"
