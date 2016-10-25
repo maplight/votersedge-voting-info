@@ -1,6 +1,6 @@
 ---
 title: "How do I vote in New York City?"
-published: true
+published: false
 weight: 10
 section: "voting-basics"
 priority: "Minor"
