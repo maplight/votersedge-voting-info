@@ -1,7 +1,7 @@
 ---
 title: "How to vote in the Presidential Primary"
 published: true
-weight: 7
+weight: 8
 section: "more-voting-info"
 priority: "Minor"
 ---
