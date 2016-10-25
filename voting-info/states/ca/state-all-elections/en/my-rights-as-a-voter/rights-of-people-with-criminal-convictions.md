@@ -1,7 +1,7 @@
 ---
 title: "Rights of people with criminal convictions"
 published: true
-weight: 4
+weight: 6
 section: "my-rights-as-a-voter"
 priority: "Minor"
 ---
