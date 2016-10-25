@@ -3,7 +3,7 @@ title: "How to vote in the California Top Two Primary"
 published: true
 weight: 6
 section: "more-voting-info"
-priority: "minor"
+priority: "Minor"
 ---
 
 Certain candidates in California are elected in a “Top-Two Primary.” These include candidates for:  
