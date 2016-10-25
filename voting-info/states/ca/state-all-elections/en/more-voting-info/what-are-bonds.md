@@ -1,7 +1,7 @@
 ---
 title: "What are bonds?"
 published: true
-weight: 10
+weight: 11
 section: "more-voting-info"
 priority: "Minor"
 ---
