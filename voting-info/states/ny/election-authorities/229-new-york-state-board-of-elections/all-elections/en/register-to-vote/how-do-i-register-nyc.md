@@ -1,6 +1,6 @@
 ---
 title: "How do I register to vote in New York City?"
-published: true
+published: false
 weight: 2
 section: "register-to-vote"
 priority: "Minor"
