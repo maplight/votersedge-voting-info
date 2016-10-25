@@ -1,7 +1,7 @@
 ---
 title: Voter registration drives
 published: true
-weight: 11
+weight: 12
 section: "more-voting-info"
 priority: "Minor"
 ---
