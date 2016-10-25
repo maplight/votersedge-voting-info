@@ -1,6 +1,6 @@
 ---
 title: "How do I get an absentee ballot in New York City?"
-published: true
+published: false
 weight: 2
 section: "ways-to-vote"
 priority: "Minor"
