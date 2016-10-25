@@ -1,7 +1,7 @@
 ---
 title: "Future of California Elections"
 published: true
-weight: 12
+weight: 13
 section: "more-voting-info"
 priority: "Minor"
 ---
