@@ -1,7 +1,7 @@
 ---
 title: "Is voter registration information confidential?"
 published: true
-weight: 5
+weight: 7
 section: "my-rights-as-a-voter"
 priority: "Minor"
 ---
