@@ -1,5 +1,5 @@
 ---
-title: Register to Vote
+title: "Register to Vote"
 published: true
 weight: 0
 section: "register-to-vote"

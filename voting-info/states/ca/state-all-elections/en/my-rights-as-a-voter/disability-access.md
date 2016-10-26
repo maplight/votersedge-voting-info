@@ -1,5 +1,5 @@
 ---
-title: Rights of voters with disabilities
+title: "Rights of voters with disabilities"
 published: true
 weight: 4
 section: "my-rights-as-a-voter"
