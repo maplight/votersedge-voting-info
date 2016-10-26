@@ -1,5 +1,5 @@
 ---
-title: Evaluating state ballot measures
+title: "Evaluating state ballot measures"
 published: true
 weight: 6
 section: "more-voting-info"

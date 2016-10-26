@@ -1,5 +1,5 @@
 ---
-title: Voter registration drives
+title: "Voter registration drives"
 published: true
 weight: 12
 section: "more-voting-info"

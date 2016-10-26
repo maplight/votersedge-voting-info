@@ -1,5 +1,5 @@
 ---
-title: Contact the League of Women Voters of California Education Fund
+title: "Contact the League of Women Voters of California Education Fund"
 published: true
 weight: 14
 section: "more-voting-info"
