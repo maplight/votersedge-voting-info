@@ -1,5 +1,5 @@
 ---
-title: " How do I return my absentee ballot?"
+title: "How do I return my absentee ballot?"
 published: true
 weight: 4
 section: "ways-to-vote"

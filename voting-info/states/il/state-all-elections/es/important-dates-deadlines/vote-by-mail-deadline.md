@@ -1,5 +1,5 @@
 ---
-title: Vote-By-Mail Deadline
+title: "Vote-By-Mail Deadline"
 published: true
 weight: 5
 section: "important-dates-deadlines"

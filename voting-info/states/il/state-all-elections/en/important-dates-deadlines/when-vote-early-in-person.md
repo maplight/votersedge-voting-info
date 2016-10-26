@@ -1,5 +1,5 @@
 ---
-title: Early Voting Period
+title: "Early Voting Period"
 published: true
 weight: 6
 section: "important-dates-deadlines"

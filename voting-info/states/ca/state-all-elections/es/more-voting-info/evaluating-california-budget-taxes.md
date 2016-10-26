@@ -1,5 +1,5 @@
 ---
-title: Evaluating California budget and taxes
+title: "Evaluating California budget and taxes"
 published: true
 weight: 5
 section: "more-voting-info"

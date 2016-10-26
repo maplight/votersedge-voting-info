@@ -1,5 +1,5 @@
 ---
-title: Information About Political Parties
+title: "Information About Political Parties"
 published: true
 weight: 3
 section: "more-voting-info"

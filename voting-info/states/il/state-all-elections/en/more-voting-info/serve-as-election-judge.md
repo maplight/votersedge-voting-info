@@ -1,5 +1,5 @@
 ---
-title: How do I serve as an election judge?
+title: "How do I serve as an election judge?"
 published: true
 weight: 1
 section: "more-voting-info"

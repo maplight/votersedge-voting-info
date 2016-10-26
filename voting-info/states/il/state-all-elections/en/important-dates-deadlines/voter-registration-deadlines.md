@@ -1,5 +1,5 @@
 ---
-title: Voter Registration Deadlines
+title: "Voter Registration Deadlines"
 published: true
 weight: 2
 section: "important-dates-deadlines"

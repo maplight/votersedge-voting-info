@@ -1,5 +1,5 @@
 ---
-title: Voter Registration Grace Period
+title: "Voter Registration Grace Period"
 published: true
 weight: 3
 section: "important-dates-deadlines"

@@ -1,5 +1,5 @@
 ---
-title: Ways to Vote
+title: "Ways to Vote"
 published: true
 weight: 1
 section: "ways-to-vote"

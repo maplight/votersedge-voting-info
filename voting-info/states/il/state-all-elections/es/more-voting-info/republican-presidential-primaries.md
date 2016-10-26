@@ -1,5 +1,5 @@
 ---
-title: Special note on Republican presidential primaries
+title: "Special note on Republican presidential primaries"
 published: true
 weight: 6
 section: "more-voting-info"
