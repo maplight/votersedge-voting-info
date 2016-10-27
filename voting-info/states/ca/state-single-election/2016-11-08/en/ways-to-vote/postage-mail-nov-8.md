@@ -1,5 +1,5 @@
 ---
-title: "Postage & Mail your Ballot Early"
+title: "Postage & Mailing your Ballot Early"
 published: true
 weight: 3
 section: "ways-to-vote"
