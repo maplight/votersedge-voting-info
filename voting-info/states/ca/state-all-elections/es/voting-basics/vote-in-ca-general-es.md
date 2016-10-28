@@ -6,4 +6,4 @@ section: "voting-basics"
 priority: "Minor"
 ---
 
-Check out this [easy-to-use chart](https://drive.google.com/file/d/0B0h2E_kd8S-LNTJiU3Foc2FBZzk5OG5EaFVUY3hMSl9YeDhn/view?usp=sharing) explaining How to Vote in a California General Election from the Center for Civic Design and the League of Women Voters of Voters of California Education Fund.  
+Consulte esta tabla fácil de usar que explica [**Cómo funcionan las Elecciones Primarias de California**](https://drive.google.com/file/d/0B0h2E_kd8S-LVml3cUc5NExFdjItclRzRXF3aUJCRnVGSVdN/view?usp=sharing) del [Centro de diseño cívico](http://civicdesign.org/) y la [League of Women Voters of California Education Fund.](https://cavotes.org/)  
