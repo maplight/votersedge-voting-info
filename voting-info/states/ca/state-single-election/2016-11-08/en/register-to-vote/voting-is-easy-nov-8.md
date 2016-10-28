@@ -38,4 +38,6 @@ Check [Ways to Vote](#section-ways-to-vote) for more information.
 
 Visit the **[Easy Voter Guide](http://www.easyvoterguide.org/)** for more voting information and to download a copy, and get your [Voting is Easy as 1-2-3](http://www.easyvoterguide.org/wp-content/uploads/2010/09/Voting1-2-3-June2016.pdf) flyer here!  
 
+Check out [Make Your Vote Count](https://www.aclusandiego.org/wp-content/uploads/2016/08/2016-How-to-vote-insert-8-12-16.pdf) from the ACLU of San Diego.  
+
 **[Todo Lo Que Votantes En California Deben Saber - 2016](https://www.facebook.com/mifamiliavotaca/videos/1334006159951729/)**  
