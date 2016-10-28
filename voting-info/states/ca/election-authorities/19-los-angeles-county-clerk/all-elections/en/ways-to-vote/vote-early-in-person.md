@@ -14,3 +14,5 @@ priority: "Minor"
 	Norwalk, CA 90650  
 
 Contact the Norwalk office at (800) 815-2666 or (562) 466-1323 to confirm business hours.  
+
+[Check early voting locations, times, and weekend hours!](https://www.lavote.net/home/voting-elections/voting-options/early-voting)  
