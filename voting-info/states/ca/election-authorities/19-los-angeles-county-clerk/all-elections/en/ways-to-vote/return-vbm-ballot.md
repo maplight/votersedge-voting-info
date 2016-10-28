@@ -20,3 +20,5 @@ Contact the Norwalk office at (800) 815-2666 or (562) 466-1323 to confirm busine
 **-OR-**  
 
 **Drop it off** at any polling place in Los Angeles County on **Election Day, Tuesday, November 8** from 7 AM to 8 PM.  
+
+[Check early voting locations, times, and weekend hours!](https://www.lavote.net/home/voting-elections/voting-options/early-voting)  
