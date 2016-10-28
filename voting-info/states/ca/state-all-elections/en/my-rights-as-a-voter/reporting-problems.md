@@ -40,4 +40,4 @@ Disability Rights California will explain your rights, work to resolve a problem
 
 Download and print the [hotline for voters with disabilities](http://www.disabilityrightsca.org/pubs/ElectionDayFlyerNovember82016.pdf) one-pager.  
 
-For More information check [Disability Rights California](http://www.disabilityrightsca.org/pubs/PublicationsVoting.htm)  
+For more information check [Disability Rights California](http://www.disabilityrightsca.org/pubs/PublicationsVoting.htm)  
