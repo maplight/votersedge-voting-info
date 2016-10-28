@@ -13,7 +13,7 @@ priority: "Minor"
 **Drop it off between Monday, October 10 and Tuesday, November 8** at the Registrar of Voters Office, 5600 Overland Ave, San Diego, CA 92123.  
 **Monday-Friday** 8:00 AM to 5:00 PM  
 **Election Day, Tuesday November 8,** open 7 AM to 8 PM  
-Click [here](http://www.sdvote.com/content/dam/rov/en/election/16Nov/MBDO%20Flyer%20(Online%20Handout).pdf) for drop-off locations!  
+Click [here](https://drive.google.com/file/d/0B0h2E_kd8S-LbnY1aWZhTHExbms/view?usp=sharing) for drop-off locations!  
 	
 **-OR-**  
 	
