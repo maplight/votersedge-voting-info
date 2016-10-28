@@ -2,8 +2,8 @@
 title: "Franquee y envíe a tiempo su boleta electoral por correo"
 published: true
 weight: 3
-section: ways-to-vote
-priority: "low"
+section: "ways-to-vote"
+priority: "Minor"
 ---
 
 **Franqueo de su boleta electoral**  
