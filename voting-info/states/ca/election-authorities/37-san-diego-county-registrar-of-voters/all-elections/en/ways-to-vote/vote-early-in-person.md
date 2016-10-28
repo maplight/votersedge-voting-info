@@ -13,4 +13,4 @@ priority: "Minor"
 
 **Early voting location:** Office of the Registrar of Voters, 5600 Overland Ave, San Diego CA 92123  
 
-**Weekend hours & drop off locations coming soon!**  
+**Click [here](http://www.sdvote.com/content/dam/rov/en/election/16Nov/MBDO%20Flyer%20(Online%20Handout).pdf) for drop-off locations!**  
