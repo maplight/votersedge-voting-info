@@ -18,7 +18,9 @@ If you encounter any issues in casting your ballot, or feel like your rights wer
 **English: 866-OUR-VOTE (866-687-8683)**  
 
 **Spanish & English: 888-Ve-Y-Vota (888-839-8682)**  
+
 Download [Prepare. Know Your Rights. Vote.](https://drive.google.com/file/d/0B0h2E_kd8S-LOU1Sd3gwajRKVHo1X1g1WjFGdWwxWkJ1cmY0/view?usp=sharing) in Spanish and English. For more information, check [ya es hora ¡VE Y VOTA!](http://veyvota.yaeshora.info/state?id=0005)  
+
 **Chinese, Vietnamese, Korean, Bengali, Urdu, Hindi, and Filipino/Tagalog: 888-API-VOTE (888-274-8683)**  
 
 Download **[Know your Voting Rights](http://www.advancingjustice-alc.org/know-your-voting-rights/)** in thirteen languages from Asian Americans Advancing Justice, California.  
