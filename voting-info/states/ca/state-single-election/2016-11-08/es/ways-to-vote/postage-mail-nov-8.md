@@ -1,7 +1,7 @@
 ---
 title: "Franquee y envíe a tiempo su boleta electoral por correo"
 published: true
-weight: 3
+weight: 2
 section: "ways-to-vote"
 priority: "Minor"
 ---
