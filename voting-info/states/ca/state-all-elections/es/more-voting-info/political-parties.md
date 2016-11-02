@@ -1,7 +1,7 @@
 ---
 title: "Information about political parties"
 published: true
-weight: 2
+weight: 4
 section: "more-voting-info"
 priority: "Minor"
 ---
