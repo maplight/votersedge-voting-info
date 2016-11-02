@@ -6,10 +6,10 @@ section: "my-rights-as-a-voter"
 priority: "Minor"
 ---
 
-#### ¿Cuáles son mis derechos electorales si tengo un delito menor?  
+**¿Cuáles son mis derechos electorales si tengo un delito menor?**  
 Una condena por delito menor no afecta en absoluto su derecho a votar. Puede votar en todas las elecciones.  
 
-#### ¿Cuáles son mis derechos electorales si tengo un delito mayor?  
+**¿Cuáles son mis derechos electorales si tengo un delito mayor?**  
 Si tiene una condena por delito mayor, **puede votar SI usted:**  
 - Está en libertad probatoria, incluso si se encuentra en la cárcel del condado como una condición de su libertad probatoria,
 - ha concluido su libertad probatoria,
@@ -27,19 +27,19 @@ Las únicas condiciones en las que **no se le permite votar son Si usted:**
 Una vez que haya terminado su sentencia y libertad condicional, puede inscribirse para votar. 
 Si no está seguro de qué tipo de sentencia está cumpliendo, consulte con su oficial de libertad condicional o probatoria.  
 
-#### ¿Puedo votar cuando esté en libertad condicional?
+**¿Puedo votar cuando esté en libertad condicional?**  
 No. Solo puede votar una vez que haya concluido su libertad condicional.
 
-#### ¿Puedo votar si estoy en supervisión obligatoria?
+**¿Puedo votar si estoy en supervisión obligatoria?**  
 ¡Sí! Usted pude votar todas las veces cuando esté en supervisión obligatoria.
 
-#### ¿Puedo votar mientras estoy en supervisión comunitaria posterior a la liberación?
+**¿Puedo votar mientras estoy en supervisión comunitaria posterior a la liberación?**  
 ¡Sí! Usted pude votar todas las veces cuando esté en supervisión comunitaria posterior a la liberación.
  
-#### ¿Puedo votar cuando esté en libertad probatoria?
+**¿Puedo votar cuando esté en libertad probatoria?**  
 ¡Sí! Usted puede votar todas las veces cuando esté en libertad probatoria, si su condena es por un delito mayor o un delito menor.  
 
-#### ¿Puedo votar mientras esté en la cárcel del condado?
+**¿Puedo votar mientras esté en la cárcel del condado?**  
 Tal vez. Usted **puede votar** al estar en la cárcel del condado SI está:  
 - en espera de un juicio por cualquier delito,
 - por una condena por delito menor,
@@ -52,8 +52,8 @@ Las condiciones en las que usted **pierde el derecho al voto al estar en la cár
 - cumpliendo una sentencia por delito mayor de 1170 (horas) en la cárcel del condado o
 - en la cárcel por una violación de la libertad condicional.  
 
-#### ¿Cómo recupero mi derecho al voto?  
+**¿Cómo recupero mi derecho al voto?**  
 En California, no necesita hacer nada para “restaurar” su derecho al voto. Se restaura de forma automática, una vez que usted termine su sentencia y ya no esté en libertad condicional. Sin embargo, debe [inscribirse o volver a inscribirse para votar](#sección de Inscribirse para votar) en las próximas elecciones.
 
 Para obtener más información, visite la página [Permítanme votar](https://www.aclu.org/let-me-vote-california).  
-Descargue las tarjetas políticas en [inglés] (https://www.letmevoteca.org/docs/2015-palm-card-english.pdf) y en [español] (https://www.letmevoteca.org/docs/08.2015-SPANISH-KYR-card.pdf). 
+Descargue las tarjetas políticas en [inglés](https://www.letmevoteca.org/docs/2015-palm-card-english.pdf) y en [español](https://www.letmevoteca.org/docs/08.2015-SPANISH-KYR-card.pdf).  
