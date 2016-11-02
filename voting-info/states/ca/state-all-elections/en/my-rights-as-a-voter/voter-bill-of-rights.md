@@ -41,6 +41,16 @@ priority: "Minor"
 
 If you believe you have been denied any of these rights, call the Secretary of State's confidential toll-free voter hotline at **(800) 345-VOTE (8683).**  
 
-Download your [California Voter Bill of Rights](http://elections.cdn.sos.ca.gov/voter-bill-of-rights/voter-bill-of-rights.pdf) from the Secretary of State.  
+Download your **California Voter Bill of Rights** from the Secretary of State in any of the following languages:  
+[English](http://elections.cdn.sos.ca.gov/voter-bill-of-rights/voter-bill-of-rights.pdf)  
+[Spanish](http://elections.cdn.sos.ca.gov//voter-bill-of-rights/spanish.pdf)  
+[Chinese](http://elections.cdn.sos.ca.gov/voter-bill-of-rights/chinese.pdf)  
+[Hindi](http://elections.cdn.sos.ca.gov/voter-bill-of-rights/hindi.pdf)  
+[Japanese](http://elections.cdn.sos.ca.gov/voter-bill-of-rights/japanese.pdf)  
+[Khmer](http://elections.cdn.sos.ca.gov/voter-bill-of-rights/khmer.pdf)  
+[Korean](http://elections.cdn.sos.ca.gov/voter-bill-of-rights/korean.pdf)  
+[Tagalog](http://elections.cdn.sos.ca.gov/voter-bill-of-rights/tagalog.pdf)  
+[Thai](http://elections.cdn.sos.ca.gov/voter-bill-of-rights/thai.pdf)  
+[Vietnamese](http://elections.cdn.sos.ca.gov/voter-bill-of-rights/vietnamese.pdf)  
 
 [Check out the Voter Bill of Rights video!](https://www.youtube.com/watch?v=_m_Ge5uEd1c&)  
