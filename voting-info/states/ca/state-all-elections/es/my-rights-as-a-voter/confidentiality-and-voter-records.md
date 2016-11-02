@@ -1,7 +1,7 @@
 ---
 title: "¿La información del registro de votantes es confidencial?"
 published: true
-weight: 5
+weight: 7
 section: "my-rights-as-a-voter"
 priority: "Minor"
 ---
