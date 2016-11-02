@@ -53,7 +53,7 @@ Las condiciones en las que usted **pierde el derecho al voto al estar en la cár
 - en la cárcel por una violación de la libertad condicional.  
 
 **¿Cómo recupero mi derecho al voto?**  
-En California, no necesita hacer nada para “restaurar” su derecho al voto. Se restaura de forma automática, una vez que usted termine su sentencia y ya no esté en libertad condicional. Sin embargo, debe [inscribirse o volver a inscribirse para votar](#sección de Inscribirse para votar) en las próximas elecciones.
+En California, no necesita hacer nada para “restaurar” su derecho al voto. Se restaura de forma automática, una vez que usted termine su sentencia y ya no esté en libertad condicional. Sin embargo, debe [inscribirse o volver a inscribirse para votar](#section-register-to-vote) en las próximas elecciones.
 
 Para obtener más información, visite la página [Permítanme votar](https://www.aclu.org/let-me-vote-california).  
 Descargue las tarjetas políticas en [inglés](https://www.letmevoteca.org/docs/2015-palm-card-english.pdf) y en [español](https://www.letmevoteca.org/docs/08.2015-SPANISH-KYR-card.pdf).  
