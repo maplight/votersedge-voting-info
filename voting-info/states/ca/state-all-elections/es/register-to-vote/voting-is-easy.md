@@ -16,7 +16,7 @@ priority: "Minor"
 - Es importante llenar toda la información del formulario. Se le pedirá que incluya el número de su licencia de manejo o de otra identificación.
 - Ya que esté en la lista, solamente deberá volver a registrarse si cambia de domicilio o de nombre, o si desea cambiar su partido político.  
 
-Para obtener más información, consulte [¿Puedo inscribirme para votar?](#menu-item-can-i-register-to-vote)
+Para obtener más información, consulte [¿Puedo inscribirme para votar?](#menu-item-¿puedo-inscribirme-para-votar)
 
 #### 2. ¡Prepárese!
 
