@@ -1,7 +1,7 @@
 ---
 title: "Declaración de Derechos de los Votantes"
 published: true
-weight: 0
+weight: 1
 section: "my-rights-as-a-voter"
 priority: "Minor"
 ---
