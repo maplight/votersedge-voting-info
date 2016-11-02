@@ -1,9 +1,9 @@
 ---
 title: "¿ Cuándo puedo inscribirme para votar?"
-publicado: falso
-peso: 4
-sección: register-to-vote
-priority: low
+published: true
+weight: 4
+section: "register-to-vote"
+priority: "Minor"
 ---
 
 **Llene un formulario de inscripción de votante a más tardar 15 días antes de la elección.**  
