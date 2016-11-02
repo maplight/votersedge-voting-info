@@ -1,7 +1,7 @@
 ---
 title: "Los derechos de los electores con discapacidades"
 published: true
-weight: 2
+weight: 4
 section: "my-rights-as-a-voter"
 priority: "Minor"
 ---
