@@ -1,7 +1,7 @@
 ---
 title: "Los derechos de las personas con condenas penales"
 published: true
-weight: 4
+weight: 6
 section: "my-rights-as-a-voter"
 priority: "Minor"
 ---
