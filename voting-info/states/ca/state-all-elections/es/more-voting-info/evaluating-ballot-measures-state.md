@@ -1,7 +1,7 @@
 ---
 title: "Evaluating state ballot measures"
 published: true
-weight: 4
+weight: 6
 section: "more-voting-info"
 priority: "Minor"
 ---
