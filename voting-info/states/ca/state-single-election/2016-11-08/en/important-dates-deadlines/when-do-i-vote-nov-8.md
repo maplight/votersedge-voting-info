@@ -11,7 +11,7 @@ Both **vote-by-mail** and **early-in-person** voting always start _29 days befor
 #### By Mail  
 From **Monday, October 10*** through **Election Day, Tuesday, November 8.**  
 - Your completed vote-by-mail ballot must be **postmarked** on or before **Election Day, Tuesday, November 8.**  
-- Once mailed and postmarked, the ballot must be **received** by the elections office **no later than 3 days after Election Day.**  
+- Once mailed and postmarked, the ballot must be **received** by the elections office **no later than 3 business days after Election Day.**  
 
 #### Early-in-person  
 From **Monday, October 10*** through **Monday, November 7.** Some early voting locations are also open through Election Day.  
