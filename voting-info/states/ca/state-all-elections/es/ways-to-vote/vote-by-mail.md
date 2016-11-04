@@ -14,4 +14,4 @@ Siga las instrucciones para llenar su boleta electoral y no olvide firmar y sell
 - entregándola en una ubicación designada por su condado 
 - entregándola en cualquier lugar de votación de su condado antes de las 8 p. m. el día de las elecciones
 
-¡No se retrase si la envía por correo! Las boletas electorales regresadas por correo se deben enviar antes o el día de las elecciones y se deberán recibir en la oficina electoral a más tardar 3 días después del día de las elecciones.
+¡No se retrase si la envía por correo! Las boletas electorales regresadas por correo se deben enviar antes o el día de las elecciones y se deberán recibir en la oficina electoral a más tardar 3 días de trabajo después del día de las elecciones.
