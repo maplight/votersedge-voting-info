@@ -41,3 +41,16 @@ priority: "Minor"
 Si cree que le negaron cualquierade estos derechos, llame en forma confidencial y sin cargo a la Línea deasistencia al votante del Secretario de Estado al **(800) 232-VOTA (8682)**.  
 
 Descargar las instrucciones del votante [Declaración de Derechos de California](http://elections.cdn.sos.ca.gov//voter-bill-of-rights/spanish.pdf) de la Secretaría de Estado.  
+
+You can also download your **California Voter Bill of Rights** from the Secretary of State in any of the following languages:  
+[English](http://elections.cdn.sos.ca.gov/voter-bill-of-rights/voter-bill-of-rights.pdf)  
+[Chinese](http://elections.cdn.sos.ca.gov/voter-bill-of-rights/chinese.pdf)  
+[Hindi](http://elections.cdn.sos.ca.gov/voter-bill-of-rights/hindi.pdf)  
+[Japanese](http://elections.cdn.sos.ca.gov/voter-bill-of-rights/japanese.pdf)  
+[Khmer](http://elections.cdn.sos.ca.gov/voter-bill-of-rights/khmer.pdf)  
+[Korean](http://elections.cdn.sos.ca.gov/voter-bill-of-rights/korean.pdf)  
+[Tagalog](http://elections.cdn.sos.ca.gov/voter-bill-of-rights/tagalog.pdf)  
+[Thai](http://elections.cdn.sos.ca.gov/voter-bill-of-rights/thai.pdf)  
+[Vietnamese](http://elections.cdn.sos.ca.gov/voter-bill-of-rights/vietnamese.pdf)  
+
+[Check out the Voter Bill of Rights video!](https://www.youtube.com/watch?v=_m_Ge5uEd1c&)  
