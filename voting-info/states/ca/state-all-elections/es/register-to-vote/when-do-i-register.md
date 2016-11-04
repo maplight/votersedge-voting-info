@@ -6,7 +6,7 @@ section: "register-to-vote"
 priority: "Minor"
 ---
 
-**Llene un formulario de inscripción de votante a más tardar 15 días antes de la elección.**  
+**Llene un [formulario de inscripción de votante](http://registertovote.ca.gov/es/) a más tardar 15 días antes de la elección.**  
 
 Es importante que llene por completo su solicitud de inscripción de votante y:  
 - la presente en línea antes de la media noche, 15 días antes de la elección o  
