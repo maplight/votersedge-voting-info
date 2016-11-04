@@ -13,7 +13,7 @@ Comuníquese a su [oficina electoral del condado](#section-election-office-conta
 Si cree que le han denegado alguno de sus derechos al voto o si sabe de algún fraude o mala conducta electoral, puede llamar a la línea gratuita confidencial para el elector de la Secretaría del Estado al (800) 345-VOTE (8683).  
 
 **[Election Protection](http://www.866ourvote.org/)**  
-**Si encuentra algún problema para emitir su boleta electoral o siente que se violaron sus derechos, llame a una de estas líneas para recibir ayuda para resolver su disputa e informar de su reclamación.**  
+Si encuentra algún problema para emitir su boleta electoral o siente que se violaron sus derechos, llame a una de estas líneas para recibir ayuda para resolver su disputa e informar de su reclamación.  
 
 **Inglés: 866-OUR-VOTE (866-687-8683)**  
 
