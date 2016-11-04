@@ -7,7 +7,7 @@ priority: "Minor"
 ---
 Solicite una boleta electoral por correo en la oficina electoral de su condado.  
 
-Asegúrese de enviar su solicitud a tiempo para que se reciba en la oficina electoral al menos 7 días antes del día de las elecciones a las 5 p. m. 
+Asegúrese de enviar su solicitud a tiempo para que se reciba en la oficina electoral al menos 7 días antes del día de las elecciones, el 8 noviembre, a las 5 p. m. 
 
 Siga las instrucciones para llenar su boleta electoral y no olvide firmar y sellar el sobre especial que se le entregó. Puede regresar su boleta:
 - por correo postal 
