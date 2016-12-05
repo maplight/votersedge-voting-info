@@ -1,0 +1,37 @@
+# This is a sample build configuration for Javascript.
+# Check our guides at https://confluence.atlassian.com/x/VYk8Lw for more examples.
+# Only use spaces to indent your .yml configuration.
+# -----
+# You can specify a custom docker image from Docker Hub as your build environment.
+image: phpunit/phpunit:5.0.3
+
+pipelines:
+  default:
+    - step:
+        script: 
+            
+  branches:
+    development:
+      - step:
+          script:
+            # prepare docker container with the proper setup to support an ssh connection to portlandia
+            # much of the ssh tasks are taken from this article:
+            # https://confluence.atlassian.com/bitbucket/access-remote-hosts-via-ssh-847452940.html
+            - mkdir -p ~/.ssh
+            - cat my_known_hosts >> ~/.ssh/known_hosts
+            - (umask  077 ; echo $PORTLANDIA_SSH_KEY | base64 --decode > ~/.ssh/id_rsa)
+            # check out the master branch
+            - ssh -i ~/.ssh/id_rsa shane_d@216.151.17.6 'cd ~/voters_info && rm -R votersedge-voting-info && (rm -R votersedge-app || true) && git clone git@github.com:maplight/votersedge-voting-info.git'
+            # compile json
+            - ssh -i ~/.ssh/id_rsa shane_d@216.151.17.6 'cd /home/shane_d/voters_info/votersedge-voting-info/tools/scripts && ./compileJSON.py'
+            # commit changes to git and upload to AWS S3
+            - ssh -i ~/.ssh/id_rsa shane_d@216.151.17.6 'cd /home/shane_d/voters_info/votersedge-voting-info && ./commit_to_git_and_upload_to_s3.sh'
+    staging:
+      - step:
+          script:
+            
+    production:
+      - step:
+          script:
+            
+            
