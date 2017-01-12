@@ -7,7 +7,7 @@ phases:
       - python --version
       - pwd
       - ls -al
-      - ./compileJSON.py
+      - ./tools/scripts/compileJSON.py
       - if [ -n "$(git status --porcelain)" ]; then 
       -   echo "*** Files have been updated. ***";
       -   git add *
