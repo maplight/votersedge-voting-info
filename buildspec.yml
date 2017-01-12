@@ -4,8 +4,7 @@ phases:
   build:
     commands:
       - cd tools/scripts && ./compileJSON.py
-      - if [ -n "$(git status --porcelain)" ]; then 
-      -   echo "*** Files have been updated. ***";
+      - if [ -n "$(git status --porcelain)" ]; then echo "*** Files have been updated. ***";
       -   git add *
       -   git commit -m "latest voter info updates"
       -   git push origin master
