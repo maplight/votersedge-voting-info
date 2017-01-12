@@ -3,7 +3,7 @@ version: 0.1
 phases:
   build:
     commands:
-      # - cd tools/scripts
+      - cd tools/scripts
       - python --version
       - pwd
       - ls -al
