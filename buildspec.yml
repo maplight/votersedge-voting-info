@@ -3,11 +3,7 @@ version: 0.1
 phases:
   build:
     commands:
-      - cd tools/scripts
-      - python --version
-      - pwd
-      - ls -al
-      - ./tools/scripts/compileJSON.py
+      - cd tools/scripts && ./compileJSON.py
       - if [ -n "$(git status --porcelain)" ]; then 
       -   echo "*** Files have been updated. ***";
       -   git add *
