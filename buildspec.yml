@@ -4,7 +4,7 @@ phases:
   build:
     commands:
       - cd tools/scripts
-      - cd ./compileJSON.py
+      - ./compileJSON.py
       - if [ -n "$(git status --porcelain)" ]; then 
       -   echo "*** Files have been updated. ***";
       -   git add *
