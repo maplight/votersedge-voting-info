@@ -14,7 +14,7 @@ If you are writing content that applies to the whole state of California, we wil
 
 
 ### Template
-For the time being, we have a template you can follow. If you can provide us with markdown files instead of Word documents, that would be really appreciated. 
+For the time being, we have a template you can follow. If you can provide us with markdown files instead of Word documents, that would be really appreciated.
 
 
 Please include in your file:
@@ -45,14 +45,14 @@ Your section content goes here
 
 
 
--- end of file -- 
+-- end of file --
 
 
 
 
 ### SECTIONS
-We have 8 sections, or categories, right now. You may contribute content to subsections in these categories. 
-      'where-to-vote' 
+We have 8 sections, or categories, right now. You may contribute content to subsections in these categories.
+      'where-to-vote'
       'register-to-vote'
       'how-to-vote'
       'when-to-vote'
@@ -65,14 +65,14 @@ We have 8 sections, or categories, right now. You may contribute content to subs
 ### What is Markdown?
 Markdown is a simple language for formatting text for the web. It uses simple formatting like **this should be bold** to write. Here are the formatting tips. [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 
-If you would prefer to use a tool that will format it for you with a button, this free-online tool that allows you to write markdown formatted text. https://stackedit.io/editor 
+If you would prefer to use a tool that will format it for you with a button, this free-online tool that allows you to write markdown formatted text. https://stackedit.io/editor
 
 All you really need to write Markdown is a text editor (*not microsoft word!*)
 There are other tools such as Mou, Retext.
 
 We also have a really awesome tool called Prose.io which our state content editors and tech team will be using to finalize the content before it is pushed to the web.
 
+http://prose.io/#maplight/votersedge-voting-info/
+
 ### Previews
 You will be able to preview content sometime in mid-January. For now, please bear with us.
-
-
