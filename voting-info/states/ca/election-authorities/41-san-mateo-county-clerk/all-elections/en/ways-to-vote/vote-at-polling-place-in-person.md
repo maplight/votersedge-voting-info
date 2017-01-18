@@ -6,7 +6,7 @@ section: "ways-to-vote"
 priority: "Minor"
 ---
 
-**How do I vote at the polling place in person for the June 7, Presidential Primary Election?**  
+**How do I vote at the polling place in person on Election Day?**  
 Find your polling place:  
 - In the [My Polling Place](#section-my-polling-place) section of this site.  
 - On the [San Mateo County Elections](https://www.shapethefuture.org/MyElectionMaterials/) website.  

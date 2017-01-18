@@ -1,6 +1,6 @@
 ---
 title: "How do I return my vote-by-mail ballot?"
-published: false
+published: true
 weight: 4
 section: "ways-to-vote"
 priority: "Minor"
@@ -12,6 +12,6 @@ priority: "Minor"
 
 **If you mail your ballot back, don’t delay.**  
 
-Your completed vote-by-mail ballot must be **postmarked** on or before **[INSERT Day, Month Date, Year]**
+Your completed vote-by-mail ballot must be **postmarked** on or before **Election Day**
 
-Once mailed and postmarked, the ballot must be **received** by the elections office no later than 3 days after Election Day. For this election that date is **[INSERT Day, Month Date, Year]**
+Once mailed and postmarked, the ballot must be **received** by the elections office no later than 3 days after Election Day.

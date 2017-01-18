@@ -10,12 +10,9 @@ priority: "Minor"
 
   **-OR-**  
   
-**Drop it off** between **Monday, October 10** and **Tuesday, November 8**  
+**Drop it off** from 29 days before Election Day through the Election Day.  
 **Monday through Friday** from 8 AM to 5 PM at the Butte County Elections Office, Hall of Records, 155 Nelson Ave., Oroville, CA 95965  
-**Also open on:**  
- **Saturday, November 5** from 9 AM to 4 PM and  
- **Election Day, Tuesday, November 8** from 7 AM to 8 PM.  
 
   **-OR-**  
   
-**Drop it off** at any polling place in Butte County on **Election Day, Tuesday, November 8** from 7 AM to 8 PM.  
+**Drop it off** at any polling place in Butte County on **Election Day** from 7 AM to 8 PM.  

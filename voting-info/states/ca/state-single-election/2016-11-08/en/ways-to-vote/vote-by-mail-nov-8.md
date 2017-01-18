@@ -8,8 +8,7 @@ priority: "Minor"
 
 **Request** a vote-by-mail ballot from your [County Elections Office.](#section-election-office-contact)
 
-Make sure that you send in your request so that it’s received by your county elections office _**no later**_ than Tuesday, November 1, by 5 PM.   
-
+Make sure that you send in your request so that it’s received by your county elections office _**no later**_ than one week before Election Day.   
 
 **Follow the directions to fill out your ballot and envelope.**  
 - **Mark** your vote-by-mail ballot.  
@@ -29,5 +28,5 @@ You can have a relative or person living in your house drop off your vote-by-mai
 
 
 **If you mail your ballot back, don’t delay.**  
-- Your completed vote-by-mail ballot must be **postmarked** on or before **Tuesday, November 8.**
-- Once mailed and postmarked, the ballot must be **received** by the elections office **no later than Monday, November 14.**
+- Your completed vote-by-mail ballot must be **postmarked** on or before **Election Day.**
+- Once mailed and postmarked, the ballot must be **received** by the elections office **no later than one week after Election Day.**
