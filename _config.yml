@@ -1,3 +1,4 @@
+exclude: [".package.json", "tools", "json"]
 prose:
   rooturl: 'voting-info'
   siteurl: 'http://votersedge.org'
