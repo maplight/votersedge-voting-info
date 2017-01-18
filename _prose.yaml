@@ -1,0 +1,54 @@
+prose:
+  rooturl: 'voting-info'
+  siteurl: 'http://votersedge.org'
+  relativeLinks: 'http://prose.github.io/starter/links.jsonp'
+  media: 'media'
+  ignore:
+    - package.json
+    - my_known_hosts
+    - buildspec.yml
+    - bitbucket-pipelines.yml
+    - _prose.yml
+    - /tools
+    - /json
+    - /_templates
+  metadata:
+    _posts:
+      - name: "content"
+        field:
+          element: "hidden"
+          value: "voting-info"
+      - name: "weight"
+        field:
+          element: "integer"
+          label: "Set Weight"
+          placeholder: "Set the weight of this post"
+          value: 0
+      - name: "priority"
+        field:
+          element: "multiselect"
+          label: "Section Type"
+          placeholder: "Type of section"
+          options:
+            - name: "Sub-section (Minor)"
+              value: "Minor"
+            - name: "Intro"
+              value: "Major"
+      - name: "section"
+       field:
+          element: multiselect
+          options:
+            - name: "ways-to-vote"
+              value: "ways-to-vote"
+            - name: "voting-basics"
+              value: "voting-basics"
+            - name: "register-to-vote"
+              value: "register-to-vote"
+            - name: "my-rights-as-a-voter"
+              value: "my-rights-as-a-voter"
+            - name: "my-polling-place"
+              value: "my-polling-place"
+            - name: "more-voting-info"
+              value: "more-voting-info"
+            - name: "important-dates-deadlines"
+              value: "important-dates-deadlines"
