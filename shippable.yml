@@ -8,7 +8,8 @@ build:
     - if [ -n "$(git status --porcelain)" ]; then 
         echo "*** Files have been updated. ***";
         git add *;
-        git commit -m "latest voter info updates";
+        git commit -m "[skip ci] latest voter info updates";
+        ssh-agent bash -c "ssh-add ~/keys/id_${JOB_ID};
         git push origin master;
         aws s3 cp json s3://votersedge-voting-info-static/json --grants read=uri=http://acs.amazonaws.com/groups/global/AllUsers --recursive --include "*.*";
       else 
