@@ -4,7 +4,7 @@ build:
 
   ci:
     - cd tools/scripts && ./compileJSON.py
-    - ./commit_to_git_and_upload_to_s3.sh
+    - cd ../../ && ./commit_to_git_and_upload_to_s3.sh
 
 integrations:
   key:
