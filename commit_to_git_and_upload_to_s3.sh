@@ -1,4 +1,3 @@
-cd /home/shane_d/voters_info/votersedge-voting-info &&
 if [ -n "$(git status --porcelain)" ]; then 
   echo "*** Files have been updated. ***";
   git add *

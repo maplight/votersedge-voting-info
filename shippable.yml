@@ -1,0 +1,12 @@
+language: python                                                 
+
+build:                                                  
+
+  ci:
+    - cd tools/scripts && ./compileJSON.py
+    - ./commit_to_git_and_upload_to_s3.sh
+
+integrations:
+  key:
+    - integrationName: PORTLANDIA_SSH_KEY
+      type: ssh-key
