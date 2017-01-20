@@ -24,7 +24,6 @@ build:
         git commit -m "[skip ci] latest voter info updates";
         ssh-agent bash -c "ssh-add ~/keys/id_${JOB_ID}; git push origin master";
         echo "*** Files committed to git. ***";
-        # aws s3 cp json s3://votersedge-voting-info-static/json --grants read=uri=http://acs.amazonaws.com/groups/global/AllUsers --recursive --include "*.*";
       else 
         echo "*** Files have not changed. Nothing to commit and upload. ***";
       fi
