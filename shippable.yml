@@ -4,7 +4,7 @@ build:
 
   ci:
     - cd tools/scripts && ./compileJSON.py
-    - cd ../../ && ./commit_to_git_and_upload_to_s3.sh
+    - if [ -n "$(git status --porcelain)" ]; then echo "*** Files have been updated. ***" && git config --global user.email "shane@maplight.org" && git config --global user.name "shaned-maplight" && git add * && git commit -m "latest voter info updates" && git push origin master && aws s3 cp json s3://votersedge-voting-info-static/json --grants read=uri=http://acs.amazonaws.com/groups/global/AllUsers --recursive --include "*.*"; else echo "*** Files have not changed. Nothing to commit and upload. ***"; fi
 
 integrations:
   key:
