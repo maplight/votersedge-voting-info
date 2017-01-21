@@ -3,7 +3,7 @@ language: python
 env:
   - AWS_ACCESS_KEY_ID=AKIAIZY5WEKEERJY4OBA
   - AWS_DEFAULT_REGION=us-west-2
-  - secure: AWS_SECRET_ACCESS_KEY=u61YQo0c3R1ks/wbyvptDsh7tZw1IivaGqtFN6KJUc4XkfkCnxDc3TnjaF2MGLtRvL6jx7/yGePPTTyEV856cLUpqwol40eR/PI+AzkbE7/qnOX5HAcmnomfM9drEyFbywsyuaRoYvkNx2o8+Cay+Vsm8nWTOBnIofu+TFnrguHB8DvXGhr7ciWasfkTl0dA7T8rcnFWxx+whkcN/gPHVl/daQTwROJc71eBkOWK6X9dakxheKCzTpIJ7w/BC1mHd5X0nw9WKRKojDs/PjGmiFyiV3WuWqJjTjnu9NbuGorYFD7HpGNclmLvHV+hLsjalfD70QWJN/oD3YtEybFPPA==
+  - secure: - secure: kBGyguyIAD4mRCctDEHmY40jWZm2dSv2dkDgemVDaCpaDOdvFZhOuK8N6VkEf23S4vN5i2lzWd16JCvnIC3X+F4JlmwswmHFfrCYyPidUrlJo1grwVaGjFTbIiKyyeL0DYbMvDdg22ZADrIW8NXXfDwCyiyEWdnyMY/THKa0g08FH6wEfXmw+4QgQte257OW8OL296HKx+98fZ9ncnETqjLn6K+8KMupugk0fq0RwgNXCcrzm/BnOjUUW1FTjx4jKjZYHHireEFosrebg12CxXWeufVFDaiq7rtmBprnzdPlajBKGxw0cVQdkgTws4zhgNqPh131d0uCdk3Qi0Scig==
 
 build:  
 
