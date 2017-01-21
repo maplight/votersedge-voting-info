@@ -4,6 +4,8 @@ env:
   global:
     - AWS_ACCESS_KEY_ID=AKIAIZY5WEKEERJY4OBA
     - AWS_DEFAULT_REGION=us-west-2
+    # this is the encrypted AWS_SECRET_ACCESS_KEY used for s3 upload
+    # encryption is done in the Settings tab of this repo in shippable
     - secure: kBGyguyIAD4mRCctDEHmY40jWZm2dSv2dkDgemVDaCpaDOdvFZhOuK8N6VkEf23S4vN5i2lzWd16JCvnIC3X+F4JlmwswmHFfrCYyPidUrlJo1grwVaGjFTbIiKyyeL0DYbMvDdg22ZADrIW8NXXfDwCyiyEWdnyMY/THKa0g08FH6wEfXmw+4QgQte257OW8OL296HKx+98fZ9ncnETqjLn6K+8KMupugk0fq0RwgNXCcrzm/BnOjUUW1FTjx4jKjZYHHireEFosrebg12CxXWeufVFDaiq7rtmBprnzdPlajBKGxw0cVQdkgTws4zhgNqPh131d0uCdk3Qi0Scig==
 
 build:  
@@ -14,7 +16,6 @@ build:
   ci:
     - cd tools/scripts && ./compileJSON.py
     - cd ../../
-    #- if [ -n "$(git status --porcelain)" ]; then echo "*** Files have been updated. ***"; git config --global user.email "shane@maplight.org" && git config --global user.name "shaned-maplight" && git add * && git commit -m "latest voter info updates" && git push origin master && aws s3 cp json s3://votersedge-voting-info-static/json --grants read=uri=http://acs.amazonaws.com/groups/global/AllUsers --recursive --include "*.*"; else echo "*** Files have not changed. Nothing to commit and upload. ***"; fi
     - if [ -n "$(git status --porcelain)" ]; then 
         echo "*** Files have been updated. ***";
         git add *;
@@ -26,13 +27,6 @@ build:
       fi
 
   on_success:
-    # - aws deploy push --application-name $CD_APP_NAME --s3-location s3://$CD_BUCKET/$CD_KEY --ignore-hidden-files
-    # - aws deploy create-deployment --application-name $CD_APP_NAME --s3-location bucket=$CD_BUCKET,key=$CD_KEY,bundleType=zip --deployment-group-name $CD_DEPLOYMENT_GROUP
     - echo "*** Begin uploading to AWS S3 ***";
     - aws s3 cp json s3://votersedge-voting-info-static/json --grants read=uri=http://acs.amazonaws.com/groups/global/AllUsers --recursive --include "*.*";
     - echo "*** Finished uploading to AWS S3 ***";
-
-integrations:
-  key:
-    - integrationName: PORTLANDIA_SSH_KEY
-      type: ssh-key
