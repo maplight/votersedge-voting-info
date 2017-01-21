@@ -2,9 +2,9 @@ language: python
 
 env:
   global:
-    - AWS_ACCESS_KEY_ID='AKIAIZY5WEKEERJY4OBA'
-    - AWS_DEFAULT_REGION='us-west-2'
-    - secure: 'u61YQo0c3R1ks/wbyvptDsh7tZw1IivaGqtFN6KJUc4XkfkCnxDc3TnjaF2MGLtRvL6jx7/yGePPTTyEV856cLUpqwol40eR/PI+AzkbE7/qnOX5HAcmnomfM9drEyFbywsyuaRoYvkNx2o8+Cay+Vsm8nWTOBnIofu+TFnrguHB8DvXGhr7ciWasfkTl0dA7T8rcnFWxx+whkcN/gPHVl/daQTwROJc71eBkOWK6X9dakxheKCzTpIJ7w/BC1mHd5X0nw9WKRKojDs/PjGmiFyiV3WuWqJjTjnu9NbuGorYFD7HpGNclmLvHV+hLsjalfD70QWJN/oD3YtEybFPPA=='
+    - AWS_ACCESS_KEY_ID=AKIAIZY5WEKEERJY4OBA
+    - AWS_DEFAULT_REGION=us-west-2
+    - secure: u61YQo0c3R1ks/wbyvptDsh7tZw1IivaGqtFN6KJUc4XkfkCnxDc3TnjaF2MGLtRvL6jx7/yGePPTTyEV856cLUpqwol40eR/PI+AzkbE7/qnOX5HAcmnomfM9drEyFbywsyuaRoYvkNx2o8+Cay+Vsm8nWTOBnIofu+TFnrguHB8DvXGhr7ciWasfkTl0dA7T8rcnFWxx+whkcN/gPHVl/daQTwROJc71eBkOWK6X9dakxheKCzTpIJ7w/BC1mHd5X0nw9WKRKojDs/PjGmiFyiV3WuWqJjTjnu9NbuGorYFD7HpGNclmLvHV+hLsjalfD70QWJN/oD3YtEybFPPA==
     # - CD_APP_NAME=ShippableCodeDeploy CD_DEPLOYMENT_GROUP=DemoFleet
     # # The following env vars are only used if your app is stored in S3
     # -  CD_BUCKET=codedeploy-sample CD_KEY=latest                                               
@@ -28,7 +28,7 @@ build:
         echo "*** Files have not changed. Nothing to commit and upload. ***";
       fi
 
-  after_success:
+  on_success:
     # - aws deploy push --application-name $CD_APP_NAME --s3-location s3://$CD_BUCKET/$CD_KEY --ignore-hidden-files
     # - aws deploy create-deployment --application-name $CD_APP_NAME --s3-location bucket=$CD_BUCKET,key=$CD_KEY,bundleType=zip --deployment-group-name $CD_DEPLOYMENT_GROUP
     - echo "*** Begin uploading to AWS S3 ***";
