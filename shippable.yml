@@ -1,10 +1,9 @@
 language: python  
 
 env:
+  - AWS_ACCESS_KEY_ID=AKIAIZY5WEKEERJY4OBA
+  - AWS_DEFAULT_REGION=us-west-2
   - secure: u61YQo0c3R1ks/wbyvptDsh7tZw1IivaGqtFN6KJUc4XkfkCnxDc3TnjaF2MGLtRvL6jx7/yGePPTTyEV856cLUpqwol40eR/PI+AzkbE7/qnOX5HAcmnomfM9drEyFbywsyuaRoYvkNx2o8+Cay+Vsm8nWTOBnIofu+TFnrguHB8DvXGhr7ciWasfkTl0dA7T8rcnFWxx+whkcN/gPHVl/daQTwROJc71eBkOWK6X9dakxheKCzTpIJ7w/BC1mHd5X0nw9WKRKojDs/PjGmiFyiV3WuWqJjTjnu9NbuGorYFD7HpGNclmLvHV+hLsjalfD70QWJN/oD3YtEybFPPA==
-  global:
-    - AWS_ACCESS_KEY_ID=AKIAIZY5WEKEERJY4OBA
-    - AWS_DEFAULT_REGION=us-west-2
 
 build:  
 
