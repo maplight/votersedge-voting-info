@@ -1,0 +1,26 @@
+machine:
+	timezone:
+    America/Los_Angeles
+  python:
+    version: 2.7.6
+
+compile:
+  override:
+    - cd tools/scripts && ./compileJSON.py
+    - cd ../../
+    - if [ -n "$(git status --porcelain)" ]; then 
+        echo "*** Files have been updated. ***";
+        git add *;
+        git commit -m "latest voter info updates";
+        git push origin master;
+        echo "*** Files committed to git. ***";
+      else 
+        echo "*** Files have not changed. Nothing to commit and upload. ***";
+      fi
+
+deployment:
+  production:
+    branch: master
+    commands:
+      - aws s3 cp json s3://votersedge-voting-info-static/json --grants read=uri=http://acs.amazonaws.com/groups/global/AllUsers --recursive --include "*.*";
+
