@@ -1,6 +1,6 @@
 ---
 title: "Postage & Mailing your Ballot Early"
-published: true
+published: false
 weight: 3
 section: "ways-to-vote"
 priority: "Minor"
