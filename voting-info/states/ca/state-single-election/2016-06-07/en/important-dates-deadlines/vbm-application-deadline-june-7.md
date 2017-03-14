@@ -1,6 +1,6 @@
 ---
 title: "When is the vote-by-mail application deadline?"
-published: true
+published: false
 weight: 3
 section: "important-dates-deadlines"
 priority: "Minor"
