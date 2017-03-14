@@ -21,7 +21,7 @@ Make sure that you send in your request so that it’s received by your county e
 	Make sure that you use the right amount of postage.  
 
 **You can return the ballot:**
-1. **By mail in the return envelope provided.** Follw the instructions on the envelope, **sign** the envelope, and ** mail it** back early to be sure it is received on time. It must be postmarked on or before Election Day.
+1. **By mail in the return envelope provided.** Follow the instructions on the envelope, **sign** the envelope, and **mail it** back early to be sure it is received on time. It must be postmarked on or before Election Day.
 2. **Drop it off** at a location designated by your county. 
 3. **Drop it off** at any polling place in your county by 8 pm on Election Day.  
 
