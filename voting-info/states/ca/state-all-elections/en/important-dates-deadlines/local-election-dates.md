@@ -8,12 +8,6 @@ priority: "Minor"
 
 Your county may have an election at various times over the course of a year. Below are some elections dates and the important deadlines associated with them.  
 
-**March 7 Elections**  
-- Voter Registration Deadline: February 21  
-- Vote by Mail Application Deadline: February 28  
-- Early Voting Begins: February 6  
-- Election Day is March 7  
-
 **March 28 Elections**  
 - Voter Registration Deadline: March 13  
 - Vote by Mail Application Deadline: March 21  
