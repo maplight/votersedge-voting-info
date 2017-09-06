@@ -1,5 +1,5 @@
 ---
-title: "When is voter registration deadline?"
+title: "When is the voter registration deadline?"
 published: true
 weight: 2
 section: "important-dates-deadlines"
