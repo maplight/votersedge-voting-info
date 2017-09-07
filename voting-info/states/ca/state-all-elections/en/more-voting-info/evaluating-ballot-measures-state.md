@@ -6,7 +6,7 @@ section: "more-voting-info"
 priority: "Minor"
 ---
 
-**How to evaluate ballot measures:**  
+**Evaluating state ballot measures:**  
 - Examine what the measure seeks to accomplish. Do you agree with these goals?  
 - Who are the real sponsors and opponents of the measure?  
 	Check **Voter’s Edge California** to follow the money for state measures.  
