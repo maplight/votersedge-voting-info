@@ -36,7 +36,7 @@ If you want to vote in one of these party primaries, you must ask for that ballo
 - Peace and Freedom Party  
 - Republican Party  
 
-**If you want to change your party registration before the primary,** then you **must** [re-register](http://registertovote.ca.gov/) and select that party. The last day to re-register to vote is May 23, 2016. You can always re-register again after the primary as either a “No Party Preference” voter or with any political party.  
+**If you want to change your party registration before the primary,** then you **must** [re-register](http://registertovote.ca.gov/) and select that party. The last day to re-register to vote is no later than 15 days before the election. You can always re-register again after the primary as either a “No Party Preference” voter or with any political party.  
 
 Also check [Information about political parties](#menu-item-information-about-political-parties). For detailed information on registration check [Register to Vote](#section-register-to-vote).  
 
