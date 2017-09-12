@@ -1,7 +1,7 @@
 ---
 title: "Contact the League of Women Voters in your county"
 published: true
-weight: 15
+weight: 16
 section: "more-voting-info"
 priority: "Minor"
 ---
