@@ -6,7 +6,7 @@ section: "important-dates-deadlines"
 priority: "Minor"
 ---
 #### Before Election Day
-> Both **vote-by-mail** and **early-in-person** voting always start _29 days before Election Day_.  
+> Both **vote-by-mail** and **early-in-person** voting always start _29 days before Election Day_. [Check for specific dates and deadlines](http://www.sos.ca.gov/elections/) for the upcoming election.    
 
 #### By Mail
 > From **29 days before Election Day** through **Election Day.**  
