@@ -22,8 +22,8 @@ Para obtener más información, consulte [¿Puedo inscribirme para votar?](#menu
 
 - Estar enterado sobre lo que va a votar es útil antes de hacer su voto.
 - Todos los votantes inscritos reciben dos cosas por correo:  
-	1. Una boleta de muestra (Sample Ballot) con la lista de todas las cosas que aparecerán en su boleta electoral, junto con la información sobre en dónde votar (su “lugar de votación”).
-	2. Una Guía oficial de información para el votante sobre los candidatos y las iniciativas de ley de todo el estado.
+    - Una boleta de muestra (Sample Ballot) con la lista de todas las cosas que aparecerán en su boleta electoral, junto con la información sobre en dónde votar (su “lugar de votación”).  
+    - Una Guía oficial de información para el votante sobre los candidatos y las iniciativas de ley de todo el estado.  
 - Puede utilizar este sitio de Voter’s Edge California para obtener más información sobre todo lo que contiene su boleta electoral, además de que es una manera práctica de encontrar su [lugar de votación](#section-my-polling-place).  
 
 Encuentre su [lugar de votación y boleta electoral](#section-my-polling-place).
@@ -39,4 +39,4 @@ Para obtener más información, consulte [Formas de votar](#section-ways-to-vote
 
 Visite la **[Guía fácil para el votante](http://www.easyvoterguide.org/)** para obtener más información sobre las votaciones y descargar una copia; ¡también obtenga su folleto [Votar es tan fácil como contar 1-2-3](http://www.easyvoterguide.org/wp-content/uploads/2010/09/Voting1-2-3-June2016.pdf) aquí!  
 
-**[Todo Lo Que Votantes En California Deben Saber - 2016](https://www.facebook.com/mifamiliavotaca/videos/1334006159951729/)**  
+**[Todo Lo Que Votantes En California Deben Saber - 2016](https://vimeo.com/187268685)**  
