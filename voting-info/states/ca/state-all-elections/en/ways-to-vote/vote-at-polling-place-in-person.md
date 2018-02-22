@@ -10,7 +10,7 @@ Polling places are open from 7 a.m. to 8 p.m. on Election Day.
 
 **How do I find my polling place?**   
 - If you provided your voting address, then your polling location is printed here in the [My Polling Place](#section-my-polling-place) section of this site.  
-- You can find your polling place location on the back of the Sample Ballot (or voter information pamphlet) mailed to you by your county; or,  
+- You can find your polling place location on the back of the Sample Ballot (or Voter Information Guide) mailed to you by your county; or,  
 - You can contact your [County Elections Office](http://www.sos.ca.gov/elections/voting-resources/county-elections-offices/) to find your polling place.  
 - You can text "Vote" to GOVOTE (468683); or  
 - You can call (800) 345-VOTE (8683) and choose option 5.  

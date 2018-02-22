@@ -13,7 +13,7 @@ Contact your [County Elections Office](#section-election-office-contact) to get 
 If you believe you have been denied any of your voting rights, or you are aware of any election fraud or misconduct, you can call the Secretary of State's confidential toll-free Voter Hotline at (800) 345-VOTE (8683).  
 
 **Election Protection**  
-If you encounter any issues in casting your ballot, or feel like your rights were violated, call one of these hotlines to get help resolving your dispute and reporting your claim.  
+If you encounter any issues in casting your ballot, or feel like your rights were violated, visit the [Election Protection website](https://www.866ourvote.org/) or call one of the hotlines below to get help resolving your dispute and reporting your claim.  
 
 **English: 866-OUR-VOTE (866-687-8683)**  
 

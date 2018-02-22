@@ -5,6 +5,6 @@ weight: 5
 section: "more-voting-info"
 priority: "Minor"
 ---
-For information on State legislative districts and U.S. Congressional Offices, visit the [California Secretary of State](http://www.sos.ca.gov/elections/additional-elections-information/who-are-my-representatives/).  
+For information on State legislative districts and U.S. Congressional Offices, visit the [California Secretary of State](http://www.sos.ca.gov/elections/who-are-my-representatives/).  
 
-For information on your city, county, and other local offices contact your [county elections office](#section-election-office-contact).  
+For information on your city, county, and other local offices contact your [county elections office](#menu-item-contact-county-election-office).  
