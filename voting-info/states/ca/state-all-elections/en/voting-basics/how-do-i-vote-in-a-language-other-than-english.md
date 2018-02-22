@@ -21,6 +21,6 @@ For answers to your questions about voting and elections, or to request mail del
 
 For more information on in-language voting resources visit the [California Secretary of State](http://www.sos.ca.gov/elections/voting-resources/) and read this handy [Language Assistance Fact Sheet](http://advancingjustice-la.org/sites/default/files/LanguageAssistanceFactSheet.pdf).  
 
-To find out what languages are available in your county, contact your [county elections office](#section-election-office-contact). The information is often listed on the county's web site and may also appear on the county voter guide you receive in the mail.  
+To find out what languages are available in your county, contact your [county elections office](#menu-item-contact-county-election-office). The information is often listed on the county's web site and may also appear on the county voter guide you receive in the mail.  
 
 For more information check [Rights of voters to language assistance.](#menu-item-rights-of-voters-to-language-assistance)  
