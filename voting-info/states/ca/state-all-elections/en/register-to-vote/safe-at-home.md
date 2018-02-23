@@ -1,7 +1,7 @@
 ---
 title: "What if sharing my address could put me in a life-threatening situation?"
 published: true
-weight: 7
+weight: 8
 section: "register-to-vote"
 priority: "Minor"
 ---

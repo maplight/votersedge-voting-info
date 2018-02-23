@@ -1,7 +1,7 @@
 ---
 title: "What if I need language assistance?"
 published: true
-weight: 6
+weight: 7
 section: "register-to-vote"
 priority: "Minor"
 ---
