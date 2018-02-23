@@ -1,7 +1,7 @@
 ---
 title: "What happens after I submit my registration form?"
 published: true
-weight: 5
+weight: 6
 section: "register-to-vote"
 priority: "Minor"
 ---
