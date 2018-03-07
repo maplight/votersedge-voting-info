@@ -2,7 +2,7 @@
 title: "Missed the voter registration deadline? You can still register and vote!"
 published: true
 weight: 5
-section: "missed-voter-registration-deadline"
+section: "register-to-vote"
 priority: "Minor"
 ---
 
