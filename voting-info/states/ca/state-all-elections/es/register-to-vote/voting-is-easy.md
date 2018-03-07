@@ -38,5 +38,3 @@ Encuentre su [lugar de votación y boleta electoral](#section-my-polling-place).
 Para obtener más información, consulte [Formas de votar](#section-ways-to-vote).
 
 Visite la **[Guía fácil para el votante](http://www.easyvoterguide.org/)** para obtener más información sobre las votaciones y descargar una copia; ¡también obtenga su folleto [Votar es tan fácil como contar 1-2-3](http://www.easyvoterguide.org/wp-content/uploads/2010/09/Voting1-2-3-June2016.pdf) aquí!  
-
-**[Todo Lo Que Votantes En California Deben Saber - 2016](https://vimeo.com/187268685)**  
