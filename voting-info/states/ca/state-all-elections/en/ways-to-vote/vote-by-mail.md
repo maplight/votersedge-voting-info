@@ -29,6 +29,8 @@ You can have a relative or person living in your house drop off your vote-by-mai
 
 **If you mail your ballot back, don’t delay.**  
 
-Your completed vote-by-mail ballot must be **postmarked** on or before **Election Day**
+Your completed vote-by-mail ballot must be **postmarked** on or before **Election Day.**
 
 Once mailed and postmarked, the ballot must be **received** by the elections office **no later than 3 days after Election Day.**
+
+Check with your [county elections office](#menu-item-contact-county-election-office) for the cost of postage. Many ballots require extra stamps, so be sure to double-check. 
