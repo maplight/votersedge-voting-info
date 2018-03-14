@@ -1,6 +1,6 @@
 ---
 title: "How do I vote for President in the Primary if I am registered as No Party Preference?"
-published: true
+published: false
 weight: 10
 section: "more-voting-info"
 priority: "Minor"
@@ -20,7 +20,7 @@ If you’re registered as No Party Preference (NPP) but you want to vote for pre
 - **Note: Return the new vote-by-mail ballot in the envelope that came with the new ballot.** Do not use the old ballot or the old envelope. The old ballot is void and will not be counted. A new ballot in an old envelope will also not be counted.  
 
 **Early In-Person Voting**  
-- **Go** to your [county elections office](#section-election-office-contact) or a voter service center (if your county has them) **before June 7.**  
+- **Go** to your [county elections office](#section-election-office-contact) or a voter service center (if your county has them) **before Election Day.**  
 - **Request** the ballot of the party you wish to vote in.  
 - Note: If you have a vote-by-mail ballot take it and its return envelope with you to give it to the elections officials.  If you do not bring the old ballot and envelope, you will receive a [provisional ballot](#menu-item-what-is-a-provisional-ballot) that will be counted after it is confirmed that your old ballot was not cast.  
 
