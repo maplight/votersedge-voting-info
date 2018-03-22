@@ -16,7 +16,7 @@ priority: "Minor"
 - It is important to fill out the form completely. You will be asked to include your driver license number or other identification.
 - Once you are on the list, you only need to re-register if you change your address, change your name, or want to change your political party.  
 
-For more information, check [Can I Register To Vote?](#menu-item-can-i-register-to-vote)
+For more information, check [Can I Register To Vote?](#menu-item-can-i-register-to-vote).
 
 #### 2. Get Ready!
 
