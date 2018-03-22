@@ -1,9 +1,9 @@
 ---
 title: "Announcements"
-published: false
+published: true
 weight: -10
 section: "election-office"
 priority: "Minor"
 ---
-No announcements entered
+The statewide primary election is on June 5, 2018.
   
