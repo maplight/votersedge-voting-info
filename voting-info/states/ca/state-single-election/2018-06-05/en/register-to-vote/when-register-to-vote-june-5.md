@@ -13,4 +13,4 @@ It is important that your voter registration application be filled out completel
 - Submitted online before midnight on May 21; or  
 - Postmarked or hand-delivered to your county elections office by May 21.  
 
-Even if you missed the voter registration deadline, it isn't too late to vote. With [Conditional Voter Registration](#menu-item-missed-the-voter-registration-deadline-you-can-still-register-and-vote), you can register up to and on Election Day. 
+Even if you missed the voter registration deadline, it isn't too late to vote. With [Same-Day Voter Registration](#menu-item-missed-the-voter-registration-deadline-you-can-still-register-and-vote), you can register up to and on Election Day. 
