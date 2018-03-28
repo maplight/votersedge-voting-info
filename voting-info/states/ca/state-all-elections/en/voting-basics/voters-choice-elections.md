@@ -10,15 +10,15 @@ priority: "Minor"
 
 If you are registered to vote in any of these counties, you will automatically receive a ballot in the mail a few weeks before the election. Most neighborhood polling places will no longer be used for voting. Instead, you will have three choices for how to vote.  
 
-#### Vote By Mail 
+#### 1. Vote By Mail 
 
 You can fill out and mail in your ballot as soon as you receive it. Be sure to pay attention to postage requirements, as some ballots may require extra stamps.  
 
-#### Ballot Dropbox  
+#### 2. Ballot Dropbox  
 
 You can drop off your ballot at any secure Ballot Dropbox as soon as you receive it. No postage is required at Ballot Dropboxes.  
 
-#### Vote Center 
+#### 3. Vote Center 
 
 You can vote in person by visiting any Vote Center in your county. At every Vote Center, you can:  
 - Vote in person.   
@@ -47,7 +47,7 @@ All Vote Centers will be accessible to people with disabilities. Counties partic
 
 Voters with disabilities may request a remote accessible vote-by-mail ballot. You can use this ballot at home with your own computer and assistive technologies, then print the ballot and mail or drop it off.  
 
-#### Why the change?  
+#### Why the Change?  
 
 The new Voter’s Choice Act is designed to make voting more convenient and accessible.  
 - You choose **how** you vote: Whether using the mail, a Ballot Dropbox, or a Vote Center, you choose the method that works best for you. Voters with disabilities may use their own accessible technology to mark their ballot at home.  
