@@ -6,11 +6,6 @@ section: "voting-basics"
 priority: "Minor"
 ---
 
-Bilingual poll workers are assigned to designated polling places. Sample ballots in these languages are posted at designated polling places:  
-
-Español/Spanish  
-Tiếng Việt/Vietnamese  
-中文/Chinese  
-한국어/Korean  
+Español/Spanish and Tiếng Việt/Vietnamese versions of ballots and polling place information may be available at some selected precincts.    
 
 Call (415) 473-6456 to gain access to language line services.  

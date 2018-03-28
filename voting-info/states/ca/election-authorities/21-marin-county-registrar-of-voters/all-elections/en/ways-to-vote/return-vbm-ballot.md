@@ -1,6 +1,6 @@
 ---
 title: "How do I return my vote-by-mail ballot in Marin County?"
-published: false
+published: true
 weight: 4
 section: "ways-to-vote"
 priority: "Minor"
@@ -11,11 +11,13 @@ priority: "Minor"
  **-OR-**  
 
 **Drop it off** before Election Day at the Marin County Elections Department, 3501 Civic Center Drive, Room 121, San Rafael, CA 94903  
- **Mondays through Fridays,** October 10 through November 7, 8 AM – 4:30 PM  
- **Election Day,** Tuesday, November 8 from 7 AM to 8 PM  
+**Mondays through Fridays**, May 7 through June 5, 8 AM – 4:30 PM  (May be closed Monday, May 28, for Memorial Day.)
+ **Election Day,** Tuesday, June 5, from 7 AM to 8 PM  
  
  **-OR-**  
 
-**Drop it off** at any polling place in Marin County on **Election Day, Tuesday, November 8** from 7 AM to 8 PM  
+**Drop it off** at any polling place in Marin County on **Election Day, Tuesday, June 5**, from 7 AM to 8 PM 
 
 For more information about Vote-by-Mail visit the [Marin County Elections Department](http://www.marincounty.org/depts/rv/voting-information/voting-by-mail) online.  
+
+**_Please note the dates above are for the statewide primary election on June 5. For information on the vote-by-mail special election on May 8, visit the [Marin County Elections Department website](https://www.marincounty.org/depts/rv/election-info/election-schedule)._**
