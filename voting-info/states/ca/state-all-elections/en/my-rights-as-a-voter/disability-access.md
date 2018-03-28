@@ -21,4 +21,4 @@ The California Secretary of State has approved several voting systems for use th
 	The voting machine permits voters to verify their choices and, if there is an error, allows them to correct those choices before submitting their final ballot.
 - Poll workers must provide curbside voting for voters with disabilities who need this assistance.  
 
-For more information check [How do I vote if I have disabilities?](#menu-item-how-do-i-vote-if-i-have-disabilities), visit [Disability Rights California](http://www.disabilityrightsca.org/pubs/PublicationsVoting.htm), or call their [hotline for voters with disabilities](http://www.disabilityrightsca.org/pubs/ElectionDayFlyerNovember82016.pdf).  
+For more information check [How do I vote if I have disabilities?](#menu-item-how-do-i-vote-if-i-have-disabilities) or visit [Disability Rights California](http://www.disabilityrightsca.org/pubs/PublicationsVoting.htm). 

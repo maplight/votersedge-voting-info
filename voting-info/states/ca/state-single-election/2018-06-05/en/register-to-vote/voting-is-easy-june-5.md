@@ -6,6 +6,9 @@ section: "register-to-vote"
 priority: "Minor"
 ---
 
+Fill out a voter registration form to vote in the June 5, 2018 Primary Election by Monday, May 21, 2018. 
+
+**NEW:** Even if you missed the deadline, you can still register and vote up to and including on Election Day. Check [here](#menu-item-missed-the-voter-registration-deadline-you-can-still-register-and-vote) to see how!
 
 #### 1. Sign Up!
 

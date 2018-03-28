@@ -1,7 +1,7 @@
 ---
 title: "Where do I vote if I am registered but moved within California?"
 published: true
-weight: 5
+weight: 6
 section: "voting-basics"
 priority: "Minor"
 ---

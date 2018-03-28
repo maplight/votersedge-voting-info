@@ -1,7 +1,7 @@
 ---
 title: "Are emergency ballots available if I can’t get to the polls on Election Day?"
 published: true
-weight: 12
+weight: 13
 section: "voting-basics"
 priority: "Minor"
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Voting in a California General Election"
 published: true
-weight: 15
+weight: 16
 section: "voting-basics"
 priority: "Minor"
 ---
