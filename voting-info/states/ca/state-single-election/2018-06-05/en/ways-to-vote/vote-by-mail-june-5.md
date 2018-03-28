@@ -6,6 +6,8 @@ section: "ways-to-vote"
 priority: "Minor"
 ---
 
+_**Note:** If you live in Madera, Napa, Nevada, Sacramento, or San Mateo counties and you are already registered to vote, you will automatically receive your ballot in the mail. Check Voter’s Choice Elections [bookmark link] for more info._
+
 **Request** a vote-by-mail ballot from your [County Elections Office.](#section-election-office-contact)
 
 Make sure that you send in your request so that it’s received by your county elections office _**no later**_ than Tuesday, May 29, by 5 PM.   
