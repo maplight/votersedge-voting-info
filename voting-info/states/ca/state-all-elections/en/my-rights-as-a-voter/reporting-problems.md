@@ -40,6 +40,4 @@ Disability Rights California will explain your rights, work to resolve a problem
 - You are told you cannot vote because you have a disability  
 - You have a question about you right to vote  
 
-Download and print the [hotline for voters with disabilities](http://www.disabilityrightsca.org/pubs/ElectionDayFlyerNovember82016.pdf) one-pager.  
-
 For more information check [Disability Rights California](http://www.disabilityrightsca.org/pubs/PublicationsVoting.htm)  

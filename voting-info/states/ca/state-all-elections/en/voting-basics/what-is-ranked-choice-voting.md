@@ -1,7 +1,7 @@
 ---
 title: "What is ranked choice voting?"
 published: true
-weight: 16
+weight: 14
 section: "voting-basics"
 priority: "Minor"
 ---

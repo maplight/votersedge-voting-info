@@ -1,7 +1,7 @@
 ---
 title: "Do I have to show identification to vote?"
 published: true
-weight: 1
+weight: 2
 section: "voting-basics"
 priority: "Minor"
 ---
