@@ -11,7 +11,9 @@ priority: "Minor"
  **-OR-**  
 
 **Drop it off** before Election Day at the Marin County Elections Department, 3501 Civic Center Drive, Room 121, San Rafael, CA 94903    
+
 **Mondays through Fridays**, May 7 through June 5, 8 AM – 4:30 PM  (May be closed Monday, May 28, for Memorial Day.)  
+
  **Election Day,** Tuesday, June 5, from 7 AM to 8 PM    
  
  **-OR-**  

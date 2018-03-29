@@ -6,4 +6,4 @@ section: "more-voting-info"
 priority: "Minor"
 ---
 
-Check out this great opportunity to help your community while earning extra money: be a Poll Worker in [Contra Costa County](http://www.cocovote.us/get-involved/poll-worker-program/)!  
+Check out this great opportunity to help your community while earning extra money: be a Poll Worker in [Contra Costa County](http://www.cocovote.us/poll-worker-center/become-a-poll-worker/)!  
