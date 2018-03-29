@@ -6,4 +6,4 @@ section: "more-voting-info"
 priority: "Minor"
 ---
 
-Check out this great opportunity to help your community while earning extra money: be a Poll Worker in [San Mateo County](https://www.shapethefuture.org/electionofficers/opportunities/)!  
+Check out this great opportunity to help your community while earning extra money: be a Poll Worker in [San Mateo County](https://www.smcacre.org/election-officer)!  

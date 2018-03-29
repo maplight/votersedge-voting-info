@@ -6,14 +6,18 @@ section: "voting-basics"
 priority: "Minor"
 ---
 
-**Accessible Voting Places**  
+#### Accessible Voting Places    
 
-All polling places in San Mateo County are accessible.   
+All Vote Centers will be ADA compliant, and Elections personnel will be on site to assist voters with specific needs.  
 
-**Accessible Voting Information**  
+#### Accessible Voting Information    
 
-San Mateo’s voting system is compliant with the Help America Vote Act (HAVA); it has audio headphones, raised braille labeled keys, and adaptive devices that provide large tactile buttons for motor issues as well as sip-n-puff capability.  
+Vote Centers will be equipped with three Disabled Access eSlate electronic voting machines.  
 
-Curbside voting is available if you cannot enter the polling place. A Election Officer will bring your ballot and voting device to your vehicle to enable you to vote.  
+Voters with disabilities may request a remote accessible vote-by-mail ballot. You can use this ballot at home with your own computer and assistive technologies, then print the ballot and mail or drop it off.   
 
-Voters who wish to receive a Sample Ballot and Official Voter Information Pamphlet in audio format, please call (650) 312-5222 and request assistance.  
+Voters can also request audio ballot information and accessible PDF files by email.  
+
+#### Accessible Voting Information  
+
+If you have questions about Vote Center accessibility, call the San Mateo County Elections Office at (650) 312-5222 or [send them an email](mailto:registrar@smcacre.org).

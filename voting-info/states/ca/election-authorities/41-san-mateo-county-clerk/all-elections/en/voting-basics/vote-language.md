@@ -6,6 +6,8 @@ section: "voting-basics"
 priority: "Minor"
 ---
 
-In compliance with federal law, the Registrar of Voters provides services and official election materials to voters in English, 中文/Chinese, and Español /Spanish.  
+Tagalog and 한국어/Korean versions of ballots and polling place information may be available at some selected precincts.  
 
-To request a Sample Ballot & Official Voter Information Pamphlet or a Vote by Mail ballot in Español /Spanish or 中文/Chinese, call (1-888) 762-8683 or email [registrar@smcare.org.](mailto:registrar@smcare.org)    
+The San Mateo County Registrar of Voters provides services and official election materials to voters in English, 中文/Chinese, and Español /Spanish.  
+
+To request a Sample Ballot and Official Voter Information Pamphlet or a Vote-by-Mail ballot in Español/Spanish or 中文/Chinese, call 1-888-762-8683 or email [registrar@smcacre.org](mailto:registrar@smcacre.org).  
