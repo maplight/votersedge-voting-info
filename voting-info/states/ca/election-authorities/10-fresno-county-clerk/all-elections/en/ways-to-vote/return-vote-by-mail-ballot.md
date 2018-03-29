@@ -1,6 +1,6 @@
 ---
 title: "How do I return my vote-by-mail ballot in Fresno County?"
-published: false
+published: true
 weight: 4
 section: "ways-to-vote"
 priority: "Minor"
@@ -9,9 +9,8 @@ priority: "Minor"
 
   **-OR-**  
 
-**Drop it off** at the Fresno County Clerk/Registrar of Voters office 2221 Kern Street Fresno, CA 93721  
-**Mondays through Fridays,** October 10 through Nopvember 7, 8:30 AM to 5 PM  
-**Election Day, Tuesday, November 8** from 7 AM to 8 PM.  
-[Check here for Drive-Thru Drop Off Locations!](http://www.co.fresno.ca.us/DepartmentPage.aspx?id=53119)  
+**Drop it off** at the Fresno County Clerk/Registrar of Voters office: 2221 Kern Street Fresno, CA 93721   
 
-Check your [Voter Profile](http://www.co.fresno.ca.us/DepartmentPage.aspx?id=67205) online.  
+**Monday through Friday,** May 7 through June 4, 8:30 AM to 5 PM (May be closed Monday, May 28, for Memorial Day)  
+
+**Election Day, Tuesday, June 5** from 7 AM to 8 PM
