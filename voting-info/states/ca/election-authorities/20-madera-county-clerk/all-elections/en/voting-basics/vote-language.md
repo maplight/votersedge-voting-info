@@ -1,6 +1,6 @@
 ---
 title: "How do I vote in Madera County if I speak a language other than English?"
-published: true
+published: false
 weight: 12
 section: "voting-basics"
 priority: "Minor"
