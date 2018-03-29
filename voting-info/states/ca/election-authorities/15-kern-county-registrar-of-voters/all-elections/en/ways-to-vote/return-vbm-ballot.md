@@ -1,6 +1,6 @@
 ---
 title: "How do I return my vote-by-mail ballot in Kern County?"
-published: false
+published: true
 weight: 4
 section: "ways-to-vote"
 priority: "Minor"
@@ -10,11 +10,12 @@ priority: "Minor"
 
 **-OR-**  
 
-**Drop it off between Monday, October 10 and Tuesday, November 8** at the Kern County Elections Division office, 1115 Truxton Ave, Bakersfield 93301  
-- **Monday-Friday** 8:30 AM to 5 PM  
-- **Curbside Ballot Drop Off on Saturday, November 5** (Call 661-868-3590 for times)  
-- **Election Day, Tuesday, November 8** from 7 AM to 8 PM  
+**Drop it off between Monday, May 7, and Tuesday, June 5**, at the Kern County Elections Division Office, 1115 Truxtun Ave., Bakersfield, CA 93301.  
+
+- **Monday through Friday** 8:00 AM to 5 PM (May be closed Monday, May 28, for Memorial Day)  
+
+- **Election Day, Tuesday, June 5**, from 7 AM to 8 PM  
 
 **-OR-**  
 
-**Drop it off** at any polling place in Kern County on Election Day, Tuesday, November 8 from 7 AM to 8 PM.  
+**Drop it off** at any polling place in Kern County on Election Day, Tuesday, June 5, from 7 AM to 8 PM.  

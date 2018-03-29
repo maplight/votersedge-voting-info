@@ -1,7 +1,7 @@
 ---
 title: "How do I vote in Marin County if I have disabilities?"
 published: true
-weight: 9
+weight: 10
 section: "voting-basics"
 priority: "Minor"
 ---
@@ -13,11 +13,17 @@ priority: "Minor"
 #### Accessible Voting Equipment  
 
 Each polling place in Marin County has:  
+
 - A wheelchair accessible voting booth,  
+
 - Magnifiers,  
+
 - Pens with grips that are easy to hold,  
+
 - An AUTOMARK, an accessible ballot marking device to help you vote your ballot independently and privately.  
+
 - A Sip and Puff device for use with the AUTOMARK is available on Election Day by calling (415) 473-6447.  
+
 - Curbside voting for voters who cannot get into the polling place. A poll worker can bring a ballot to you. After you vote, the poll worker will put your voted ballot in the ballot box.  
 
 All state propositions are available on audio tape. If you want one, call (415) 473-6456.  

@@ -1,7 +1,7 @@
 ---
 title: "How do I vote in San Bernardino County if I have disabilities?"
 published: true
-weight: 9
+weight: 10
 section: "voting-basics"
 priority: "Minor"
 ---
