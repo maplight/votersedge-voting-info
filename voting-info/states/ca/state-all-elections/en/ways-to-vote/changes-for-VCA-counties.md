@@ -6,7 +6,7 @@ section: "ways-to-vote"
 priority: "Minor"
 ---
 
-If you live in **Madera, Napa, Nevada, Sacramento, or San Mateo counties** there are big changes to how you vote starting this year:  
+If you live in **Madera, Napa, Nevada, Sacramento, or San Mateo counties** there are big changes to how you vote starting in 2018:  
 
 - You will automatically receive your ballot in the mail a few weeks before the election.  
 - Most neighborhood polling places will no longer be used for voting.    

@@ -1,12 +1,13 @@
 ---
-title: "How do I vote at the polling place in person in Alameda County?"
+title: "How do I vote at the polling place in person in Calaveras County?"
 published: true
 weight: 6
 section: "ways-to-vote"
 priority: "Minor"
 ---
+
 Find your polling place:  
 - In the [My Polling Place](#section-my-polling-place) section of this site.  
-- On the [Alameda County website](https://www.acgov.org/alco_ssl_app/rov/voter_info/voter_profile.jsp?formLanguage=E).  
-- By calling the 24-hour hotline: (510) 267-8683  
+- On the [Calaveras Elections Office website](https://elections.calaverasgov.us/Next-Election/Polling-Place-Lookup).  
+- By calling (209) 754-6376.
 - By looking on the **back cover of your Sample Ballot** for the address.  

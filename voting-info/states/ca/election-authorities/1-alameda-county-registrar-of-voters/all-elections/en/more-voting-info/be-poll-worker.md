@@ -6,4 +6,4 @@ section: "more-voting-info"
 priority: "Minor"
 ---
 
-Check out this great opportunity to help your community while earning extra money: be a Poll Worker in [Alameda County](http://www.acgov.org/rov/pollworkers/index.htm)!  
+Check out this great opportunity to help your community while earning extra money: be a Poll Worker in [Alameda County](https://www.acvote.org/acvote-assets/05_community_engagement/PDFs/CountyEmployeeApplication.pdf)!  
