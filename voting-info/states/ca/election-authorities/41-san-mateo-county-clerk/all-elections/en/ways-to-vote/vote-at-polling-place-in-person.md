@@ -1,6 +1,6 @@
 ---
 title: "How do I vote at the polling place in person in San Mateo County?"
-published: true
+published: false
 weight: 6
 section: "ways-to-vote"
 priority: "Minor"

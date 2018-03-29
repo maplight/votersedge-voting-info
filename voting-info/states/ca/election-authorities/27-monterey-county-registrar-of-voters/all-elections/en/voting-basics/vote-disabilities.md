@@ -6,11 +6,11 @@ section: "voting-basics"
 priority: "Minor"
 ---
 
-**Accessible Voting Places**  
+#### Accessible Voting Places    
 
-**Check the back cover** of your Sample Ballot for the wheelchair symbol that shows whether or your polling place is accessible.  
+**Check the back cover** of your Sample Ballot for the wheelchair symbol that shows whether or not your polling place is accessible.  
 
-**Accessible Voting Equipment**  
+#### Accessible Voting Equipment    
 
 Monterey County provides touch screen and electronic voting at polling places under the Federal Help America Vote Act (HAVA) for those with sight or mobility impairments or limited reading skills who need help with voting. It offers voting through audio and visual means, and allows the use of assistive devices (i.e., sip & puff, stylus).  
 
