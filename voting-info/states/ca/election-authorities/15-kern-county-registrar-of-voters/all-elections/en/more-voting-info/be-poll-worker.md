@@ -6,4 +6,4 @@ section: "more-voting-info"
 priority: "Minor"
 ---
 
-Check out this great opportunity to help your community while earning extra money: be a Poll Worker in [Kern County](https://elections.co.kern.ca.us/elections/officer_menu.asp)!  
+Check out this great opportunity to help your community while earning extra money: be a Poll Worker in [Kern County](http://elections.co.kern.ca.us/electionsNew/Forms/PollWorkerApplication)!  
