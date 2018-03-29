@@ -6,4 +6,4 @@ section: "voting-basics"
 priority: "Minor"
 ---
 
-**Ballot facsimiles** are available at certain polling places in Español/Spanish and Tagalog/Filipino. Call 530-886-5650 for more information.  
+**Ballot facsimiles** are available at certain polling places in Español/Spanish, 한국어/Korean, and Tagalog/Filipino. Call 530-886-5650 for more information.

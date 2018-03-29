@@ -1,6 +1,6 @@
 ---
 title: "How do I return my vote-by-mail ballot in Placer County?"
-published: false
+published: true
 weight: 4
 section: "ways-to-vote"
 priority: "Minor"
@@ -10,15 +10,13 @@ priority: "Minor"
 
 **-OR-**
   
-**Drop it off** between **Monday, October 10** and **Tuesday, November 8**  
-**Monday through Fridays** from 8 AM – 5 PM  
-**Also open on Election Day, Tuesday, November 8** from 7 AM to 8 PM.  
+**Drop it off** between **Monday, May 7**, and **Tuesday, June 5**.  
 
-**Location:** Placer County Office of Elections 2956 Richardson Dr. Auburn, CA 95604  
+**Monday through Friday** from 8 AM to 5 PM  (May be closed Monday, May 28, for Memorial Day)  
 
-**-OR-**  
+**Also open on Election Day, Tuesday, June 5**, from 7 AM to 8 PM.  
 
-**Drop it off** at a secure Drop Off Box available 24 hours a day in front of the Placer County Elections Office.  
+**Location:** Placer County Office of Elections, 2956 Richardson Dr. Auburn, CA 95604  
 
 **-OR-**  
 
@@ -26,6 +24,6 @@ priority: "Minor"
 
 **-OR-**  
 
-**Drop it off** at any polling place in Placer County on **Election Day, Tuesday, November 8** from 7 AM to 8 PM  
+**Drop it off** at any polling place in Placer County on **Election Day, Tuesday, June 5**, from 7 AM to 8 PM.    
 
 For more information about Vote-by-Mail visit the [Placer County Office of Elections](https://www.placerelections.com/apply-to-vote-by-mail.aspx#15).  
