@@ -6,4 +6,4 @@ section: "more-voting-info"
 priority: "Minor"
 ---
 
-Check out this great opportunity to help your community while earning extra money: be a Poll Worker in [Sacramento County](http://www.elections.saccounty.net/Pages/Poll%20Worker.aspx)!  
+Check out this great opportunity to help your community while earning extra money: be a Poll Worker in [Sacramento County](http://www.elections.saccounty.net/Pages/Work-the-Election.aspx)!  

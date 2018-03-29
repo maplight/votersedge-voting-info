@@ -1,18 +1,15 @@
 ---
-title: "How do I vote in Sacramento County if I speak a language other than English?"
+title: "How do I vote in Nevada County if I speak a language other than English?"
 published: true
 weight: 12
 section: "voting-basics"
 priority: "Minor"
 ---
 
-In compliance with federal law, the Registrar of Voters provides services and official election materials to voters in:  
-- [English](http://www.elections.saccounty.net/Pages/default.aspx),  
-- [中文/Chinese](http://www.elections.saccounty.net/zh/Pages/default.aspx),   
-- [Español/Spanish](http://www.elections.saccounty.net/esp/Pages/default.aspx).  
+한국어/Korean, Tiếng Việt/Vietnamese, Tagalog, Hmong, and Punjabi versions of ballots and polling place information may be available at some selected precincts.  
 
-Call (916) 875-6451 to request an interpreter in Spanish or Chinese.  
+Some Vote Centers will have Spanish- or Chinese-speaking election workers available to provide language assistance.  
 
 En caso que necesita asistencia en español, por favor llame al número (916) 876-6688.  
 
-如果您需要中文的服務請撥打 (916)-876-8402.  
+如果您需要中文的服務請撥打 (916)-876-8402.
