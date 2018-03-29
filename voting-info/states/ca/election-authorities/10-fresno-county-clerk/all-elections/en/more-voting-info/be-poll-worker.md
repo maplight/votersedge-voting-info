@@ -6,4 +6,4 @@ section: "more-voting-info"
 priority: "Minor"
 ---
 
-Check out this great opportunity to help your community while earning extra money: be a Precinct Officer in [Fresno County](http://www.co.fresno.ca.us/DepartmentPage.aspx?id=14627)!  
+Check out this great opportunity to help your community while earning extra money: be a Precinct Officer in [Fresno County](http://www.co.fresno.ca.us/departments/county-clerk-registrar-of-voters/election-information/precinct-officer)!  

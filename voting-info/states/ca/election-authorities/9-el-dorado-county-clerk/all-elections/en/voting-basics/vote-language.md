@@ -6,4 +6,4 @@ section: "voting-basics"
 priority: "Minor"
 ---
 
-**Some polling places have facsimile ballots** in Español/Spanish and Tagalog/Filipino.  
+Español/Spanish and 中文/Chinese versions of ballots and polling place information may be available at some selected precincts.  

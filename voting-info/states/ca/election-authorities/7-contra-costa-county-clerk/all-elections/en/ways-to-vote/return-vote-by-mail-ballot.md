@@ -1,6 +1,6 @@
 ---
 title: "How do I return my vote-by-mail ballot in Contra Costa County?"
-published: false
+published: true
 weight: 4
 section: "ways-to-vote"
 priority: "Minor"
@@ -10,16 +10,16 @@ priority: "Minor"
 
  **-OR-**  
 
-**Drop it off** before Election Day at a secure ballot location from **Monday, October 10** through **Tuesday, November 8.** Find out locations by going to [CoCo Vote-n-Go Drop off locations](http://www.cocovote.us/current-election/current_archive/coco-vote-n-go-drop-off-locations/#Locations) during normal city business hours.  
+**Drop it off** before Election Day at a secure ballot location from **Monday, May 7** through **Tuesday, June 5.**  
 
  **-OR-**  
 
-**Drop it off** before Election Day at the County Elections Office, 555 Escobar St., Martinez:  
- **Mondays through Fridays,** October 10 through November 7, 8 AM to 5 PM, and
- **Election Day,** Tuesday, November 8, from 7 AM to 8 PM.  
+**Drop it off** before Election Day at the County Elections Office, 555 Escobar St., Martinez, CA 94553:  
+
+ **Monday through Friday**, May 7 through June 4, 8 AM to 5 PM, and **Election Day,** Tuesday, June 5, from 7 AM to 8 PM. (The office may be closed Monday, May 28, for Memorial Day.)  
 
 **-OR-**  
 
-**Drop it off** at any polling place in Contra Costa County on Election Day, Tuesday, November 8 from 7 AM to 8 PM.  
+**Drop it off** at any polling place in Contra Costa County on Election Day, Tuesday, June 5, from 7 AM to 8 PM.  
 
-You can **track** you vote-by-mail ballot by going to the [Vote-by-Mail Lookup.](http://www.cocovote.us/current-election/status-of-my-vote-by-mail-ballot/#VotebyMailBallotSearch)  
+You can **track** you vote-by-mail ballot by going to the [My Voting Information Tool](http://www.cocovote.us/registration-and-voting-options/my-voting-information/#VoterLookupandSampleBallotSearch).
