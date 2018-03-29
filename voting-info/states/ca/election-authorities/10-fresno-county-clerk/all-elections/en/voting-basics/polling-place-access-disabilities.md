@@ -1,7 +1,7 @@
 ---
 title: "How do I vote if I have disabilities in Fresno County?"
 published: true
-weight: 9
+weight: 10
 section: "voting-basics"
 priority: "Minor"
 ---

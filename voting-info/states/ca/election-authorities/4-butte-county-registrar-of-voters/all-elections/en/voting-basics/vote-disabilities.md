@@ -1,7 +1,7 @@
 ---
 title: "How do I vote in Butte County if I have disabilities?"
 published: true
-weight: 9
+weight: 10
 section: "voting-basics"
 priority: "Minor"
 ---

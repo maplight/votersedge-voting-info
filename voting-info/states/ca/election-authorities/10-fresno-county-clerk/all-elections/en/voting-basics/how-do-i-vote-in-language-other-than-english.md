@@ -1,7 +1,7 @@
 ---
 title: "How do I vote if I speak a language other than English in Fresno County?"
 published: true
-weight: 11
+weight: 12
 section: "voting-basics"
 priority: "Minor"
 ---
