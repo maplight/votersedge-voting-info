@@ -6,11 +6,12 @@ section: "voting-basics"
 priority: "Minor"
 ---
 
-**Accessible Voting Places**  
+#### Accessible Voting Places   
 
 **Call (415) 473-6456** or **check the back cover** of your Sample Ballot for the wheelchair symbol that shows whether or not your polling place is accessible.  
 
-**Accessible Voting Equipment**  
+#### Accessible Voting Equipment  
+
 Each polling place in Marin County has:  
 - A wheelchair accessible voting booth,  
 - Magnifiers,  
@@ -21,4 +22,4 @@ Each polling place in Marin County has:
 
 All state propositions are available on audio tape. If you want one, call (415) 473-6456.  
 
-For more information visit Marin County’s [Voters with Specific Needs](http://www.marincounty.org/depts/rv/faqs#voterswithspecificneeds). The Secretary of State also has a TDD hotline: TDD 1-800-833-8683.  
+For more information visit Marin County’s [Voters with Specific Needs](http://www.marincounty.org/depts/rv/faqs#voterswithspecificneeds) page. The Secretary of State also has a TDD hotline: TDD 1-800-833-8683.  
