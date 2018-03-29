@@ -6,13 +6,13 @@ section: "voting-basics"
 priority: "Minor"
 ---
 
-In compliance with federal law and local ordinance, the Registrar of Voters provides services and official election materials to voters in [English](https://www.acgov.org/rov/language.htm), [中文/Chinese](https://www.acgov.org/rov/chinese.htm), [Español/Spanish](https://www.acgov.org/rov/spanish.htm), [Tagalog/Filipino](https://www.acgov.org/rov/tagalog.htm) and [Tiếng Việt/Vietnamese](https://www.acgov.org/rov/vietnamese.htm).  
+In compliance with federal law and local ordinance, the Registrar of Voters provides services and official election materials to voters in English, 中文/Chinese, Español/Spanish, Tagalog/Filipino, and Tiếng Việt/Vietnamese. The Alameda County Registrar's website can be viewed in these languages by selecting the language in the top right corner.  
 
-If you would like to receive a Voter Information Pamphlet in the following languages please call the number listed:  
-English 510-267-8683  
-中文  Chinese 510-208-9665  
-Español  Spanish 510-272-6975  
-Tagalog/Filipino 510-272-6952  
-Tiếng Việt  Vietnamese 510-272-6956  
+한국어/Korean, ខ្មែរ/Khmer, and Punjabi versions of ballots and polling place information may be available at some selected precincts.  
 
-For more information on language assistance visit the [Alameda County Elections Office online](https://www.acgov.org/rov/language.htm).  
+If you would like to receive a Voter Information Pamphlet in the following language,s please call the number listed:  
+- English 510-267-8683  
+- 中文/Chinese 510-208-9665  
+- Español/Spanish 510-272-6975  
+- Tagalog/Filipino 510-272-6952  
+- Tiếng Việt/Vietnamese 510-272-6956  

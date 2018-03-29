@@ -6,6 +6,6 @@ section: "voting-basics"
 priority: "Minor"
 ---
 
-Sample ballots sent to voters are in English only. Facsimile Español/Spanish translation of sample ballots are available in Español/Spanish translation at designated polling places.  
+Sample ballots sent to voters are in English only. Facsimile Español/Spanish and Hmong translations of sample ballots are available at designated polling places.  
 
-For more information on language assistance call (530) 538-7761 or toll free within Butte County, (800) 894-7761.
+For more information on language assistance call (530) 538-7761 or toll-free within Butte County, (800) 894-7761.

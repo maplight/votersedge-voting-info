@@ -6,4 +6,4 @@ section: "more-voting-info"
 priority: "Minor"
 ---
 
-Check out this great opportunity to help your community while earning extra money: be a Poll Worker in [Butte County](http://clerk-recorder.buttecounty.net/elections/butte_pwr1/index.html)!  
+Check out this great opportunity to help your community while earning extra money: be a Poll Worker in [Butte County](https://clerk-recorder.buttecounty.net/elections/precinct_officers.html)!  

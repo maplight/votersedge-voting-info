@@ -1,6 +1,6 @@
 ---
 title: "How do I return my vote-by-mail ballot in Butte County?"
-published: false
+published: true
 weight: 4
 section: "ways-to-vote"
 priority: "Minor"
@@ -10,9 +10,9 @@ priority: "Minor"
 
   **-OR-**  
   
-**Drop it off** from 29 days before Election Day through the Election Day.  
-**Monday through Friday** from 8 AM to 5 PM at the Butte County Elections Office, Hall of Records, 155 Nelson Ave., Oroville, CA 95965  
+**Drop it off** between Monday, May 7, and Election Day on Tuesday, June 5.  
+**Monday through Friday** from 9 AM to 5 PM at the Butte County Elections Office, Hall of Records, 155 Nelson Ave., Oroville, CA 95965. The office may be closed Monday, May 28, for Memorial Day.  
 
   **-OR-**  
   
-**Drop it off** at any polling place in Butte County on **Election Day** from 7 AM to 8 PM.  
+**Drop it off** at any polling place in Butte County on **Election Day, Tuesday, June 5**, from 7 AM to 8 PM.  
