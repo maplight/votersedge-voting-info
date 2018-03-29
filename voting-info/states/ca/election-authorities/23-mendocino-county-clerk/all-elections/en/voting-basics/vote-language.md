@@ -6,4 +6,6 @@ section: "voting-basics"
 priority: "Minor"
 ---
 
-For language information call 707-234-6819 and when prompted, enter 4371.  
+For language information, call 707-234-6819, and enter 4371 when prompted.  
+
+Español/Spanish versions of ballots and polling place information may be available at some selected precincts.  

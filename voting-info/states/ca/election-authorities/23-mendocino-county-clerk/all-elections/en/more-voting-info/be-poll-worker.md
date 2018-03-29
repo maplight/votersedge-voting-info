@@ -6,4 +6,4 @@ section: "more-voting-info"
 priority: "Minor"
 ---
 
-Check out this great opportunity to help your community while earning extra money: be a Poll Worker in [Mendocino County](https://www.co.mendocino.ca.us/acr/pdf/pollwrkr.pdf)!
+Check out this great opportunity to help your community while earning extra money: be a Poll Worker in [Mendocino County](https://www.mendocinocounty.org/government/assessor-county-clerk-recorder-elections/elections/become-an-election-officer)!
