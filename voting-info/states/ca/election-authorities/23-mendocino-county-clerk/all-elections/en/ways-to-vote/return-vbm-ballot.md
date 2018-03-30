@@ -1,7 +1,7 @@
 ---
 title: "How do I return my vote-by-mail ballot in Mendocino County?"
 published: true
-weight: 4
+weight: 5
 section: "ways-to-vote"
 priority: "Minor"
 ---

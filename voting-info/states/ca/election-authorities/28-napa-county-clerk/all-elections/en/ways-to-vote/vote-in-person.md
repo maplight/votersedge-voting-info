@@ -1,7 +1,7 @@
 ---
 title: "How do I vote in person in Napa County?"
 published: true
-weight: 10
+weight: 11
 section: "ways-to-vote"
 priority: "Minor"
 ---

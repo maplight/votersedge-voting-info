@@ -1,7 +1,7 @@
 ---
 title: "How do I vote early in person in Marin County?"
-published: false
-weight: 5
+published: true
+weight: 7
 section: "ways-to-vote"
 priority: "Minor"
 ---

@@ -1,7 +1,7 @@
 ---
 title: "How do I return my ballot by Drop Box in Madera County?"
 published: true
-weight: 8
+weight: 9
 section: "ways-to-vote"
 priority: "Minor"
 ---

@@ -1,7 +1,7 @@
 ---
 title: "How do I vote early in person in San Joaquin County?"
 published: true
-weight: 5
+weight: 7
 section: "ways-to-vote"
 priority: "Minor"
 ---
