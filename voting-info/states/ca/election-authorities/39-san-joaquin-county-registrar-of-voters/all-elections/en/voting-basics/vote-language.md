@@ -7,3 +7,5 @@ priority: "Minor"
 ---
 
 [San Joaquín Información en Español](http://www.sjcrov.org/sp/index.html)  
+
+中文/Chinese, ខ្មែរ/Khmer, Tiếng Việt/Vietnamese, Tagalog, and Punjabi versions of ballots and polling place information may be available at some selected precincts.  

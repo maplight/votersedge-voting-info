@@ -10,20 +10,21 @@ priority: "Minor"
 
 The San Francisco County Department of Elections **website, Voter Information Pamphlet and election materials** including ballots are available in:  
 
-[中文/Chinese](http://sfgov.org/elections/%E6%88%91%E5%80%91%E5%8F%AF%E4%BB%A5%E5%B9%AB%E5%8A%A9%E6%82%A8)  
-[Español  Spanish](http://sfgov.org/elections/%C2%A1le-podemos-ayudar)  
-[Tagalog/Filipino](http://sfgov.org/elections/matutulungan-namin-kayo)  
+[中文/Chinese](http://sfgov.org/elections/home-ch)  
+[Español/Spanish](http://sfgov.org/elections/home-sp)  
+[Tagalog/Filipino](http://sfgov.org/elections/home-fi)  
 
 **Election materials and ballot facsimiles** are available at each polling place in these languages:  
 
-한국어  Korean  
-日本語  Japanese  
-Tiếng Việt  Vietnamese  
+한국어/Korean  
+日本語/Japanese  
+Tiếng Việt/Vietnamese  
 
-**Telephone assistance** is available in 200 languages Monday-Friday 8 AM-5PM and all day on Election Day.  
-- English & request for other languages 415- 554-4375  
-- 中文  Chinese  	415- 554-4367  
-- Español  Spanish 	415-554-4366  
-- Tagalog/Filipino 	415-554-4310  
+**Telephone assistance** is available in 200 languages Monday through Friday 8 AM to 5 PM and all day on Election Day.  
 
-For more information on language assistance contact the [San Francisco County Department of Elections](http://sfgov.org/elections/multilingual-voter-services).  
+- English & request for other languages: 415-554-4375  
+- 中文/Chinese: 415-554-4367  
+- Español/Spanish: 415-554-4366  
+- Tagalog/Filipino: 415-554-4310  
+
+For more information on language assistance contact the [San Francisco County Department of Elections](http://sfgov.org/elections/language-access).  

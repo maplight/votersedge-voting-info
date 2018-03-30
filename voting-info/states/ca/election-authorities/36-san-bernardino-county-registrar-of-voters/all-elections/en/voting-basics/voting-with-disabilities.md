@@ -6,6 +6,6 @@ section: "voting-basics"
 priority: "Minor"
 ---
 
-**Accessible Voting Places**  
+#### Accessible Voting Places    
 
 Check San Bernardino county’s [My Elections Gateway](https://www.sbcountyelections.com/VoterRegistration/MyElectionGatewayInfo.aspx) or call (800) 881-VOTE (8683).  
