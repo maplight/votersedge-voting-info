@@ -6,6 +6,7 @@ section: "voting-basics"
 priority: "Minor"
 ---
 
-The [Tulare County Registrar of Voters Office](http://tularecounty.ca.gov/registrarofvoters/index.cfm/registrar-of-voters/voter-information1/) uses the Google translation function on its website. Sample Ballots are available in Español/Spanish.  
+Sample Ballots are available in Español/Spanish.   
 
-Call the Tulare County Registrar of Voters Spanish main line at (559) 624-7302 for more information on Español/Spanish language assistance.  
+Tagalog versions of ballots and polling place information may be available at some selected precincts.
+
