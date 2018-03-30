@@ -1,6 +1,6 @@
 ---
 title: "How do I return my vote-by-mail ballot in Riverside County?"
-published: false
+published: true
 weight: 4
 section: "ways-to-vote"
 priority: "Minor"
@@ -10,12 +10,8 @@ priority: "Minor"
 
 **-OR-**  
 
-**Drop it off** at the 24-hour Drop Box at the Registrar of Voters office, 2724 Gateway Drive, Riverside, CA 92507.  
+**Drop it off** at participating locations, including select City Clerk's Offices and the Registrar of Voters Office from Monday, May 7, through Tuesday, June 4 (the day before Election Day).   
 
 **-OR-**  
 
-[Check out this easy to print list](http://www.voteinfo.net/Elections/20161108/docs/Early_Vote.pdf) of City Clerk drop off locations available from October 11 through November 7 (the day before Election Day).  
-
-**-OR-**  
-
-**Drop it off** at any polling place in Riverside County on on **Election Day, Tuesday, November 8** from 7 AM to 8 PM.  
+**Drop it off** at any polling place in Riverside County on **Election Day, Tuesday, June 5**, from 7 AM to 8 PM.  
