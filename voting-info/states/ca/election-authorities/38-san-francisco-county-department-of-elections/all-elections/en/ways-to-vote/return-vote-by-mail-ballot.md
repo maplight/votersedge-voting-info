@@ -1,6 +1,6 @@
 ---
 title: "How do I return my vote-by-mail ballot in San Francisco County?"
-published: false
+published: true
 weight: 4
 section: "ways-to-vote"
 priority: "Minor"
@@ -10,18 +10,14 @@ priority: "Minor"
 
 **-OR-**  
 
-**Drop it off** between **Tuesday, October 11*** and **Tuesday, November 8** at the San Francisco Department of Elections, City Hall 1 Dr. Carlton B. Goodlet Place, Room 48 San Francisco, CA 94102 (The public must enter City Hall on Grove Street)  
-**Monday – Friday** 8 AM – 5 PM  
-**Election Day, Tuesday, November 8** open 7 AM - 8 PM  
+**Drop it off** between **Monday, May 7**, and **Tuesday, June 5**, at the San Francisco Department of Elections, 1 Dr. Carlton B. Goodlett Place, City Hall, Room 48, San Francisco, CA 94102 (*The public must enter City Hall on Grove Street*)  
 
-**Weekend Hours:**
-**Saturday, October 29 and Sunday, October 30** from 10 AM - 4 PM  
-**Saturday, November 5 and Sunday, November 6** from 10 AM - 4 PM
+**Monday through Friday** 8 AM to 5 PM (May be closed Monday, May 28, for Memorial Day)
+
+**Election Day, Tuesday, June 5**, from 7 AM to 8 PM  
 
 **-OR-**  
 
-**Drop it off** at any polling place in San Francisco County on **Election Day, Tuesday, November 8** from 7 AM to 8 PM  
-
-*October 10 is a legal holiday; the City Hall Voting Center is closed.  
+**Drop it off** at any polling place in San Francisco County on **Election Day, Tuesday, June 5**, from 7 AM to 8 PM   
 
 For more information about Vote-by-Mail visit the [San Francisco Department of Elections Office](http://sfgov.org/elections/vote-mail) online.  
