@@ -1,7 +1,7 @@
 ---
 title: "How do I return my vote-by-mail ballot in San Luis Obispo County?"
-published: false
-weight: 4
+published: true
+weight: 5
 section: "ways-to-vote"
 priority: "Minor"
 ---
@@ -10,8 +10,8 @@ priority: "Minor"
 
 **-OR-**  
 
-**Drop it off** from **Tuesday, October 11 through Tuesday, November 8** at one of two locations. Check with the [San Luis Obispo County Clerk-Recorder](http://www.slocounty.ca.gov/clerk/ContactUs.htm) for locations and times.  
+**Drop it off** from **Monday, May 7, through Tuesday, June 5**, at one of two locations. Check with the [San Luis Obispo County Clerk-Recorder](http://www.slocounty.ca.gov/clerk/ContactUs.htm) for locations and times. (May be closed Monday, May 28, for Memorial Day.)
 
 **-OR-**  
 
-**Drop it off** at any polling place in San Luis Obispo County on **Election Day, Tuesday, November 8** from 7 AM to 8 PM.  
+**Drop it off** at any polling place in San Luis Obispo County on **Election Day, Tuesday, June 5**, from 7 AM to 8 PM.  
