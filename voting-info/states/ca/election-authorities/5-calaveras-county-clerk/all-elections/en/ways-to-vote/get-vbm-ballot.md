@@ -1,7 +1,7 @@
 ---
 title: "How do I get a vote-by-mail ballot in Calaveras County"
 published: true
-weight: 3
+weight: 4
 section: "ways-to-vote"
 priority: "Minor"
 ---

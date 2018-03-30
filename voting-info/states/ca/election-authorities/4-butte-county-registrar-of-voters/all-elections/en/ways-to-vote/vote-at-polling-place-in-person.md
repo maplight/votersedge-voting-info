@@ -1,7 +1,7 @@
 ---
 title: "How do I vote at the polling place in person in Butte County?"
 published: true
-weight: 6
+weight: 8
 section: "ways-to-vote"
 priority: "Minor"
 ---

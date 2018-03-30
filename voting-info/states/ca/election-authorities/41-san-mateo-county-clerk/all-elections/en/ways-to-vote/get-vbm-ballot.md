@@ -1,7 +1,7 @@
 ---
 title: "How do I get a vote-by-mail ballot in San Mateo County?"
 published: false
-weight: 3
+weight: 4
 section: "ways-to-vote"
 priority: "Minor"
 ---
