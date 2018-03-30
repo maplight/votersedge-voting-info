@@ -1,7 +1,7 @@
 ---
 title: "How do I return my vote-by-mail ballot in Santa Cruz County?"
-published: false
-weight: 4
+published: true
+weight: 5
 section: "ways-to-vote"
 priority: "Minor"
 ---
@@ -14,4 +14,4 @@ priority: "Minor"
 
 **-OR-**  
 
-**Drop it off** at any polling place in Santa Cruz County on **Election Day, Tuesday, November 8** from 7 AM to 8 PM  
+**Drop it off** at any polling place in Santa Cruz County on **Election Day, Tuesday, June 5**, from 7 AM to 8 PM  
