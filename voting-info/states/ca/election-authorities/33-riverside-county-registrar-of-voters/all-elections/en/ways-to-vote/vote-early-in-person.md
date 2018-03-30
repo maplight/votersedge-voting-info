@@ -14,4 +14,4 @@ Registrar of Voters’ office, 2724 Gateway Drive, Riverside CA, 92507
 
 **Monday through Friday** from 8 AM to 5 PM  (May be closed Monday, May 28, for Memorial Day)  
 
-**Also open on Election Day, Tuesday, November 8** from 7 AM to 8 PM.  
+**Also open on Election Day, Tuesday, June 5**, from 7 AM to 8 PM.  

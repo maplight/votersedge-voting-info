@@ -1,5 +1,5 @@
 ---
-title: "Be an Election Day Poll Worker in Santa Cruz County"
+title: "Be an Election Day Poll Worker in Riverside County"
 published: true
 weight: 2
 section: "more-voting-info"
