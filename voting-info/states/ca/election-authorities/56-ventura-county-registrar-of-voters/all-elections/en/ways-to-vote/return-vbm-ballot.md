@@ -1,24 +1,25 @@
 ---
 title: "How do I return my vote-by-mail ballot in Ventura County?"
-published: false
-weight: 4
+published: true
+weight: 5
 section: "ways-to-vote"
 priority: "Minor"
 ---
+
+**_Please note the dates below are for the statewide primary election on June 5. For information on the special election on April 3, visit the [Ventura County Elections Department website](http://recorder.countyofventura.org/elections/)._**  
 
 **Mail it** to the [Ventura County Elections Division](#section-election-office-contact) **in the return envelope provided.** Follow the instructions on the envelope, **sign** the envelope, and **mail it** back early to be sure it is received on time. It must be postmarked on or before Election Day.  
 
  **-OR-**  
 
-**Drop it off** between **Monday, October 10** and **Tuesday, November 8**  
-**Monday - Friday** 8 AM - 5 PM and;  
-**Also open Election Day, Tuesday, November 8** from 7 AM - 8 PM  
-**Location:** Ventura County Elections Division, Hall of Administration, Lower Plaza 800 S. Victoria Ave. Ventura, CA 93009  
+**Drop it off** between **Monday, May 7**, and **Tuesday, June 5**  
+
+**Monday through Friday** 8 AM to 5 PM (May be closed Monday, May 28, for Memorial Day)
+
+**Also open Election Day, Tuesday, June 5**, from 7 AM to 8 PM  
+
+**Location:** Ventura County Elections Division, Hall of Administration, Lower Plaza, 800 S. Victoria Ave. Ventura, CA 93009  
   
- **-OR-**  
-
-**Drop it off** at the 24 hour ballot drop-off box outside the entrance to the Hall of Administration.  
-
 **-OR-**  
 
-**Drop it off** at any polling place in Ventura County on **Election Day, Tuesday, November 8** from 7 AM to 8 PM.  
+**Drop it off** at any polling place in Ventura County on **Election Day, Tuesday, June 5**, from 7 AM to 8 PM.  

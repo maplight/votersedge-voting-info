@@ -1,7 +1,7 @@
 ---
 title: "How do I return my vote-by-mail ballot in Shasta County?"
-published: false
-weight: 4
+published: true
+weight: 5
 section: "ways-to-vote"
 priority: "Minor"
 ---
@@ -10,12 +10,15 @@ priority: "Minor"
 
   **-OR-**  
 
-**Drop it off** between **Monday, October 10** and **Tuesday, November 8** at the Shasta County Elections Office 1643 Market St. Redding.  
-Drop-off Hours:  
-**Mondays through Fridays from** 8 AM - 5 PM  
-**Election Day, Tuesday, November 8** 7 AM - 8 PM  
+**Drop it off** between **Monday, May 7**, and **Tuesday, June 5**, at the Shasta County Elections Office, 1643 Market St., Redding.  
+
+Drop-off Hours:   
+
+**Weekdays: Monday through Friday** from 8 AM to 5 PM (May be closed Monday, May 28, for Memorial Day)  
+
+**Election Day, Tuesday, June 5**, from 7 AM to 8 PM  
 
   **-OR-**  
   
-**Drop it off** at any polling place in Shasta County on **Election Day, Tuesday, November 8** from 7 AM to 8 PM  
+**Drop it off** at any polling place in Shasta County on **Election Day, Tuesday, June 5**, from 7 AM to 8 PM  
 
