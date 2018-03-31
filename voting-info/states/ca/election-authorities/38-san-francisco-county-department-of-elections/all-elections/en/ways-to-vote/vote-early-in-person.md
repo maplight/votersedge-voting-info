@@ -12,4 +12,4 @@ priority: "Minor"
 
 **Election Day, Tuesday, June 5**, from 7 AM to 8 PM.  
 
-**Early voting location:** San Francisco Department of Elections, 1 Dr. Carlton B. Goodletr Place, City Hall, Room 48, San Francisco, CA 94102. (*The public must enter City Hall on Grove Street.*)  
+**Early voting location:** San Francisco Department of Elections, 1 Dr. Carlton B. Goodlett Place, City Hall, Room 48, San Francisco, CA 94102. (*The public must enter City Hall on Grove Street.*)  

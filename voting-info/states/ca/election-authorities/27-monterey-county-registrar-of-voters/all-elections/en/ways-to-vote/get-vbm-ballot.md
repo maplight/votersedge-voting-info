@@ -8,7 +8,7 @@ priority: "Minor"
 
 Request a one-time vote by mail ballot.  
 
-- [Apply Online]http://www.montereycountyelections.us/pdf/VBMApp_Updated2016.pdf)  
+- [Apply Online](http://www.montereycountyelections.us/pdf/VBMApp_Updated2016.pdf)  
 
 - Call (831) 796-1499  to request an application for a vote-by-mail ballot be mailed to you.  
 

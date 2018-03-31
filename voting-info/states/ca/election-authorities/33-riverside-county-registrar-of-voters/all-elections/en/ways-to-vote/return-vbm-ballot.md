@@ -10,7 +10,7 @@ priority: "Minor"
 
 **-OR-**  
 
-**Drop it off** at participating locations, including select City Clerk's Offices and the Registrar of Voters Office from Monday, May 7, through Tuesday, June 4 (the day before Election Day).   
+**Drop it off** at participating locations, including select City Clerk's Offices and the Registrar of Voters Office from Monday, May 7, through Monday, June 4 (the day before Election Day).   
 
 **-OR-**  
 

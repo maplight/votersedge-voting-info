@@ -6,4 +6,4 @@ section: "more-voting-info"
 priority: "Minor"
 ---
 
-Check out this great opportunity to help your community while earning extra money: be a Poll Worker in [Tulare County](http://tularecoelections.org/elections/index.cfm/registrar-of-voters/volunteer-information/pollworkers/)!  
+Check out this great opportunity to help your community while earning extra money: be a Poll Worker in [Tulare County](https://tularecoelections.org/elections/index.cfm/registrar-of-voters/information/volunteer-information/poll-workers/)!  
