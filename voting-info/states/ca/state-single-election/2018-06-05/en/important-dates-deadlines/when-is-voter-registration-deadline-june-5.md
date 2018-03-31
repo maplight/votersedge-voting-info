@@ -5,6 +5,7 @@ weight: 2
 section: "important-dates-deadlines"
 priority: "Minor"
 ---
+
 The voter registration application deadline is **no later than Monday, May 21.**  
 
 It is important that your voter registration application be filled out completely and:  
