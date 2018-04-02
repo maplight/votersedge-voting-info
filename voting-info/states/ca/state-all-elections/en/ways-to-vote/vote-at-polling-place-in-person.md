@@ -5,10 +5,15 @@ weight: 10
 section: "ways-to-vote"
 priority: "Minor"
 ---
+
 **How do I vote at the polling place in person?**  
+
 Polling places are open from 7 a.m. to 8 p.m. on Election Day.  
 
+_[Vote Centers](#menu-item-voters-choice-elections-big-changes-in-madera-napa-nevada-sacramento-and-san-mateo-counties) in Madera, Napa, Nevada, Sacramento, and San Mateo counties are open before Election Day and will also be open from 7 AM to 8 PM on Election Day._  
+
 **How do I find my polling place?**   
+
 - If you provided your voting address, then your polling location is printed here in the [My Polling Place](#section-my-polling-place) section of this site.  
 - You can find your polling place location on the back of the Sample Ballot (or Voter Information Guide) mailed to you by your county; or,  
 - You can contact your [County Elections Office](http://www.sos.ca.gov/elections/voting-resources/county-elections-offices/) to find your polling place.  
@@ -20,6 +25,7 @@ Polling places are open from 7 a.m. to 8 p.m. on Election Day.
 **Go to the registration table**. Say your name and address and sign the list of voters. A poll worker will give you a ballot.  
 
 **For paper ballots**  
+
  - **Mark (fill out)** your ballot by following the instructions.  
  - **Tear off** the stub at the top of the ballot. You may use this stub later to check that your ballot was counted.  
  - To preserve the secrecy of your vote you will **place your ballot** in an envelope or folder, or fold it if instructed by your county.  
