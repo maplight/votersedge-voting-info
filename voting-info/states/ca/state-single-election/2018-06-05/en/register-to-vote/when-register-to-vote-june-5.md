@@ -1,11 +1,10 @@
 ---
 title: "When should I register to vote?"
-published: false
+published: true
 weight: 4
 section: "register-to-vote"
 priority: "Minor"
 ---
-
 
 **Fill out a [voter registration form](http://registertovote.ca.gov/) no later than Monday, May 21, 2018.**  
 
