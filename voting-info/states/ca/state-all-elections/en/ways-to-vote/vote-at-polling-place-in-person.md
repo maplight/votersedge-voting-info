@@ -1,6 +1,6 @@
 ---
 title: "Vote at the Polls on Election Day"
-published: false
+published: true
 weight: 10
 section: "ways-to-vote"
 priority: "Minor"
