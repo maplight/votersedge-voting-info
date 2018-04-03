@@ -1958,7 +1958,7 @@
             "ve_email": "CA-bt@votersedge.org"
         }, {
             "election_authority_id": "5",
-            "name": "Calaveras County Clerk",
+            "name": "Calaveras County Registrar of Voters",
             "area": "Calaveras County",
             "ea_code": "CA-clv",
             "is_county": "Yes",
@@ -2842,7 +2842,7 @@
             "ve_email": "CA-tlm@votersedge.org"
         }, {
             "election_authority_id": "56",
-            "name": "Ventura County Registrar of Voters",
+            "name": "Ventura County Clerk-Recorder Registrar of Votes",
             "area": "Ventura County ",
             "ea_code": "CA-vn",
             "is_county": "Yes",

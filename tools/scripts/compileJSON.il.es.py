@@ -43,14 +43,14 @@ votingContentState = {
 };
 
 def getJSON(filePath):
-    with open(filePath) as data_file:
+    with open(filePath, encoding="utf8") as data_file:
         data = json.load(data_file)
     # print json.dumps(data, sort_keys=True, indent=4, separators=(',', ': '))
     return data
 
 def getFile(file):
     output = ''
-    fout=open(file['path'],"r")
+    fout=open(file['path'], "r", encoding="utf8")
     output = fout.read()
     return output
 
@@ -118,8 +118,8 @@ state_file = {
 # Build state json file (no election authority info)
 state_json_file_name = BUILD_ROOT + '/voting-info.' + STATE + '.' + LANGUAGE + '.json'
 if not os.path.exists(state_json_file_name):
-    open(state_json_file_name, 'w').close()
-fout=open(state_json_file_name,"w")
+    open(state_json_file_name, 'w', encoding="utf8").close()
+fout=open(state_json_file_name,"w", encoding="utf8")
 fout.seek(0)
 fout.write(json.dumps(state_file))
 fout.truncate()
@@ -194,8 +194,8 @@ for election_authority in election_authorities_in_state:
     }
     json_file_name = BUILD_ROOT + '/voting-info.' + STATE + '.' + LANGUAGE + '-' + election_authority_file_name + '.json'
     if not os.path.exists(json_file_name):
-        open(json_file_name, 'w').close()
-    fout=open(json_file_name,"w")
+        open(json_file_name, 'w', encoding="utf8").close()
+    fout=open(json_file_name,"w", encoding="utf8")
     fout.seek(0)
     fout.write(json.dumps(state_file_merged))
     fout.truncate()
@@ -217,5 +217,5 @@ for election_authority in election_authorities_in_state:
 
 
 
-print "Done: " + STATE
+print ("Done: " + STATE + " es")
 
