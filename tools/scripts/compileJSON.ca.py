@@ -122,7 +122,7 @@ if not os.path.exists(state_json_file_name):
     open(state_json_file_name, 'w').close()
 fout=open(state_json_file_name,"w")
 fout.seek(0)
-fout.write(json.dumps(state_file))
+fout.write( json.dumps(state_file, sort_keys=True, indent=3, separators=(',', ': ')) )
 fout.truncate()
 fout.close()
 
@@ -198,7 +198,7 @@ for election_authority in election_authorities_in_state:
         open(json_file_name, 'w').close()
     fout=open(json_file_name,"w")
     fout.seek(0)
-    fout.write(json.dumps(state_file_merged))
+    fout.write( json.dumps(state_file_merged, sort_keys=True, indent=3, separators=(',', ': ')) )
     fout.truncate()
     fout.close()
 
