@@ -2009,7 +2009,7 @@
             "ve_email": "CA-cc@votersedge.org"
         }, {
             "election_authority_id": "8",
-            "name": "Del Norte County Clerk",
+            "name": "Del Norte County Clerk-Recorder",
             "area": "Del Norte County",
             "ea_code": "CA-dn",
             "is_county": "Yes",
@@ -2842,7 +2842,7 @@
             "ve_email": "CA-tlm@votersedge.org"
         }, {
             "election_authority_id": "56",
-            "name": "Ventura County Clerk-Recorder Registrar of Votes",
+            "name": "Ventura County Clerk-Recorder, Registrar of Votes",
             "area": "Ventura County ",
             "ea_code": "CA-vn",
             "is_county": "Yes",
