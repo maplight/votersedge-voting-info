@@ -1992,7 +1992,7 @@
             "ve_email": "CA-cls@votersedge.org"
         }, {
             "election_authority_id": "7",
-            "name": "Contra Costa County Clerk ",
+            "name": "Contra Costa County Clerk - Recorder - Registrar",
             "area": "Contra Costa County ",
             "ea_code": "CA-cc",
             "is_county": "Yes",
@@ -2043,7 +2043,7 @@
             "ve_email": "CA-ed@votersedge.org"
         }, {
             "election_authority_id": "10",
-            "name": "Fresno County Clerk",
+            "name": "Fresno County Clerk and Registrar of Voters",
             "area": "Fresno County ",
             "ea_code": "CA-fr",
             "is_county": "Yes",
@@ -2111,7 +2111,7 @@
             "ve_email": "CA-im@votersedge.org"
         }, {
             "election_authority_id": "14",
-            "name": "Inyo County Registrar of Voters",
+            "name": "Inyo County Clerk-Recorder, Registrar of Voters",
             "area": "Inyo County ",
             "ea_code": "CA-in",
             "is_county": "Yes",
@@ -2145,7 +2145,7 @@
             "ve_email": "CA-kr@votersedge.org"
         }, {
             "election_authority_id": "16",
-            "name": "Kings County Registrar of Voters",
+            "name": "Kings County Assessor, Clerk-Recorder, Registrar of Voters",
             "area": "Kings County",
             "ea_code": "CA-kn",
             "is_county": "Yes",
@@ -2213,7 +2213,7 @@
             "ve_email": "CA-la@votersedge.org"
         }, {
             "election_authority_id": "20",
-            "name": "Madera County Clerk",
+            "name": "Madera County Clerk, Recorder",
             "area": "Madera County",
             "ea_code": "CA-mdr",
             "is_county": "Yes",
@@ -2349,7 +2349,7 @@
             "ve_email": "CA-mnt@votersedge.org"
         }, {
             "election_authority_id": "28",
-            "name": "Napa County Clerk",
+            "name": "Napa County Registrar of Voters",
             "area": "Napa County",
             "ea_code": "CA-np",
             "is_county": "Yes",
@@ -2366,7 +2366,7 @@
             "ve_email": "CA-np@votersedge.org"
         }, {
             "election_authority_id": "29",
-            "name": "Nevada CountyRegistrar of Voters",
+            "name": "Nevada County Registrar of Voters",
             "area": "Nevada County",
             "ea_code": "CA-nv",
             "is_county": "Yes",
@@ -2400,7 +2400,7 @@
             "ve_email": "CA-or@votersedge.org"
         }, {
             "election_authority_id": "31",
-            "name": "Placer County Clerk",
+            "name": "Placer County Clerk - Recorder - Registrar of Voters",
             "area": "Placer County",
             "ea_code": "CA-plc",
             "is_county": "Yes",
@@ -2468,7 +2468,7 @@
             "ve_email": "CA-sac@votersedge.org"
         }, {
             "election_authority_id": "35",
-            "name": "San Benito County Clerk ",
+            "name": "San Benito County Clerk, Auditor, Recorder, Registrar of Voters",
             "area": "San Benito County",
             "ea_code": "CA-sbn",
             "is_county": "Yes",
@@ -2553,7 +2553,7 @@
             "ve_email": "CA-sj@votersedge.org"
         }, {
             "election_authority_id": "40",
-            "name": "San Luis Obispo County Clerk",
+            "name": "San Luis Obispo County Clerk-Recorder",
             "area": "San Luis Obispo County ",
             "ea_code": "CA-slo",
             "is_county": "Yes",
@@ -2638,7 +2638,7 @@
             "ve_email": "CA-scz@votersedge.org"
         }, {
             "election_authority_id": "45",
-            "name": "Shasta County Clerk",
+            "name": "Shasta County Clerk - Registrar of Voters",
             "area": "Shasta County",
             "ea_code": "CA-sh",
             "is_county": "Yes",
@@ -2706,7 +2706,7 @@
             "ve_email": "CA-sln@votersedge.org"
         }, {
             "election_authority_id": "49",
-            "name": "Sonoma County Clerk",
+            "name": "Sonoma County Clerk-Recorder-Assessor",
             "area": "Sonoma County",
             "ea_code": "CA-sn",
             "is_county": "Yes",
@@ -2757,7 +2757,7 @@
             "ve_email": "California@votersedge.org"
         }, {
             "election_authority_id": "51",
-            "name": "Sutter County Clerk",
+            "name": "Sutter County Clerk, Recorder, Registrar of Voters",
             "area": "Sutter County",
             "ea_code": "CA-str",
             "is_county": "Yes",
