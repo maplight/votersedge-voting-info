@@ -1,12 +1,12 @@
 ---
 title: "How do I vote if I have disabilities?"
 published: true
-weight: 8
+weight: 9
 section: "voting-basics"
 priority: "Minor"
 ---
 
-Disability Rights California (DRC) will operate a [toll-free hotline](https://drive.google.com/file/d/0B0h2E_kd8S-LY0VuMjIyMzlRR21tMEs3OVpMRjlxdTRBTF9B/view?usp=sharing) on Primary Election Day, June 7, for voters with disabilities. The service is designed to help those who have difficulty accessing polling places, casting ballots or simply have questions about voting. **The toll-free number for voice calls is 888-569-7955. The statewide number for video calls is 800-719-5798.**  
+Disability Rights California (DRC) will operate a [toll-free hotline](https://drive.google.com/file/d/0B0h2E_kd8S-LY0VuMjIyMzlRR21tMEs3OVpMRjlxdTRBTF9B/view?usp=sharing) on Election Day for voters with disabilities. The service is designed to help those who have difficulty accessing polling places, casting ballots or simply have questions about voting. **The toll-free number for voice calls is 888-569-7955. The statewide number for video calls is 800-719-5798.**  
 
 **Accessible information**  
 

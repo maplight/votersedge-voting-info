@@ -1,7 +1,7 @@
 ---
 title: "¿Cómo puedo corregir un error en mi votación?"
 published: true
-weight: 4
+weight: 5
 section: "voting-info"
 priority: "Minor"
 ---
@@ -10,3 +10,5 @@ priority: "Minor"
 - **Si vota en un lugar de votación** solicite una boleta electoral nueva a un trabajador electoral.
 - **Si tiene su boleta electoral por correo,** puede regresarla y solicitar una boleta electoral nueva, ya sea en su [oficina electoral del condado](#section-election-office-contact) o en un lugar de votación.  
 - **Si no tiene su boleta electoral por correo original,** puede votar usando una boleta electoral provisional.  
+
+El procedimiento para corregir un error de votación cambia un poco si usted vive en uno de [los cinco condados en los que se aplica la Ley de Votación Flexible](#menu-item-voters-choice-elections-big-changes-in-madera-napa-nevada-sacramento-and-san-mateo-counties) (Madera, Napa, Nevada, Sacramento o San Mateo). Siempre y cuando usted todavía no haya votado, puede obtener una boleta regular en uno de los Centros de Votación sin necesidad de enviar su boleta electoral para voto por correo.   

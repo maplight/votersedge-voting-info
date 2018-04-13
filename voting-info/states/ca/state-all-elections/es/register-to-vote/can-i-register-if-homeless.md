@@ -1,7 +1,7 @@
 ---
 title: "¿Puedo inscribirme si soy indigente?"
 published: true
-weight: 13
+weight: 14
 section: "register-to-vote"
 priority: "Minor"
 ---

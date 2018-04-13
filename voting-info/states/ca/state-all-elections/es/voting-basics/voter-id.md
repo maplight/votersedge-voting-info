@@ -1,7 +1,7 @@
 ---
 title: "¿Debo mostrar una identificación para poder votar?"
 published: true
-weight: 1
+weight: 2
 section: "voting-basics"
 priority: "Minor"
 ---

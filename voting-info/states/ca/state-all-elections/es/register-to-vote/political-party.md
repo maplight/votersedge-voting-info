@@ -1,7 +1,7 @@
 ---
 title: "¿Tengo que inscribirme como miembro de un partido político?"
 published: true
-weight: 10
+weight: 11
 section: "register-to-vote"
 priority: "Minor"
 ---

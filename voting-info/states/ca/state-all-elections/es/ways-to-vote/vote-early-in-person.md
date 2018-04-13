@@ -1,7 +1,7 @@
 ---
 title: "Vote anticipadamente en persona"
 published: true
-weight: 3
+weight: 6
 section: "ways-to-vote"
 priority: "Minor"
 ---

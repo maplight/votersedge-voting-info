@@ -1,12 +1,14 @@
 ---
 title: "¿Cómo voto en persona en un lugar de votación?"
 published: true
-weight: 4
+weight: 10
 section: "ways-to-vote"
 priority: "Minor"
 ---
 **¿Cómo voto en persona en un lugar de votación?**  
-Los lugares de votación están abiertos de las 7 a. m. a las 8 p. m. el día de las elecciones.  
+Los lugares de votación están abiertos de las 7 a. m. a las 8 p. m. el día de las elecciones. 
+
+_Los Centros de Votación en los condados de Madera, Napa, Nevada, Sacramento y San Mateo se abrirán antes del día de las elecciones; también estarán abiertos de 7 a. m. a 8 p. m. el día de las elecciones._    
 
 **¿Cómo encuentro mi lugar de votación?**  
 - Si proporcionó su dirección electoral, entonces la ubicación de su lugar de votación está impresa aquí, en la sección [Mi lugar de votación](#section-my-polling-place) en este sitio.  

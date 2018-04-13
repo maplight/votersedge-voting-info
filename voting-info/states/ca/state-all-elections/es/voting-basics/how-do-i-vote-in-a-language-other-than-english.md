@@ -1,7 +1,7 @@
 ---
 title: "¿Cómo voto si hablo un idioma distinto al inglés?"
 published: true
-weight: 10
+weight: 11
 section: "voting-info"
 priority: "Minor"
 ---
