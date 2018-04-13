@@ -1,7 +1,7 @@
 ---
 title: "Cómo votar en las elecciones generales en California"
-published: true
-weight: 15
+published: false
+weight: 16
 section: "voting-basics"
 priority: "Minor"
 ---

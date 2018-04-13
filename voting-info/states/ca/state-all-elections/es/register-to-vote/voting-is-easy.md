@@ -6,6 +6,7 @@ section: "register-to-vote"
 priority: "Minor"
 ---
 
+**NUEVA INFORMACIÓN**: Aunque haya pasado la fecha límite, ¡todavía puede inscribirse para votar desde ahora y hasta el día de las elecciones! Revise [**aquí**](#menu-item-missed-the-voter-registration-deadline-you-can-still-register-and-vote) cómo hacerlo.
 
 #### 1. ¡Regístrese!
 
@@ -16,7 +17,7 @@ priority: "Minor"
 - Es importante llenar toda la información del formulario. Se le pedirá que incluya el número de su licencia de manejo o de otra identificación.
 - Ya que esté en la lista, solamente deberá volver a registrarse si cambia de domicilio o de nombre, o si desea cambiar su partido político.  
 
-Para obtener más información, consulte [¿Puedo inscribirme para votar?](#menu-item-¿puedo-inscribirme-para-votar)
+Para obtener más información, consulte [¿Puedo inscribirme para votar?](#menu-item-can-i-register-to-vote)
 
 #### 2. ¡Prepárese!
 

@@ -1,7 +1,7 @@
 ---
 title: "¿Cómo me inscribo si soy militar, me encuentro en el extranjero o vivo fuera del país?"
 published: true
-weight: 11
+weight: 12
 section: "register-to-vote"
 priority: "Minor"
 ---

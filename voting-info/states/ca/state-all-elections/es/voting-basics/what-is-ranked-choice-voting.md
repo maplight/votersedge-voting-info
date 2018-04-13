@@ -1,7 +1,7 @@
 ---
 title: "¿Qué es la votación por orden de preferencia?"
 published: true
-weight: 16
+weight: 14
 section: "voting-basics"
 priority: "Minor"
 ---
