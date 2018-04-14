@@ -2774,7 +2774,7 @@
             "ve_email": "CA-str@votersedge.org"
         }, {
             "election_authority_id": "52",
-            "name": "Tehama County Clerk",
+            "name": "Tehama Registrar of Voters",
             "area": "Tehama County",
             "ea_code": "CA-th",
             "is_county": "Yes",
@@ -2876,7 +2876,7 @@
             "ve_email": "CA-yl@votersedge.org"
         }, {
             "election_authority_id": "58",
-            "name": "Yuba County Clerk",
+            "name": "Yuba County Registrar of Voters",
             "area": "Yuba County",
             "ea_code": "CA-yb",
             "is_county": "Yes",
