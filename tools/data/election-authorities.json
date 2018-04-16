@@ -1975,7 +1975,7 @@
             "ve_email": "CA-clv@votersedge.org"
         }, {
             "election_authority_id": "6",
-            "name": "Colusa County Clerk",
+            "name": "Colusa County Clerk-Recorder",
             "area": "Colusa County",
             "ea_code": "CA-cls",
             "is_county": "Yes",
@@ -2179,7 +2179,7 @@
             "ve_email": "CA-lk@votersedge.org"
         }, {
             "election_authority_id": "18",
-            "name": "Lassen County Clerk",
+            "name": "Lassen County Clerk-Recorder",
             "area": "Lassen County",
             "ea_code": "CA-ls",
             "is_county": "Yes",
