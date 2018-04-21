@@ -8,7 +8,7 @@ priority: "Minor"
 
 Find your polling place:  
 
-- In the [My Polling Place](#section-my-polling-place) section of this site.  
+- In the [My Voting Location](#section-my-polling-place) section of this site.  
 
 - On the [Ventura County](http://recorder.countyofventura.org/elections/voter-lookups/wheres-my-polling-place/#Search) Elections Division website.  
 

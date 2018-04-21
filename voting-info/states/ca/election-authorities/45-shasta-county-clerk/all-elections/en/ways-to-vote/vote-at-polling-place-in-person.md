@@ -8,7 +8,7 @@ priority: "Minor"
 
 Find your polling place:  
 
-- In the [My Polling Place](#section-my-polling-place) section of this site.  
+- In the [My Voting Location](#section-my-polling-place) section of this site.  
 
 - On the [Shasta County Elections Office](https://www.elections.co.shasta.ca.us/voting/voter-lookups/my-polling-site/#Search) website.  
 

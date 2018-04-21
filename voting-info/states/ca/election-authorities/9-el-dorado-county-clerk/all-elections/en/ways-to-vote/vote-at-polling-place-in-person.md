@@ -8,7 +8,7 @@ priority: "Minor"
 
 Find your polling place:  
 
-- In the [My Polling Place](#section-my-polling-place) section of this site.  
+- In the [My Voting Location](#section-my-polling-place) section of this site.  
 
 - On the [El Dorado Department of Elections Office](https://www.edcgov.us/Government/Elections/Pages/no_active_elections_-_no_sb__ballot_or_poll_info.aspx) website.  
 
