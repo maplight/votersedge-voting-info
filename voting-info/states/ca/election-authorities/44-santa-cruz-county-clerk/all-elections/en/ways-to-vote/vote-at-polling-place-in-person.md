@@ -8,7 +8,7 @@ priority: "Minor"
 
 Find your polling place:  
 
-- In the [My Polling Place](#section-my-polling-place) section of this site.  
+- In the [My Voting Location](#section-my-polling-place) section of this site.  
 
 - On the [Santa Cruz Elections Office](http://www.co.santa-cruz.ca.us/ele/jun16/root0607/) website.  
 

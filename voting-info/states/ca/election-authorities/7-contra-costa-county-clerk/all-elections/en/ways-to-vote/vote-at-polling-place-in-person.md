@@ -8,7 +8,7 @@ priority: "Minor"
 
 Find your polling place:  
 
-- Use the [My Polling Place](#section-my-polling-place) section of this site.  
+- Use the [My Voting Location](#section-my-polling-place) section of this site.  
 
 - On the Contra Costa Elections website using the [My Voting Information Tool](http://www.cocovote.us/registration-and-voting-options/my-voting-information/#VoterLookupandSampleBallotSearch).
 

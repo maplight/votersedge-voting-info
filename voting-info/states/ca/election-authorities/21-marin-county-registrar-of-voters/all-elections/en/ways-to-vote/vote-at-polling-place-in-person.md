@@ -8,7 +8,7 @@ priority: "Minor"
 
 Find your polling place:  
 
-- In the [My Polling Place](#section-my-polling-place) section of this site.  
+- In the [My Voting Location](#section-my-polling-place) section of this site.  
 
 - On the Marin County Elections Office's [Voter Dashboard](http://www.marincounty.org/depts/rv/voting-information/polling-places)  
 

@@ -8,7 +8,7 @@ priority: "Minor"
 
 Find your polling place:  
 
-- In the [My Polling Place](#section-my-polling-place) section of this site.  
+- In the [My Voting Location](#section-my-polling-place) section of this site.  
 
 - On the [Sonoma County Registrar of Voters](https://secure.sonoma-county.org/vote/polling_place_sample_ballot.aspx?sid=1070) website.  
 

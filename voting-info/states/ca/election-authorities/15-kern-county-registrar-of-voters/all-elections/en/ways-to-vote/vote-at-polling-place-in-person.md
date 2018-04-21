@@ -8,7 +8,7 @@ priority: "Minor"
 
 Find your polling place.  
 
-- Use the [My Polling Place](#section-my-polling-place) section of this site.  
+- Use the [My Voting Location](#section-my-polling-place) section of this site.  
 
 - On the [Kern County Elections Division](https://elections.co.kern.ca.us/elections/VoterInfo/Address.asp) website.  
 

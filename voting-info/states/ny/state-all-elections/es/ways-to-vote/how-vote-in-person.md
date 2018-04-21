@@ -5,7 +5,7 @@ weight: 6
 section: "ways-to-vote"
 priority: "Minor"
 ---
-If you are registered to vote, you should receive a voter card in the mail 2-3 weeks after registering that contains your polling location information. You can also check [My Polling Place](#section-my-polling-place) to find your polling location.  
+If you are registered to vote, you should receive a voter card in the mail 2-3 weeks after registering that contains your polling location information. You can also check [My Voting Location](#section-my-polling-place) to find your polling location.  
 
 To vote in person on Election Day, go to your designated polling location between 6 a.m. and 9 p.m. Once you arrive at your polling place, follow these steps to obtain and submit your ballot:  
 1. **Sign an application for your ballot.** A poll worker will determine the ballot on which you are qualified to vote, initial it, and direct you to a voting booth.  

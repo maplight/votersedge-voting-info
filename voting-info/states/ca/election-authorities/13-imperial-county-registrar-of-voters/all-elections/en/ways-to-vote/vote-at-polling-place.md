@@ -7,7 +7,7 @@ priority: "Minor"
 ---
 
 Find your polling place:  
-- In the [My Polling Place](#section-my-polling-place) section of this site  
+- In the [My Voting Location](#section-my-polling-place) section of this site  
 - Using the [Imperial Elections Office](http://www.co.imperial.ca.us/regvoters/index.asp?fileinc=findregistertovote) website  
 - By calling 442-265-1060  
 - Look on the **back cover of your Sample Ballot** for the address  

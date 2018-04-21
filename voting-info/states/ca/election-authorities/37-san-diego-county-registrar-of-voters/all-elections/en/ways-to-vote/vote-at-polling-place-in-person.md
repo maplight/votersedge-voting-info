@@ -8,7 +8,7 @@ priority: "Minor"
 
 Find your polling place:  
 
-- In the [My Polling Place](#section-my-polling-place) section of this site.  
+- In the [My Voting Location](#section-my-polling-place) section of this site.  
 
 - On the [San Diego County Registrar of Voters](http://www2.sdcounty.ca.gov/rov/Eng/Polling.asp) website.  
 
