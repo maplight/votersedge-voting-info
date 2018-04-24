@@ -4,12 +4,18 @@
          "votingInfo": {
             "election-office-contact": [],
             "important-dates-deadlines": [],
-            "more-voting-info": [],
+            "more-voting-info": [
+               "---\ntitle: \"More voting info section title\"\npublished: false\nweight: -10\nsection: \"more-voting-info\"\npriority: \"Minor\"\n---\n\n"
+            ],
             "my-polling-place": [],
             "my-rights-as-a-voter": [],
             "register-to-vote": [],
-            "voting-basics": [],
-            "ways-to-vote": []
+            "voting-basics": [
+               "---\ntitle: \"Voting basics section title\"\npublished: false\nweight: -10\nsection: \"voting-basics\"\npriority: \"Minor\"\n---\n\n"
+            ],
+            "ways-to-vote": [
+               "---\ntitle: \"Ways to vote section title\"\npublished: false\nweight: -10\nsection: \"ways-to-vote\"\npriority: \"Minor\"\n---\n\n"
+            ]
          }
       },
       "electionAuthorityDataSingleElections": {
