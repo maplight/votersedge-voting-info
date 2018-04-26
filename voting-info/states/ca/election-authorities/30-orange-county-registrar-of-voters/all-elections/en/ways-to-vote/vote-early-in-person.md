@@ -13,3 +13,5 @@ priority: "Minor"
 **Also open on Election Day, Tuesday, June 5**, until 8 PM.  
 
 **Early voting location:** Orange County Elections Office, 1300 South Grand Avenue, Santa Ana, CA 92705. Located in Building C, inside the main entrance and to the left. Visitor parking is available in front of the building.  
+
+There are also additional Vote Centers open May 26 through June 4. [Click here](https://drive.google.com/open?id=1GaujYen2VM96OytZGIXF8Gx11i2bNioq) for more information.  
