@@ -56,4 +56,4 @@ In California, you do not need to do anything to “restore” your right to vot
 
 For more information visit [Let Me Vote](https://www.letmevoteca.org/).  
 Download brochures in [English](https://www.letmevoteca.org/wp-content/uploads/2016/09/Brochure-HowYourVoteMatters.pdf) and in [Spanish](https://www.letmevoteca.org/wp-content/uploads/2016/09/Brochure-ComoTuVotoImporta.pdf).  
-You can also download and print Let Me Vote palm cards in [English](https://www.letmevoteca.org/wp-content/uploads/2016/09/GraphicPostcard-LetMeVote.pdf) and [Spanish](https://www.letmevoteca.org/wp-content/uploads/2016/09/GraphicPostcard-DejameVotar.pdf).  
+You can also download and print Let Me Vote palm cards in [English](https://www.letmevoteca.org/wp-content/uploads/2018/04/2018-LMV-palmcard_Rev03.pdf) and [Spanish](https://www.letmevoteca.org/wp-content/uploads/2018/04/2018-LMV-palmcard_SPANISH_Rev03-1.pdf).  
