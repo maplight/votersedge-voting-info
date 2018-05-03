@@ -1,6 +1,6 @@
 ---
 title: "Cómo funcionan las Elecciones Primarias de California: explicación de los dos mejores"
-published: true
+published: false
 weight: 8
 section: "more-voting-info"
 priority: "Minor"
