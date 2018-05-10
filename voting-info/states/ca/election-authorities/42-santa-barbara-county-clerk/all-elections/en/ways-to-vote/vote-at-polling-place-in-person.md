@@ -10,6 +10,8 @@ Find your polling place:
 
 - In the [My Voting Location](#section-my-polling-place) section of this site.  
 
+- [Online](http://sbcassessor.com/SampleballotandpollplaceLookup/) through the Santa Barbara County Elections Division.  
+
 - By calling (805) 568-2200  
 
 - By looking on the **back cover of your Sample Ballot** for the address.  

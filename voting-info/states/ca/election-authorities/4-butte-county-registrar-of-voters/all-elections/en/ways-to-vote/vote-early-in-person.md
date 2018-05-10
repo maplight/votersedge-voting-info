@@ -10,6 +10,8 @@ priority: "Minor"
 
 **Weekdays: Monday through Friday** from 9 AM to 5 PM (May be closed Monday, May 28, for Memorial Day)  
 
+**Weekend hours: Saturday, June 2**, from 9 AM to 4 PM.
+
 **Election Day, Tuesday, June 5**, from 7 AM to 8 PM.
 
 **Early voting location:** Butte County Elections Office, 155 Nelson Ave., Oroville, CA 95965  

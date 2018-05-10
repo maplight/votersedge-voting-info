@@ -16,4 +16,6 @@ Request a one-time vote by mail ballot.
 
 Or [**become a permanent vote-by-mail voter**](http://www.votescount.com/Home/VoterRegistrationInformation/VoteByMail.aspx) by checking the box at the bottom of the application.  
 
+Check [3 Ways to Vote](http://www.votescount.com/Home/Elections/June5,2018CaliforniaPrimary/3WaystoVote.aspx) or [3 Formas de Votar](http://www.votescount.com/Home/Elections/June5,2018CaliforniaPrimary/3formasdevotar.aspx)!
+
 Visit [Votes Count Santa Cruz](http://votescount.com/Home.aspx) for more information from the Santa Cruz County Elections Office.  

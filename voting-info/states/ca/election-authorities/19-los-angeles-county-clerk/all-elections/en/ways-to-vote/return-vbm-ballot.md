@@ -4,9 +4,7 @@ published: true
 weight: 5
 section: "ways-to-vote"
 priority: "Minor"
----
-
-**_Please note the dates below are for the statewide primary election on June 5. For information on the special elections on April 3 or the local elections on April 10, visit the [Los Angeles County Elections Department website](http://www.lavote.net/home/voting-elections/current-elections)._**  
+---  
 
 **Mail it** to the [Los Angeles County Registrar-Recorder/County Clerk](https://www.lavote.net/home/voting-elections/voting-options/vote-by-mail/how-to-vote-by-mail) **in the return envelope provided.** Follow the instructions on the envelope, **sign** the envelope, and **mail it** back early to be sure it is received on time. It must be postmarked on or before Election Day.  
 

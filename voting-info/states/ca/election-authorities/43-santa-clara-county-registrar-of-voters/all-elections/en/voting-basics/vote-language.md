@@ -25,4 +25,4 @@ The Santa Clara County Department of Elections **website, Voter Information Pamp
 - Tagalog/Filipino: 408-535-3916  
 - Tiếng Việt/Vietnamese: 408-282-3097  
 
-For more information on language assistance, contact the Santa Clara County Department of Elections.
+You can also view the Santa Clara website in [中文/Chinese](https://www.sccgov.org/sites/rov/Chinese/Pages/default.aspx), [Español/Spanish](https://www.sccgov.org/sites/rov/Spanish/Pages/default.aspx), [Tagalog/Filipino](https://www.sccgov.org/sites/rov/Tagalog/Pages/default.aspx), and [Tiếng Việt/Vietnamese](https://www.sccgov.org/sites/rov/Vietnamese/Pages/default.aspx).   

@@ -11,7 +11,8 @@ priority: "Minor"
   **-OR-**  
   
 **Drop it off** between Monday, May 7, and Election Day on Tuesday, June 5.  
-**Monday through Friday** from 9 AM to 5 PM at the Butte County Elections Office, Hall of Records, 155 Nelson Ave., Oroville, CA 95965. The office may be closed Monday, May 28, for Memorial Day.  
+**Monday through Friday** from 9 AM to 5 PM at the Butte County Elections Office, Hall of Records, 155 Nelson Ave., Oroville, CA 95965. The office may be closed Monday, May 28, for Memorial Day.    
+Also open on **Saturday, June 2, from 9 AM to 4 PM** and **Election Day, Tuesday, June 5, from 7 AM to 8 PM.**
 
   **-OR-**  
   

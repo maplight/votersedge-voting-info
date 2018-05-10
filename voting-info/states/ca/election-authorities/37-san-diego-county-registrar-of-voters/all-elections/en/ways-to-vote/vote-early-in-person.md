@@ -4,9 +4,7 @@ published: true
 weight: 7
 section: "ways-to-vote"
 priority: "Minor"
----
-
-**_Please note the dates below are for the statewide primary election on June 5. For information on the special election on April 24, visit the [San Diego County Elections Department website](http://www.sdvote.com/content/rov/en/elections.html)._**  
+---  
 
 **You can vote in person starting Monday, May 7, through Election Day, Tuesday, June 5.**  
 
