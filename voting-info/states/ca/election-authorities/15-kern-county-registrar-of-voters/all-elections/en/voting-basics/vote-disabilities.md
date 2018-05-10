@@ -16,6 +16,8 @@ Accessible voting equipment in Kern County polling locations includes:
 
 - Audio Voting: Audio ballots on Touchscreen Units are available in both English and Spanish for the vision impaired.  
 
+- Election Information on Audio: The Kern County elections website includes audio files for all candidate statements and local measure information [here](http://elections.co.kern.ca.us/elections/audio_menu.asp).  
+
 - Touchscreen Unit Options: Large text and high-contrast options are available on Touchscreen Units for the vision impaired.  
 
 If your polling place is not accessible you may vote in any area as close to the polling place as possible.

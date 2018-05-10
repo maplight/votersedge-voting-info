@@ -14,7 +14,13 @@ priority: "Minor"
 
 **Monday through Friday,** 8 AM to 5 PM (May be closed Monday, May 28, for Memorial Day)  
 
-**Election Day, Tuesday, June 5**, from 7 AM to 8 PM.  
+**Saturday, June 2**, from 7:30 AM to 5:30 PM  
+
+**Election Day, Tuesday, June 5**, from 7 AM to 8 PM   
+
+**-OR-**  
+
+**Drop it off** at other convenient [drop-off locations](https://www.sbcountyelections.com/Voting/MailBallotDropOff.aspx).  
 
 **-OR-**  
 

@@ -10,7 +10,11 @@ priority: "Minor"
 
 **-OR-**  
 
-**Drop it off** at participating locations, including select City Clerk's Offices and the Registrar of Voters Office from Monday, May 7, through Monday, June 4 (the day before Election Day).   
+**Drop it off** at the 24-hour drop box at the Registrar of Voters office, 2724 Gateway Drive, Riverside, CA 92507. The Registrar of Voters 24-hour drop box is available east of the main entry doors.  
+
+**-OR-**  
+
+**Check out this [easy-to-print list](https://www.voteinfo.net/Elections/20180605/docs/20180605EarlyVote.pdf)** of City Clerk drop-off locations available from May 7 through Monday, June 4 (the day before Election Day).  
 
 **-OR-**  
 

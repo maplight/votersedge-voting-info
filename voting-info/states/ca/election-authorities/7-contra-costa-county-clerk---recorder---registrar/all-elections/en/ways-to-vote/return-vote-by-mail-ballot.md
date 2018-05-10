@@ -10,7 +10,7 @@ priority: "Minor"
 
  **-OR-**  
 
-**Drop it off** before Election Day at a secure ballot location from **Monday, May 7** through **Tuesday, June 5.**  
+**Drop it off** before Election Day at a secure ballot location from **Monday, May 7** through **Tuesday, June 5.** Find out locations by going to [CoCo Vote-n-Go Drop off locations](https://www.cocovote.us/registration-and-voting-options/my-voting-information/#VoterLookupandSampleBallotSearch) during normal city business hours.   
 
  **-OR-**  
 

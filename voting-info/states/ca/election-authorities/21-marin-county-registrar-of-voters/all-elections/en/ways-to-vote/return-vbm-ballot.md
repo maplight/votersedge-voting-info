@@ -4,9 +4,7 @@ published: true
 weight: 5
 section: "ways-to-vote"
 priority: "Minor"
----
-
-**_Please note the dates below are for the statewide primary election on June 5. For information on the vote-by-mail special election on May 8, visit the [Marin County Elections Department website](https://www.marincounty.org/depts/rv/election-info/election-schedule)._**  
+--- 
 
 **Mail it** to the [Marin County Elections Department](#section-election-office-contact) **in the return envelope provided.** Follow the instructions on the envelope, **sign** the envelope, and **mail it** back early to be sure it is received on time. It must be postmarked on or before Election Day.  
 

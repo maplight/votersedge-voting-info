@@ -8,7 +8,7 @@ priority: "Minor"
 
 Request a one-time vote by mail ballot.  
 
-- Download a [Vote-by-Mail Application](https://humboldtgov.org/DocumentCenter/View/56273), print it out, fill it in, and mail it to Humboldt County Office of Elections 2426 6th St. Eureka, CA.  
+- [Online](https://humboldtgov.org/1300/Vote-by-Mail) or by downloading a [Vote-by-Mail Application](https://humboldtgov.org/DocumentCenter/View/56273), print it out, fill it in, and mail it to Humboldt County Office of Elections 2426 6th St. Eureka, CA.  
 
 - Call 707-445-7481.  
 

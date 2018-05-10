@@ -14,7 +14,8 @@ priority: "Minor"
 
 #### Accessible Voting Equipment  
 
-Touchscreen voting devices are available at polling places. Magnification and contrast can be adjusted.  Assistive listening devices are also available.  
+Touchscreen voting devices are available at polling places. Magnification and contrast can be adjusted.  Assistive listening devices are also available.   
+
 #### Accessible Voter Information  
 
 - **Sample ballots** are available in large print.  

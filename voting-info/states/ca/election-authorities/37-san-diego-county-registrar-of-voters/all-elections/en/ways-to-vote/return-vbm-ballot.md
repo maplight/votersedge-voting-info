@@ -4,9 +4,7 @@ published: true
 weight: 5
 section: "ways-to-vote"
 priority: "Minor"
----
-
-**_Please note the dates below are for the statewide primary election on June 5. For information on the special election on April 24, visit the [San Diego County Elections Department website](http://www.sdvote.com/content/rov/en/elections.html)._**  
+---  
 
 **Mail it** to the [San Diego County Elections Office](#section-election-office-contact) **in the return envelope provided.** Follow the instructions on the envelope, **sign** the envelope, and **mail it** back early to be sure it is received on time. It must be postmarked on or before Election Day.  
 

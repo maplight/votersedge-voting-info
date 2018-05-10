@@ -22,6 +22,13 @@ priority: "Minor"
 
  **-OR-**  
 
+**Drop it off** from Monday, May 7, to Tuesday, June 5, drop it off at a secure 24-hour Drive-Through Drop Box. Locations:  
+  - Santa Rosa Veterans Memorial Building – 1351 Maple Avenue, Santa Rosa  
+  - Petaluma Veterans Memorial Building – 1094 Petaluma Blvd. South, Petaluma  
+  - Registrar of Voters Office – 435 Fiscal Drive, Santa Rosa  
+
+**-OR-**  
+
 **Drop it off** at any polling place in Sonoma County on **Election Day, Tuesday, June 5**, from 7 AM to 8 PM.  
 
 For more information about Vote-by-Mail visit the [Sonoma County Registrar of Voters](http://vote.sonoma-county.org/content.aspx?sid=1009&id=1052#receive_vote_by_mail_ballot).  

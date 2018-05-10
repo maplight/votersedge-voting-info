@@ -10,6 +10,8 @@ Find your polling place:
 
 - In the [My Voting Location](#section-my-polling-place) section of this site.  
 
+- Online at the [Tulare County Elections Office website](https://electedl.tularecounty.ca.gov/electiondatalookup/)
+
 - By calling (559) 624-7300  
 
 - By looking on the **back cover of your Sample Ballot** for the address.  

@@ -6,7 +6,7 @@ section: "voting-basics"
 priority: "Minor"
 ---
 
-In compliance with federal law and local ordinance, the Registrar of Voters provides services and official election materials to voters in English, 中文/Chinese, Español/Spanish, Tagalog/Filipino, and Tiếng Việt/Vietnamese. The Alameda County Registrar's website can be viewed in these languages by selecting the language in the top right corner.  
+In compliance with federal law and local ordinance, the Registrar of Voters provides services and official election materials to voters in English, 中文/Chinese, Español/Spanish, Tagalog/Filipino, and Tiếng Việt/Vietnamese. The Alameda County Registrar's [website](https://www.acvote.org/index) can be viewed in these languages by selecting the language in the top right corner.  
 
 한국어/Korean, ខ្មែរ/Khmer, and Punjabi versions of ballots and polling place information may be available at some selected precincts.  
 
@@ -15,4 +15,6 @@ If you would like to receive a Voter Information Pamphlet in the following langu
 - 中文/Chinese 510-208-9665  
 - Español/Spanish 510-272-6975  
 - Tagalog/Filipino 510-272-6952  
-- Tiếng Việt/Vietnamese 510-272-6956  
+- Tiếng Việt/Vietnamese 510-272-6956
+
+For more information on language accessibility, visit the [Alameda County elections office language assistance page](https://www.acvote.org/language).

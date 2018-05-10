@@ -10,6 +10,8 @@ Find your polling place:
 
 - In the [My Voting Location](#section-my-polling-place) section of this site  
 
+- On the [Riverside County Registrar of Voters](https://www.voteinfo.net/voterInformation/root0605/pollplac.htm) website  
+
 - By calling (951) 486-7200  
 
 - By looking on the **back cover of your Sample Ballot** for the address  

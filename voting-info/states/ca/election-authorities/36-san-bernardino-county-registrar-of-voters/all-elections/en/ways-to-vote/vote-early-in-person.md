@@ -14,6 +14,8 @@ San Bernardino County Elections Office at 777 East Rialto Avenue San Bernardino,
 
 **Monday through Friday,** 8 AM to 5 PM (May be closed Monday, May 28, for Memorial Day)   
 
-**Election Day, Tuesday, June 5**, from 7 AM to 8 PM.  
+**Saturday, June 2**, from 7:30 AM to 5:30 PM  
 
-Other convenient [Early Voting locations and hours!](https://www.sbcountyelections.com/Voting/Early.aspx)  
+**Election Day, Tuesday, June 5**, from 7 AM to 8 PM    
+
+Check for other convenient [Early Voting locations and hours!](https://www.sbcountyelections.com/Voting/Early.aspx)  
