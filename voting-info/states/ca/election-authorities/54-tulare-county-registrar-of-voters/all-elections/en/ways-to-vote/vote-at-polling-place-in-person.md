@@ -1,7 +1,7 @@
 ---
-title: "How do I vote at the polling place in person in Tulare County?"
+title: "How do I vote at the polling place in Tulare County?"
 published: true
-weight: 8
+weight: 11
 section: "ways-to-vote"
 priority: "Minor"
 ---

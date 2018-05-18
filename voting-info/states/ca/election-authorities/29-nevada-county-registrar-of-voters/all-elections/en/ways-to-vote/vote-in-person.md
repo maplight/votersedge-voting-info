@@ -1,7 +1,7 @@
 ---
 title: "How do I vote in person in Nevada County?"
 published: true
-weight: 11
+weight: 9
 section: "ways-to-vote"
 priority: "Minor"
 ---

@@ -1,5 +1,5 @@
 ---
-title: "How do I return my vote-by-mail ballot in LA County?"
+title: "How do I return my vote-by-mail ballot in Los Angeles County?"
 published: true
 weight: 5
 section: "ways-to-vote"

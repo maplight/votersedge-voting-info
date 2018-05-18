@@ -1,7 +1,7 @@
 ---
-title: "How do I vote at the polling place in person in Humboldt County?"
+title: "How do I vote at the polling place in Humboldt County?"
 published: true
-weight: 8
+weight: 11
 section: "ways-to-vote"
 priority: "Minor"
 ---
