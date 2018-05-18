@@ -1,5 +1,5 @@
 ---
-title: "How do I vote early in person in LA County?"
+title: "How do I vote early in person in Los Angeles County?"
 published: true
 weight: 7
 section: "ways-to-vote"

@@ -1,7 +1,7 @@
 ---
-title: "How do I vote at the polling place in person in Shasta County?"
+title: "How do I vote at the polling place in Shasta County?"
 published: true
-weight: 8
+weight: 11
 section: "ways-to-vote"
 priority: "Minor"
 ---

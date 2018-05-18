@@ -1,7 +1,7 @@
 ---
 title: "Vote by Mail"
 published: true
-weight: 2
+weight: 3
 section: "ways-to-vote"
 priority: "Minor"
 ---

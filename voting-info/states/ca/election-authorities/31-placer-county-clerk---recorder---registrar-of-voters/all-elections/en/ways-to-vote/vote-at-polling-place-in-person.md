@@ -1,7 +1,7 @@
 ---
-title: "How do I vote at the polling place in person in Placer County?"
+title: "How do I vote at the polling place in Placer County?"
 published: true
-weight: 8
+weight: 9
 section: "ways-to-vote"
 priority: "Minor"
 ---
