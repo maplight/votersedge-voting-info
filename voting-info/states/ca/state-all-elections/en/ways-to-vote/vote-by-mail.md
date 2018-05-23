@@ -21,6 +21,12 @@ Make sure that you send in your request so that it’s received by your county e
   4. You may have to put **postage** on the envelope.      
 	 Make sure that you use the right amount of postage.    
 
+**Signature Alert!**
+
+- Your **signature on your Vote-by-Mail return envelope must be the same as the signature on file at the elections office**. If it doesn’t match, your ballot may not be counted.    
+- **If you registered to vote at the DMV or online, the signature will be the one on your Driver’s License or State ID.**    
+- If you’re unsure of which signature you registered with or if your signature has changed, you can always re-register with your updated signature.    
+
 **You can return the ballot:**
   1. **By mail in the return envelope provided.** Follow the instructions on the envelope, **sign** the envelope, and **mail it** back early to be sure it is received on time. It must be postmarked on or before Election Day.  
   2. **Drop it off** at a location designated by your county.  
