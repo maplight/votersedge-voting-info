@@ -8,7 +8,7 @@ priority: "Minor"
 
 Fill out and submit a voter registration form at least 15 days before Election Day. 
 
-**NEW:** Even if you missed the deadline, you can still register and vote up to and including on Election Day. Check [here](#menu-item-missed-the-voter-registration-deadline-you-can-still-register-and-vote) to see how!
+**NEW:** Even if you missed the deadline, you can still register and vote up to and including on Election Day. Check [here](#menu-item-missed-the-voter-registration-deadline-you-can-still-register-and-vote) to see how! And check [here](http://www.sos.ca.gov/elections/upcoming-elections/statewide-direct-primary-june-5-2018/early-voting-and-vote-mail-drop-locations/) to find early voting and vote-by-mail drop-off locations for your county.
 
 #### 1. Sign Up!
 

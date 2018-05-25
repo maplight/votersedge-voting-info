@@ -23,7 +23,7 @@ Download [Prepare. Know Your Rights. Vote.](https://drive.google.com/file/d/0B0h
 
 **Chinese, Vietnamese, Korean, Bengali, Urdu, Hindi, and Filipino/Tagalog: 888-API-VOTE (888-274-8683)**  
 
-Download **[Know your Voting Rights](http://www.advancingjustice-alc.org/know-your-voting-rights/)** in thirteen languages from Asian Americans Advancing Justice, California.  
+Download **[Know your Voting Rights](https://drive.google.com/file/d/1V_jqLtKIbf3fzlD3RtvvjXeq2TxBX3XX/view)** from [Asian Americans Advancing Justice, California](http://www.advancingjustice-alc.org/know-your-voting-rights/).  
 
 Check [here](http://www.866ourvote.org/) for more information about Election Protection and the [hotline schedule](http://www.866ourvote.org/pages/2016-live-hotline-hours-and-dates).  
 
@@ -39,5 +39,7 @@ Disability Rights California will explain your rights, work to resolve a problem
 - Other people can see how you are voting  
 - You are told you cannot vote because you have a disability  
 - You have a question about you right to vote  
+
+Download and print the [hotline for voters with disabilities](https://drive.google.com/file/d/16hakbOjXla2Nr57X0nfOjYkMjI366eUW/view?usp=sharing) one-pager.
 
 For more information check [Disability Rights California](http://www.disabilityrightsca.org/pubs/PublicationsVoting.htm)  
