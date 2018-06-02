@@ -17,5 +17,9 @@ priority: "Minor"
 **Election Day, Tuesday, June 5,** open 7 AM to 8 PM   
 	
 **-OR-**  
+
+**Drop it off** at a secure drop-off location. Visit the [San Diego Elections Office website](http://www.sdvote.com/content/dam/rov/en/election/2018June/2869_Mail_Ballot_Drop_Off_Loc.pdf) to find locations and hours.  
+
+**-OR-**
 	
 **Drop it off** at any polling place in San Diego County on **Election Day, Tuesday, June 5**, from 7 AM to 8 PM  

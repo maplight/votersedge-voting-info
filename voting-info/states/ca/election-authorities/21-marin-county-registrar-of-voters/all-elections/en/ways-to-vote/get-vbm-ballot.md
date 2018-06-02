@@ -15,3 +15,5 @@ Request a one-time vote by mail ballot.
 - [E-mail](mailto:DBelben@marincounty.org), Fax, or mail your [County Elections Office](#section-election-office-contact) a letter requesting a vote-by-mail ballot, and include your name, home address, the address to which you want the ballot mailed, and your signature.  
 
 - Fill out the application on the back cover of your voter information pamphlet.  
+
+Become a permanent vote-by-mail voter by filling out [this form](https://www.marincounty.org/~/media/Files/Departments/RV/VBMApplication.pdf), checking box 8, and initialing on the appropriate line.  
