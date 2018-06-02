@@ -40,4 +40,4 @@ Disability Rights California le explicará sus derechos, trabajará para resolve
 - le dicen que no puede votar porque tiene una discapacidad  
 - tiene alguna pregunta sobre su derecho al voto  
 
-Descargue e imprima el folleto de [línea directa para electores con discapacidades](http://www.disabilityrightsca.org/pubs/ElectionDayFlyerNovember82016.pdf) de una página.  
+Descargue e imprima la línea directa para votantes con discapacidades de una sola página.

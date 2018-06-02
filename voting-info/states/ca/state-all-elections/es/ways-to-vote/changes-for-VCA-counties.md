@@ -15,6 +15,8 @@ Si vive en **los condados de Madera, Napa, Nevada, Sacramento o San Mateo**, hay
   - depositarla en alguno de los buzones para boletas electorales, o    
   - votar en persona en un Centro de Votación.    
 
+¡Busque su Centro de Votación o la ubicación de un buzón para boletas electorales [aquí](http://www.sos.ca.gov/elections/upcoming-elections/statewide-direct-primary-june-5-2018/early-voting-and-vote-mail-drop-locations/)!  
+
 (Es posible que otros condados implementen este sistema a partir de 2020).    
 
 Para recibir la boleta electoral por correo, deberá inscribirse antes de la fecha límite, es decir, 15 días antes de la elección. La fecha límite de inscripción para las elecciones primarias del martes 5 de junio es el lunes 21 de mayo.    

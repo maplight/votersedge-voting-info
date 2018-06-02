@@ -20,6 +20,10 @@ priority: "Minor"
 
 **-OR-**  
 
+Drop it off at a secure Drop Off Box available 24 hours a day in front of the Placer County Elections Office.   
+
+**-OR-**  
+
 **Check online** for other convenient [Drop Off Locations and Hours](http://www.placerelections.com/voting-before-election-day.aspx)  
 
 **-OR-**  

@@ -10,7 +10,7 @@ Find your polling place:
 
 - In the [My Voting Location](#section-my-polling-place) section of this site.  
 
-- On the [El Dorado Department of Elections Office](https://www.edcgov.us/Government/Elections/Pages/no_active_elections_-_no_sb__ballot_or_poll_info.aspx) website.  
+- On the [El Dorado Department of Elections Office](https://www.edcgov.us/Government/Elections/Pages/VoterGuide.aspx) website.  
 
 - By calling 530-621-7480.  
 

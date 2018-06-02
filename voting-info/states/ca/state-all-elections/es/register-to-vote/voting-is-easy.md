@@ -6,7 +6,7 @@ section: "register-to-vote"
 priority: "Minor"
 ---
 
-**NUEVA INFORMACIÓN**: Aunque haya pasado la fecha límite, ¡todavía puede inscribirse para votar desde ahora y hasta el día de las elecciones! Revise [**aquí**](#menu-item-missed-the-voter-registration-deadline-you-can-still-register-and-vote) cómo hacerlo.
+**NUEVA INFORMACIÓN**: Aunque haya pasado la fecha límite, ¡todavía puede inscribirse para votar desde ahora y hasta el día de las elecciones! Revise [**aquí**](#menu-item-missed-the-voter-registration-deadline-you-can-still-register-and-vote) cómo hacerlo. Y marque aquí para encontrar ubicaciones de votación temprana y de votación por correo para su condado.  
 
 #### 1. ¡Regístrese!
 

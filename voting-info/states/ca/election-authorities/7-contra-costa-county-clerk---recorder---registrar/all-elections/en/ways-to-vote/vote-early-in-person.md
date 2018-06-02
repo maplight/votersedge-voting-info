@@ -13,3 +13,5 @@ priority: "Minor"
 **Also open on Election Day, Tuesday, June 5** from 7 AM to 8 PM  
 
 **Early Voting Location:** The Contra Costa County Elections Office, 555 Escobar St., Martinez, CA 94553.    
+
+And vote in the week before Election Day at a [Regional Early Vote Center](https://www.cocovote.us/voter-services-center/)
