@@ -40,4 +40,4 @@ Find your [polling place and ballot](#section-my-polling-place).
 
 Check [Ways to Vote](#section-ways-to-vote) for more information.  
 
-Visit the **[Easy Voter Guide](http://www.easyvoterguide.org/)** for more voting information and to download a copy, and get your [Voting is Easy as 1-2-3](http://www.easyvoterguide.org/wp-content/uploads/2010/09/Voting1-2-3-June2016.pdf) flyer here!  
+Visit the **[Easy Voter Guide](http://www.easyvoterguide.org/)** for more voting information and to download a copy, and get your [Voting is Easy as 1-2-3](http://www.easyvoterguide.org/wp-content/uploads/2010/09/Voting1-2-3-June2016.pdf) flyer here.  
