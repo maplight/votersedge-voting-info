@@ -6,7 +6,7 @@ section: "register-to-vote"
 priority: "Minor"
 ---
 
-Fill out and submit a voter registration form to vote in the June 5, 2018, Primary Election by Monday, May 21, 2018. 
+Fill out and submit a voter registration form to vote in the November 6, 2018, General Election by Monday, October 22, 2018. 
 
 **NEW:** Even if you missed the deadline, you can still register and vote up to and on Election Day. Check [here](#menu-item-missed-the-voter-registration-deadline-you-can-still-register-and-vote) to see how!
 
@@ -14,7 +14,7 @@ Fill out and submit a voter registration form to vote in the June 5, 2018, Prima
 
 - You are eligible to vote if you are a U.S. citizen, 18 years or older.
 - You must register to get on the official list of voters in your county.  
-  The deadline to register is **Monday, May 21** to vote in the June 5 election.
+  The deadline to register is **Monday, October 22** to vote in the November 6 election.
 - You can pick up a voter registration form at your library or post office, have a registration form mailed to you by calling 1-800-345-8683, or fill out the form online at [www.registertovote.ca.gov](http://registertovote.ca.gov//).
 - It is important to fill out the form completely. You will be asked to include your driver license number or other identification.
 - Once you are on the list, you only need to re-register if you change your address, change your name, or want to change your political party.  
@@ -36,7 +36,7 @@ Find your [polling place and ballot](#section-my-polling-place).
 - You choose whether to vote at your polling place or use a “vote-by-mail” ballot.
 - For voting in person, the polls are open from 7 a.m. to 8 p.m.  You may also be able to vote before Election Day at your county elections office.  
 	If you registered and your name is not on the list of voters at your assigned polling place, you can vote using a “provisional ballot.”
-- To vote by mail, use the form in your Sample Ballot to request a “vote by mail” ballot to be sent to you.  The deadline to ask for one is **Tuesday, May 29**.  When your “vote by mail” ballot comes, fill it out and mail it back so that it is postmarked **no later than** Election Day, June 5.  You may also drop it off at any polling place in your county on election day. You can sign up to get a “vote by mail” ballot for every election.
+- To vote by mail, use the form in your Sample Ballot to request a “vote by mail” ballot to be sent to you.  The deadline to ask for one is **Tuesday, October 30**.  When your “vote by mail” ballot comes, fill it out and mail it back so that it is postmarked **no later than** Election Day, November 6.  You may also drop it off at any polling place in your county on election day. You can sign up to get a “vote by mail” ballot for every election.
 
 Check [Ways to Vote](#section-ways-to-vote) for more information.  
 
