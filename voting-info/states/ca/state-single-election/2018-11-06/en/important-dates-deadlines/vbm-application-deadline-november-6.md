@@ -6,6 +6,6 @@ section: "important-dates-deadlines"
 priority: "Minor"
 ---
 
-Your vote-by-mail request must be received in the county elections office **no later than Tuesday, May 29, by 5 PM.**  
+Your vote-by-mail request must be received in the county elections office **no later than Tuesday, October 30, by 5 PM.**  
 
 For detailed information, check [How do I vote by mail?](#menu-item-vote-by-mail)  
