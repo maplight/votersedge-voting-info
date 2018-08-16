@@ -16,5 +16,10 @@ If you would like to receive a Voter Information Pamphlet in the following langu
 - Español/Spanish 510-272-6975  
 - Tagalog/Filipino 510-272-6952  
 - Tiếng Việt/Vietnamese 510-272-6956
+- हिंदी/Hindi 510-272-5035
+- ਪੰਜਾਬੀ/Punjabi 510-272-5035
+- 日本語/Japanese 510-272-5036
+- ខ្មែរ/Khmer 510-272-5038
+- 한국어/Korean 510-272-5037
 
 For more information on language accessibility, visit the [Alameda County elections office language assistance page](https://www.acvote.org/language).
