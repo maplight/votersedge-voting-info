@@ -10,8 +10,8 @@ priority: "Minor"
 
 **-OR-**  
 	
-**Drop it off** at a [secure ballot location](https://www.acgov.org/rov/maps/ballotdropbox_map.htm) from **Monday, May 7, through Tuesday, June 5.**  
+**Drop it off** at a [secure ballot location](https://www.acgov.org/rov/maps/ballotdropbox_map.htm) from **Tuesday, October 9, through Tuesday, November 6.**  
 
 **-OR-**  
 	
-**Drop it off** at any polling place in Alameda County on **Election Day, Tuesday, June 5**, from 7 AM to 8 PM  
+**Drop it off** at any polling place in Alameda County on **Election Day, Tuesday, November 6**, from 7 AM to 8 PM  
