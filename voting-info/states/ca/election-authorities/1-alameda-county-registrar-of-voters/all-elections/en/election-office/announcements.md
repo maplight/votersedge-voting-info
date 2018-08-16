@@ -5,5 +5,5 @@ weight: -10
 section: "election-office"
 priority: "Minor"
 ---
-The statewide primary election is on June 5, 2018.
+The statewide general election is on November 6, 2018.
   
