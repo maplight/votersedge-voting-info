@@ -6,12 +6,12 @@ section: "ways-to-vote"
 priority: "Minor"
 ---
 
-**You can vote in person starting Monday, May 7, through Election Day, Tuesday, June 5.**  
+**You can vote in person starting Tuesday, October 9, through Election Day, Tuesday, November 6.**  
 
-**Weekdays: Monday through Friday** from 9 AM to 5 PM (May be closed Monday, May 28, for Memorial Day)  
+**Weekdays: Monday through Friday** from 9 AM to 5 PM (May be closed Monday, October 8, for Columbus Day)  
 
-**Weekend hours: Saturday, June 2**, from 9 AM to 4 PM.
+**Weekend hours: Saturday, November 3**, from 9 AM to 4 PM.
 
-**Election Day, Tuesday, June 5**, from 7 AM to 8 PM.
+**Election Day, Tuesday, November 6**, from 7 AM to 8 PM.
 
 **Early voting location:** Butte County Elections Office, 155 Nelson Ave., Oroville, CA 95965  

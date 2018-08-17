@@ -7,7 +7,7 @@ priority: "Minor"
 ---
 
 Request a one-time vote by mail ballot.  
-- **Download,** print, fill out, and mail this [application](http://clerk-recorder.buttecounty.net/elections/pdf/generic_counter_app.pdf) to the Butte County Elections Department at P.O. Box 2078, Oroville, CA 95964-2078
+- **Download,** print, fill out, and mail this [application](http://clerk-recorder.buttecounty.net/elections/pdf/generic_counter_app.pdf) to the Butte County Elections Department at 155 Nelson Avenue, Oroville, CA 95965-3411
 - Call (530) 538-7761 to request a ballot  
 - [E-mail](mailto:elections@buttecounty.net), Fax, or mail the [County Elections Office](#section-election-office-contact) a letter requesting a vote-by-mail ballot and include the data of the relevant election, your name, home address, the address to which you want the ballot mailed, and your signature.  
 
