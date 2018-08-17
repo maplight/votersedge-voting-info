@@ -6,7 +6,7 @@ section: "ways-to-vote"
 priority: "Minor"
 ---
 
-[You can vote in person](https://www.lavote.net/home/voting-elections/voting-options/early-voting) before Election Day from Monday, May 7, through Monday, June 4.  
+[You can vote in person](https://www.lavote.net/home/voting-elections/voting-options/early-voting) before Election Day from Monday, October 8, through Monday, November 5.  
 
 **Early voting location & hours:**  
 
@@ -16,4 +16,4 @@ priority: "Minor"
 
 Contact the Norwalk office at (800) 815-2666 or (562) 466-1323 to confirm business hours.   
 
-Offices may be closed Monday, May 28, for Memorial Day.  
+**Offices may be closed Monday, October 8, for Columbus Day.**  

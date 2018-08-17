@@ -18,10 +18,10 @@ priority: "Minor"
 	
 Contact the Norwalk office at (800) 815-2666 or (562) 466-1323 to confirm business hours.  
 
-Offices may be closed Monday, May 28, for Memorial Day.
+Offices may be closed Monday, October 8, for Columbus Day.
 
 **-OR-**  
 
-**Drop it off** at any polling place in Los Angeles County on **Election Day, Tuesday, June 5**, from 7 AM to 8 PM.  
+**Drop it off** at any polling place in Los Angeles County on **Election Day, Tuesday, November 6**, from 7 AM to 8 PM.  
 
 [Check early voting locations, times, and weekend hours!](https://www.lavote.net/home/voting-elections/voting-options/early-voting)  
