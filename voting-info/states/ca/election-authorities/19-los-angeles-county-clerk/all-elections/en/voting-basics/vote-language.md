@@ -23,4 +23,6 @@ To request a Sample Ballot in one of these languages or to request an interprete
 
 Armenian, Bengali, and Persian versions of ballots and polling place information may be available at some selected precincts.  
 
+The Los Angeles County Elections Office also offers some services in Russian and Farsi.
+
 **Bilingual services are available at polling places** across the County based on the different language needs of each community. Signs are posted in those poll locations identifying the language(s) spoken.  
