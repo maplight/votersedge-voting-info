@@ -10,5 +10,4 @@ priority: "Minor"
 
 **-OR-**  
 	
-**Drop it off** at any polling place in Calaveras County on **Election Day, Tuesday, June 5**, from 7 AM to 8 PM  
-
+**Drop it off** at any polling place in Calaveras County on **Election Day, Tuesday, November 6**, from 7 AM to 8 PM  
