@@ -24,7 +24,7 @@ For a more extensive list of people who must vote with a provisional ballot, che
 If voters are eligible to vote and vote provisionally, their ballots will be counted.  
 
 **What if I go to the wrong polling place and have to vote a provisional ballot, will my ballot still be counted?**  
-Firstly, you must always vote in the couny where you are registered to vote.  
+Firstly, you must always vote in the county where you are registered to vote.  
 If you're in the right county but the wrong polling place, then all of the candidates and measures that are on the ballot you were supposed to vote with, if you had gone to the correct location, will be counted.  
 
 But any contests and measures that are not also on the ballot at your correct polling place will not be counted.  
