@@ -6,11 +6,11 @@ section: "ways-to-vote"
 priority: "Minor"
 ---
 
-**You can vote in person starting Monday, May 7, through Election Day, Tuesday, June 5.**  
+**You can vote in person starting Tuesday, October 9, through Election Day, Tuesday, November 6.**  
 
-**Weekdays: Monday through Friday** from 8 AM to 5 PM (may be closed Monday, May 28, for Memorial Day)
+**Weekdays: Monday through Friday** from 8 AM to 5 PM (may be closed Monday, October 8, for Columbus Day)
 
-**Also open on Election Day, Tuesday, June 5** from 7 AM to 8 PM  
+**Also open on Election Day, Tuesday, November 6** from 7 AM to 8 PM  
 
 **Early Voting Location:** The Contra Costa County Elections Office, 555 Escobar St., Martinez, CA 94553.    
 
