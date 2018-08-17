@@ -6,10 +6,10 @@ section: "ways-to-vote"
 priority: "Minor"
 ---
 
-**You can vote in person starting Monday, May 7, through Election Day, Tuesday, June 5.**    
+**You can vote in person starting Tuesday, October 9, through Election Day, Tuesday, November 6.**    
 
-**Monday through Friday** 8:00 AM to 4 PM. (May be closed Monday, May 28, for Memorial Day.)  
+**Monday through Friday** 8:00 AM to 4 PM. (May be closed Monday, October 8, for Columbus Day.)  
 
 **Early voting location:** Calaveras County Elections Office, 891 Mountain Ranch Road, San Andreas, CA 95249
 
-**Check the [Calaveras County Registrar's website](https://www.acvote.org/index) for weekend hours.**  
+**Check the [Calaveras County Registrar's website](https://elections.calaverasgov.us/) for weekend hours.**  
