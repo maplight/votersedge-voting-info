@@ -10,17 +10,17 @@ priority: "Minor"
 
 **-OR-**  
 
-**Drop it off** between **Monday, May 7**, and **Tuesday, June 5**, at the San Francisco City Hall Voting Center, 1 Dr. Carlton B. Goodlett Place, City Hall, Room 48, San Francisco, CA 94102 (*The public must enter City Hall on Grove Street*)  
+**Drop it off** between **Monday, October 8**, and **Tuesday, November 6**, at the San Francisco City Hall Voting Center, 1 Dr. Carlton B. Goodlett Place, City Hall, Room 48, San Francisco, CA 94102 (*The public must enter City Hall on Grove Street*)  
 
-**Monday through Friday** 8 AM to 5 PM (May be closed Monday, May 28, for Memorial Day)  
+**Monday through Friday** 8 AM to 5 PM (May be closed Monday, October 8, for Columbus Day)  
 
-**Weekends: Saturday, May 26, and Sunday, May 27**, from 10 AM to 4 PM.  
-**Saturday, June 2, and Sunday, June 3**, from 10 AM to 4 PM
+**Weekends: Saturday, October 27, and Sunday, October 28**, from 10 AM to 4 PM.  
+**Saturday, November 3, and Sunday, November 4**, from 10 AM to 4 PM
 
-**Election Day, Tuesday, June 5**, from 7 AM to 8 PM  
+**Election Day, Tuesday, November 6**, from 7 AM to 8 PM  
 
 **-OR-**  
 
-**Drop it off** at any polling place in San Francisco County on **Election Day, Tuesday, June 5**, from 7 AM to 8 PM   
+**Drop it off** at any polling place in San Francisco County on **Election Day, Tuesday, November 6**, from 7 AM to 8 PM   
 
 For more information about Vote-by-Mail visit the [San Francisco Department of Elections Office](http://sfgov.org/elections/vote-mail) online.  

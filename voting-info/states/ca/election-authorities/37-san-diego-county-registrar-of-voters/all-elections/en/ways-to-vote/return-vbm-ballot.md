@@ -10,16 +10,16 @@ priority: "Minor"
 
 **-OR-**  
 
-**Drop it off between Monday, May 7, and Tuesday, June 5**, at the Registrar of Voters Office, 5600 Overland Ave, San Diego, CA 92123.  
+**Drop it off between Monday, October 8, and Tuesday, November 6**, at the Registrar of Voters Office, 5600 Overland Ave, San Diego, CA 92123.  
 
-**Monday through Friday** 8:00 AM to 5:00 PM (May be closed Monday, May 28, for Memorial Day)   
+**Monday through Friday** 8:00 AM to 5:00 PM (May be closed Monday, October 8, for Columbus Day)   
 
-**Election Day, Tuesday, June 5,** open 7 AM to 8 PM   
+**Election Day, Tuesday, November 6,** open 7 AM to 8 PM   
 	
 **-OR-**  
 
-**Drop it off** at a secure drop-off location. Visit the [San Diego Elections Office website](http://www.sdvote.com/content/dam/rov/en/election/2018June/2869_Mail_Ballot_Drop_Off_Loc.pdf) to find locations and hours.  
+**Drop it off** at a secure drop-off location. Visit the [San Diego Elections Office website](https://www.sdvote.com/content/rov/en/elections.html) to find locations and hours.  
 
 **-OR-**
 	
-**Drop it off** at any polling place in San Diego County on **Election Day, Tuesday, June 5**, from 7 AM to 8 PM  
+**Drop it off** at any polling place in San Diego County on **Election Day, Tuesday, November 6**, from 7 AM to 8 PM  
