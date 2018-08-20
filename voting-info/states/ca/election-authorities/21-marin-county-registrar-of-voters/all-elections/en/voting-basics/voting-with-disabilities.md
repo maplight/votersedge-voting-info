@@ -22,10 +22,10 @@ Each polling place in Marin County has:
 
 - An AUTOMARK, an accessible ballot marking device to help you vote your ballot independently and privately.  
 
-- A Sip and Puff device for use with the AUTOMARK is available on Election Day by calling (415) 473-6447.  
+- A Sip and Puff device for use with the AUTOMARK is available on Election Day by calling (415) 473-6456.  
 
 - Curbside voting for voters who cannot get into the polling place. A poll worker can bring a ballot to you. After you vote, the poll worker will put your voted ballot in the ballot box.  
 
 All state propositions are available on audio tape. If you want one, call (415) 473-6456.  
 
-For more information visit Marin County’s [Voters with Specific Needs](http://www.marincounty.org/depts/rv/faqs#voterswithspecificneeds) page. The Secretary of State also has a TDD hotline: TDD 1-800-833-8683.  
+For more information visit Marin County’s [Voters with Specific Needs](http://www.marincounty.org/depts/rv/faqs#voterswithspecificneeds) page. You can reach the Marin County Elections TTY number at (415) 473-6899. The Secretary of State also has a TDD hotline: TDD 1-800-833-8683.  
