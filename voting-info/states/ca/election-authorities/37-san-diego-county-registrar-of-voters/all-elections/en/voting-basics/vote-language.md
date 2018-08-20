@@ -21,7 +21,7 @@ Arabic and 한국어/Korean versions of ballots and polling place information ma
 
 **-OR-**  
   
-Complete and return [this form](http://www.sdvote.com/content/dam/rov/en/pdf/TEM%20Request%20Form.pdf)   
+Complete and return [this form](http://www.sdvote.com/content/dam/rov/en/pdf/TEM%20Request%20Form.pdf) to request translated materials.   
 
 - by U.S. mail to San Diego County Registrar of Voters, P.O. Box 85656, San Diego, CA 92186,  
 - by fax to (858) 694-2955, or  

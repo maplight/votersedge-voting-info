@@ -8,7 +8,7 @@ priority: "Minor"
 
 Request a one-time vote by mail ballot.  
 
-- [Apply Online](http://sfelections.org/tools/vbmapp/index.php), or fill out and mail this [application.](http://sfgov.org/elections/sites/default/files/Documents/Voting/2018/J18_VBMApp_ENCH.pdf).    
+- [Apply Online](http://sfelections.org/tools/vbmapp/index.php), or fill out and mail this [application.](https://sfelections.sfgov.org/sites/default/files/Documents/Voting/2018/N18_VBMApp_ENCH.pdf).    
 
 - Call 415-554-4375 to request a ballot to be mailed to you.  
 
@@ -18,4 +18,4 @@ Request a one-time vote by mail ballot.
 
   **-OR-**  
   
-[Become a permanent vote-by-mail voter](http://sfgov.org/elections/ftp/uploadedfiles/elections/VoterServices/2015/Application%20for%20Permanent%20VBM%20status%20EN.pdf).  
+[Become a permanent vote-by-mail voter](https://sfelections.sfgov.org/sites/default/files/Documents/Voting/2018/N18_VBMApp_ENCH.pdf).  
