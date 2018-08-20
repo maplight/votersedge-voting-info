@@ -8,7 +8,7 @@ priority: "Minor"
 
 Request a one-time vote-by-mail ballot.  
 
-- Apply [online](https://www.placerelections.com/polling-place-locator-vote.aspx).  
+- Apply [online](http://elections.cdn.sos.ca.gov/vote-by-mail/pdf/vote-by-mail-application.pdf).  
 
 - Mail your [County Elections Office](#section-election-office-contact) a letter requesting a ballot and include which election you want the ballot for, your name, address, mailing address (if different), birthday and **signature.**  
 

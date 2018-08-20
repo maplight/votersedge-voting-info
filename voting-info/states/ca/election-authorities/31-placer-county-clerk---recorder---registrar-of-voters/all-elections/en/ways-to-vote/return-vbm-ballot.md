@@ -10,11 +10,11 @@ priority: "Minor"
 
 **-OR-**
   
-**Drop it off** between **Monday, May 7**, and **Tuesday, June 5**.  
+**Drop it off** between **Monday, October 8**, and **Tuesday, November 6**.  
 
-**Monday through Friday** from 8 AM to 5 PM  (May be closed Monday, May 28, for Memorial Day)  
+**Monday through Friday** from 8 AM to 5 PM  (May be closed Monday, October 8, for Columbus Day)  
 
-**Also open on Election Day, Tuesday, June 5**, from 7 AM to 8 PM.  
+**Also open on Election Day, Tuesday, November 6**, from 7 AM to 8 PM.  
 
 **Location:** Placer County Office of Elections, 2956 Richardson Dr. Auburn, CA 95604  
 
@@ -28,6 +28,6 @@ Drop it off at a secure Drop Off Box available 24 hours a day in front of the Pl
 
 **-OR-**  
 
-**Drop it off** at any polling place in Placer County on **Election Day, Tuesday, June 5**, from 7 AM to 8 PM.    
+**Drop it off** at any polling place in Placer County on **Election Day, Tuesday, November 6**, from 7 AM to 8 PM.    
 
 For more information about Vote-by-Mail visit the [Placer County Office of Elections](https://www.placerelections.com/apply-to-vote-by-mail.aspx#15).  

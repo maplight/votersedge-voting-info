@@ -8,7 +8,7 @@ priority: "Minor"
 
 Request a one-time vote by mail ballot.  
 
-- [Download](http://placerelections.com/uploads/documents/06072016/06072016_VBMApp.pdf), print, fill out and mail an application.  
+- [Download](https://www.placerelections.com/vbm-application/), print, fill out and mail an application.  
 
 - Call 530-886-5650 to request a ballot be mailed to you.  
 
