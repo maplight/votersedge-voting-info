@@ -14,8 +14,8 @@ priority: "Minor"
 
 **-OR-**  
 
-**Check out this [easy-to-print list](https://www.voteinfo.net/Elections/20180605/docs/20180605EarlyVote.pdf)** of City Clerk drop-off locations available from May 7 through Monday, June 4 (the day before Election Day).  
+**Check out this [easy-to-print list](https://www.voteinfo.net/Elections/20180605/docs/20180605EarlyVote.pdf)** of City Clerk drop-off locations available from October 8 through Monday, November 5 (the day before Election Day). Note that the elections office may be closed on Monday, October 8 for Columbus day.
 
 **-OR-**  
 
-**Drop it off** at any polling place in Riverside County on **Election Day, Tuesday, June 5**, from 7 AM to 8 PM.  
+**Drop it off** at any polling place in Riverside County on **Election Day, Tuesday, November 6**, from 7 AM to 8 PM.  

@@ -10,9 +10,9 @@ The Orange County Elections Office website, and Sample Ballots, are available in
 
 - [Español/Spanish](https://www.ocvote.com/es/about/)  
 
-- [Tiếng Việt/Vietnamese](https://www.ocvote.com/vn/about/)  
+- [Tiếng Việt/Vietnamese](https://www.ocvote.com/vi/about/)  
 
-- [中文/Chinese](https://www.ocvote.com/cn/about/)  
+- [中文/Chinese](https://www.ocvote.com/zh/about/)  
 
 - [한국어/Korean](https://www.ocvote.com/ko/about/)  
 
