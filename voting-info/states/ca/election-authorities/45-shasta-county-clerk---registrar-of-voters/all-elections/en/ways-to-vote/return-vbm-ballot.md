@@ -10,15 +10,15 @@ priority: "Minor"
 
   **-OR-**  
 
-**Drop it off** between **Monday, May 7**, and **Tuesday, June 5**, at the Shasta County Elections Office, 1643 Market St., Redding.  
+**Drop it off** between **Monday, October 8**, and **Tuesday, November 6**, at the Shasta County Elections Office, 1643 Market St., Redding.  
 
 Drop-off Hours:   
 
-**Weekdays: Monday through Friday** from 8 AM to 5 PM (May be closed Monday, May 28, for Memorial Day)  
+**Weekdays: Monday through Friday** from 8 AM to 5 PM (May be closed Monday, October 8, for Columbus Day)  
 
-**Election Day, Tuesday, June 5**, from 7 AM to 8 PM  
+**Election Day, Tuesday, November 6**, from 7 AM to 8 PM  
 
   **-OR-**  
   
-**Drop it off** at any polling place in Shasta County on **Election Day, Tuesday, June 5**, from 7 AM to 8 PM  
+**Drop it off** at any polling place in Shasta County on **Election Day, Tuesday, November 6**, from 7 AM to 8 PM  
 

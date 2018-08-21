@@ -11,5 +11,7 @@ priority: "Minor"
 
 **Accessible Voting Equipment**  
 Solano County’s  electronic voting system has audio headphones, raised Braille-labeled keys, and adaptive devices that provide large tactile buttons for motor issues as well as sip-n-puff capability.  
+
 Curbside voting is available if a voter cannot enter the polling place. In addition, a voter may vote-by-mail if that method is more convenient.  
+
 For specific information and assistance, please call (707) 784-6675.
