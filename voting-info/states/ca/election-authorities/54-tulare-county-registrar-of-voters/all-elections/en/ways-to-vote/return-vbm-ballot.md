@@ -10,13 +10,13 @@ priority: "Minor"
 
  **-OR-**  
 
-**Drop it off** between **Monday, May 7**, and **Tuesday, June 5**, at the Tulare County Elections Office, 5951 S Mooney Blvd, Visalia, CA 93277.  
+**Drop it off** between **Monday, October 8**, and **Tuesday, November 6**, at the Tulare County Elections Office, 5951 S Mooney Blvd, Visalia, CA 93277.  
 
-**Monday through Thursday** 7:30 AM - 5:30 PM (May be closed Monday, May 28, for Memorial Day)  
+**Monday through Thursday** 7:30 AM - 5:30 PM (May be closed Monday, October 8, for Columbus Day)  
 **Friday** 8 AM to 12 PM   
 
-**Election Day, Tuesday, June 5**, from 7 AM to 8 PM    
+**Election Day, Tuesday, November 6**, from 7 AM to 8 PM    
 
  **-OR-**  
 
-**Drop it off** at any polling place in Tulare County on **Election Day, Tuesday, June 5**, from 7 AM to 8 PM.    
+**Drop it off** at any polling place in Tulare County on **Election Day, Tuesday, November 6**, from 7 AM to 8 PM.    

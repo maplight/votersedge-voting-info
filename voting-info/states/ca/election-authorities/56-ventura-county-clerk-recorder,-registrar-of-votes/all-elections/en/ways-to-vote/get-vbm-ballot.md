@@ -14,6 +14,6 @@ Request a one-time vote by mail ballot.
 
 - Complete the application provided on the back cover of your Voter Information Pamphlet.  
 
-Or [become a permanent vote-by-mail voter](http://recorder.countyofventura.org/wp-content/uploads/2013/09/PERMANENT-VOTE-BY-MAIL-VOTER-APP-Eng-Span.pdf).  
+Or [become a permanent vote-by-mail voter](https://recorder.countyofventura.org/wp-content/uploads/2015/03/2015-Generic-VBM-App-Eng.pdf) by filling out this application and checking box #7.  
 
 For more information about vote-by-mail visit the [Ventura Elections Office.](http://recorder.countyofventura.org/elections/voter-information/vote-by-mail/)  
