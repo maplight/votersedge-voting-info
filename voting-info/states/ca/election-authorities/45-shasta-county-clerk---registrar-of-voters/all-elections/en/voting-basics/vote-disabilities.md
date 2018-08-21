@@ -20,9 +20,9 @@ If your polling site is not accessible, you may vote on a paper or an electronic
 
 To request curbside voting assistance, you can:  
 
-- Call 530-225-5730 in advance to coordinate a time and place.  
+- Call 530-225-5730 in advance to coordinate a time and place. 
 
-- Have an assistant make the request inside the polling place.  
+- Have an assistant make the request inside the polling place. 
 
 #### Accessible Voting Information    
 

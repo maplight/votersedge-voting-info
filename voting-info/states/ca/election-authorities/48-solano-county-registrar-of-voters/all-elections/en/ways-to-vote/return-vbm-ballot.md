@@ -10,9 +10,9 @@ priority: "Minor"
 
   **-OR-**  
   
-**Drop it off** between **Monday, May 7** and **Tuesday, June 5** at the Solano County Registrar of Voters Office, 675 Texas St. Suite 2600, Fairfield, CA 94533.  
-**Monday through Friday** from 8 AM to 5 PM (May be closed Monday, May 28, for Memorial Day.)  
-**Election Day, Tuesday, June 5**, from 7 AM to 8 PM.  
+**Drop it off** between **Tuesday, October 9** and **Tuesday, November 6** at the Solano County Registrar of Voters Office, 675 Texas St. Suite 2600, Fairfield, CA 94533.  
+**Monday through Friday** from 8 AM to 5 PM (The elections office will be closed Monday, October 8, for Columbus Day.)  
+**Election Day, Tuesday, November 6**, from 7 AM to 8 PM.  
 
   **-OR-**  
 
@@ -20,6 +20,6 @@ priority: "Minor"
 
   **-OR-**  
   
-**Drop it off** at any polling place in Solano County on **Election Day, Tuesday, June 5**, from 7 AM to 8 PM  
+**Drop it off** at any polling place in Solano County on **Election Day, Tuesday, November 6**, from 7 AM to 8 PM  
 
 For more information about voting by mail, visit the [Solano County Registrar of Voters Office](http://www.solanocounty.com/depts/rov/voting_by_mail/default.asp) online.  
