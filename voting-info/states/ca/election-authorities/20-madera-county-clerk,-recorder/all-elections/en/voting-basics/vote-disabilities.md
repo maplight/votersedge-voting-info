@@ -14,7 +14,7 @@ All Vote Centers will be ADA-compliant, and Elections personnel will be on site 
 
 All vote centers will be equipped with at least three accessible Image Cast Voting System (ICVS) from Dominion Voting systems.  
 
-Voters with disabilities may request a remote accessible vote-by-mail ballot. You can use this ballot at home with your own computer and assistive technologies, then print the ballot and mail or drop it off.   
+Voters with disabilities may request a remote accessible vote-by-mail ballot. You can use this ballot at home with your own computer and assistive technologies, then print the ballot and mail or drop it off. Read more about the remote accessible vote by mail system on the [Registrar of Voters website](https://votemadera.com/remote-accessible-vote-by-mail-ballot/).
 
 Voters can also request audio ballot information and accessible PDF files by email.  
 

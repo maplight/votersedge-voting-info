@@ -8,11 +8,11 @@ priority: "Minor"
 
 Your neighborhood polling locations will no longer be open. Instead, you can vote at any Vote Center in Nevada County.   
 
-- **All Vote Centers will be open for at least 4 days** from Saturday, June 2, through Election Day, Tuesday, June 5. 
+- **All Vote Centers will be open for at least 4 days** from Saturday, November 3, through Election Day, Tuesday, November 6. 
 
-- **Some Vote Centers will be open for 11 days** starting Saturday, May 26.    
+- **Some Vote Centers will be open for 11 days** starting Saturday, October 27.    
 
-- **On Election Day, Tuesday, June 5, all Vote Centers are open from 7 AM to 8 PM.**  
+- **On Election Day, Tuesday, November 6, all Vote Centers are open from 7 AM to 8 PM.**  
 
 Find your Vote Center locations and hours:  
 

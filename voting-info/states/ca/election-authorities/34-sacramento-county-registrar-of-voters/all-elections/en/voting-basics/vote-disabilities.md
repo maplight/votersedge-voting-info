@@ -23,3 +23,5 @@ Voters can also request audio ballot information and accessible PDF files by ema
 #### Accessible Voting Information  
 
 If you have questions about the physical access to a Vote Center or Ballot Drop-off location, call (916) 875-6100 or email [PrecinctOperations@saccounty.net](mailto:PrecinctOperations@saccounty.net).  
+
+You can also read more about accessible voting in Sacramento County by visiting the [Registrar of Voter's website](http://www.elections.saccounty.net/ElectionInformation/Pages/Accessible-Voting.aspx).
