@@ -10,7 +10,7 @@ priority: "Minor"
 
   **-OR-**  
   
-**Drop it off** between Tuesday, October 9, and Election Day on Tuesday, November 6.  
+**Drop it off** between Monday, October 8, and Election Day on Tuesday, November 6.  
 **Monday through Friday** from 9 AM to 5 PM at the Butte County Elections Office, Hall of Records, 155 Nelson Ave., Oroville, CA 95965. The office may be closed Monday, October 8, for Columbus Day.    
 Also open on **Saturday, November 3, from 9 AM to 4 PM** and **Election Day, Tuesday, November 6, from 7 AM to 8 PM.**
 

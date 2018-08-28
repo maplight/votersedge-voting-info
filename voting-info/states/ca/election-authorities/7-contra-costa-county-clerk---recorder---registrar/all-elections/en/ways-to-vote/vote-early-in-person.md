@@ -6,7 +6,7 @@ section: "ways-to-vote"
 priority: "Minor"
 ---
 
-**You can vote in person starting Tuesday, October 9, through Election Day, Tuesday, November 6.**  
+**You can vote in person starting Monday, October 8, through Election Day, Tuesday, November 6.**  
 
 **Weekdays: Monday through Friday** from 8 AM to 5 PM (may be closed Monday, October 8, for Columbus Day)
 
