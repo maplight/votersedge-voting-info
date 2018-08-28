@@ -10,7 +10,7 @@ priority: "Minor"
 
 **-OR-**  
 	
-**Drop it off** at a [secure ballot location](https://www.acgov.org/rov/maps/ballotdropbox_map.htm) from **Tuesday, October 9, through Tuesday, November 6.**  
+**Drop it off** at a [secure ballot location](https://www.acgov.org/rov/maps/ballotdropbox_map.htm) from **Monday, October 8,* through Tuesday, November 6.** (These locations may be closed Monday, October 8, for Columbus Day)
 
 **-OR-**  
 	

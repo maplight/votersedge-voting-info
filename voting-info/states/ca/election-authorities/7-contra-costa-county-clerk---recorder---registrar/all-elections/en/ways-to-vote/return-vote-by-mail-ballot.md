@@ -10,13 +10,13 @@ priority: "Minor"
 
  **-OR-**  
 
-**Drop it off** before Election Day at a secure ballot location from **Tuesday, October 9** through **Tuesday, November 6.** Find out locations by going to [CoCo Vote-n-Go Drop off locations](https://www.cocovote.us/registration-and-voting-options/my-voting-information/#VoterLookupandSampleBallotSearch) during normal city business hours.   
+**Drop it off** before Election Day at a secure ballot location from **Monday, October 8** through **Tuesday, November 6.** Find out locations by going to [CoCo Vote-n-Go Drop off locations](https://www.cocovote.us/registration-and-voting-options/my-voting-information/#VoterLookupandSampleBallotSearch) during normal city business hours.   
 
  **-OR-**  
 
 **Drop it off** before Election Day at the County Elections Office, 555 Escobar St., Martinez, CA 94553:  
 
- **Monday through Friday**, October 9 through November 5, 8 AM to 5 PM, and **Election Day,** Tuesday, November 6, from 7 AM to 8 PM. (The office may be closed Monday, October 8, for Columbus Day.)  
+ **Monday through Friday**, October 8 through November 5, 8 AM to 5 PM, and **Election Day,** Tuesday, November 6, from 7 AM to 8 PM. (The office may be closed Monday, October 8, for Columbus Day.)  
 
 **-OR-**  
 
