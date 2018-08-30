@@ -1,38 +1,38 @@
 ---
-title: "What is a provisional ballot?"
+title: "¿Qué es una boleta provisional?"
 published: true
 weight: 4
 section: "voting-basics"
 priority: "Minor"
 ---
 
-**A provisional ballot is a regular ballot that is put inside of a provisional envelope.** 
+**Una boleta provisional es una boleta regular que se pone en el interior de un sobre provisional.** 
 
-**Who must vote a provisional ballot?**  
+**¿Quién debe votar con una boleta provisional?**  
 
-**Voters who:**  
-- Do not appear on the list of voters at the polling place. 
-- Moved into a new precinct and did not update their registration.
-- Registered by mail, but did not provide a CA drivers license number, CA ID number or the last 4 digits of their Social Security Number when they registered.
-- Return vote-by-mail ballots to the polls without an envelope.
-- Vote by mail, but decide that they would prefer to vote in person and do not bring their vote-by-mail ballot to turn in at the polling place.
-- Register too late for their names to be printed on the list of voters.  
+**Los votantes que:**  
+- No aparecen en la lista de votantes en el centro de votación. 
+- Se mudaron a un nuevo distrito electoral y no se volvieron a registrar.
+- Se registraron por correo, pero no proporcionaron el número de licencia de conducir de CA, el número de identificación de CA o los últimos 4 dígitos de su Número de Seguridad Social cuando se registraron.
+- Lleven personalmente la boleta de voto por correo al centro de votación sin el sobre.
+- Votan por correo, pero deciden que preferirían votar en persona y no llevan, su boleta de voto por correo, al centro de votación.
+- Se registran demasiado tarde para que sus nombres se impriman en la lista de votantes.  
 
-For a more extensive list of people who must vote with a provisional ballot, check the [California Secretary of State](http://www.sos.ca.gov/elections/voting-resources/provisional-voting/).
+Para obtener una lista más amplia de las personas que deben votar con una boleta provisional, consulte con [la Secretaria de Estado de California](http://www.sos.ca.gov/elections/voting-resources/provisional-voting/).
 
-**Are all provisional ballots counted?**  
-If voters are eligible to vote and vote provisionally, their ballots will be counted.  
+**¿Se cuentan todas las boletas provisionales?**  
+Se contarán las boletas si los votantes son elegibles para votar y lo hacen utilizando una boleta provisional..  
 
-**What if I go to the wrong polling place and have to vote a provisional ballot, will my ballot still be counted?**  
-Firstly, you must always vote in the couny where you are registered to vote.  
-If you're in the right county but the wrong polling place, then all of the candidates and measures that are on the ballot you were supposed to vote with, if you had gone to the correct location, will be counted.  
+**Qué sucede si voy al lugar de votación equivocado y tengo que usar una boleta provisional, se contará mi voto?**  
+En primer lugar, debe votar siempre en el condado donde está registrado para votar.  
+Si está en el condado correcto, pero en el lugar de votación equivocado, entonces su voto se contará solo para los candidatos y medidas de ley que están en la boleta que se suponía tenía que votar.  
 
-But any contests and measures that are not also on the ballot at your correct polling place will not be counted.  
+No obstante, no se contarán ningún candidato, ni ninguna medida de ley, que no se encuentren también en la boleta de su lugar de votación correcto.  
 
-**How are provisional ballots handled?**  
-- Fill out your name and current address on the provisional envelope and sign it. 
-- After the polls close, the ballot is returned to the election office, where the information on the envelope is verified against the voter registration records.  
-- If the information that the voter has written on the envelope matches, then the ballot is removed from the envelope and counted.  
+**¿Cómo se manejan las boletas provisionales?**  
+- Escriba su nombre y dirección actual en el sobre provisional y fírmelo.
+- Después de que cierran los centros de votación, la boleta se devuelve a la oficina electoral, donde se verifica la información en el sobre contra los registros de inscripción de votantes. 
+- Si la información que el votante ha escrito en el sobre coincide, entonces la boleta se retira del sobre y se cuenta.
 
-**Can I check the status of my provisional ballot?**  
-You may contact the [county elections office](http://www.sos.ca.gov/elections/voting-resources/county-elections-offices/) to learn whether your provisional ballot was counted and if it was not counted, the reason why.  
+**¿Puedo verificar el estado de mi boleta provisional?**  
+Puede comunicarse con [la oficina electoral del condado](http://www.sos.ca.gov/elections/voting-resources/county-elections-offices/) para conocer si su boleta provisional se contó y, de no ser así, el motivo por qué no.  
