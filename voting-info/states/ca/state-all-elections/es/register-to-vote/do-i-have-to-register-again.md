@@ -1,14 +1,14 @@
 ---
-title: "Once I am registered to vote do I ever have to register again?"
+title: "Una vez que estoy registrado para votar, ¿tengo que volver a registrarme otra vez?"
 published: true
 weight: 9
 section: "register-to-vote"
 priority: "Minor"
 ---
 
-**You must [re-register](http://registertovote.ca.gov/) if you**:  
+**Debe [volver a registrarse ](https://registertovote.ca.gov/es/) si**:  
 
-- Move to a different address.  
-- Change your name.  
-- Wish to change political parties or to register with no party preference.  
-- Were removed from the registration rolls while in prison or on parole for the conviction of a felony.  
+- Se muda a una dirección diferente. 
+- Cambia su nombre. 
+- Desea cambiar de partidos políticos o registrarse sin preferencia de partido.
+- Lo sacaron de las listas de registros mientras estaba en prisión o en libertad condicional por la condena de un delito grave.

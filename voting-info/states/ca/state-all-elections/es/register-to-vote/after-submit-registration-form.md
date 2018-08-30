@@ -1,11 +1,11 @@
 ---
-title: "What happens after I submit my registration form?"
+title: "¿Qué sucede luego de que envío mi forma de registro?"
 published: true
 weight: 6
 section: "register-to-vote"
 priority: "Minor"
 ---
 
-If time permits, your county elections official will contact you when your voter registration application is approved, or if more information is needed to confirm your eligibility.   
+Si el tiempo lo permite, el funcionario electoral de su condado se comunicará con usted cuando se apruebe su solicitud de registro de votante, o si se necesita más información para confirmar su elegibilidad.  
 
-You can check with your county elections office to make sure you’re registered. [Check the status of your voter registration.](http://www.sos.ca.gov/elections/registration-status/)
+Puede verificar con la oficina electoral de su condado para asegurarse de que está registrado. [Verifique el estado de su forma de registro para votante.](https://voterstatus.sos.ca.gov/ES)
