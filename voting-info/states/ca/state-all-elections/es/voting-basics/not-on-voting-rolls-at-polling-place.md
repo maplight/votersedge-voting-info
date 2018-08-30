@@ -1,8 +1,8 @@
 ---
-title: "What if I am not on the list of voters at my polling place?  "
+title: "¿Qué sucede si no estoy en la lista de votantes en mi centro de votación?"
 published: true
 weight: 3
 section: "voting-basics"
 priority: "Minor"
 ---
-If your name is not on the list of registered voters at your polling place you have the right to cast a provisional ballot. For more information check [What is a provisional ballot?](#menu-item-what-is-a-provisional-ballot)
+Si su nombre no aparece en la lista de votantes registrados en su centro de votación, tiene derecho a votar utilizando una boleta provisional. Para obtener más información, consulte [¿Qué es una boleta provisional](#menu-item-what-is-a-provisional-ballot)
