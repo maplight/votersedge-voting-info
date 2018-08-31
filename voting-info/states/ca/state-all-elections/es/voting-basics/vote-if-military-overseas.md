@@ -1,31 +1,30 @@
 ---
-title: "How do I vote if I am military, overseas, or live abroad?"
+title: "¿Cómo voto si soy militar, estoy fuera del país o vivo en el extranjero?"
 published: true
 weight: 7
 section: "voting-basics"
 priority: "Minor"
 ---
-**For information on registering check** [How do I register if I am military, overseas, or live abroad?](#menu-item-¿cómo-me-inscribo-si-soy-militar-me-encuentro-en-el-extranjero-o-vivo-fuera-del-país)  
+**Para obtener información sobre como registrarse, consulte** [¿Cómo me registro si soy militar, estoy fuera del país o vivo en el extranjero??](#menu-item-¿cómo-me-inscribo-si-soy-militar-me-encuentro-en-el-extranjero-o-vivo-fuera-del-país)  
 
-**Receive and complete** your ballot:  
-When you registered to vote using California’s [online voter registration](http://registertovote.ca.gov/) or a [Federal Post Card Application](https://www.fvap.gov/uploads/FVAP/Outreach-Materials/FVAP_FPCA.pdf) **(FPCA)** you had the option to receive your ballot by mail, fax or email. In some counties you may be allowed to download a ballot. Check the [county list](http://www.sos.ca.gov/elections/voter-registration/military-overseas-voters/) to see if downloading is possible.  
-- You should receive your ballot between 45 and 30 days before Election Day.  If you do not receive one, contact your [county](http://www.sos.ca.gov/elections/voter-registration/military-overseas-voters/).  
-- If you do not receive a ballot 30 days before Election Day you may be able to request [Federal Write-In Ballot](https://www.fvap.gov/uploads/FVAP/Forms/fwab2013.pdf) that allows you to vote in federal, but not California, elections. Check with your county elections office about this.  
-- **Follow the directions received with your ballot** to fill it out. 
-Review the ballot to make sure you voted for every contest you intended.  
+**Reciba y complete** su boleta:  
+Cuando se registró para votar mediante [el registro de votantes en Internet de California](https://registertovote.ca.gov/es/) o utilizando una [Solicitud de Tarjeta Postal Federal](https://www.fvap.gov/uploads/FVAP/Outreach-Materials/FVAP_FPCA.pdf) **(FPCA, siglas en inglés)** tenía la opción de recibir su boleta por correo, fax o correo electrónico. En algunos condados se le puede permitir descargar una boleta por Internet. Revise [la lista del condado ](http://www.sos.ca.gov/elections/voter-registration/military-overseas-voters/) para saber si la descarga es posible.
+- Debe recibir su boleta entre 45 y 30 días antes del Día de las elecciones. Si no recibe una, comuníquese con su [condado](http://www.sos.ca.gov/elections/voter-registration/military-overseas-voters/).  
+- Si no recibe una boleta 30 días antes del Día de las elecciones, puede tener la posibilidad de solicitar [la boleta especial federal](https://www.fvap.gov/uploads/FVAP/Forms/fwab2013.pdf) que le permite votar en elecciones federales pero no en las elecciones de California. Consulte con su oficina electoral del condado acerca de esto.
+- **Siga las instrucciones recibidas con su boleta** para completarla. Revise la boleta para asegurarse de que votó por cada candidato que quería votar.
 
-**Return** your ballot:  
-- **By mail:**  
-	- **Fill out and sign** as directed on the back of the return envelope.  
-	- **Mail it using US Post Office** if you are in the U.S.  
-	- **If outside the U.S.** use APO/FPO or diplomatic pouch mail. **OR** use foreign postal system and make sure you use the correct postage.  
-    	- **Consult your post office** to find out when the ballot should be mailed to make sure it is postmarked no later than Election Day and arrives in your county no later than three days after Election Day. **In other words, mail your ballot back before Election Day.**  
+**Envíe** su boleta:  
+- **Por correo:**  
+	- **Complete y firme** según se indica en la parte posterior del sobre de envío.  
+	- **Envíelo por correo usando la oficina de correos de los EE.UU.** dentro de los EE.UU.  
+	- **Si se encuentra fuera de los EE. UU.** utilice APO/FPO o la bolsa de correo diplomática. **O** utilice un sistema postal extranjero y asegúrese de usar el franqueo correcto.  
+    	- **Consulte a su oficina de correos** para averiguar cuándo se debe enviar la boleta a fin de que tenga el sello postal a más tardar el Día de las elecciones y llegue en su condado al menos tres días después de las elecciones. **En otras palabras, envíe su Boleta por correo antes del Día de las elecciones.**  
 
-- **By fax** if you are living outside the territorial US:  
-	- Fax the **ballot plus the completed return envelope.**  
-	- **Fax** an **Oath of Voter** form that your county provides.The oath waives your right to confidential voting because you are faxing your ballot.  
-	- Your faxed ballot and materials **must be received by county elections office by 8 p.m. Pacific time on Election Day.**   
+- **Por fax** si vive fuera del territorio de los EE. UU.: 
+	- Envíe por fax **la boleta más el sobre de devolución completo.**  
+	- **Envíe por fax** un **Juramento de votante** que proporciona su condado. El juramento no exige su derecho de voto confidencial ya que se envía por fax.  
+	- La oficina de electoral del condado **debe recibir la boleta y materiales enviados por fax antes de las 8 p.m. hora del Pacífico el Día de las elecciones.**   
 
-**While you may request your ballot by email or download it, you may not return your completed ballot by email.**   
+**Si bien puede solicitar su boleta por correo electrónico o descargarla, no podrá devolverla debidamente completada por correo electrónico.**   
 
-Visit the [California Secretary of State](http://www.sos.ca.gov/elections/voter-registration/military-overseas-voters/) for more information.
+Visite la [Secretaria de Estado de California](http://www.sos.ca.gov/elections/voter-registration/military-overseas-voters/) para obtener más información.

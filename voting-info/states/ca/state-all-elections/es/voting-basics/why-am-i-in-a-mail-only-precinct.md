@@ -1,10 +1,10 @@
 ---
-title: "Why am I in a mail-only precinct?"
+title: "¿Por qué estoy en un distrito electoral de votación por correo solamente?"
 published: true
 weight: 8
 section: "voting-basics"
 priority: "Minor"
 ---
-Under California law, if you live in a precinct with 250 or fewer registered voters, then you may receive vote-by-mail ballots and not have the option to vote in person at the polls on Election Day.  
+Bajo la ley de California, si usted vive en un distrito electoral con 250 o menos votantes registrados, entonces puede recibir las boletas de votación por correo y no tiene la opción de votar en persona en los centros de votación el Día de las elecciones. 
 
-Check [How do I vote by mail?](#menu-item-vote-by-mail) for directions.
+Consulte [¿Cómo voto por correo?](#menu-item-vote-by-mail) para obtener más información.

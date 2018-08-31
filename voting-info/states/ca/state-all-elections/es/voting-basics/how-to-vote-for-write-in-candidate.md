@@ -1,15 +1,15 @@
 ---
-title: "How do I write in a candidate?"
+title: "¿Cómo anoto un candidato?"
 published: true
 weight: 17
 section: "voting-basics"
 priority: "Minor"
 ---
 
-- Each race has a blank spot with a line drawn on it for a write-in candidate.
-- Mark the spot beside the line as if you were voting for a candidate whose name is printed on the ballot.
-- Write the name of the candidate you wish to vote for on the line.
-- Each county publishes a list of qualified write-in candidates.  
-	The list will be available at your polling place and the [county elections office](http://www.sos.ca.gov/elections/voting-resources/county-elections-offices).  
-- If you write in the name of a qualified write-in candidate, your vote will be counted.
-- A vote for someone who is not on the qualified candidate list will not be counted.
+- Cada contienda tiene un reglón en blanco con una línea para un candidato que no figura en la boleta pero por el cual se puede votar escribiendo su nombre.
+- Marque el recuadro al lado de la línea como si estubiese votando por un candidato cuyo nombre aparece en la boleta.
+- Escriba el nombre del candidato que desea votar en la línea en blanco.
+- Cada condado publica una lista de los candidatos calificados por los cuales puede votar.  
+	La lista estará disponible en su centro de votación y en [la oficina electoral del condado](http://www.sos.ca.gov/elections/voting-resources/county-elections-offices).  
+- Si escribe el nombre de un candidato calificado que no figura en la boleta pero por el cual se puede votar escribiendo su nombre, se contará su voto.
+- Un voto para alguien que no se encuentra en la lista de candidatos calificados no se contará.
