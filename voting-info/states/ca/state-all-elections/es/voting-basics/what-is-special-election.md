@@ -1,9 +1,9 @@
 ---
-title: "What is a special election?"
+title: "¿Qué es una elección especial?"
 published: true
 weight: 18
 section: "voting-basics"
 priority: "Minor"
 ---
 
-A special election happens when an elected official has left the office before the end of the term. This usually happens when the official dies or has resigned from the office.
+Una elección especial ocurre cuando un funcionario ha abandonado la oficina antes del final del período. Esto por lo general ocurre cuando el funcionario fallece o ha renunciado a la oficina.

@@ -1,10 +1,10 @@
 ---
-title: "What is a recall election?"
+title: "¿Qué es una elección reconvocada?"
 published: true
 weight: 19
 section: "voting-basics"
 priority: "Minor"
 ---
-A recall election decides whether or not an elected official will be removed from the elected job, and who will replace that official.   
+Una elección reconvocada decide si un funcionario elegido será removido o no del trabajo elegido, y quién reemplazará a dicho funcionario.  
 
-For more information visit [Recall Elections](http://www.sos.ca.gov/elections/prior-elections/statewide-election-results/statewide-special-election-october-7-2003/frequently-asked-questions/#1).   
+Para obtener más información, visite [Reconvocar a elecciones](http://www.sos.ca.gov/elections/prior-elections/statewide-election-results/statewide-special-election-october-7-2003/frequently-asked-questions/#1).   
