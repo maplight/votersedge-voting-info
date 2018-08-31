@@ -5,7 +5,7 @@ weight: 2
 section: "important-dates-deadlines"
 priority: "Minor"
 ---
-La fecha límite para presentar la solicitud de inscripción del elector es **a más tardar el lunes 21 de mayo.**  
+La fecha límite para presentar la solicitud de inscripción del elector es **a más tardar el lunes 22 de octubre.**  
 
 Es importante que llene por completo su solicitud de inscripción del elector y:  
 	•	la presente en línea antes de la medianoche, 15 días antes de la elección  

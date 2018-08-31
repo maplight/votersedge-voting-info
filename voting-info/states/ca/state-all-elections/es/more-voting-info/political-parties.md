@@ -1,26 +1,26 @@
 ---
-title: "Information about political parties"
+title: "Información sobre los partidos políticos"
 published: true
 weight: 4
 section: "more-voting-info"
 priority: "Minor"
 ---
-**What is a political party?**  
+**¿Qué es un partido político?**  
 
-A political party is a group of people who try to determine public policy and influence government by getting its candidates elected to office.  
+Un partido político es un grupo de personas que tratan de determinar la política pública e influir en el gobierno al lograr que se elijan sus candidatos para los puestos públicos. 
 
-**What is a “qualified political party?”**  
-- A qualified political party is entitled to participate in any primary election or presidential general election.  
-- A political group may qualify as a party in one of two ways: voter registration or petition.  
-    - With the voter registration method, the Secretary of State must be able to verify that the political party obtained voter registrations equal in number to .33 percent of the total registration, by the qualification deadline.  
-    - With the petition method, the petition submitted to the secretary of state must have signatures of registered voters equal to 10 percent of the votes cast at the last gubernatorial election. The current requirement is 751,398 signatures.  
+**¿Qué es un “partido político calificado”?**  
+- Un partido político calificado tiene derecho a participar en cualquier elección primaria o elección general presidencial. 
+- Un grupo político puede calificar como un partido en una de estas dos formas: petición o inscripción de votantes.  
+    - Con el método de inscripción de votantes, el Secretario de Estado debe poder verificar que el partido político obtuvo inscripciones de votantes igual en número al .33 por ciento de la inscripción total, antes de la fecha límite de calificación.
+    - Con el método de petición, la petición presentada a la secretaria de estado debe tener las firmas de votantes inscritos que equivalgan al 10 por ciento de los votos emitidos en la última elección para gobernador.  
 
-**What are the qualified political parties in California?**  
-- American Independent Party  
-- Democratic Party  
-- Green Party  
-- Libertarian Party  
-- Peace and Freedom Party  
-- Republican Party  
+**¿Cuáles son los partidos políticos calificados en California?**  
+- Partido Independiente Estadounidense  
+- Partido Demócrata 
+- Partido Verde
+- Partido Libertario
+- Partido Paz y Libertad 
+- Partido Republicano  
 
-For more information, visit the [California Secretary of State](http://www.sos.ca.gov/elections/political-parties/qualified-political-parties/).  
+Para obtener más información, visite la [Secretaria de Estado de California](http://www.sos.ca.gov/elections/political-parties/qualified-political-parties/).  
