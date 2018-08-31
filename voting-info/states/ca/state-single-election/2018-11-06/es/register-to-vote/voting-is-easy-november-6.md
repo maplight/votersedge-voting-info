@@ -11,7 +11,7 @@ priority: "Minor"
 
 - Usted es elegible para votar si es un ciudadano de los Estados Unidos de 18 años de edad o mayor.
 - Debe inscribirse para ser parte de la lista oficial de votantes de su condado.  
-  La fecha límite para inscribirse para votar en las elecciones es **a más tardar el martes 21 de mayo**.
+  La fecha límite para inscribirse para votar en las elecciones es **a más tardar el martes 22 de octubre**.
 - Puede recoger un formulario de inscripción de votante en su biblioteca u oficina postal, solicitar que le llegue por correo llamando al 1-800-232-8682 o llenar el formulario en línea en [www.registertovote.ca.gov](http://registertovote.ca.gov//).
 - Es importante llenar toda la información del formulario. Se le pedirá que incluya el número de su licencia de manejo o de otra identificación.
 - Ya que esté en la lista, solamente deberá volver a registrarse si cambia de domicilio o de nombre, o si desea cambiar su partido político.  
@@ -33,7 +33,7 @@ Encuentre su [lugar de votación y boleta electoral](#section-my-polling-place).
 - Usted elige si desea votar en su lugar de votación o utilizar una boleta electoral “por correo”.
 - Para votar en persona, los lugares de votación están abiertos de 7 a. m. a 8 p. m.  Es posible que también pueda votar antes del día de las elecciones en la oficina electoral de su condado.  
 	Si ya se inscribió y su nombre no aparece en la lista de electores en el lugar de votación que se le asignó, puede votar utilizando una “boleta electoral provisional”.
-- Para votar por correo, utilice el formulario que se encuentra en su muestra de boleta electoral para solicitar que se le envíe una boleta electoral “por correo”.  La fecha límite para solicitarla es el **lunes 29 de mayo**.  Cuando reciba su boleta electoral “por correo”, llénela y regrésela por correo postal a tiempo para que lleve un matasellos **previo al** día de las elecciones.  También puede entregarla en cualquier lugar de votación de su condado el día de las elecciones.  Puede registrarse para recibir una boleta electoral “por correo” para todas las elecciones.
+- Para votar por correo, utilice el formulario que se encuentra en su muestra de boleta electoral para solicitar que se le envíe una boleta electoral “por correo”.  La fecha límite para solicitarla es el **lunes 30 de octubre**.  Cuando reciba su boleta electoral “por correo”, llénela y regrésela por correo postal a tiempo para que lleve un matasellos **previo al** día de las elecciones.  También puede entregarla en cualquier lugar de votación de su condado el día de las elecciones.  Puede registrarse para recibir una boleta electoral “por correo” para todas las elecciones.
 
 Para obtener más información, consulte [Formas de votar](#section-ways-to-vote).
 
