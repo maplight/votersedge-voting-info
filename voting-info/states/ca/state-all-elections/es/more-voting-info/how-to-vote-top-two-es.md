@@ -1,33 +1,32 @@
 ---
-title: "How to vote in the California Top Two Primary"
+title: "Cómo votar en la primaria de los dos principales candidatose de California"
 published: true
 weight: 7
 section: "more-voting-info"
 priority: "Minor"
 ---
 
-Certain candidates in California are elected in a “Top-Two Primary.” These include candidates for:  
-- U.S. Senate  
-- U.S. Representative  
-- State Senate  
-- State Assembly  
-- Governor and Lt. Governor  
-- Treasurer  
-- Secretary of State  
-- Attorney General  
-- Controller  
-- Insurance Commissioner  
-- Board of Equalization  
+Algunos candidatos de California se eligen en una “Primaria de los dos principales candidatos” (Top-Two Primary). Estas incluyen candidatos para: 
+- Senador de los EE.UU.  
+- Representante de los EE.UU. 
+- Senador Estatal  
+- Miembros de la Asamblea Estatal  
+- Gobernador y Vice Gobernador  
+- Tesorero 
+- Secretario del Estado
+- Fiscal General
+- Contralor 
+- Comisionado de Seguros  
+- Mesa de Ecualización Estatal  
 
-In a Top-Two Primary, you can cast your vote for any candidate.  
-- All candidates from all parties will be on the ballot for these contests.  
-- You don’t have to be registered with a party to vote on these contests.  
-- You can vote for a candidate from any party.  
-- You can “write in” a candidate in the Primary Election.  
-- The two candidates with the most votes will appear on the General Election ballot even if they have the same party preference.  
+En una Primaria de los dos principales candidatos, puede votar por cualquier candidato.
+- Todos los candidatos de todos los partidos estarán en la boleta para estas contiendas. 
+- No tiene que estar registrado en un partido para votar en estas contiendas.
+- Puede votar para un candidato de cualquier partido. 
+-  Puede “anotar” el nombre de un candidato que no figura en la boleta en la Elección primaria. 
+- Los dos candidatos con más votos aparecerán en la boleta de la Elección general, incluso si tienen la misma preferencia de partido.
 
-**Nonpartisan offices:** Judges, County Supervisor, other County and Municipal offices, and the Superintendent of Public Instruction are always open to all eligible voters.  
+**Oficinas no partidistas** Los Jueces, el Supervisor del Condado, otras oficinas del Condado y Municipales, y el Superintendente de Instrucción Pública siempre están disponibles para todos los votantes elegibles.  
 
-**What does party preference mean?**  
-Voters may either register with a political party preference or choose "none."
-A candidate's party preference does not necessarily mean that they have that political party's support. The list of candidates who receive a party's official endorsement (support) is in the county Voter Information Guide.  
+**¿Qué significa preferencia de partido?**  
+Los votantes pueden registrarse ya sea con una preferencia de partido político o elegir la opción “ninguno”. La preferencia de partido de un candidato no necesariamente significa que tengan el apoyo de dicho partido político. La lista de candidatos que reciben el endoso oficial de un partido (apoyo) se encuentra en la Guía de información para el votante del condado.  

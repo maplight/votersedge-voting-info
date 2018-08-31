@@ -1,8 +1,8 @@
 ---
-title: "Voter registration drives"
+title: "Eventos para registrar votantes"
 published: true
 weight: 13
 section: "more-voting-info"
 priority: "Minor"
 ---
-Visit the California Secretary of State's [Guide to Voter Registration Drives.](http://elections.cdn.sos.ca.gov/guides/guide-to-vr-drives.pdf)
+Visite la [Guía de la Secretaria de Estado de California](http://elections.cdn.sos.ca.gov/guides/guide-to-vr-drives.pdf) para las Eventos para registrar votantes.

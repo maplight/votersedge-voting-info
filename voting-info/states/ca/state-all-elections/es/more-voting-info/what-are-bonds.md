@@ -1,28 +1,28 @@
 ---
-title: "What are bonds?"
+title: "¿Qué son los bonos?"
 published: true
 weight: 12
 section: "more-voting-info"
 priority: "Minor"
 ---
 
-**What are bonds?**  
+**¿Qué son los bonos?**  
 
-Bonds are a form of long-term borrowing that the state uses to raise money for large projects. The state sells bonds to investors and agrees to repay the investors, with interest, over a certain number of years, somewhat like a mortgage.  
+Los bonos son una forma de endeudamiento a largo plazo que el Estado utiliza para recaudar dinero para grandes proyectos. El Estado vende bonos a los inversores y se compromete a pagarles, con intereses, durante un cierto número de años, algo así como una hipoteca. 
 
-**Why are bonds used?**  
+**¿Para qué se usan los bonos?**  
 
-Projects such as roads, school building, prisons, parks, office buildings, and housing for veterans involve large dollar costs, and are used over many years.  The use of bonds helps to fund the initial large dollar costs, which are hard to fund out of day-to-day operating revenues.  Also the repayment of these bonds over time means that future taxpayers who benefit from the facilities will help to pay for them.  
+Proyectos como carreteras, edificios escolares, prisiones, parques, edificios de oficinas y viviendas para veteranos que implican grandes costos en dólares y se utilizan durante muchos años. El uso de bonos ayuda a financiar los grandes costos iniciales en dólares, que son difíciles de financiar con los ingresos operativos diarios. Además, el reembolso de estos bonos a través del tiempo significa que los futuros contribuyentes que se benefician de las instalaciones ayudarán a pagarlos.
 
-**What types of bonds does the state sell?**  
+**¿Qué tipos de bonos vende el Estado?**  
 
-- General Obligation Bonds  
-	These are the most common type of bonds, and are largely repaid from the state's unrestricted general tax revenues. These bonds have to be approved by the voters, and their repayment is guaranteed by the state.  
-- Revenue Bonds  
-	These are repaid from a designated source, such as bridge tolls. Revenue bonds do not require voter approval and repayment is not guaranteed by the state.  
-- Lease-Revenue Bonds  
-	There are repaid from lease payments by state agencies using the leased facilities. Lease-Revenue bonds do not require voter approval and repayment is not guaranteed by the state.  
+- Bonos de obligación general 
+	Estos son los tipos de bonos más comunes, y en gran medida se amortizan con los ingresos fiscales generales no restringidos del Estado. Los votantes deben aprobar estos bonos y su reembolso está garantizado por el Estado.
+- Bonos de ingresos  
+	Estos se reembolsan desde una fuente designada, como los peajes de los puentes. Los bonos de ingresos no requieren la aprobación de los votantes y el reembolso no está garantizado por el Estado.
+- Bonos de ingreso por arrendamiento  
+	Se reembolsan a partir de los pagos de arrendamiento por agencias estatales que usan las instalaciones arrendadas. Los bonos de ingreso por arrendamiento no requieren la aprobación de los votantes y el reembolso no está garantizado por el Estado. 
 
-**What are the direct costs of bond financing?**  
+**¿Cuáles son los costos directos del financiamiento por bonos?**  
 
-The state must repay the principal of the bonds over time to the investors until the bonds are fully paid off, plus annual interest costs. The interest cost of repaying bonds depends on the current interest rate and the time period over which the bonds are to be repaid.  
+El Estado debe devolver el capital de los bonos a los inversores a lo largo del tiempo hasta que estén totalmente saldados, además de los costos de intereses anuales. El costo de interés de pagar los bonos depende de la tasa de interés actual y el período de tiempo durante el cual los bonos se deben reembolsar. 
