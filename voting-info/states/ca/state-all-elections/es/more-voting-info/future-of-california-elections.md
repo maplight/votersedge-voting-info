@@ -1,11 +1,11 @@
 ---
-title: "Future of California Elections"
+title: "Futuro de las elecciones de California"
 published: true
 weight: 13
 section: "more-voting-info"
 priority: "Minor"
 ---
-The [Future of California Elections](http://futureofcaelections.org/) (FoCE) is a collaboration between election officials, civil rights organizations and election reform advocates to examine and address the unique challenges facing the State of California’s election system.  
+[El Futuro de las elecciones de California](http://futureofcaelections.org/) (FoCE, siglas en inglés) es una colaboración entre los funcionarios electorales, las organizaciones de derechos civiles y los defensores de la ley de reforma para examinar y abordar los desafíos únicos que enfrenta el sistema electoral del Estado de California.
 
-Visit the [Voter Experience Index](http://futureofcaelections.org/vei/).  
-This informative set of tools was developed to improve the voter experience. It is a collection of research, publications and “how-to” guides produced by members of Future of California Elections and partners.  
+Visite el [Índice de experiencia del votante](http://futureofcaelections.org/vei/).  
+Este conjunto informativo de herramientas se desarrolló para mejorar la experiencia del votante. Es una colección de investigación, publicaciones y guías de “cómo hacer” producida por los miembros de Futuro de las elecciones de California y asociados.
