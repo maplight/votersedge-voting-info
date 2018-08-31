@@ -1,18 +1,18 @@
 ---
-title: "Where do I vote if I am registered but moved within California?"
+title: "¿Dónde voto si me registré pero me mudé dentro de California?"
 published: true
 weight: 6
 section: "voting-basics"
 priority: "Minor"
 ---
-If you moved on or before the registration deadline, which is 15 days prior to the election, then you should re-register at your new address. Check [How do I register to vote?](#menu-item-how-do-i-register-to-vote)  
+Si se mudó antes o sobre la fecha límite de registro, que es 15 días antes de la elección, debe volver a registrarse en su nueva dirección. Consulte [¿Cómo me registro para votar?](#menu-item-how-do-i-register-to-vote)  
 
-**I moved within the same county:**  
-- If you moved within 14 days before the election you can vote at the polling place for your old address.  
-- You may vote a [provisional ballot](#menu-item-what-is-a-provisional-ballot) at your new [polling place](#section-my-polling-place) or at the [county elections office](#section-election-office-contact).  
-You will need to fill out a written confirmation that you’re eligible to vote and registered in the county where you’re voting.  
-- If you moved to an address that is assigned to the same polling location as your old address, then no matter when you moved you may vote at that location. However, you **must** confirm your change of address at the polling place.  
+**Me mudé dentro del mismo condado:**  
+- Si se mudó dentro de los 14 días anteriores a la elección, puede votar en el centro de votación para su antigua dirección.
+- Puede usar [una boleta provisional](#menu-item-what-is-a-provisional-ballot) en su nuevo [lugar de votación ](#section-my-polling-place) o en la [oficina electoral del condado](#section-election-office-contact).  
+Tendrá que completar una confirmación por escrito de que es elegible para votar y que está registrado en el condado donde está votando. 
+- Si se ha mudado a una dirección que se asigna al mismo lugar de votación de su antigua dirección, entonces no importa cuando se mudó puede votar en ese lugar. No obstante, **debe confirmar** su cambio de domicilio en el centro de votación.
 
-**I moved to a new county:**  
-- If you moved within 14 days before the election you can vote at the polling place for your old address.  
-- If you moved on or before the registration deadline, which is 15 days prior to the election, then you **must** re-register at your new address in order to vote at the upcoming election. Check [How do I register to vote?](#menu-item-how-do-i-register-to-vote)  
+**Me mudé a un nuevo condado:**  
+- Si se mudó dentro de los 14 días anteriores a la elección, puede votar en el centro de votación de su antigua dirección. 
+- Si se mudó antes o sobre la fecha límite de registro, que es 15 días antes de la elección, entonces **debe volver a registrarse** en su nueva dirección a fin de votar en las próximas elecciones. Consulte [¿Cómo me registro para votar?](#menu-item-how-do-i-register-to-vote)  

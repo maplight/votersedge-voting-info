@@ -1,43 +1,43 @@
 ---
-title: "How do I vote if I have disabilities?"
+title: "¿Cómo voto si tengo alguna discapacidad?"
 published: true
 weight: 9
 section: "voting-basics"
 priority: "Minor"
 ---
 
-Disability Rights California (DRC) will operate a [toll-free hotline](https://drive.google.com/file/d/0B0h2E_kd8S-LY0VuMjIyMzlRR21tMEs3OVpMRjlxdTRBTF9B/view?usp=sharing) on Election Day for voters with disabilities. The service is designed to help those who have difficulty accessing polling places, casting ballots or simply have questions about voting. **The toll-free number for voice calls is 888-569-7955. The statewide number for video calls is 800-719-5798.**  
+La Disability Rights California (DRC, siglas en inglés) ofrecerá [un número de teléfono gratuito](https://drive.google.com/file/d/0B0h2E_kd8S-LY0VuMjIyMzlRR21tMEs3OVpMRjlxdTRBTF9B/view?usp=sharing) el Día de las elecciones para los votantes con discapacidades. El servicio está diseñado para ayudar a aquellos que tienen dificultades para acceder a los centros electorales, emitir boletas o simplemente tienen preguntas sobre la votación. **El número gratuito para llamadas es 888-569-7955. El número estatal para llamadas de video es 800-719-5798.**  
 
-**Accessible information**  
+**Información accesible**  
 
-The state [Official Voter Information Guide](http://voterguide.sos.ca.gov/) that is mailed to each registered voter is available in a downloadable MP3 [audio version](http://www.sos.ca.gov/elections/voting-resources/voters-disabilities/), audio cassettes, in American Sign Language, and in large print. You may call (800) 345-8683 to request these versions.  
+[La Guía oficial de información para el votante del estado](http://voterguide.sos.ca.gov/) que se envía por correo a cada votante registrado está disponible en [una versión de audio MP3 para descargar](http://www.sos.ca.gov/elections/voting-resources/voters-disabilities/), , casetes de audio, en el lenguaje de señas estadounidense y en letra grande. Puede llamar al (800) 345-8683 para solicitar cualquiera de estas versiones.
 
-The California Secretary of State also maintains a Voter Hotline for voters who are deaf, hard of hearing, or speech-impaired at: (800) 833-8683 - TTY/TDD  
+La Secretaria de Estado de California también mantiene un número de teléfono para votantes sordos, con dificultades auditivas, o del habla en: (800) 833-8683 - TTY/TDD
 
-**Accessible voting places**  
+**Centros de votación accesibles**  
 
-Before each election, registered voters are notified as to whether or not their polling places are accessible. This notification appears on the Sample Ballot mailed by your county. 
+Antes de cada elección, se les notifica a los votantes registrados si sus centros de votación son accesibles o no. Esta notificación aparece en la Boleta de muestra que envía por correo su condado. 
 
-**Signing in at the polling place**  
+**Firmar en el centro de votación**  
 
-[You can vote even if you can't sign your name](http://www.disabilityrightsca.org/pubs/547301.pdf)!  
+[¡Puede votar incluso si no puede firmar su nombre!](http://www.disabilityrightsca.org/pubs/547301.pdf)!  
 
-**Accessible voting machines**  
+**Máquinas para votar accesibles**  
 
-Each polling place must have one voting machine that allows voters, including those who are blind or visually impaired, to cast a ballot without assistance.  
+Cada centro electoral debe tener una máquina de votación que permite a los votantes, incluyendo los que son ciegos o con alguna dificultad visual, a emitir su voto sin ayuda.
 
-The voting machine permits voters to privately and independently verify vote choices and, if there is an error, allows them to correct those choices before submitting their final ballot.  
+La máquina de votación permite a los votantes votar en privado y verificar las opciones de voto de forma independiente y, si existe un error, les permite corregir dichas opciones antes de presentar su boleta final.
 
-**Voting Assistance**  
+**Ayuda para votar**  
 
-You may choose up to two people to help in the polling place. However, the person who provides assistance may not be:  
-- Your employer or someone who works for your employer; or  
-- Your labor union leader or someone who works for your labor union.  
+Puede elegir un máximo de dos personas para que lo ayuden en el centro de votación. No obstante, la persona que brinde ayuda no puede ser:
+- Su empleador o alguien que trabaja para su empleador; o  
+- Su líder sindical o alguien que trabaja para su sindicato. 
 
-**Curbside voting**  
+**Votación en la acera**  
 
-Poll workers must provide curbside voting for voters with disabilities who need this assistance. Parking for curbside voting will be provided as close as possible to the voting area.   
+Los trabajadores electorales deben proporcionar la opción de votar en la acera para los votantes con discapacidades que necesitan esta ayuda. Se proporcionará el estacionamiento para la votación en la acera tan cerca de el área de votación como sea posible.
 
-A poll worker will bring the list to sign, the ballot, and other required materials to the voter’s car.  The poll worker will take everything back into the polling place and put the ballot in the ballot box or scanner.  
+Un trabajador electoral llevará al automóvil del votante la lista para firmar, la boleta y los demás materiales requeridos. El trabajador electoral se llevará todo de nuevo hacia el centro de votación y colocará la boleta en la caja para boletas o un escáner.
 
-For more information check [Rights of voters with disabilities](#menu-item-rights-of-voters-with-disabilities).  
+Para obtener más información, consulte [Derechos de los votantes con discapacidades](#menu-item-rights-of-voters-with-disabilities).  
