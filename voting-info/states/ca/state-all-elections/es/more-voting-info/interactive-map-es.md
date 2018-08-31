@@ -1,9 +1,9 @@
 ---
-title: "Interactive map of County Elections Offices"
+title: "Mapa interactivo de las oficinas electorales del condado"
 published: true
 weight: 3
 section: "more-voting-info"
 priority: "Minor"
 ---
 
-Check out this [interactive map](http://www.sos.ca.gov/elections/map/) providing contact info and quick stats on your county’s elections.  
+Consulte este [mapa interactivo ](http://www.sos.ca.gov/elections/map/) que proporciona información de contacto y datos resaltantes sobre las elecciones de su condado.
