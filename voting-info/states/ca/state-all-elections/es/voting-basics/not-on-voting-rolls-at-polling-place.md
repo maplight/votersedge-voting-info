@@ -5,4 +5,4 @@ weight: 3
 section: "voting-basics"
 priority: "Minor"
 ---
-Si su nombre no aparece en la lista de votantes registrados en su centro de votación, tiene derecho a votar utilizando una boleta provisional. Para obtener más información, consulte [¿Qué es una boleta provisional](#menu-item-what-is-a-provisional-ballot)
+Si su nombre no aparece en la lista de votantes registrados en su centro de votación, tiene derecho a votar utilizando una boleta provisional. Para obtener más información, consulte [¿Qué es una boleta provisional](#menu-item-¿Qué-es-una-boleta-provisional?)
