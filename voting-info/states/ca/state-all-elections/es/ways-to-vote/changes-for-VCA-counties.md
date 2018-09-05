@@ -15,12 +15,12 @@ Si vive en **los condados de Madera, Napa, Nevada, Sacramento o San Mateo**, hay
   - depositarla en alguno de los buzones para boletas electorales, o    
   - votar en persona en un Centro de Votación.    
 
-¡Busque su Centro de Votación o la ubicación de un buzón para boletas electorales [aquí](http://www.sos.ca.gov/elections/upcoming-elections/statewide-direct-primary-june-5-2018/early-voting-and-vote-mail-drop-locations/)!  
+¡Busque su Centro de Votación o la ubicación de un buzón para boletas electorales [aquí](http://www.sos.ca.gov/elections/voters-choice-act/vca-counties/)!  
 
 (Es posible que otros condados implementen este sistema a partir de 2020).    
 
 Para recibir la boleta electoral por correo, deberá inscribirse antes de la fecha límite, es decir, 15 días antes de la elección. La fecha límite de inscripción para las elecciones primarias del martes 5 de junio es el lunes 21 de mayo.    
 
-¿Expiró el plazo? Todavía puede inscribirse y votar en un Centro de Votación y puede hacerlo desde ahora hasta el día de las elecciones. Si requiere más información sobre la inscripción del elector en el mismo día, revise la sección ["¿Expiró el plazo de inscripción del elector? ¡Todavía puede inscribirse y votar!"](#menu-item-missed-the-voter-registration-deadline-you-can-still-register-and-vote)   
+¿Expiró el plazo? Todavía puede inscribirse y votar en un Centro de Votación y puede hacerlo desde ahora hasta el día de las elecciones. Si requiere más información sobre la inscripción del elector en el mismo día, revise la sección ["¿Expiró el plazo de inscripción del elector? ¡Todavía puede inscribirse y votar!"](#menu-item-¿Expiró-el-plazo-de-inscripción-del-elector?-¡Todavía-puede-inscribirse-para-votar!)   
 
-Si desea más información sobre los cambios electorales, revise la sección [Elecciones de votación flexible](#menu-item-voters-choice-elections-big-changes-in-madera-napa-nevada-sacramento-and-san-mateo-counties).   
+Si desea más información sobre los cambios electorales, revise la sección [Elecciones de votación flexible](http://www.sos.ca.gov/elections/voters-choice-act/).   
