@@ -8,36 +8,28 @@ priority: "Minor"
 
 _**Note:** If you live in Madera, Napa, Nevada, Sacramento, or San Mateo counties and you are already registered to vote, you will automatically receive your ballot in the mail. Check [Voter’s Choice Elections](#menu-item-voters-choice-elections-big-changes-in-madera-napa-nevada-sacramento-and-san-mateo-counties) for more info._
 
-**Request** a vote-by-mail ballot from your [County Elections Office.](http://www.sos.ca.gov/elections/voting-resources/county-elections-offices/)
+**Request** a vote-by-mail ballot from your [County Elections Office.](#section-election-office-contact)
 
-Make sure that you send in your request so that it’s received by your county elections office _**no later**_ than 7 days before the election by 5 PM.   
+Make sure that you send in your request so that it’s received by your county elections office _**no later**_ than Tuesday, October 30, by 5 PM.   
+
 
 **Follow the directions to fill out your ballot and envelope.**  
-  1. **Mark** your vote-by-mail ballot.  
-  2. **Place** the vote-by-mail ballot in the special envelope provided by your county’s election office.  
-  3. **Fill out** the information on the envelope.  
-	 **Don't forget to sign** the back of the envelope.   
-     **Seal** the envelope.    
-  4. You may have to put **postage** on the envelope.      
-	 Make sure that you use the right amount of postage.    
+- **Mark** your vote-by-mail ballot.  
+- **Place** the vote-by-mail ballot in the special envelope provided by your county’s election office.  
+- **Fill out** the information on the envelope.  
+  **Don't forget to sign** the back of the envelope.  
+  **Seal** the envelope.  
+- You may have to put **postage** on the envelope.  
+  Make sure that you use the right amount of postage.  
 
-**Signature Alert!**
-
-- Your **signature on your Vote-by-Mail return envelope must be the same as the signature on file at the elections office**. If it doesn’t match, your ballot may not be counted.    
-- **If you registered to vote at the DMV or online, the signature will be the one on your Driver’s License or State ID.**    
-- If you’re unsure of which signature you registered with or if your signature has changed, you can always re-register with your updated signature.    
-
-**You can return the ballot:**
-  1. **By mail in the return envelope provided.** Follow the instructions on the envelope, **sign** the envelope, and **mail it** back early to be sure it is received on time. It must be postmarked on or before Election Day.  
-  2. **Drop it off** at a location designated by your county.  
-  3. **Drop it off** at any polling place in your county by 8 pm on Election Day.  
+**Return the ballot:**
+- **By mail** **or**  
+- **Drop it off** at a location designated by your county **or**  
+- **Drop it off** at any polling place in your county by 8 pm on Election Day.  
 
 You can have a relative or person living in your house drop off your vote-by-mail ballot at a polling place on election day. Fill in the information on the return envelope.  
 
 **If you mail your ballot back, don’t delay.**  
+- Your completed vote-by-mail ballot must be **postmarked** on or before **Tuesday, November 6.**
+- Once mailed and postmarked, the ballot must be **received** by the elections office **no later than Friday, November 9.**
 
-Your completed vote-by-mail ballot must be **postmarked** on or before **Election Day.**
-
-Once mailed and postmarked, the ballot must be **received** by the elections office **no later than 3 days after Election Day.**
-
-Check with your [county elections office](#menu-item-contact-county-election-office) for the cost of postage. Many ballots require extra stamps, so be sure to double-check. 
