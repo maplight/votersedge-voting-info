@@ -6,7 +6,7 @@ section: "ways-to-vote"
 priority: "Minor"
 ---
 
-_**Nota**: Si usted vive en los condados de Madera, Napa, Nevada, Sacramento o San Mateo y ya se inscribió para votar, recibirá automáticamente su boleta por correo. Para obtener más información, revise la sección [Elecciones de votación flexible](#menu-item-¡Cambios-importantes-en-los-condados-de-Madera,-Napa,-Nevada,-Sacramento-y-San-Mateo!)._   
+_**Nota**: Si usted vive en los condados de Madera, Napa, Nevada, Sacramento o San Mateo y ya se inscribió para votar, recibirá automáticamente su boleta por correo. Para obtener más información, revise la sección [Elecciones de votación flexible](#menu-item-¡cambios-importantes-en-los-condados-de-madera-napa-nevada-sacramento-y-san-mateo)._   
 
 Solicite una boleta electoral por correo en [la oficina electoral de su condado](http://www.sos.ca.gov/elections/voting-resources/county-elections-offices/).    
 

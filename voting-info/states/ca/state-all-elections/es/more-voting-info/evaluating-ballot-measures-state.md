@@ -16,4 +16,4 @@ priority: "Minor"
 - Si la medida enmienda la Constitución, considere si realmente pertenece a la Constitución.
 - Tenga cuidado con las tácticas de distorsión y comerciales que se basan en la propaganda pero que no dicen nada de importancia sobre de la medida. No se deje engañar por medias verdades. 
 
-Para obtener más información, visite [Datos rápidos sobre las Medidas de ley en la boleta del estado.](http://www.easyvoterguide.org/wp-content/uploads/2016/03/2016-FastFacts-BallotMeasures.pdf).
+Para obtener más información, visite [Datos rápidos sobre las Medidas de ley en la boleta del estado.](http://www.easyvoterguide.org/wp-content/uploads/2011/08/FastFacts-BallotMeasures-SP-v2.pdf).

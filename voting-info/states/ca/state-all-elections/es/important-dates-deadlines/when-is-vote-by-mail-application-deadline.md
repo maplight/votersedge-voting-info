@@ -1,7 +1,10 @@
 ---
 title: "When is vote by mail application deadline?"
-published: false
+published: true
 weight: 2
 section: "important-dates-deadlines"
 priority: "Minor"
 ---
+Su solicitud de votación por correo debe recibirse en la oficina electoral del condado **a más tardar el martes 30 de octubre a las 5 p.m.**  
+  
+Para obtener información detallada, consulte [¿Cómo voto por correo?](#menu-item-¿cómo-voto-por-correo)

@@ -6,4 +6,4 @@ section: "more-voting-info"
 priority: "Minor"
 ---
 
-Visite [Datos rápidos: Presupuesto e impuestos del Estado.](http://www.easyvoterguide.org/wp-content/uploads/2010/09/2016-StateTaxesBudget-EN.pdf).
+Visite [Datos rápidos: Presupuesto e impuestos del Estado.](http://www.easyvoterguide.org/wp-content/uploads/2011/08/FastFacts-TaxesBudget-SP-v2.pdf).

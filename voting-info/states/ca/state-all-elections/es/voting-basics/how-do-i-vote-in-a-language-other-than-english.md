@@ -7,7 +7,7 @@ priority: "Minor"
 ---
 La oficina de la Secretaría del Estado proporciona materiales y ayuda relacionados con la votación en nueve idiomas distintos al inglés.  
 
-Para obtener respuestas a sus preguntas sobre la votación y las elecciones, o para solicitar la entrega por correo de un formulario de inscripción del elector, una solicitud de voto por correo o la [Guía oficial de información para el elector](http://www.voterguide.sos.ca.gov/) en cualquiera de estos idiomas, llame a alguna de las líneas directas para votantes gratuitas que se muestran a continuación.  
+Para obtener respuestas a sus preguntas sobre la votación y las elecciones, o para solicitar la entrega por correo de un formulario de inscripción del elector, una solicitud de voto por correo o la [Guía oficial de información para el elector](http://voterguide.sos.ca.gov/) en cualquiera de estos idiomas, llame a alguna de las líneas directas para votantes gratuitas que se muestran a continuación.  
 
 - (800) 232-VOTA (8682) - español/Spanish  
 - (800) 339-2857 - 中文/chino  

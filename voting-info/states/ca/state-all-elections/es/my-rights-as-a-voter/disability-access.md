@@ -19,6 +19,6 @@ Antes de cada elección, cada elector registrado recibe una notificación sobre 
 La Secretaría de Estado de California aprobó varios sistemas de votación para usarse que permiten que los electores con discapacidades emitan sus votos de forma privada e independiente.
 - Cada lugar de votación debe contar con una máquina para votar que permita a los electores, incluidas las personas ciegas o con problemas de la vista, emitir una boleta electoral sin necesidad de recibir ayuda.  
 	La máquina para votar permite a los electores verificar sus elecciones y, en caso de que exista un error, les permite corregir esas elecciones antes de enviar su boleta electoral definitiva.
-- Los trabajadores electorales deben ofrecer la posibilidad de [votación en la acera](#menu-item-how-do-i-vote-if-i-have-disabilities) para los electores con discapacidades que requieran esta ayuda.  
+- Los trabajadores electorales deben ofrecer la posibilidad de [votación en la acera](#menu-item-¿cómo-voto-si-tengo-alguna-discapacidad) para los electores con discapacidades que requieran esta ayuda.  
 
-Para obtener más información, consulte [¿Cómo puedo votar si tengo alguna discapacidad?](#menu-item-how-do-i-vote-if-i-have-disabilities) y visite [Los derechos de las personas con discapacidades](http://www.disabilityrightsca.org/pubs/PublicationsVoting.htm).
+Para obtener más información, consulte [¿Cómo puedo votar si tengo alguna discapacidad?](#menu-item-¿cómo-voto-si-tengo-alguna-discapacidad) y visite [Los derechos de las personas con discapacidades](http://www.disabilityrightsca.org/pubs/PublicationsVoting.htm).
