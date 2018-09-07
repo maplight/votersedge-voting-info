@@ -25,7 +25,7 @@ Descargue [Prepárese. Conozca sus derechos. Vote.](https://drive.google.com/fil
 
 Descargue **Conozca sus derechos al voto** en once idiomas de [Asian Americans Advancing Justice, California](http://www.advancingjustice-alc.org/know-your-voting-rights/).  
 
-Consulte aquí para obtener más información acerca de los [horarios de la línea de Election Protection](http://www.866ourvote.org/pages/2016-live-hotline-hours-and-dates).  
+Consulte aquí para obtener más información acerca de los [horarios de la línea de Election Protection](http://866ourvote.org/resources/#1524683963356-e1e39d95-b751).  
 
 **[Disability Rights California](http://www.disabilityrightsca.org/pubs/PublicationsVoting.htm)**  
 

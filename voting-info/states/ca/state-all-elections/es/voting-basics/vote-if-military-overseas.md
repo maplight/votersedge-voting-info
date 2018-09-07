@@ -9,7 +9,7 @@ priority: "Minor"
 
 **Reciba y complete** su boleta:  
 Cuando se registró para votar mediante [el registro de votantes en Internet de California](https://registertovote.ca.gov/es/) o utilizando una [Solicitud de Tarjeta Postal Federal](https://www.fvap.gov/uploads/FVAP/Outreach-Materials/FVAP_FPCA.pdf) **(FPCA, siglas en inglés)** tenía la opción de recibir su boleta por correo, fax o correo electrónico. En algunos condados se le puede permitir descargar una boleta por Internet. Revise [la lista del condado ](http://www.sos.ca.gov/elections/voter-registration/military-overseas-voters/) para saber si la descarga es posible.
-- Debe recibir su boleta entre 45 y 30 días antes del Día de las elecciones. Si no recibe una, comuníquese con su [condado](http://www.sos.ca.gov/elections/voter-registration/military-overseas-voters/).  
+- Debe recibir su boleta entre 45 y 30 días antes del Día de las elecciones. Si no recibe una, comuníquese con su [condado](http://www.sos.ca.gov/elections/voting-resources/county-elections-offices/).  
 - Si no recibe una boleta 30 días antes del Día de las elecciones, puede tener la posibilidad de solicitar [la boleta especial federal](https://www.fvap.gov/uploads/FVAP/Forms/fwab2013.pdf) que le permite votar en elecciones federales pero no en las elecciones de California. Consulte con su oficina electoral del condado acerca de esto.
 - **Siga las instrucciones recibidas con su boleta** para completarla. Revise la boleta para asegurarse de que votó por cada candidato que quería votar.
 

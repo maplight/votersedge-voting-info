@@ -34,9 +34,9 @@ priority: "Minor"
 **9. El derecho a hacerles preguntas a los funcionarios electorales sobre los procedimientos de votación** y a observar el proceso electoral. Si la personaa quien le pregunta no puede contestar sus preguntas, tendrá que dirigirlea una persona que le pueda contestar. Si usted estorba, pueden dejar decontestarle.
 
 **10. El derecho a denunciar toda actividad electoral ilegal o fraudulenta** a un funcionario electoral o a la oficina del Secretario de Estado.
-- En la web en **[www.sos.ca.gov](https://www.sos.ca.gov)**
+- En la web en **[www.sos.ca.gov](http://www.sos.ca.gov/elections/)**
 - Por teléfono al **(800) 232-VOTA (8682)**
-- Por email a **elections@sos.ca.gov**
+- Por email a **[elections@sos.ca.gov](mailto:elections@sos.ca.gov)**
 
 Si cree que le negaron cualquierade estos derechos, llame en forma confidencial y sin cargo a la Línea deasistencia al votante del Secretario de Estado al **(800) 232-VOTA (8682)**.  
 

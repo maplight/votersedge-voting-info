@@ -43,7 +43,7 @@ Los Centros de Votación se adaptarán a los electores con dominio limitado del 
 
 ### Lugares de votación accesibles   
 
-Todos los Centros de Votación serán accesibles para las personas con discapacidades. En caso de no contar con uno, los condados que participen en este programa también estarán obligados a conformar un Comité Asesor de Accesibilidad al Voto (Voting Accessibility Advisory Committee, VAAC). El VAAC está conformado por votantes con discapacidades y ayuda durante el proceso de planeación para garantizar que el voto sea accesible. Para saber más sobre las herramientas y los recursos específicos disponibles para las personas con discapacidades, póngase en contacto con [la oficina electoral de su condado](#menu-item-Póngase-en-contacto-con-la-Oficina-de-Elecciones-del-Condado).  
+Todos los Centros de Votación serán accesibles para las personas con discapacidades. En caso de no contar con uno, los condados que participen en este programa también estarán obligados a conformar un Comité Asesor de Accesibilidad al Voto (Voting Accessibility Advisory Committee, VAAC). El VAAC está conformado por votantes con discapacidades y ayuda durante el proceso de planeación para garantizar que el voto sea accesible. Para saber más sobre las herramientas y los recursos específicos disponibles para las personas con discapacidades, póngase en contacto con [la oficina electoral de su condado](http://www.sos.ca.gov/elections/voting-resources/county-elections-offices/).  
 
 Los votantes con discapacidades pueden solicitar una boleta electoral para voto por correo accesible de forma remota. Puede utilizar esta boleta en casa con su propia computadora y tecnologías de apoyo para después imprimirla y enviarla por correo o entregarla.  
 
