@@ -1,5 +1,5 @@
 ---
-title: "Be an Election Day Poll Worker in Sonoma County"
+title: "Be an Election Day Poll Worker in Ventura County"
 published: true
 weight: 2
 section: "more-voting-info"
