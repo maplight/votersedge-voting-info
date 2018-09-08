@@ -15,4 +15,4 @@ Request a one-time vote-by-mail ballot.
 
 -OR-
 
-Become a **permanent vote-by-mail voter** by filling out [this form](https://elections.co.kern.ca.us/elections/forms/permvotebymail.pdf) on the Kern County Elections page.  
+Become a **permanent vote-by-mail voter** by filling out [this form](https://elections.co.kern.ca.us/ElectionInformation/CurrentElectionInformation/ElectionFile?ElectionID=97&ResourceName=votebymail_EN.pdf&ResourceType=pdf) on the Kern County Elections page and selecting the box at the bottom that says "Permanent Vote by Mail."  
