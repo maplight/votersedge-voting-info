@@ -5,7 +5,7 @@ weight: 2
 section: "important-dates-deadlines"
 priority: "Minor"
 ---
-The voter registration application deadline is **no later than Monday, October 22.**  
+In order to vote in the November 6 General Election, you must register to vote **no later than Monday, October 22.**  
 
 It is important that your voter registration application be filled out completely and:  
 - Submitted online no later than midnight on Monday, October 22
