@@ -15,7 +15,7 @@ If you live in **Madera, Napa, Nevada, Sacramento, or San Mateo counties** there
   - Drop it off at any secure Ballot Dropbox, or  
   - Vote in person at a Vote Center.  
 
-Find your Vote Center or Ballot Drop Box location [here](http://www.sos.ca.gov/elections/upcoming-elections/statewide-direct-primary-june-5-2018/early-voting-and-vote-mail-drop-locations/)!  
+Find your Vote Center or Ballot Drop Box location [here](https://www.sos.ca.gov/elections/voters-choice-act/vca-counties/)!  
 
 (Other counties may put this system in place starting in 2020.) 
 
