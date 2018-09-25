@@ -6,7 +6,7 @@ section: "voting-basics"
 priority: "Minor"
 ---
 
-**I damaged, lost, or marked my ballot incorrectly,. What do I do to fix this?**  
+**I damaged, lost, or marked my ballot incorrectly. What do I do to fix this?**  
 
 - You can get a new ballot **as long as you have not already cast (voted) your ballot.**  
 - **If you vote at a polling place** ask a poll worker for a new ballot.  

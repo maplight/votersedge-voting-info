@@ -7,7 +7,7 @@ priority: "Minor"
 ---
 The Secretary of State's office provides voting-related materials and assistance in nine languages other than English.  
 
-For answers to your questions about voting and elections, or to request mail delivery of a voter registration form, vote-by-mail application, or the [Official Voter Information Guide](http://www.voterguide.sos.ca.gov/) in any of these languages, please call one of the toll-free Voter Hotlines shown below.  
+For answers to your questions about voting and elections, or to request mail delivery of a voter registration form, vote-by-mail application, or the [Official Voter Information Guide](http://voterguide.sos.ca.gov/) in any of these languages, please call one of the toll-free Voter Hotlines shown below.  
 
 - (800) 232-VOTA (8682) - español / Spanish  
 - (800) 339-2857 - 中文 / Chinese  
@@ -21,6 +21,6 @@ For answers to your questions about voting and elections, or to request mail del
 
 For more information on in-language voting resources visit the [California Secretary of State](http://www.sos.ca.gov/elections/voting-resources/) and read this handy [Language Assistance Fact Sheet](http://advancingjustice-la.org/sites/default/files/LanguageAssistanceFactSheet.pdf).  
 
-To find out what languages are available in your county, contact your [county elections office](#menu-item-contact-county-election-office). The information is often listed on the county's web site and may also appear on the county voter guide you receive in the mail.  
+To find out what languages are available in your county, contact your [county elections office](#section-election-office-contact). The information is often listed on the county's web site and may also appear on the county voter guide you receive in the mail.  
 
 For more information check [Rights of voters to language assistance.](#menu-item-rights-of-voters-to-language-assistance)  

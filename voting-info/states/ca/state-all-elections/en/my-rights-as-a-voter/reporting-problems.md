@@ -25,7 +25,7 @@ Download [Prepare. Know Your Rights. Vote.](https://drive.google.com/file/d/0B0h
 
 Download **[Know your Voting Rights](https://drive.google.com/file/d/1V_jqLtKIbf3fzlD3RtvvjXeq2TxBX3XX/view)** from [Asian Americans Advancing Justice, California](http://www.advancingjustice-alc.org/know-your-voting-rights/).  
 
-Check [here](http://www.866ourvote.org/) for more information about Election Protection and the [hotline schedule](http://www.866ourvote.org/pages/2016-live-hotline-hours-and-dates).  
+Check [here](http://www.866ourvote.org/) for more information about Election Protection and the [hotline schedule](http://866ourvote.org/resources/#1524683963356-e1e39d95-b751).  
 
 **Disability Rights California**  
 
