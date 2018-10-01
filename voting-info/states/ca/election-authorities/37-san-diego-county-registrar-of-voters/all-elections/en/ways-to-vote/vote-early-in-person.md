@@ -16,4 +16,4 @@ priority: "Minor"
 
 **Weekend hours and drop-off locations:** The Elections Office will be open 8 AM to 5 PM on Saturday, November 3, and Sunday, November 6, for weekend voting.  
 
-**Drop it off** at a secure drop-off location. Visit the [San Diego Elections office website](https://www.sdvote.com/content/rov/en/elections.html) to find locations and hours.
+**Drop it off** at a secure drop-off location. Visit the [San Diego Elections office website](https://www.sdvote.com/content/dam/rov/en/election/2932-Nov18/2932-MBDO-Loc-Eng.pdf) to find locations and hours.

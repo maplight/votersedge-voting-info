@@ -18,7 +18,7 @@ priority: "Minor"
 	
 **-OR-**  
 
-**Drop it off** at a secure drop-off location. Visit the [San Diego Elections Office website](https://www.sdvote.com/content/rov/en/elections.html) to find locations and hours.  
+**Drop it off** at a secure drop-off location. Visit the [San Diego Elections Office website](https://www.sdvote.com/content/dam/rov/en/election/2932-Nov18/2932-MBDO-Loc-Eng.pdf) to find locations and hours.  
 
 **-OR-**
 	
