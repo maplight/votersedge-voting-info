@@ -18,4 +18,6 @@ On Election Day, Tuesday, November 6, all Vote Centers are open from 7 AM to 8 P
 
 Find a Ballot Drop Box or Vote Center at [voterschoice.sos.ca.gov](http://www.sos.ca.gov/elections/voters-choice-act/). 
 
+You can also find Ballot Drop Boxes on the [Napa County Elections website](https://www.countyofnapa.org/2355/Drop-Box-Locations).
+
 For more information about Napa County’s new Voter’s Choice elections visit the [Napa Department of Elections Office](https://www.countyofnapa.org/2121/The-Voters-Choice-Act) online. 

@@ -16,7 +16,9 @@ Your neighborhood polling locations will no longer be open. Instead, you can vot
 
 Find your Vote Center locations and hours:  
 
-- Online at [voterschoice.sos.ca.gov](http://www.sos.ca.gov/elections/voters-choice-act/)    
+- Online at [voterschoice.sos.ca.gov](http://www.sos.ca.gov/elections/voters-choice-act/)  
+
+- Online at the [Napa County Elections Office website](https://www.countyofnapa.org/2354/Vote-Center-Locations)  
 
 - By calling 707-253-4321    
 

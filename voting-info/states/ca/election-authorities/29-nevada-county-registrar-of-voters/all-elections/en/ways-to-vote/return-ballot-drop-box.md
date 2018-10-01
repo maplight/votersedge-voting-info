@@ -16,6 +16,6 @@ priority: "Minor"
 
 On Election Day, Tuesday, November 6, all Vote Centers are open from 7 AM to 8 PM. Ballot Drop Boxes will also close at 8 PM. 
 
-Find a Ballot Drop Box or Vote Center at [voterschoice.sos.ca.gov](http://www.sos.ca.gov/elections/voters-choice-act/). 
+Find a Ballot Drop Box or Vote Center at [voterschoice.sos.ca.gov](http://www.sos.ca.gov/elections/voters-choice-act/) or on the [Nevada County Elections Office website](https://mynevadacounty.com/2583/Vote-Center-Drop-Off-Locations-Nov-6th-E). 
 
 For more information about Nevada County’s new Voter’s Choice elections visit the [Nevada Department of Elections Office](https://www.mynevadacounty.com/2320/Voters-Choice-Act) online.  

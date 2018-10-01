@@ -16,7 +16,9 @@ Your neighborhood polling locations will no longer be open. Instead, you can vot
 
 Find your Vote Center locations and hours:  
 
-- Online at [voterschoice.sos.ca.gov](http://www.sos.ca.gov/elections/voters-choice-act/)    
+- Online at [voterschoice.sos.ca.gov](http://www.sos.ca.gov/elections/voters-choice-act/) 
+
+- On the [San Mateo County Elections Office website](https://www.smcacre.org/sites/main/files/file-attachments/33_eng_vote_center_and_ballot_drop_box_flyer_web.pdf)   
 
 - By calling (650) 312-5222        
 

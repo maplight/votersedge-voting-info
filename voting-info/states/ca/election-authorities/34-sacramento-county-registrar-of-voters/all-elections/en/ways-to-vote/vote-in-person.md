@@ -16,7 +16,9 @@ Your neighborhood polling locations will no longer be open. Instead, you can vot
 
 Find your Vote Center locations and hours:  
 
-- Online at [voterschoice.sos.ca.gov](http://www.sos.ca.gov/elections/voters-choice-act/)    
+- Online at [voterschoice.sos.ca.gov](http://www.sos.ca.gov/elections/voters-choice-act/)
+
+- On the [Sacramento County Elections office website](http://www.elections.saccounty.net/VoteCenters/Pages/Locations-Vote-Centers.aspx).     
 
 - By calling (916) 875-6451        
 
