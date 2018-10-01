@@ -16,7 +16,9 @@ Your neighborhood polling locations will no longer be open. Instead, you can vot
 
 Find your Vote Center locations and hours:  
 
-- Online at [voterschoice.sos.ca.gov](http://www.sos.ca.gov/elections/voters-choice-act/)    
+- Online at [voterschoice.sos.ca.gov](http://www.sos.ca.gov/elections/voters-choice-act/)  
+
+- On the [Nevada County Elections Office website](https://mynevadacounty.com/2583/Vote-Center-Drop-Off-Locations-Nov-6th-E) 
 
 - By calling 530-265-1298      
 
