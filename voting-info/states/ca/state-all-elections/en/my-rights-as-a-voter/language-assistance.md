@@ -15,17 +15,18 @@ Get information about your rights in eleven languages from [Asian Americans Adva
 http://www.advancingjustice-alc.org/know-your-voting-rights/). The materials will help first-time voters, immigrant voters, and limited-English proficient voters exercise their right to vote on Election Day. They have instructions on how to register to vote, how to vote, how to access language assistance in the voting process, and how to handle problems encountered during Election Day, among other subjects.  
 
 [Arabic](http://www.advancingjustice-alc.org/wp-content/uploads/2016/09/KYVR-Arabic.pdf)  
-[Chinese](http://www.advancingjustice-alc.org/wp-content/uploads/2016/09/KYVR-Chinese.pdf)  
+[Chinese](https://www.advancingjustice-alc.org/wp-content/uploads/2018/10/KYVR-November-2018-NON-VCA-FINAL_Mandarin.pdf)
 [English](https://www.advancingjustice-alc.org/wp-content/uploads/2018/09/KYVR-November-2018-NON-VCA-FINAL.pdf)  
+[Farsi](https://www.advancingjustice-alc.org/wp-content/uploads/2018/10/KYVR-November-2018-NON-VCA-FINAL_Farsi-1.pdf)
 [Hindi](http://www.advancingjustice-alc.org/wp-content/uploads/2016/09/KYVR-Hindi.pdf)  
 [Hmong](http://www.advancingjustice-alc.org/wp-content/uploads/2016/09/KYVR-Hmong.pdf)  
 [Japanese](http://www.advancingjustice-alc.org/wp-content/uploads/2016/09/KYVR-Japanese.pdf)  
 [Khmer](http://www.advancingjustice-alc.org/wp-content/uploads/2016/09/KYVR-Khmer.pdf)  
-[Korean](http://www.advancingjustice-alc.org/wp-content/uploads/2016/09/KYVR-Korean.pdf)  
+[Korean](https://www.advancingjustice-alc.org/wp-content/uploads/2018/10/KYVR-November-2018-NON-VCA-FINAL_Korean_Rv1.pdf)  
 [Punjabi](http://www.advancingjustice-alc.org/wp-content/uploads/2016/09/KYVR-Punjabi.pdf)  
-[Spanish](http://www.advancingjustice-alc.org/wp-content/uploads/2016/09/KYVR-Spanish.pdf)  
+[Spanish](https://www.advancingjustice-alc.org/wp-content/uploads/2018/10/KYVR-November-2018-NON-VCA-FINAL_Spanish.pdf)
 [Tagalog](http://www.advancingjustice-alc.org/wp-content/uploads/2016/09/KYVR-Tagalog.pdf)  
 [Thai](http://www.advancingjustice-alc.org/wp-content/uploads/2016/09/KYVR-Thai.pdf)  
-[Vietnamese](http://www.advancingjustice-alc.org/wp-content/uploads/2016/09/KYVR-Vietnamese.pdf)  
+[Vietnamese](https://www.advancingjustice-alc.org/wp-content/uploads/2018/10/KYVR-November-2018-NON-VCA-FINAL_Vietnamese_Rv1.pdf)  
 
 For more information visit the [California Secretary of State](http://www.sos.ca.gov/elections/voting-resources/voting-california).
