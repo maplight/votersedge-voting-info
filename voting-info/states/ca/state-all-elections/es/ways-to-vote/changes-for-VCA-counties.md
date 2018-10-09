@@ -19,7 +19,7 @@ Si vive en **los condados de Madera, Napa, Nevada, Sacramento o San Mateo**, hay
 
 (Es posible que otros condados implementen este sistema a partir de 2020).    
 
-Para recibir la boleta electoral por correo, deberá inscribirse antes de la fecha límite, es decir, 15 días antes de la elección. La fecha límite de inscripción para las elecciones primarias del martes 6 de noviembre es el lunes 22 de octubre.    
+Para recibir la boleta electoral por correo, deberá inscribirse antes de la fecha límite, es decir, 15 días antes de la elección. La fecha límite de inscripción para las elecciones del martes 6 de noviembre es el lunes 22 de octubre.    
 
 ¿Expiró el plazo? Todavía puede inscribirse y votar en un Centro de Votación y puede hacerlo desde ahora hasta el día de las elecciones. Si requiere más información sobre la inscripción del elector en el mismo día, revise la sección ["¿Expiró el plazo de inscripción del elector? ¡Todavía puede inscribirse y votar!"](#menu-item-¿expiró-el-plazo-de-inscripción-del-elector-¡todavía-puede-inscribirse-para-votar)   
 
