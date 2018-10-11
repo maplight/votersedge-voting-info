@@ -10,11 +10,11 @@ priority: "Minor"
 
 **-OR-**  
 
-**Drop it off** between **Monday, October 8**, and **Tuesday, November 6**, at the Orange County Elections Office, 1300 South Grand Ave. Santa Ana, CA 92705. Located in Building C, inside the main entrance and to the left. Visitor parking is available in front of the building. 
+**Drop it off** at any of the Voting Service Centers in Orange County. You can find a full list of Voting Service Center locations on the [Orange County elections office website](https://www.ocvote.com/voting/current-election-info/2018-general-election-info/vote-centers/). 
 
-**Weekdays: Monday through Friday** from 8 AM to 5 PM (May be closed Monday, October 8, for Columbus Day)  
-
-**Also open on Election Day, Tuesday, November 6**, until 8 PM  
+The Centers are open on the following days and times:
+- Oct 27 – Nov 2, 8:00am–5:00pm 
+- Nov 3 – Nov 5, 7:00am–8:00pm    
 
 **-OR-**  
 
