@@ -14,18 +14,18 @@ priority: "Minor"
 Get information about your rights in eleven languages from [Asian Americans Advancing Justice, California](
 http://www.advancingjustice-alc.org/know-your-voting-rights/). The materials will help first-time voters, immigrant voters, and limited-English proficient voters exercise their right to vote on Election Day. They have instructions on how to register to vote, how to vote, how to access language assistance in the voting process, and how to handle problems encountered during Election Day, among other subjects.  
 
-[Arabic](http://www.advancingjustice-alc.org/wp-content/uploads/2016/09/KYVR-Arabic.pdf)  
+[Arabic](https://www.advancingjustice-alc.org/wp-content/uploads/2018/10/KYVR-November-2018-NON-VCA-FINAL_Arabic.pdf)  
 [Chinese](https://www.advancingjustice-alc.org/wp-content/uploads/2018/10/KYVR-November-2018-NON-VCA-FINAL_Mandarin.pdf)
 [English](https://www.advancingjustice-alc.org/wp-content/uploads/2018/09/KYVR-November-2018-NON-VCA-FINAL.pdf)  
 [Farsi](https://www.advancingjustice-alc.org/wp-content/uploads/2018/10/KYVR-November-2018-NON-VCA-FINAL_Farsi-1.pdf)
-[Hindi](http://www.advancingjustice-alc.org/wp-content/uploads/2016/09/KYVR-Hindi.pdf)  
-[Hmong](http://www.advancingjustice-alc.org/wp-content/uploads/2016/09/KYVR-Hmong.pdf)  
+[Hindi](https://www.advancingjustice-alc.org/wp-content/uploads/2018/10/KYVR-November-2018-NON-VCA-FINAL_Hindi.pdf)  
+[Hmong](https://www.advancingjustice-alc.org/wp-content/uploads/2018/10/KYVR-November-2018-NON-VCA-FINAL_Hmong.pdf)  
 [Japanese](http://www.advancingjustice-alc.org/wp-content/uploads/2016/09/KYVR-Japanese.pdf)  
-[Khmer](http://www.advancingjustice-alc.org/wp-content/uploads/2016/09/KYVR-Khmer.pdf)  
+[Khmer](https://www.advancingjustice-alc.org/wp-content/uploads/2018/10/KYVR-November-2018-NON-VCA-FINAL_Khmer.pdf)  
 [Korean](https://www.advancingjustice-alc.org/wp-content/uploads/2018/10/KYVR-November-2018-NON-VCA-FINAL_Korean_Rv1.pdf)  
-[Punjabi](http://www.advancingjustice-alc.org/wp-content/uploads/2016/09/KYVR-Punjabi.pdf)  
+[Punjabi](https://www.advancingjustice-alc.org/wp-content/uploads/2018/10/KYVR-November-2018-NON-VCA-FINAL_Punjabi.pdf) 
 [Spanish](https://www.advancingjustice-alc.org/wp-content/uploads/2018/10/KYVR-November-2018-NON-VCA-FINAL_Spanish.pdf)
-[Tagalog](http://www.advancingjustice-alc.org/wp-content/uploads/2016/09/KYVR-Tagalog.pdf)  
+[Tagalog](https://www.advancingjustice-alc.org/wp-content/uploads/2018/10/KYVR-November-2018-NON-VCA-FINAL_Filipino.pdf)
 [Thai](http://www.advancingjustice-alc.org/wp-content/uploads/2016/09/KYVR-Thai.pdf)  
 [Vietnamese](https://www.advancingjustice-alc.org/wp-content/uploads/2018/10/KYVR-November-2018-NON-VCA-FINAL_Vietnamese_Rv1.pdf)  
 
