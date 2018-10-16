@@ -8,7 +8,8 @@ priority: "Minor"
 
 **You can vote in person starting Monday, October 8, through Election Day, Tuesday, November 6.**  
 
-**Weekdays: Monday through Friday** from 8 AM to 5 PM (May be closed Monday, October 8, for Columbus Day)  
+**Weekdays: Monday through Friday** from 8 AM to 5 PM. 
+**Saturdays: October 27 and November 3,** from 9 AM to 5 PM.
 
 **Also open on Election Day, Tuesday, November 6**, from 7 AM to 8 PM.  
 
