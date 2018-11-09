@@ -22,3 +22,5 @@ The California Secretary of State has approved several voting systems for use th
 - Poll workers must provide curbside voting for voters with disabilities who need this assistance.  
 
 For more information check [How do I vote if I have disabilities?](#menu-item-how-do-i-vote-if-i-have-disabilities) or visit [Disability Rights California](http://www.disabilityrightsca.org/pubs/PublicationsVoting.htm). To learn more about the rights of voters with mental disabilities, read [this guide prepared by the Bazelon Center for Mental Health Law](http://www.bazelon.org/wp-content/uploads/2018/10/2018-Voter-Guide-plain-language-Updated.pdf).
+
+Watch the Center for Independence's video on [Why You Should Vote](https://www.youtube.com/watch?v=FIX1KFGIhvQ&t=2s).
