@@ -7,19 +7,18 @@ priority: "Minor"
 ---
 #### Before Election Day
 > #### Before Election Day
-Both **vote-by-mail** and **early-in-person** voting start Monday, October 8, 2018. (Note that some county elections offices will be closed on October 8 for Columbus Day.)
+Both **vote-by-mail** and **early-in-person** voting start 29 days before Election Day and continue through Election Day. 
 
 #### By Mail  
-> From **Monday, October 8*** through **Election Day, Tuesday, November 6.**  
-> - Your completed vote-by-mail ballot must be **postmarked** on or before **Election Day, Tuesday, November 6.**  
-> - Once mailed and postmarked, the ballot must be **received** by the elections office **no later than Friday, November 9.**  
+> From **29 days before Election Day*** through **Election Day.**  
+> - Your completed vote-by-mail ballot must be **postmarked** on or before **Election Day.**  
+> - Once mailed and postmarked, the ballot must be **received** by the elections office **no later than 3 days after the election.**  
 
 #### Early-in-person  
-> From **Monday, October 8,*** through **Monday, November 5.** Some early voting locations are also open through Election Day. (Note that some county elections offices will be closed on October 8 for Columbus Day.) 
+> From **29 days before Election Day,*** through **the day before Election Day.** Some early voting locations are also open through Election Day. 
 
 #### On Election day  
-> **Tuesday, November 6**, from **7 a.m. to 8 p.m.**  
+> **Election Day**, from **7 a.m. to 8 p.m.**  
 
 For detailed information check [Ways to Vote](#section-ways-to-vote).  
 
-*Monday, October 8, is a holiday, and some election offices may be closed. Check with your [County Elections Office](#section-election-office-contact) to find out whether or not they have locations open.  

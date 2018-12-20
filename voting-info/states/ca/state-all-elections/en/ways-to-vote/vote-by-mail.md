@@ -10,8 +10,7 @@ _**Note:** If you live in Madera, Napa, Nevada, Sacramento, or San Mateo countie
 
 **Request** a vote-by-mail ballot from your [County Elections Office.](#section-election-office-contact)
 
-Make sure that you send in your request so that it’s received by your county elections office _**no later**_ than Tuesday, October 30, by 5 PM.   
-
+Make sure that you send in your request so that it’s received by your county elections office _**no later**_ than 7 days before the election.
 
 **Follow the directions to fill out your ballot and envelope.**  
 - **Mark** your vote-by-mail ballot.  
@@ -30,6 +29,6 @@ Make sure that you send in your request so that it’s received by your county e
 You can have a relative or person living in your house drop off your vote-by-mail ballot at a polling place on election day. Fill in the information on the return envelope.  
 
 **If you mail your ballot back, don’t delay.**  
-- Your completed vote-by-mail ballot must be **postmarked** on or before **Tuesday, November 6.**
-- Once mailed and postmarked, the ballot must be **received** by the elections office **no later than Friday, November 9.**
+- Your completed vote-by-mail ballot must be **postmarked** on or before **Election Day.**
+- Once mailed and postmarked, the ballot must be **received** by the elections office **no later than 3 days after the election.**
 
