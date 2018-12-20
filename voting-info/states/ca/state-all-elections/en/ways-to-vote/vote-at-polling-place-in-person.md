@@ -8,7 +8,7 @@ priority: "Minor"
 
 **How do I vote at the polling place in person?**  
 
-Polling places are open from 7 AM to 8 PM on Tuesday, November 6.  
+Polling places are open from 7 AM to 8 PM on Election Day.  
 
 _[Vote Centers](#menu-item-voters-choice-elections-big-changes-in-madera-napa-nevada-sacramento-and-san-mateo-counties) in Madera, Napa, Nevada, Sacramento, and San Mateo counties are open before Election Day and will also be open from 7 AM to 8 PM on Election Day._
 
