@@ -5,6 +5,6 @@ weight: 2
 section: "important-dates-deadlines"
 priority: "Minor"
 ---
-Su solicitud de votación por correo debe recibirse en la oficina electoral del condado **a más tardar el martes 30 de octubre a las 5 p.m.**  
+Su solicitud de votación por correo debe recibirse en la oficina electoral del condado **a más tardar 7 días antes de las elecciones.**  
   
 Para obtener información detallada, consulte [¿Cómo voto por correo?](#menu-item-¿cómo-voto-por-correo)
