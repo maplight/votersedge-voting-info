@@ -5,6 +5,7 @@ weight: 11
 section: "ways-to-vote"
 priority: "Minor"
 ---
+Polling places are typically open from 7 a.m. to 8 p.m. in multiple locations on **Election Day, Tuesday, March 5**.
 
 Find your polling place:  
 

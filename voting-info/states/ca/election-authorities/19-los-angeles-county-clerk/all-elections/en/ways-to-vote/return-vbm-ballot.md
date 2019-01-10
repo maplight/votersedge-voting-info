@@ -6,7 +6,7 @@ section: "ways-to-vote"
 priority: "Minor"
 ---
 
-**Mail it** to the [Los Angeles County Registrar-Recorder/County Clerk](https://www.lavote.net/home/voting-elections/voting-options/vote-by-mail/how-to-vote-by-mail) **in the return envelope provided.** Follow the instructions on the envelope, **sign** the envelope, and **mail it** back early to be sure it is received on time. It must be postmarked on or before Election Day.  
+**Mail it** to the [Los Angeles County Registrar-Recorder/County Clerk](https://lavote.net/home/voting-elections/voting-options/vote-by-mail/apply-to-vote-by-mail) **in the return envelope provided.** Follow the instructions on the envelope, **sign** the envelope, and **mail it** back early to be sure it is received on time. It must be postmarked on or before Election Day.  
 
 **-OR-**  
 
@@ -18,10 +18,10 @@ priority: "Minor"
 	
 Contact the Norwalk office at (800) 815-2666 or (562) 466-1323 to confirm business hours.  
 
-Offices may be closed Monday, October 8, for Columbus Day.
+Offices may be closed Monday, February 18, for Presidents' Day.
 
 **-OR-**  
 
-**Drop it off** at any polling place in Los Angeles County on **Election Day, Tuesday, November 6**, from 7 AM to 8 PM.  
+**Drop it off** at any polling place in Los Angeles County on **Election Day, Tuesday, March 5**, from 7 AM to 8 PM.  
 
 [Check early voting locations, times, and weekend hours!](https://www.lavote.net/home/voting-elections/voting-options/early-voting)  
