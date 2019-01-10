@@ -6,15 +6,13 @@ section: "important-dates-deadlines"
 priority: "Minor"
 ---
 
-**Antes del día de las elecciones**  
-Tanto la **votación por correo** como **la votación anticipada en persona** comienzan _el lunes 8 de octubre de 2018_.
+**Antes del día de las elecciones**
+La votación anticipada en persona comienza **29 días antes del dia de las elecciones.**  
 
-**Por correo postal**  
-Desde el **lunes 8 de octubre**\* hasta el **día de las elecciones, el martes 6 de noviembre.**
-- Su boleta electoral para voto por correo completada deberá estar **sellada** el **día de las elecciones, o antes.**
-- Una vez enviada por correo y sellada, la boleta electoral deberá **recibirse** en la oficina electoral **a más tardar 3 días de trabajo después del día de las elecciones.**
+**Por correo postal**
+Comenzando **29 días antes del día de las elecciones hasta el día de las elecciones**, su boleta electoral de voto por correo completada **debe ser matasellada el dia de las elecciones, o antes.** Una vez enviada por correo y matasellada, la boleta electoral **debe ser recibido** en la oficina electoral **a más tardar 3 días laborales después del día de las elecciones.**
 
 **Voto anticipado en persona**  
-Desde el **8 de octubre**\* hasta el **lunes 5 de noviembre.** Algunos lugares para votaciones anticipadas también permanecen abiertos el día de las elecciones.
+**Comenzando 29 días antes del día de las elecciones hasta un día antes de las elecciones**, algunos lugares para votación anticipada también permanecerán abiertos el dia de las elecciones.
 
 Para obtener información detallada, consulte la sección [Formas de votar](#section-ways-to-vote).  
