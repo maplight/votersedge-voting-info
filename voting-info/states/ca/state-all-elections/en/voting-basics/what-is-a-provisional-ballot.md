@@ -35,4 +35,4 @@ But any contests and measures that are not also on the ballot at your correct po
 - If the information that the voter has written on the envelope matches, then the ballot is removed from the envelope and counted.  
 
 **Can I check the status of my provisional ballot?**  
-You may contact the [county elections office](http://www.sos.ca.gov/elections/voting-resources/county-elections-offices/) to learn whether your provisional ballot was counted and if it was not counted, the reason why.  
+You may contact your [county elections office](http://www.sos.ca.gov/elections/voting-resources/county-elections-offices/) to learn whether your provisional ballot was counted and if it was not counted, the reason why.
