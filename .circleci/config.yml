@@ -1,0 +1,39 @@
+version: 2
+jobs:
+  build:
+    environment:
+      - BASH_ENV: ~/.bashrc
+    docker:
+      - image: circleci/python:2.7.14
+    steps:
+      - checkout
+      - run:
+          name: Build JSon File
+          command: cd tools/scripts && ./compileJSON.py
+      - run:
+          name: Exit Folder
+          command: cd ../../
+      - run:
+             name: install git
+             command: sudo apt-get update && sudo apt-get upgrade && sudo apt-get install --no-install-recommends -y git
+      - run:
+          name: git commit
+          command: |
+                   if [ -n "$(git status --porcelain)" ]; then
+                          echo "*** Files have been updated. ***";
+                          git add *;
+                          git commit -m "latest voter info updates1";
+                          git push origin master;
+                          echo "*** Files committed to git. ***";
+                    else
+                          echo "*** Files have not changed. Nothing to commit and upload. ***";
+                    fi
+workflows:
+  version: 2
+  build_and_deploy:
+    jobs:
+      - deploy:
+          filters:
+            branches:
+              only:
+                - master
