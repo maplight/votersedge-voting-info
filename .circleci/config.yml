@@ -21,6 +21,8 @@ jobs:
           command: |
                    if [ -n "$(git status --porcelain)" ]; then
                           echo "*** Files have been updated. ***";
+                          git config --global user.name "jagadeeshwaran"
+                          git config --global user.email "jagadeeshwaran.govindaraj@augustasoftsol.com"
                           git add *;
                           git commit -m "latest voter info updates1";
                           git push origin master;
