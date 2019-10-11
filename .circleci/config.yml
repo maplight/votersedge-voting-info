@@ -1,6 +1,6 @@
 version: 2
 jobs:
-  build:
+  deploy:
     environment:
       - BASH_ENV: ~/.bashrc
     docker:
