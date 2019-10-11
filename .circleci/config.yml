@@ -19,9 +19,6 @@ jobs:
       - run:
           name: Exit Folder
           command: cd ../../
-#      - run:
-#             name: install git
-#             command: sudo apt-get update && sudo apt-get upgrade && sudo apt-get install --no-install-recommends -y git
       - run:
           name: git commit
           command: |
@@ -30,7 +27,7 @@ jobs:
                           git config --global user.name "jagadeeshwaran"
                           git config --global user.email "jagadeeshwaran.govindaraj@augustasoftsol.com"
                           git add *;
-                          git commit -m "latest voter info updates1";
+                          git commit -m "latest voter info updates";
                           git push origin master;
                           echo "*** Files committed to git. ***";
                     else
