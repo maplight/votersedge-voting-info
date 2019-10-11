@@ -7,6 +7,12 @@ jobs:
       - image: circleci/python:2.7.14
     steps:
       - checkout
+      -  run:
+            command: sudo apt-get update && sudo apt-get install -qq -y python-pip libpython-dev
+      - run:
+            command: curl -O https://bootstrap.pypa.io/get-pip.py && sudo python get-pip.py
+      - run:
+            command: sudo pip install pyYAML==3.12 awsebcli --upgrade --ignore-installed
       - run:
           name: Build JSon File
           command: cd tools/scripts && ./compileJSON.py
