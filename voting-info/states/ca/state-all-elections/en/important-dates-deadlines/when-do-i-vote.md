@@ -20,5 +20,5 @@ Both **vote-by-mail** and **early-in-person** voting start 29 days before Electi
 #### On Election day  
 > **Election Day**, from **7 a.m. to 8 p.m.**  
 
-For detailed information check [Ways to Vote](#section-ways-to-vote).  
+For more detailed information check [Ways to Vote](#section-ways-to-vote).  
 
