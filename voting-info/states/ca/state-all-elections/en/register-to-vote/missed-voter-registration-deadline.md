@@ -6,11 +6,13 @@ section: "register-to-vote"
 priority: "Minor"
 ---
 
-Even if you missed the voter registration deadline, it isn't too late to vote. To register up to and on Election Day, go to your [county elections office](#section-election-office-contact) or another designated location, and complete three simple steps:  
+Even if you missed the voter registration deadline, it isn't too late to vote. To register up to and on Election Day, go to your [polling location](#section-election-office-contact) and complete three simple steps:  
 
   1. **Register** to vote.  
   2. **Vote.**  
   3. **Seal** your ballot in the provided envelope, and **sign** it.     
+
+You can do this at any polling location, but if you go to the place that you're assigned, then they will be sure to have the ballot with all of your assigned contests. 
 
 This is called Conditional Voter Registration (CVR) or Same-Day Registration. Your vote will be counted after elections officials verify your voter registration and confirm that you have not already voted in this election.  
 
