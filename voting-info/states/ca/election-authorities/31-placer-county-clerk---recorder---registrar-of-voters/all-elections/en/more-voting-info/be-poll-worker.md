@@ -6,4 +6,4 @@ section: "more-voting-info"
 priority: "Minor"
 ---
 
-Check out this great opportunity to help your community while earning extra money: be a Poll Worker in [Placer County](http://www.placerelections.com/become-a-poll-worker.aspx)!  
+Check out this great opportunity to help your community while earning extra money: be a Poll Worker in [Placer County](https://www.placerelections.com/become-a-poll-worker/)!  
