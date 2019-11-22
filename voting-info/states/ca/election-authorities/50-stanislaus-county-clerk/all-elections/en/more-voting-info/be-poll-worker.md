@@ -8,4 +8,4 @@ priority: "Minor"
 
 Check out this great opportunity to help your community while earning extra money: be a Poll Worker in [Stanislaus County](http://www.stanvote.com/polls.shtm)!  
 
-The Stanislaus County elections office is in high demand of poll workers that speak Spanish, Khmer, and Punjabi.
+The Stanislaus County elections office is also actively recruiting bilingual poll workers who can speak Assyrian, Khmer, Punjabi or Spanish to assist voters with language needs on Election Day.

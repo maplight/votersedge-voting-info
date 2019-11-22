@@ -6,4 +6,4 @@ section: "more-voting-info"
 priority: "Minor"
 ---
 
-Check out this great opportunity to help your community while earning extra money: be a Poll Worker in [Santa Barbara County](http://sbcassessor.com/Elections/Pollworker.aspx)!  
+Check out this great opportunity to help your community while earning extra money: be a Poll Worker in [Santa Barbara County](https://countyofsb.org/care/elections/officers/information.sbc)!  

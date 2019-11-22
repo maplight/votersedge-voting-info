@@ -6,4 +6,4 @@ section: "more-voting-info"
 priority: "Minor"
 ---
 
-Check out this great opportunity to help your community while earning extra money: be a poll worker in [Santa Cruz County](http://votescount.com/Home/ElectionOfficerRequestForm.aspx)!
+Check out this great opportunity to help your community while earning extra money: be a poll worker in [Santa Cruz County](https://www.votescount.com/MainMenu/PollWorkers.aspx)!
