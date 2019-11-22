@@ -6,4 +6,4 @@ section: "more-voting-info"
 priority: "Minor"
 ---
 
-Check out this great opportunity to help your community while earning extra money: be a Poll Worker in [Solano County](https://solano-applicant.pwm.clarityelections.com/PostingDetails.aspx?PostingId=2)!  
+Check out this great opportunity to help your community while earning extra money: be a Poll Worker in [Solano County](https://www.solanocounty.com/depts/rov/workers/default.asp)!  

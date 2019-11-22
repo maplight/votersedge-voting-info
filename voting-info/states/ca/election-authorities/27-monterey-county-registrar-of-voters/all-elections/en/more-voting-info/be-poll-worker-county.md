@@ -6,4 +6,4 @@ section: "more-voting-info"
 priority: "Minor"
 ---
 
-Check out this great opportunity to help your community while earning extra money: be a Poll Worker in [Monterey County](https://www.montereycountyelections.us/volunteer-with-elections/)!  
+Check out this great opportunity to help your community while earning extra money: be a Poll Worker in [Monterey County](https://www.montereycountyelections.us/poll-worker-general-information/)!  
