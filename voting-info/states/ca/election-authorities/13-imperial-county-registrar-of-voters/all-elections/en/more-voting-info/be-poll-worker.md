@@ -1,6 +1,6 @@
 ---
 title: "Be an Election Day Poll Worker in Imperial County"
-published: true
+published: false
 weight: 2
 section: "more-voting-info"
 priority: "Minor"
