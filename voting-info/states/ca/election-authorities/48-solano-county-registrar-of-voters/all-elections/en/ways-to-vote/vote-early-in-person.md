@@ -1,6 +1,6 @@
 ---
 title: "How do I vote early in person in Solano County?"
-published: true
+published: false
 weight: 7
 section: "ways-to-vote"
 priority: "Minor"
