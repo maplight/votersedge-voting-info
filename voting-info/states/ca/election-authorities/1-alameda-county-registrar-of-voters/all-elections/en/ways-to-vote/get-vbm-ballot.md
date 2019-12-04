@@ -1,6 +1,6 @@
 ---
 title: "How do I get a vote-by-mail ballot in Alameda County?"
-published: true
+published: false
 weight: 4
 section: "ways-to-vote"
 priority: "Minor"
