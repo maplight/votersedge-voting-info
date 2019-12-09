@@ -1,5 +1,5 @@
 ---
-title: "How do I return my ballot by Drop Box in Amador County?"
+title: "How do I return my ballot by Drop Box in Butte County?"
 published: false
 weight: 8
 section: "ways-to-vote"
