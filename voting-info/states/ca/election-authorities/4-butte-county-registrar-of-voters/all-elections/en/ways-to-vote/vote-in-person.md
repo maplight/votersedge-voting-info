@@ -1,5 +1,5 @@
 ---
-title: "How do I vote in person in Amador County?"
+title: "How do I vote in person in Butte County?"
 published: false
 weight: 9
 section: "ways-to-vote"

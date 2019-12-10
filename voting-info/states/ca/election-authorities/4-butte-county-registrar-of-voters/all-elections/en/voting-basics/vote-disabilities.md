@@ -1,6 +1,6 @@
 ---
 title: "How do I vote in Butte County if I have disabilities?"
-published: true
+published: false
 weight: 10
 section: "voting-basics"
 priority: "Minor"
@@ -13,3 +13,5 @@ priority: "Minor"
 **Accessible Voting Equipment**  
 
 Touch screen voting equipment is available at polling places. Features include a magnification function and audio equipment.  
+
+#### Accessible Voting Information   
