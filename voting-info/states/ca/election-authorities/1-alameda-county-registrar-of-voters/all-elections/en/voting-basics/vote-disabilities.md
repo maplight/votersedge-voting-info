@@ -10,8 +10,10 @@ priority: "Minor"
 
 **Check [online](http://www.acgov.org/rov_app/pollinglist/) or on the back cover** of your Sample Ballot for the wheelchair symbol that shows whether or not your polling place is accessible. "YES" means the voter’s polling place is accessible. "NO" means the voter’s polling place is not accessible.  
 
+A voter who is unable to enter his or her polling place because it is inaccessible may request to be assigned to an accessible polling place by calling (510) 272-6933. Requests must be made no later than two weeks before an election.
+
 #### Accessible Voting Information   
 
-To request a Voter Information Pamphlet in an audio MP3 format (on the website) or on CD format (mailed by request), please call (510) 272-6933.  
+To request a Voter Information Pamphlet in an audio MP3 format (on the website) or on CD format (mailed by request), please call (510) 272-6933. 
 
 For more information about accessibility, visit the [Alameda County Registrar online](https://www.acvote.org/accessibility).
