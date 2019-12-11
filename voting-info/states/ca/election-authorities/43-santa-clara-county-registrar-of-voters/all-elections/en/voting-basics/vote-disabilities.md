@@ -1,6 +1,6 @@
 ---
 title: "How do I vote in Santa Clara County if I have disabilities?"
-published: true
+published: false
 weight: 10
 section: "voting-basics"
 priority: "Minor"
