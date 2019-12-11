@@ -1,11 +1,11 @@
 ---
-title: "Be an Election Day Poll Worker in El Dorado County"
+title: "Be a Vote Center Worker in El Dorado County"
 published: true
 weight: 2
 section: "more-voting-info"
 priority: "Minor"
 ---
 
-Check out this great opportunity to help your community while earning extra money: be a Poll Worker in [El Dorado County](https://www.edcgov.us/Government/Elections/Pages/election_officers.aspx)!  
+Check out this great opportunity to help your community while earning extra money: be a Vote Center worker in [El Dorado County](https://www.edcgov.us/Government/Elections/Pages/Get-Involved-Work-for-Elections.aspx)!  
 
-There is a need for poll workers—specifically Spanish/English bilingual—on the west slope and Tahoe basin, and Tagalog/English in the Tahoe basin. Contact Barbara at (530) 621-7471 if interested.  
+El Dorado County is also seeking Vote Center workers who can speak Spanish or Chinese to assist voters with language needs. 
