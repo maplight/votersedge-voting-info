@@ -6,7 +6,7 @@ section: "ways-to-vote"
 priority: "Minor"
 ---
 
-**Drop it off** at one of 26 secure Ballot Drop Boxes from **Monday, February 3**, through **Election Day, Tuesday, March 3**.  
+**Drop it off** at one of 26 secure Ballot Drop Boxes from **Tuesday, February 4**, through **Election Day, Tuesday, March 3**.  
 
 - No postage is required at Ballot Drop Boxes.  
 
