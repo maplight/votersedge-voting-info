@@ -8,8 +8,8 @@ priority: "Minor"
 
 **Accessible Voting Places**  
 
-All polling places in Contra Costa County are accessible.  
+An accessible ballot marking device is available at every polling place and has features to assist voters in reading and marking a ballot independently.
 
-Accommodations are made for you to vote. Voting equipment, materials, signs, entries, and pathways follow ADA guidelines.  
+At polling places, poll workers will assist a voter as requested and can facilitate curbside voting.
 
-Curbside voting is available upon request. If you have questions or need assistance, email **[eo.recruitment@vote.cccounty.us](mailto:eo.recruitment@vote.cccounty.us)** or call (925) 335-7800.  
+If you have questions or need assistance, email **[eo.recruitment@vote.cccounty.us](mailto:eo.recruitment@vote.cccounty.us)** or call (925) 335-7800.  
