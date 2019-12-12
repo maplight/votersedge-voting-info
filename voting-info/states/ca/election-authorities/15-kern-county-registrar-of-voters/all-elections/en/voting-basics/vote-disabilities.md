@@ -12,15 +12,17 @@ Check [online](https://elections.co.kern.ca.us/ElectionInformation/AddressLookup
 
 #### Accessible Voting Information    
 
-Accessible voting equipment in Kern County polling locations includes:  
+ Each Polling Site has an accessible ballot marking device that is equipped with:
+    Enlarged Text Ballot
+    High Contrast Ballot
+    Audio Ballot
 
-- Audio Voting: Audio ballots on Touchscreen Units are available in both English and Spanish for the vision impaired.  
+In addition every Polling Site has:
+    Magnification Sheets
+    Wrapped Disposable Styluses
+    Mouth Sticks
 
-- Election Information on Audio: The Kern County elections website includes audio files for all candidate statements and local measure information [here](https://elections.co.kern.ca.us/Voting/AccessibleVoting).  
-
-- Touchscreen Unit Options: Large text and high-contrast options are available on Touchscreen Units for the vision impaired.  
-
-If your polling place is not accessible you may vote in any area as close to the polling place as possible.
+If you cannot come into the poll site, curbside voting can be arranged where a ballot can be taken out to you by Election Officers. 
 
 For more information about accessible voting in Kern County, call (661) 868-3590 or view the Kern County Elections Office [voters with disabilities page](https://elections.co.kern.ca.us/Voting/AccessibleVoting).  
 

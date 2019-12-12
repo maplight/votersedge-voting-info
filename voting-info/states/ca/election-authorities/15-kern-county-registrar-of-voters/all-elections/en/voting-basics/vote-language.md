@@ -6,8 +6,16 @@ section: "voting-basics"
 priority: "Minor"
 ---
 
-The Kern County Elections Division offers its website and the [Application for Vote-by-Mail Ballot in Español/Spanish](https://elections.co.kern.ca.us/forms/permvotebymail.pdf). The Sample Ballot you receive in the mail has an Español/Spanish translation.  
+The Kern County Elections Division offers its [website](https://www.kernvote.com/Voting/) and the [Application for Vote-by-Mail Ballot in Español/Spanish](https://elections.co.kern.ca.us/forms/permvotebymail.pdf). The Sample Ballot you receive in the mail has an Español/Spanish translation. 
 
-Tagalog/Filipino, and हिन्दी /Hindi language assistance is provided at designated polling locations.  
+Every polling site in Kern County is assigned a bilingual Spanish-speaking Election Officer to help Spanish-speaking voters if needed. They will be wearing identification to let voters know they speak Spanish. Every precinct has a written copy of the voting materials in Spanish.
 
-For more language assistance, view the [Kern County Elections Office page](https://elections.co.kern.ca.us/Voting) on getting language assistance or call (661) 868-3590.
+Some poll sites in Kern County have bilingual speakers in Tagalog, Ilocano and Panjabi to help voters as needed. These poll sites also have materials in Tagalog, Ilocano and Panjabi. 
+
+The Elections Division has a multi-language help desk who can answer questions by phone at (661) 868-3590. 
+
+ 
+
+ 
+
+
