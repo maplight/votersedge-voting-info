@@ -5,6 +5,7 @@ weight: 13
 section: "voting-basics"
 priority: "Minor"
 ---
+
 If it is **six or fewer days before Election Day,** you may be able to get an emergency vote-by-mail ballot.  
 
 **Situations where emergency ballots are available:**  
@@ -24,3 +25,4 @@ Make a written request. Your [county elections office](#section-election-office-
 Or, if you are able, you can go to your [county elections office](#section-election-office-contact) during open hours and [vote early in person.](#menu-item-vote-early-in-person)  
 
 For more information and sample requests, visit [Disability Rights California](https://www.disabilityrightsca.org/system/files/file-attachments/541701.pdf).
+

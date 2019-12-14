@@ -6,8 +6,7 @@ section: "important-dates-deadlines"
 priority: "Minor"
 ---
 #### Before Election Day
-> #### Before Election Day
-Both **vote-by-mail** and **early-in-person** voting start 29 days before Election Day and continue through Election Day. 
+> Both **vote-by-mail** and **early-in-person** voting start 29 days before Election Day and continue through Election Day. 
 
 #### By Mail  
 > From **29 days before Election Day** through **Election Day.**  

@@ -6,11 +6,13 @@ section: "ways-to-vote"
 priority: "Minor"
 ---
 
-_**Note:** If you live in Madera, Napa, Nevada, Sacramento, or San Mateo counties and you are already registered to vote, you will automatically receive your ballot in the mail. Check [Voter’s Choice Elections](#menu-item-voters-choice-elections-big-changes-in-madera-napa-nevada-sacramento-and-san-mateo-counties) for more info._
+_**Note:** If you live in one of the new Voter’s Choice Act counties and you are already registered to vote, you will automatically receive your ballot in the mail - unless you are in Los Angeles where you still need to sign up to get a vote by mail ballot. Check [Voter’s Choice Elections](#menu-item-voters-choice-elections-big-changes-in-madera-napa-nevada-sacramento-and-san-mateo-counties) for more info._
 
 **Request** a vote-by-mail ballot from your [County Elections Office.](#section-election-office-contact)
 
-Make sure that you send in your request so that it’s received by your county elections office _**no later**_ than 7 days before the election.
+Make sure that you send in your request so that it’s received by your county elections office _**no later**_ than 7 days **before** the election.
+
+Make future voting easier and apply through your [County Elections Office.](#section-election-office-contact) to [become a permanent vote-by-mail voter](https://www.sos.ca.gov/elections/voter-registration/vote-mail/#perm).
 
 **Follow the directions to fill out your ballot and envelope.**  
 - **Mark** your vote-by-mail ballot.  
@@ -18,17 +20,19 @@ Make sure that you send in your request so that it’s received by your county e
 - **Fill out** the information on the envelope.  
   **Don't forget to sign** the back of the envelope.  
   **Seal** the envelope.  
-- You may have to put **postage** on the envelope.  
-  Make sure that you use the right amount of postage.  
+- **No stamp? No problem**. You do not have to put postage on ballot return envelopes anymore.  
 
 **Return the ballot:**
 - **By mail** **or**  
 - **Drop it off** at a location designated by your county **or**  
-- **Drop it off** at any polling place in your county by 8 pm on Election Day.  
+- **Drop it off** at any voting location in your county by 8 pm on Election Day.  
 
-You can have a relative or person living in your house drop off your vote-by-mail ballot at a polling place on election day. Fill in the information on the return envelope.  
+You can assign anyone to drop off your vote-by-mail ballot at a voting location on Election Day. Fill in the information on the return envelope.  
 
 **If you mail your ballot back, don’t delay.**  
 - Your completed vote-by-mail ballot must be **postmarked** on or before **Election Day.**
 - Once mailed and postmarked, the ballot must be **received** by the elections office **no later than 3 days after the election.**
+
+Watch [How to Return Your Completed Vote-by-Mail Ballot](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DhFH3YZrhBag%26feature%3Dyoutu.be&sa=D&ust=1576113195433000&usg=AFQjCNGr5kb0Ft2GLwC551ertzTHTcQlHg). 
+
 
