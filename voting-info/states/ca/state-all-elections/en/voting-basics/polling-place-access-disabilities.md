@@ -6,7 +6,6 @@ section: "voting-basics"
 priority: "Minor"
 ---
 
-
 Disability Rights California (DRC) will operate a [toll-free hotline](https://drive.google.com/file/d/0B0h2E_kd8S-LY0VuMjIyMzlRR21tMEs3OVpMRjlxdTRBTF9B/view?usp=sharing) on Election Day for voters with disabilities. The service is designed to help those who have difficulty accessing polling places, casting ballots or simply have questions about voting. **The toll-free number for voice calls is 888-569-7955. The statewide number for video calls is 800-719-5798.**  
 
 Watch the Center for Independence's video on [Why You Should Vote](https://www.youtube.com/watch?v=FIX1KFGIhvQ&t=2s).
@@ -19,7 +18,7 @@ The California Secretary of State also maintains a Voter Hotline for voters who 
 
 **Accessible voting places**  
 
-Before each election, registered voters are notified as to whether or not their polling places are accessible. This notification appears on the Sample Ballot mailed by your county. 
+Before each election, registered voters are notified as to whether or not their polling places are accessible. This notification appears on the Voter Information Guide mailed by your county. 
 
 **Signing in at the polling place**  
 
@@ -46,5 +45,7 @@ A poll worker will bring the list to sign, the ballot, and other required materi
 For more information check [Rights of voters with disabilities](#menu-item-rights-of-voters-with-disabilities). 
 
 **Remote accessible vote-by-mail**  
+
+Remote accessible vote-by-mail (RAVBM) systems provide an accessible option for voters with disabilities to receive their ballots at home and mark them independently and privately before sending them back to elections officials. Contact your [County Elections Office](#section-election-office-contact) for more information. 
 
 Disability Rights California has a great video with information on [remote accessible vote-by-mail](https://youtu.be/54-Xbg5Nbg4), a new way for people with disabilities to vote from home.  
