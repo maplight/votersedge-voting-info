@@ -19,6 +19,4 @@ This is called Conditional Voter Registration (CVR) or Same-Day Registration. Yo
 Check [here](https://caearlyvoting.sos.ca.gov) to find locations where you can register and vote at the same time--all the way up through Election Day! 
 
 After the election, check the [Secretary of State's website](http://www.sos.ca.gov/elections/ballot-status/) or call 800-345-VOTE (8683) to learn how to see whether your ballot was counted. If it wasn't counted, you'll also be able to see the reason why. 
-
-For more information, check the Future of California Elections’ [2018 Election Reform Primer: What Voters Need to Know](http://futureofcaelections.org/wp-content/uploads/ERP_32718.Revised_final.pdf).
   
