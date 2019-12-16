@@ -5,4 +5,4 @@ weight: 13
 section: "more-voting-info"
 priority: "Minor"
 ---
-Visit the California Secretary of State's [Guide to Voter Registration Drives.](http://elections.cdn.sos.ca.gov/guides/guide-to-vr-drives.pdf)
+Visit the California Secretary of State's [Guide to Voter Registration Drives.](https://www.sos.ca.gov/elections/publications-and-resources/guide-vr-drives/)
