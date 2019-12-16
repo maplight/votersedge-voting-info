@@ -3,7 +3,7 @@ title: "How do I vote for President in the Primary if I am registered as No Part
 published: true
 weight: 16
 section: "voting-basics"
-priority: "Major"
+priority: "Minor"
 ---
 
 **NEW** Now all Californians can [Same-Day Register (or re-register)](#menu-item-missed-the-voter-registration-deadline-you-can-still-register-and-vote), change their political party, and vote with a provisional ballot at every voting location in your county.
