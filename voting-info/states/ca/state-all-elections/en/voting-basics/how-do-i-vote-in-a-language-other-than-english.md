@@ -9,7 +9,7 @@ The Secretary of State's office provides voting-related materials and assistance
 
 For answers to your questions about voting and elections, or to request mail delivery of a voter registration form, vote-by-mail application, or the [Official Voter Information Guide](http://voterguide.sos.ca.gov/) in any of these languages, please call one of the toll-free Voter Hotlines shown below.  
 
-- (800) 232-VOTA (8682) - español / Spanish  
+- (800) 232-VOTA (8682) - Español / Spanish  
 - (800) 339-2857 - 中文 / Chinese  
 - (888) 345-2692 - हिन्दी / Hindi
 - (800) 339-2865 - 日本語 / Japanese  
