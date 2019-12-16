@@ -5,11 +5,11 @@ weight: 2
 section: "important-dates-deadlines"
 priority: "Minor"
 ---
-In order to vote in the November 6 General Election, you must register to vote **no later than 15 days before the election.**  
+In order to vote in the March 3 Primary Election, you must register to vote **no later than Tuesday, February 18, 2020.**  
 
 It is important that your voter registration application be filled out completely and:  
-- Submitted online no later than 15 days before the election;
-- **OR** postmarked or hand-delivered to your county elections office no later than 15 days before the election.
+- Submitted online no later than Tuesday, February 18;
+- **OR** postmarked or hand-delivered to your county elections office no later than Tuesday, February 18.
 
 Even if you missed the voter registration deadline, it isn't too late to vote. With [Same-Day Voter Registration](#menu-item-missed-the-voter-registration-deadline-you-can-still-register-and-vote), you can register up to and on Election Day. 
 

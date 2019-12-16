@@ -1,5 +1,5 @@
 ---
-title: "Vote at the Polls on Election Day"
+title: "Vote at the Polls and Vote Centers on Election Day"
 published: true
 weight: 10
 section: "ways-to-vote"
@@ -8,7 +8,7 @@ priority: "Minor"
 
 **How do I vote at the polling place or vote center in person?**  
 
-Polling places are open from 7 AM to 8 PM on Election Day.  
+Polling places are open from 7 AM to 8 PM on **Election Day, Tuesday, March 3, 2020**.  
 
 _[Vote Centers](#menu-item-voters-choice-elections-big-changes-in-madera-napa-nevada-sacramento-and-san-mateo-counties) in the 15 Voter’s Choice Act counties are open before Election Day and will also be open from 7 AM to 8 PM on Election Day._
 

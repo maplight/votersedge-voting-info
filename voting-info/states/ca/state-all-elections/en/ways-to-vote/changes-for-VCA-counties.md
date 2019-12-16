@@ -15,7 +15,7 @@ If you live in one of these Voter’s Choice Act counties, there are big changes
   - Drop it off at any secure Ballot Dropbox, or  
   - Vote in person at a Vote Center.  
 
-Voters in Los Angeles County will not receive your ballot in the mail unless you request one from your [County Elections Office](#section-election-office-contact).
+**Voters in Los Angeles County will not receive your ballot in the mail unless you request one** from your [County Elections Office](#section-election-office-contact).
 
 Find your Vote Center or Ballot Drop Box location [here](https://caearlyvoting.sos.ca.gov/)!  
 
