@@ -43,7 +43,7 @@ Vote Centers will accommodate voters with limited English proficiency. Vote Cent
 
 #### Accessible Voting Places  
 
-All Vote Centers will be accessible to people with disabilities. Counties participating in this program are also required to create a Voting Accessibility Advisory Committee (VAAC) if they do not have one already. A VAAC is made up of voters with disabilities and helps during the planning process to ensure voting is accessible. Please contact your [county elections office](#menu-item-contact-county-election-office) to learn more about the specific tools and resources available to people with disabilities.  
+All Vote Centers will be accessible to people with disabilities. Counties participating in this program are also required to create a Voting Accessibility Advisory Committee (VAAC) if they do not have one already. A VAAC is made up of voters with disabilities and helps during the planning process to ensure voting is accessible. Please contact your [county elections office](#section-election-office-contact) to learn more about the specific tools and resources available to people with disabilities.  
 
 Voters with disabilities may request a remote accessible vote-by-mail ballot. You can use this ballot at home with your own computer and assistive technologies, then print the ballot and mail or drop it off.  
 

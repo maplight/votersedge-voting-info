@@ -8,7 +8,7 @@ priority: "Minor"
 
 If you moved on or before the registration deadline, which is 15 days prior to the election, then you should re-register at your new address. Check [How do I register to vote?](#menu-item-how-do-i-register-to-vote)  
 
-**NEW** Now all Californians can Same-Day Register (or re-register) and vote with a provisional ballot) at **every** voting location in your county. Read more about what you can do if you [missed the deadline to register to vote](#menu-item-missed-the-voter-registration-deadline-you-can-still-register-and-vote). 
+**NEW** Now all Californians can Same-Day Register (or re-register) and vote with a provisional ballot at **every** voting location in your county. Read more about what you can do if you [missed the deadline to register to vote](#menu-item-missed-the-voter-registration-deadline-you-can-still-register-and-vote). 
 
 **I moved within the same county:**  
 - If you moved within 14 days before the election you can vote at the polling place for your old address, but only for that election.  

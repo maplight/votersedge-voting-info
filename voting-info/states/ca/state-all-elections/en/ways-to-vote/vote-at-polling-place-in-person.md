@@ -10,7 +10,7 @@ priority: "Minor"
 
 Polling places are open from 7 AM to 8 PM on **Election Day, Tuesday, March 3, 2020**.  
 
-_[Vote Centers](#menu-item-voters-choice-elections-big-changes-in-madera-napa-nevada-sacramento-and-san-mateo-counties) in the 15 Voter’s Choice Act counties are open before Election Day and will also be open from 7 AM to 8 PM on Election Day._
+_[Vote Centers](#menu-item-big-changes-in-15-voters-choice-counties) in the 15 Voter’s Choice Act counties are open before Election Day and will also be open from 7 AM to 8 PM on Election Day._
 
 **How do I find my polling place?**   
 
@@ -38,4 +38,3 @@ Not all California counties use the same type of touchscreen voting machines.
 - The poll worker will give you either a unique passcode or a computer memory card to gain access to the type of touchscreen in your county.  
 - Follow the instructions on the machine.  
 - If you have questions, ask a poll worker.
-

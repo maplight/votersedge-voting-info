@@ -23,4 +23,4 @@ In order to receive a ballot in the mail, you must register by the deadline, whi
 
 Missed the deadline? You can still register and vote at a Vote Center, all the way up to and including Election Day. For more information on same-day voter registration, check [Missed the voter registration deadline? You can still register and vote!](#menu-item-missed-the-voter-registration-deadline-you-can-still-register-and-vote)
 
-For more information on election changes, check [Voter’s Choice Elections](#menu-item-voters-choice-elections-big-changes-in-madera-napa-nevada-sacramento-and-san-mateo-counties) and the [California Secretary of State](https://www.sos.ca.gov/elections/voters-choice-act/).
+For more information on election changes, check [Voter’s Choice Elections](#menu-item-big-changes-in-15-voters-choice-counties) and the [California Secretary of State](https://www.sos.ca.gov/elections/voters-choice-act/).
