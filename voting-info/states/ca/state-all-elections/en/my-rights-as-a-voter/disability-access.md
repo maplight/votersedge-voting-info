@@ -4,7 +4,9 @@ published: true
 weight: 4
 section: "my-rights-as-a-voter"
 priority: "Minor"
----#### What are my rights to access and vote at polling places?  
+---
+
+#### What are my rights to access and vote at polling places?  
 State and federal laws require polling places to be physically accessible to voters with disabilities.  
 
 #### Access to the polling place  

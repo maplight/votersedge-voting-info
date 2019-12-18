@@ -16,16 +16,21 @@ http://www.advancingjustice-alc.org/know-your-voting-rights/). The materials wil
 
 [Arabic](https://www.advancingjustice-alc.org/wp-content/uploads/2018/10/KYVR-November-2018-NON-VCA-FINAL_Arabic.pdf)  
 [Chinese](https://www.advancingjustice-alc.org/wp-content/uploads/2018/10/KYVR-November-2018-NON-VCA-FINAL_Mandarin.pdf)
+
 [English](https://www.advancingjustice-alc.org/wp-content/uploads/2018/09/KYVR-November-2018-NON-VCA-FINAL.pdf)  
 [Farsi](https://www.advancingjustice-alc.org/wp-content/uploads/2018/10/KYVR-November-2018-NON-VCA-FINAL_Farsi-1.pdf)
+
 [Hindi](https://www.advancingjustice-alc.org/wp-content/uploads/2018/10/KYVR-November-2018-NON-VCA-FINAL_Hindi.pdf)  
 [Hmong](https://www.advancingjustice-alc.org/wp-content/uploads/2018/10/KYVR-November-2018-NON-VCA-FINAL_Hmong.pdf)  
 [Japanese](http://www.advancingjustice-alc.org/wp-content/uploads/2016/09/KYVR-Japanese.pdf)  
 [Khmer](https://www.advancingjustice-alc.org/wp-content/uploads/2018/10/KYVR-November-2018-NON-VCA-FINAL_Khmer.pdf)  
 [Korean](https://www.advancingjustice-alc.org/wp-content/uploads/2018/10/KYVR-November-2018-NON-VCA-FINAL_Korean_Rv1.pdf)  
 [Punjabi](https://www.advancingjustice-alc.org/wp-content/uploads/2018/10/KYVR-November-2018-NON-VCA-FINAL_Punjabi.pdf) 
+
 [Spanish](https://www.advancingjustice-alc.org/wp-content/uploads/2018/10/KYVR-November-2018-NON-VCA-FINAL_Spanish.pdf)
+
 [Tagalog](https://www.advancingjustice-alc.org/wp-content/uploads/2018/10/KYVR-November-2018-NON-VCA-FINAL_Filipino.pdf)
+
 [Thai](http://www.advancingjustice-alc.org/wp-content/uploads/2016/09/KYVR-Thai.pdf)  
 [Vietnamese](https://www.advancingjustice-alc.org/wp-content/uploads/2018/10/KYVR-November-2018-NON-VCA-FINAL_Vietnamese_Rv1.pdf)  
 
