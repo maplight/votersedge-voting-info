@@ -1,5 +1,5 @@
 ---
-title: "Big changes in 15 counties with the Voter’s Choice Act"
+title: "Big changes in 15 Voter's Choice counties"
 published: true
 weight: 1
 section: "voting-basics"

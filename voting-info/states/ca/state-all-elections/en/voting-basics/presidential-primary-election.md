@@ -22,7 +22,7 @@ If you are registered with one political party, you may not vote a ballot for an
 
 You can only vote for the County Central Committees/County Councils if you are registered with that party.  
 
-*If you are not registered with one of the six political parties, or if you registered Decline to State, Independent*, or Nonpartisan, then you are a **No Party Preference (NPP) Voter.** Click [here](#menu-item-how-do-i-vote-for-president-if-i-am-registered-as-no-party-preference?) for more detailed information about how to vote if you are registered as No Party Preference.
+*If you are not registered with one of the six political parties, or if you registered Decline to State, Independent*, or Nonpartisan, then you are a **No Party Preference (NPP) Voter.** Click [here](#menu-item-how-do-i-vote-for-president-in-the-primary-if-i-am-registered-as-no-party-preference) for more detailed information about how to vote if you are registered as No Party Preference.
 
 Please note - the American Independent Party is a political party in California with its own platform. If you are registered with the American Independent Party then you are **not** registered as a No Party Preference voter.   
 

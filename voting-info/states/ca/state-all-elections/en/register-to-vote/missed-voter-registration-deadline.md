@@ -6,7 +6,7 @@ section: "register-to-vote"
 priority: "Minor"
 ---
 
-Even if you missed the voter registration deadline, it isn't too late to vote. To register up to and on Election Day, go to your [polling location](#section-election-office-contact), vote center, or elections office, and complete three simple steps: 
+Even if you missed the voter registration deadline, it isn't too late to vote. To register up to and on Election Day, go to your [polling location](#section-my-polling-place), vote center, or elections office, and complete three simple steps: 
 
   1. **Register** to vote. 
   2. **Vote.**
