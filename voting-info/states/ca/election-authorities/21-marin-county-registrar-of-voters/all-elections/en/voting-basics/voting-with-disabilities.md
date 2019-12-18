@@ -8,7 +8,12 @@ priority: "Minor"
 
 #### Accessible Voting Places   
 
-**Call (415) 473-6456** or **check the back cover** of your Sample Ballot for the wheelchair symbol that shows whether or not your polling place is accessible.  
+    Find the access symbol on the back cover of your County Voter Information Guide. Look for the word YES or NO near the symbol.
+        YES means your polling place is fully accessible.
+        NO means your polling place does not meet all current accessibility requirements. However, alternative facilitation may make it accessible to you.
+        
+    If your current polling place is not accessible, and you want to vote at an accessible polling place, call us at least 2 weeks before the election: (415) 473-6439.
+ 
 
 #### Accessible Voting Equipment  
 
