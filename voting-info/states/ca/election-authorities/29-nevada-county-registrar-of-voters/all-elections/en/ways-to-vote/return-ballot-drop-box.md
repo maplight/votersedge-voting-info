@@ -6,7 +6,7 @@ section: "ways-to-vote"
 priority: "Minor"
 ---
 
-**Drop it off** at one of seven secure Ballot Drop Boxes from **Monday, October 8**, through **Election Day, Tuesday, November 6**.  
+**Drop it off** at one of seven secure Ballot Drop Boxes from **Tuesday, February 4**, through **Election Day, Tuesday, March 3**.  
 
 - No postage is required at Ballot Drop Boxes. Some Drop Boxes will be open 24 hours a day.     
 
@@ -14,8 +14,8 @@ priority: "Minor"
 
 **Drop it off** at any Vote Center in Nevada County.   
 
-On Election Day, Tuesday, November 6, all Vote Centers are open from 7 AM to 8 PM. Ballot Drop Boxes will also close at 8 PM. 
+On Election Day, Tuesday, March 3, all Vote Centers are open from 7 AM to 8 PM. Ballot Drop Boxes will also close at 8 PM. 
 
-Find a Ballot Drop Box or Vote Center at [voterschoice.sos.ca.gov](http://www.sos.ca.gov/elections/voters-choice-act/) or on the [Nevada County Elections Office website](https://mynevadacounty.com/2583/Vote-Center-Drop-Off-Locations-Nov-6th-E). 
+Find a Ballot Drop Box or Vote Center at [voterschoice.sos.ca.gov](http://www.sos.ca.gov/elections/voters-choice-act/) or on the [Nevada County Elections Office website](https://mynevadacounty.com/2853/March-3-2020-Presidential-Primary-Electi). 
 
 For more information about Nevada County’s new Voter’s Choice elections visit the [Nevada Department of Elections Office](https://www.mynevadacounty.com/2320/Voters-Choice-Act) online.  
