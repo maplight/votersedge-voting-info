@@ -8,17 +8,17 @@ priority: "Minor"
 
 Your neighborhood polling locations will no longer be open. Instead, you can vote at any Vote Center in Nevada County.   
 
-- **All Vote Centers will be open for at least 4 days** from Saturday, November 3, through Election Day, Tuesday, November 6. 
+- **All Vote Centers will be open for at least 4 days** from Saturday, February 29, through Election Day, Tuesday, March 3. 
 
-- **Some Vote Centers will be open for 11 days** starting Saturday, October 27.    
+- **Some Vote Centers will be open for 11 days** starting Saturday, February 22.    
 
-- **On Election Day, Tuesday, November 6, all Vote Centers are open from 7 AM to 8 PM.**  
+- **On Election Day, Tuesday, March 3, all Vote Centers are open from 7 AM to 8 PM.**  
 
 Find your Vote Center locations and hours:  
 
 - Online at [voterschoice.sos.ca.gov](http://www.sos.ca.gov/elections/voters-choice-act/)  
 
-- On the [Nevada County Elections Office website](https://mynevadacounty.com/2583/Vote-Center-Drop-Off-Locations-Nov-6th-E) 
+- On the [Nevada County Elections Office website](https://mynevadacounty.com/2853/March-3-2020-Presidential-Primary-Electi) 
 
 - By calling 530-265-1298      
 
