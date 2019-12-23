@@ -6,4 +6,4 @@ section: "voting-basics"
 priority: "Minor"
 ---
 
-Español/Spanish, ខ្មែរ/Khmer, Tiếng Việt/Vietnamese, and Tagalog versions of ballots and polling place information may be available at some selected precincts.  
+Español/Spanish, ខ្មែរ/Khmer, Tiếng Việt/Vietnamese, and Tagalog versions of ballots and polling place information may be available at some select precincts.  

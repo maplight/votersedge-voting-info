@@ -6,6 +6,7 @@ section: "voting-basics"
 priority: "Minor"
 ---
 
-Solano County Registrar of Voters provides voting instructions, voter registration forms, Sample Ballots, and some signage in: Español/Spanish, 中文/Chinese, and Tagalog/Filipino.  
+Please call (707) 784-6675 for language information.  
 
-Please call (707) 784-6675 for more information on language assistance.  
+To receive a translated ballot for the upcoming election in either Spanish or Tagalog, please fill out and submit [this form](
+http://www.solanocounty.com/depts/rov/voting_by_mail/translated_ballot_request.asp).
