@@ -6,15 +6,17 @@ section: "voting-basics"
 priority: "Minor"
 ---
 
+Please call the San Diego County Registrar of Voters (858) 565-5800 or TDD number (800) 735-2929 if you have questions about accessible voting in San Diego County. More information about accesibility can be found at the [Registrar of Voters' accessible voting website](https://www.sdvote.com/content/rov/en/outreach/accessible_voting.html)
+
 #### Accessible Voting Places   
 
-**Check on the back cover** of your Sample Ballot and Voter Information Pamphlet for the wheelchair symbol that shows whether or not your polling place is accessible. The Pamphlet contains other important information about accessible voting and polling places.  
+San Diego County provides voting locations accessible for all people, regardless of ability. See if your poll is wheelchair accessible by looking at the back of your Sample Ballot Pamphlet: there will be a YES or NO printed below the blue accessibility symbol. If it says NO, you may call (858) 565-5800 to learn about voting methods that will work best for you. You may also request to have a ballot brought to an accessible location near your poll.
 
-- "YES" means the voter’s polling place is accessible.  
-- "NO" means the voter’s polling place is not accessible.  
+At any polling location that is determined inaccessible or that you are unable to enter, you may vote curbside:
+- Poll workers can bring a ballot to you
+- You may sit in your car and vote, or you may vote at the door of the building
+- Call (858) 565-5800 before heading to your poll to make these arrangements
 
-#### Accessible Voting Information  
+All polling locations have signature guide cards and magnifying sheets.
 
-Call (858) 565-5800 for alternative voting methods. You may request to have a ballot brought to an accessible location as near as possible outside the polls.  
-
-The Registrar of Voters Office has a TDD (Telecommunications Device for the Deaf). Call (800) 735-2929 for the TDD line.  
+Every poll location will have a touchscreen voting machine that is compliant with the Americans with Disabilities Act (ADA). The touchscreen is equipped with a headset and telephone-style keypad for audio-based voting, as well as large print, zoom features, and height and tilt adjustments.
