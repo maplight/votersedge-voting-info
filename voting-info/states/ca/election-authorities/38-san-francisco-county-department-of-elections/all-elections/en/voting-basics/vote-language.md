@@ -17,10 +17,9 @@ The San Francisco County Department of Elections **website, Voter Information Pa
 **Election materials and ballot facsimiles** are available at each polling place in these languages:  
 
 한국어/Korean  
-日本語/Japanese  
 Tiếng Việt/Vietnamese  
 
-**Telephone assistance** is available in 200 languages Monday through Friday 8 AM to 5 PM and all day on Election Day.  
+**Telephone assistance** is available in 200 languages Monday through Friday 8 AM to 5 PM, during the two weekends prior to Election Day from 10 a.m. to 4 p.m. on Saturday and Sunday, and from 7 AM to 8 PM on Election Day.  
 
 - English & request for other languages: 415-554-4375  
 - 中文/Chinese: 415-554-4367  
