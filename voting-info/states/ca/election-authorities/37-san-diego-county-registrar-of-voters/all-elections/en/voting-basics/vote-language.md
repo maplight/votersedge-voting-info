@@ -15,14 +15,9 @@ The Registrar of Voters website is available in four languages, besides English:
 - [中文/Chinese](http://www.sdvote.com/content/rov/zh.html)  
 - [Tiếng Việt/Vietnamese](http://www.sdvote.com/content/rov/vi.html)  
 
-Call (858) 565-5800 to request election materials in Español/Spanish, Tagalog/Filipino, Tiếng Việt/Vietnamese, or 中文/Chinese in addition to English.  
+Call (858) 565-5800 to request election materials in Español/Spanish, Tagalog/Filipino, Tiếng Việt/Vietnamese, or 中文/Chinese OR complete and return [this form](http://www.sdvote.com/content/dam/rov/en/pdf/TEM%20Request%20Form.pdf) to request translated materials. 
 
-Arabic and 한국어/Korean versions of ballots and polling place information may be available at some selected precincts.  
+Arabic and 한국어/Korean facsimile ballots (copies of the official ballot)are available at selected precincts. For more information, contact the San Diego Registrar of Voters at 858-565-5800 or rovmail@sdcounty.ca.gov.
 
-**-OR-**  
-  
-Complete and return [this form](http://www.sdvote.com/content/dam/rov/en/pdf/TEM%20Request%20Form.pdf) to request translated materials.   
-
-- by U.S. mail to San Diego County Registrar of Voters, P.O. Box 85656, San Diego, CA 92186,  
-- by fax to (858) 694-2955, or  
-- by e-mail to [rovmail@sdcounty.ca.gov.](mailto:rovmail@sdcounty.ca.gov)      
+Additional information can be found on the [Language Assistance website.](https://www.sdvote.com/content/rov/en/outreach/language_assistance.html)
+        
