@@ -10,4 +10,8 @@ Check the back cover of your Sample Ballot for the wheelchair symbol that shows 
 
 - "YES" means the voter’s polling place is accessible.  
 - "USABLE" means the voter’s polling place is temporarily accessible on Election Day.  
-- "NO" means the voter’s polling place is not accessible.  
+- "NO" means the voter’s polling place is not accessible. 
+
+**OR**
+
+Look up [your polling place](https://clerk.slocounty.ca.gov/pollingplace/) for audio enabled sample ballot and accessibility details.
