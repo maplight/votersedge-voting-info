@@ -8,4 +8,4 @@ priority: "Minor"
 
 For information en Español call (209) 953-1052.
 
-中文/Chinese, ខ្មែរ/Khmer, Tiếng Việt/Vietnamese, Tagalog, and Punjabi versions of ballots and polling place information may be available at some selected precincts.  
+中文/Chinese, ខ្មែរ/Khmer, Tiếng Việt/Vietnamese, Tagalog, and Punjabi versions of ballots and polling place information may be available at some selected precincts. Call the Registrar of Voters at (209) 468-VOTE (8683) for more information.

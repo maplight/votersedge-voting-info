@@ -6,18 +6,20 @@ section: "voting-basics"
 priority: "Minor"
 ---
 
+Check Santa Barbara County's [Voter Assistance](https://countyofsb.org/care/elections/voting/voter-assistance.sbc) page for more information. 
+
 #### Accessible Voting Places  
 
-To determine whether a polling place is accessible, voters can **turn to the back cover of their sample ballot**. A wheelchair symbol means the polling place is accessible.  
+To determine whether a polling place is accessible, voters can turn to the back cover of their County Voter Information Guide.
 
-If the polling place is not accessible, voters may call 1-800-SBC-VOTE to find the nearest accessible location or to request Curbside Voting at a polling place. If Curbside Voting is requested at a polling place, someone will alert the precinct officers, and they will bring the voting materials to the voter.  
+If the polling place is not accessible, voters may call (800) SBC-VOTE to find the nearest accessible location or to request Curbside Voting at their polling place. To request Curbside Voting at a polling place or one of our office locations, please call (800) SBC-VOTE or (800) 722-8683.
 
 #### Accessible Voting Information  
 
-Ballot information is available for the visually impaired on tape (State Information) and CD (Local Information). Tapes and CDs are available at Santa Barbara County Elections Office locations and may be requested by email or by calling 1-800-SBC-VOTE.   
+Ballot information is available in large font formats and via audio recordings. Please contact the Registrar of Voters office locations to request these formats.
 
-For registration and election information, the Secretary of State has established a telecommunications device for voters who are hard of hearing. The TTY/TDD number is 800-833-8683.  
+Accessible AutoMARK ballot-marking systems are available at all polling places as well as the three Registrar of Voters office locations. The AutoMARK provides an opportunity for voters who are blind, visually impaired, or have a disability or other conditions to traditionally mark a ballot without assistance. The AutoMARK has a Braille keypad, increased font size, and audio options as well as a touch screen.
 
-Easy Grip Pens and Handi Lens Magnifiers are also available upon request at all Vote Centers in Santa Barbara County.  
+Easy Grip Pens, Handi Lens Magnifiers, and Accessible Vote Booth are available upon request at all polling places in Santa Barbara County.  
 
-Check Santa Barbara County's [Voter Assistance](http://www.sbcassessor.com/Elections/VoterAssistance.aspx) page for extensive information.  
+ 
