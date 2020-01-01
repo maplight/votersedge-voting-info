@@ -1903,7 +1903,7 @@
             "email": "",
             "fax": "(510) 272-6982",
             "website": "http:\/\/www.acgov.org\/rov\/index.htm",
-            "polling_lookup": "",
+            "polling_lookup": "https:\/\/www.acgov.org\/rov_app\/pollinglist?electionid=240#&ui-state=dialog",
             "ve_email": "CA-alm@votersedge.org"
         }, {
             "election_authority_id": "2",
@@ -1917,7 +1917,7 @@
             "state": "CA",
             "zipcode": "96120",
             "phone": "(530) 694-2281",
-            "email": "coclerk@alpinecountyca.gov",
+            "email": "clerk@alpinecountyca.gov",
             "fax": "(530) 694-2491",
             "website": "http:\/\/www.alpinecountyca.gov\/Index.aspx?NID=179",
             "polling_lookup": "",
@@ -1936,8 +1936,8 @@
             "phone": "(209) 223-6465",
             "email": "Elections@amadorgov.org",
             "fax": "(209) 223-6467",
-            "website": "http:\/\/www.co.amador.ca.us\/government\/elections",
-            "polling_lookup": "http:\/\/www.co.amador.ca.us\/government\/elections\/polling-place-lookup",
+            "website": "http:\/\/www.amadorgov.org\/government\/elections",
+            "polling_lookup": "https:\/\/www.amadorgov.org\/government\/elections\/vote-center-and-ballot-drop-off-locations",
             "ve_email": "CA-am@votersedge.org"
         }, {
             "election_authority_id": "4",
@@ -1950,10 +1950,10 @@
             "city": "Oroville ",
             "state": "CA",
             "zipcode": "95965",
-            "phone": "(530) 538-7761",
+            "phone": "(530) 552-3400 (Option 1)",
             "email": "elections@buttecounty.net",
             "fax": "(530) 538-6853",
-            "website": "http:\/\/clerk-recorder.buttecounty.net",
+            "website": "https:\/\/clerk-recorder.buttecounty.net\/elections\/electhome.html",
             "polling_lookup": "",
             "ve_email": "CA-bt@votersedge.org"
         }, {
@@ -1985,10 +1985,10 @@
             "state": "CA",
             "zipcode": "95932",
             "phone": "(530) 458-0500",
-            "email": "ccclerk@countyofcolusa.org",
+            "email": "clerkinfo@countyofcolusa.org",
             "fax": "(530) 458-0512",
             "website": "http:\/\/www.countyofcolusa.org\/index.aspx?nid=197",
-            "polling_lookup": "http:\/\/voter.ca-colusacounty.civicplus.com\/electiondatalookup\/pollplacelookup.aspx",
+            "polling_lookup": "https:\/\/voterinfo.countyofcolusa.com\/electiondatalookup\/pollplacelookup.aspx",
             "ve_email": "CA-cls@votersedge.org"
         }, {
             "election_authority_id": "7",
