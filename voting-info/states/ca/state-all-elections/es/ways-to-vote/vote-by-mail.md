@@ -6,23 +6,32 @@ section: "ways-to-vote"
 priority: "Minor"
 ---
 
-_**Nota**: Si usted vive en los condados de Madera, Napa, Nevada, Sacramento o San Mateo y ya se inscribió para votar, recibirá automáticamente su boleta por correo. Para obtener más información, revise la sección [Elecciones de votación flexible](#menu-item-¡cambios-importantes-en-los-condados-de-madera-napa-nevada-sacramento-y-san-mateo)._   
+_**Nota:** Si vive en uno de los condados donde se aplica la nueva Ley de Votación Flexible y ya está inscrito para votar, automáticamente recibirá su boleta electoral por correo, a menos que esté en Los Angeles, donde todavía tiene que inscribirse para obtener una boleta electoral para voto por correo. Consulte [Elecciones de votación flexible](#menu-item-voters-choice-elections-big-changes-in-madera-napa-nevada-sacramento-and-san-mateo-counties) para obtener más información._
 
-Solicite una boleta electoral por correo en [la oficina electoral de su condado](http://www.sos.ca.gov/elections/voting-resources/county-elections-offices/).    
+**Solicite** una boleta electoral para voto por correo a su [oficina electoral del condado](#section-election-office-contact)
 
-Asegúrese de enviar su solicitud a tiempo para que se reciba en la oficina electoral al menos 7 días antes del día de las elecciones.   
+Asegúrese de enviar su solicitud a tiempo para que se reciba en la oficina electoral del condado _**a más tardar**_ 7 días **antes** de la elección.
 
-Siga las instrucciones para llenar su boleta electoral y no olvide firmar y sellar el sobre especial que se le entregó. Puede regresar su boleta:  
-- por correo postal   
-- entregándola en una ubicación designada por su condado   
-- entregándola en cualquier lugar de votación de su condado antes de las 8 p. m. el día de las elecciones  
+Haga que votar en el futuro sea más fácil y solicítelo a través de su [oficina electoral del condado](#section-election-office-contact) para [convertirse en un votante permanente de voto por correo](https://www.sos.ca.gov/elections/voter-registration/vote-mail/#perm).
 
-¡Alerta de firma!  
+**Siga las instrucciones para completar su boleta electoral y el sobre.**  
+- **Marque** su boleta electoral para voto por correo. 
+- **Coloque** la boleta electoral para voto por correo en el sobre especial que le proporciona su oficina electoral del condado. 
+- **Complete** la información que está en el sobre. 
+  **No olvide firmar** la parte posterior del sobre. 
+  **Selle** el sobre. 
+- **¿No tiene timbres? No hay problema**. Ya no tiene que poner timbres en los sobres de envío de la boleta electoral. 
 
-- Su firma en su sobre de respuesta de Voto por Correo debe ser la misma que la firma en el archivo de la oficina electoral. Si no coincide, es posible que su boleta electoral no se cuente.  
-- Si registró su voto en el Departamento de Vehículos Motorizados (Department of Motor Vehicles, DMV) o en línea, la firma será la que aparece en su licencia de conducir o en su tarjeta de identificación estatal.  
-- Si no está seguro de con qué firma se registró o si cambió su firma, siempre puede volver a registrarse con su firma actualizada.  
+**Regrese su boleta:**
+- **por correo postal** **o**  
+- **entregándola** en una ubicación designada por su condado **o**  
+- **entregándola** en cualquier lugar de votación de su condado antes de las 8 p. m. el día de las elecciones. 
 
-¡No se retrase si la envía por correo! Las boletas electorales regresadas por correo se deben enviar antes o el día de las elecciones y se deberán recibir en la oficina electoral a más tardar 3 días de trabajo después del día de las elecciones.  
+Puede pedir a cualquier persona que entregue su boleta electoral para voto por correo en una ubicación para votar el día de las elecciones. Complete la información que está en el sobre de envío. 
 
-Para conocer el costo del franqueo, consulte a la oficina electoral del condado. Muchas boletas electorales necesitan sellos adicionales, así que asegúrese de verificarlo.   
+**¡No se retrase si envía su boleta electoral por correo!**  
+- Su boleta electoral para voto por correo completada deberá estar **sellada** el **día de las elecciones** o antes.
+- Una vez enviada por correo y sellada, la boleta electoral deberá **recibirse** en la oficina electoral **a más tardar 3 días después del día de las elecciones.**
+
+Vea [Cómo devolver su boleta electoral completada para voto por correo](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DhFH3YZrhBag%26feature%3Dyoutu.be&sa=D&ust=1576113195433000&usg=AFQjCNGr5kb0Ft2GLwC551ertzTHTcQlHg). 
+   
