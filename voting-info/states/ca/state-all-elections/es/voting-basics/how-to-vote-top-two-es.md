@@ -1,6 +1,6 @@
 ---
 title: "Cómo votar en la primaria de los dos principales candidatose de California"
-published: false
+published: true
 weight: 7
 section: "more-voting-info"
 priority: "Minor"
