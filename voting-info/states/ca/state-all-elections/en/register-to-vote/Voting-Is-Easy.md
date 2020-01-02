@@ -42,7 +42,7 @@ Watch [How to Return Your Completed Vote-by-Mail Ballot](https://www.google.com/
 
 Check [Ways to Vote](#section-ways-to-vote) for more information.
 
-There are big changes as to how you cast your ballot if you live in one of these 15 counties: Amador, Butte, Calaveras, El Dorado, Fresno, Los Angeles, Madera, Mariposa, Napa, Nevada, Orange, Sacramento, San Mateo, Santa Clara, and Tuolumne. **You will have more days and more ways to vote!** Check [Ways to Vote](##menu-item-big-changes-in-madera-napa-nevada-sacramento-and-san-mateo-counties) for more information.
+There are big changes as to how you cast your ballot if you live in one of these 15 counties: Amador, Butte, Calaveras, El Dorado, Fresno, Los Angeles, Madera, Mariposa, Napa, Nevada, Orange, Sacramento, San Mateo, Santa Clara, and Tuolumne. **You will have more days and more ways to vote!** Check [Ways to Vote](#menu-item-big-changes-in-madera-napa-nevada-sacramento-and-san-mateo-counties) for more information.
 
 Visit the **[Easy Voter Guide](http://www.easyvoterguide.org/)** for more voting information and to download a copy in English, Spanish, Chinese, Vietnamese, or Korean.
   
