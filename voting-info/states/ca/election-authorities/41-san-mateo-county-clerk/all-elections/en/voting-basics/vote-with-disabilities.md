@@ -12,7 +12,7 @@ All Vote Centers will be ADA compliant, and Elections personnel will be on site 
 
 #### Accessible Voting Information    
 
-Vote Centers will be equipped with three Disabled Access eSlate electronic voting machines.  
+Vote Centers will be equipped with three accessible voting devices. The ballot marking tablet accommodates voters with visual impairments by presenting the ballot in audio format during an accessible voting session. 
 
 Voters with disabilities may request a remote accessible vote-by-mail ballot. You can use this ballot at home with your own computer and assistive technologies, then print the ballot and mail or drop it off. To learn more about using an accessible vote-by-mail ballot, [click here.](https://www.smcacre.org/accessible-vote-mail) 
 
