@@ -12,7 +12,13 @@ All Vote Centers are required to be accessible to people with disabilities.
 
 #### Accessible Voting Equipment  
 
-Napa County Election Division will be implementing a new system, the ICX Voting System from Dominion Voting Systems. The ICX is a touchscreen ballot marking device that will accommodate voters with disabilities. At least three ICX machines will be available at each Vote Center.   
+All Vote Centers have accessible ballot-marking devices.
+
+The ballot-marking device allows voters to navigate through their ballots using features such as:
+
+- Touchscreen tablet with options to change text and background colors and the text size
+- Braille-embossed handheld keypad (audio-tactile interface)
+- Headphones and audio instructions in English and Spanish  
 
 Voters with disabilities may request a remote accessible vote-by-mail ballot. You can use this ballot at home with your own computer and assistive technologies, then print the ballot and mail or drop it off.   
 
