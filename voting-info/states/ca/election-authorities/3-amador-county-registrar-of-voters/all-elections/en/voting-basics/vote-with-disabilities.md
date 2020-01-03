@@ -12,14 +12,14 @@ All Vote Centers will be ADA compliant, and Elections personnel will be on site 
 
 #### Accessible Voting Information    
 
-Vote Centers will be equipped with three Disabled Access eSlate electronic voting machines.  
+All Vote Centers will have at least two voting booths for a chair or wheelchair, magnifying glasses, and pen grips. There will be three accessible ballot marking devices that can accommodate a chair or wheelchair, to help voters with specific needs vote independently and privately.  
 
-Voters with disabilities may request a remote accessible vote-by-mail ballot. You can use this ballot at home with your own computer and assistive technologies, then print the ballot and mail or drop it off. To learn more about using an accessible vote-by-mail ballot, [click here.](https://www.smcacre.org/accessible-vote-mail) 
+For any voter that cannot physically access a Vote Center, there is the option to vote “curbside”. Curbside voting allows you to vote from your car or at the door of the building. To schedule curbside voting call (916) 223-6465.
 
-Voters can also request audio ballot information and accessible PDF files by email.  
+Voters with disabilities may request a remote accessible vote-by-mail ballot. You can use this ballot at home with your own computer and assistive technologies, then print the ballot and mail or drop it off. To learn more about using an accessible vote-by-mail ballot, [click here.](https://www.amadorgov.org/government/elections/how-to-vote) 
 
 #### Accessible Voting Information  
 
-If you have questions about Vote Center accessibility, call the San Mateo County Elections Office at (650) 312-5222 or [send them an email](mailto:registrar@smcacre.org).
+If you have questions about Vote Center accessibility, call the Amador County Elections Office at 209-223-6465 or [send them an email](mailto:elections@amadorgov.org).
 
-You can also read more about assitance for voters with disabilities by [visiting the San Mateo Registrar of Voter's website](https://www.smcacre.org/assistance-voters-disabilities).
+You can also read more about assitance for voters with disabilities by [visiting the Amador Elections Office website](https://www.amadorgov.org/government/elections/accessible-voting).
