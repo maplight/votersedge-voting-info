@@ -1,6 +1,6 @@
 ---
 title: "How do I vote in Amador County if I have disabilities?"
-published: false
+published: true
 weight: 10
 section: "voting-basics"
 priority: "Minor"
@@ -10,7 +10,7 @@ priority: "Minor"
 
 All Vote Centers will be ADA compliant, and Elections personnel will be on site to assist voters with specific needs.  
 
-#### Accessible Voting Information    
+#### Accessible Voting Equipment    
 
 All Vote Centers will have at least two voting booths for a chair or wheelchair, magnifying glasses, and pen grips. There will be three accessible ballot marking devices that can accommodate a chair or wheelchair, to help voters with specific needs vote independently and privately.  
 
