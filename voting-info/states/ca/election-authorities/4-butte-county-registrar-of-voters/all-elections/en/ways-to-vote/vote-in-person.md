@@ -6,7 +6,7 @@ section: "ways-to-vote"
 priority: "Minor"
 ---
 
-Your neighborhood polling locations will no longer be open. Instead, you can vote at any Vote Center in Amador County.   
+Your neighborhood polling locations will no longer be open. Instead, you can vote at any Vote Center in Butte County.   
 
 - **All Vote Centers will be open for at least 4 days** from Saturday, February 29, through Election Day, Tuesday, March 3. 
 
@@ -16,10 +16,10 @@ Your neighborhood polling locations will no longer be open. Instead, you can vot
 
 Find your Vote Center locations and hours:  
 
-- Online at [voterschoice.sos.ca.gov](http://www.sos.ca.gov/elections/voters-choice-act/) 
+- On the [Secretary of State's website](https://caearlyvoting.sos.ca.gov/) 
 
-- On the [Amador County Elections Office website](https://www.smcacre.org/sites/main/files/file-attachments/33_eng_vote_center_and_ballot_drop_box_flyer_web.pdf)   
+- On the [Butte County Elections Office website](https://clerk-recorder.buttecounty.net/elections/current_events.html)   
 
-- By calling (650) 312-5222        
+- By calling (530)552-3400, Option 1        
 
-For more information about Amador County’s new Voter’s Choice elections visit the [Amador Department of Elections Office](https://www.smcacre.org/california-voters-choice-act) online.
+For more information about Butte County’s new Voter’s Choice elections visit the [Butte Department of Elections Office](https://clerk-recorder.buttecounty.net/elections/electhome.html) online.
