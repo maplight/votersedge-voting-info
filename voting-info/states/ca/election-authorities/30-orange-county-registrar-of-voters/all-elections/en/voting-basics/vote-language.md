@@ -1,6 +1,6 @@
 ---
 title: "How do I vote in Orange County if I speak a language other than English?"
-published: false
+published: true
 weight: 12
 section: "voting-basics"
 priority: "Minor"
@@ -8,13 +8,13 @@ priority: "Minor"
 
 The Orange County Elections Office website, and Sample Ballots, are available in:  
 
-- [Español/Spanish](https://www.ocvote.com/es/about/)  
+- [Español/Spanish](https://www.ocvote.com/?L=1)  
 
-- [Tiếng Việt/Vietnamese](https://www.ocvote.com/vi/about/)  
+- [Tiếng Việt/Vietnamese](https://www.ocvote.com/?L=2)  
 
-- [中文/Chinese](https://www.ocvote.com/zh/about/)  
+- [中文/Chinese](https://www.ocvote.com/?L=3)  
 
-- [한국어/Korean](https://www.ocvote.com/ko/about/)  
+- [한국어/Korean](https://www.ocvote.com/?L=4)  
 
 Tagalog and Persian versions of ballots and polling place information may be available at some selected precincts.  
 

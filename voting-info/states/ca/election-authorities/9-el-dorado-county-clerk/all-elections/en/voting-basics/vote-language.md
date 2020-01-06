@@ -7,3 +7,5 @@ priority: "Minor"
 ---
 
 Español/Spanish and 中文/Chinese versions of ballots and polling place information may be available at some selected precincts.  
+
+Some Vote Centers might have bilingual workers.
