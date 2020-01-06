@@ -1,6 +1,6 @@
 ---
 title: "How do I vote in person in Mariposa County?"
-published: false
+published: true
 weight: 9
 section: "ways-to-vote"
 priority: "Minor"
@@ -16,10 +16,10 @@ Your neighborhood polling locations will no longer be open. Instead, you can vot
 
 Find your Vote Center locations and hours:  
 
-- Online at [voterschoice.sos.ca.gov](http://www.sos.ca.gov/elections/voters-choice-act/) 
+- On the [Secretary of State's website](https://caearlyvoting.sos.ca.gov/) 
 
-- On the [Mariposa County Elections Office website](https://www.smcacre.org/sites/main/files/file-attachments/33_eng_vote_center_and_ballot_drop_box_flyer_web.pdf)   
+- On the [Mariposa County Elections Office website](https://www.mariposacounty.org/363/Current-Election-Information)   
 
-- By calling (650) 312-5222        
+- By calling (209) 966-2007       
 
-For more information about Mariposa County’s new Voter’s Choice elections visit the [Mariposa Department of Elections Office](https://www.smcacre.org/california-voters-choice-act) online.
+For more information about Mariposa County’s new Voter’s Choice elections visit the [Mariposa Department of Elections Office](https://www.mariposacounty.org/2317/Voters-Choice-Act-VCA) online.

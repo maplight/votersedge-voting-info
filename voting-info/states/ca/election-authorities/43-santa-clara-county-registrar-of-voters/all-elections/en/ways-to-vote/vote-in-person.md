@@ -1,6 +1,6 @@
 ---
 title: "How do I vote in person in Santa Clara County?"
-published: false
+published: true
 weight: 9
 section: "ways-to-vote"
 priority: "Minor"
@@ -16,10 +16,10 @@ Your neighborhood polling locations will no longer be open. Instead, you can vot
 
 Find your Vote Center locations and hours:  
 
-- Online at [voterschoice.sos.ca.gov](http://www.sos.ca.gov/elections/voters-choice-act/) 
+- On the [Secretary of State's website](https://caearlyvoting.sos.ca.gov/) 
 
-- On the [Santa Clara County Elections Office website](https://www.smcacre.org/sites/main/files/file-attachments/33_eng_vote_center_and_ballot_drop_box_flyer_web.pdf)   
+- On the [Santa Clara County Elections Office website](https://eservices.sccgov.org/Rov/)   
 
-- By calling (650) 312-5222        
+- By calling (866) 430-8683        
 
-For more information about Santa Clara County’s new Voter’s Choice elections visit the [Santa Clara Department of Elections Office](https://www.smcacre.org/california-voters-choice-act) online.
+For more information about Santa Clara County’s new Voter’s Choice elections visit the [Santa Clara Department of Elections Office](https://www.sccgov.org/sites/rov/VCA/Pages/home.aspx) online.

@@ -1,6 +1,6 @@
 ---
 title: "How do I vote in Santa Clara County if I speak a language other than English?"
-published: false
+published: true
 weight: 12
 section: "voting-basics"
 priority: "Minor"
@@ -13,7 +13,7 @@ The Santa Clara County Department of Elections **website, Voter Information Pamp
 - [Tagalog/Filipino](https://www.sccgov.org/sites/rov/Tagalog/Pages/default.aspx)  
 - [Tiếng Việt/Vietnamese](https://www.sccgov.org/sites/rov/Vietnamese/Pages/default.aspx)  
 
-**Facsimile ballots and State Voter Information Guides** are available in certain polling places in the following languages:  
+**Facsimile ballots and State Voter Information Guides** are available in certain Vote Centers in the following languages:  
 
 - ខ្មែរ/Khmer/Cambodian  
 - 한국어/Korean  

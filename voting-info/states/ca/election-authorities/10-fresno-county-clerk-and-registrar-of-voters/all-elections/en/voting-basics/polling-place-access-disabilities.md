@@ -6,4 +6,4 @@ section: "voting-basics"
 priority: "Minor"
 ---
 
-Call (559) 600-8683 for specific questions about voting in Fresno County.  
+Call (559) 600-8683 for specific questions about accessible voting in Fresno County.  

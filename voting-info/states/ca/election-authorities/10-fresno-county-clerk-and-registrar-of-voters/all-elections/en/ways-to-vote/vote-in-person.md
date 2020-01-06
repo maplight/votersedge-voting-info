@@ -1,6 +1,6 @@
 ---
 title: "How do I vote in person in Fresno County?"
-published: false
+published: true
 weight: 9
 section: "ways-to-vote"
 priority: "Minor"
@@ -16,10 +16,10 @@ Your neighborhood polling locations will no longer be open. Instead, you can vot
 
 Find your Vote Center locations and hours:  
 
-- Online at [voterschoice.sos.ca.gov](http://www.sos.ca.gov/elections/voters-choice-act/) 
+- On the [Secretary of State's website](https://caearlyvoting.sos.ca.gov/)
 
-- On the [Fresno County Elections Office website](https://www.smcacre.org/sites/main/files/file-attachments/33_eng_vote_center_and_ballot_drop_box_flyer_web.pdf)   
+- On the [Fresno County Elections Office website](https://www.co.fresno.ca.us/departments/county-clerk-registrar-of-voters/election-races/presidential-primary-election-march-3-2020)   
 
-- By calling (650) 312-5222        
+- By calling (559) 600-8683        
 
-For more information about Fresno County’s new Voter’s Choice elections visit the [Fresno Department of Elections Office](https://www.smcacre.org/california-voters-choice-act) online.
+For more information about Fresno County’s new Voter’s Choice elections visit the [Fresno Department of Elections Office](https://www.co.fresno.ca.us/departments/county-clerk-registrar-of-voters/voters-choice-act-3528) online.

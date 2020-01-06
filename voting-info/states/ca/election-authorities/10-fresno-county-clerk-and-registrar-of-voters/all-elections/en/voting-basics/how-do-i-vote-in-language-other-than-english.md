@@ -6,7 +6,7 @@ section: "voting-basics"
 priority: "Minor"
 ---
 
-The Fresno County Clerk/Registrar of Voters offers the [Application for Vote-by-Mail Ballot](http://www.co.fresno.ca.us/home/showdocument?id=2659) and Sample Ballots in Spanish.  
+The Fresno County Clerk/Registrar of Voters offers the [Application for Vote-by-Mail Ballot](https://www.co.fresno.ca.us/home/showdocument?id=3803) and Sample Ballots in Spanish.  
 
 中文/Chinese, Hmong, ខ្មែរ/Khmer, 한국어/Korean, Punjabi, Tagalog, and Tiếng Việt/Vietnamese versions of ballots and polling place information may be available at some selected precincts.  
 
