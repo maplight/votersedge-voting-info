@@ -8,7 +8,7 @@ priority: "Minor"
 
 **How do I vote if I speak a language other than English?**  
 
-The San Francisco County Department of Elections **website, Voter Information Pamphlet and election materials** including ballots are available in:  
+The San Francisco County Department of Elections website, Voter Information Pamphlet and election materials, including ballots, are available in:  
 
 [中文/Chinese](http://sfgov.org/elections/home-ch)  
 [Español/Spanish](http://sfgov.org/elections/home-sp)  

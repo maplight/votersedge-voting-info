@@ -9,7 +9,8 @@ priority: "Minor"
 #### Accessible Voting Places    
 
 Voters with a disability may vote independently:
-	- Using their computer, to mark an accessible ballot [available soon]
-    - At their assigned polling place using an accessible ballot marking device on Election Day
+
+- Using their computer, to mark an accessible ballot [available soon]
+- At their assigned polling place using an accessible ballot marking device on Election Day
 
 Check San Bernardino county’s [My Elections Gateway](https://www.sbcountyelections.com/VoterRegistration/MyElectionGatewayInfo.aspx) or call (800) 881-VOTE (8683).  
