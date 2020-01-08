@@ -1,5 +1,5 @@
 ---
-title: "How do I vote in Place County if I speak a language other than English?"
+title: "How do I vote in Placer County if I speak a language other than English?"
 published: true
 weight: 12
 section: "voting-basics"
