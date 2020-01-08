@@ -18,18 +18,16 @@ Any voter who cannot reach the voting area at the polling place because of archi
 
 Services to voters with specific needs include:  
 
-    Accessible polling places
-    Wheelchair accessible voting booths
-    Magnifying devices and large type voting instructions at polling places
-    TDD Services for the deaf and hard of hearing
-    Voting pens with attachable grip adapter for voting ease
-    Cassette tapes with State measures
-    CD’s with County sample ballot information
-    Vote by mail and permanent vote by mail voting options
-    Poll worker assistance at any step of the voting process
-    Delivery of ballots
-
-**Call** 530-886-5653 for questions on voters with specific needs.  
+- Accessible polling places
+- Wheelchair accessible voting booths
+- Magnifying devices and large type voting instructions at polling places
+- TDD Services for the deaf and hard of hearing    
+- Voting pens with attachable grip adapter for voting ease
+- Cassette tapes with State measures
+- CDs with County sample ballot information
+- Vote by mail and permanent vote by mail voting options
+- Poll worker assistance at any step of the voting process
+- Delivery of ballots
 
 #### Accessible Sample Ballot Pamphlet    
 
