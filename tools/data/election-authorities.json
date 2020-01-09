@@ -971,7 +971,7 @@
             "ve_email": "IL-ls@votersedge.org"
         }, {
             "election_authority_id": "110",
-            "name": "Lake County Election Division",
+            "name": "Lake County Registrar of Voters",
             "area": "Lake County",
             "ea_code": "IL-lk",
             "is_county": "Yes",
@@ -1975,7 +1975,7 @@
             "ve_email": "CA-clv@votersedge.org"
         }, {
             "election_authority_id": "6",
-            "name": "Colusa County Clerk-Recorder",
+            "name": "Colusa County Clerk Recorder",
             "area": "Colusa County",
             "ea_code": "CA-cls",
             "is_county": "Yes",
@@ -2009,7 +2009,7 @@
             "ve_email": "CA-cc@votersedge.org"
         }, {
             "election_authority_id": "8",
-            "name": "Del Norte County Clerk-Recorder",
+            "name": "Del Norte County Clerk Recorder",
             "area": "Del Norte County",
             "ea_code": "CA-dn",
             "is_county": "Yes",
@@ -2043,7 +2043,7 @@
             "ve_email": "CA-ed@votersedge.org"
         }, {
             "election_authority_id": "10",
-            "name": "Fresno Registrar of Voters",
+            "name": "Fresno County Registrar of Voters",
             "area": "Fresno County ",
             "ea_code": "CA-fr",
             "is_county": "Yes",
@@ -2077,7 +2077,7 @@
             "ve_email": "CA-gl@votersedge.org"
         }, {
             "election_authority_id": "12",
-            "name": "Humbolt County Clerk, Recorder, Registrar of Voters",
+            "name": "Humboldt County Registrar of Voters",
             "area": "Humboldt County",
             "ea_code": "CA-hm",
             "is_county": "Yes",
@@ -2111,7 +2111,7 @@
             "ve_email": "CA-im@votersedge.org"
         }, {
             "election_authority_id": "14",
-            "name": "Inyo County Elections",
+            "name": "Inyo County Registrar of Voters",
             "area": "Inyo County ",
             "ea_code": "CA-in",
             "is_county": "Yes",
@@ -2145,7 +2145,7 @@
             "ve_email": "CA-kr@votersedge.org"
         }, {
             "election_authority_id": "16",
-            "name": "Kings County Election Office",
+            "name": "Kings County Elections Office",
             "area": "Kings County",
             "ea_code": "CA-kn",
             "is_county": "Yes",
@@ -2196,7 +2196,7 @@
             "ve_email": "CA-ls@votersedge.org"
         }, {
             "election_authority_id": "19",
-            "name": "Los Angeles County Registrar-Recorder County Clerk",
+            "name": "Los Angeles County Registrar",
             "area": "Los Angeles County",
             "ea_code": "CA-la",
             "is_county": "Yes",
@@ -2247,7 +2247,7 @@
             "ve_email": "CA-mrn@votersedge.org"
         }, {
             "election_authority_id": "22",
-            "name": "Mariposa County Clerk, Registrar of Voters",
+            "name": "Mariposa County Clerk",
             "area": "Mariposa County",
             "ea_code": "CA-mrp",
             "is_county": "Yes",
@@ -2400,7 +2400,7 @@
             "ve_email": "CA-or@votersedge.org"
         }, {
             "election_authority_id": "31",
-            "name": "Placer County Clerk - Recorder - Registrar of Voters",
+            "name": "Placer County Elections Office",
             "area": "Placer County",
             "ea_code": "CA-plc",
             "is_county": "Yes",
@@ -2417,7 +2417,7 @@
             "ve_email": "CA-plc@votersedge.org"
         }, {
             "election_authority_id": "32",
-            "name": "Plumas County Clerk-Recorder",
+            "name": "Plumas County Clerk Recorder",
             "area": "Plumas County",
             "ea_code": "CA-plm",
             "is_county": "Yes",
@@ -2553,7 +2553,7 @@
             "ve_email": "CA-sj@votersedge.org"
         }, {
             "election_authority_id": "40",
-            "name": "San Luis Obispo County Clerk-Recorder",
+            "name": "San Luis Obispo County Clerk Recorder",
             "area": "San Luis Obispo County ",
             "ea_code": "CA-slo",
             "is_county": "Yes",
@@ -2638,7 +2638,7 @@
             "ve_email": "CA-scz@votersedge.org"
         }, {
             "election_authority_id": "45",
-            "name": "Shasta County Clerk - Elections Department",
+            "name": "Shasta County Elections Department",
             "area": "Shasta County",
             "ea_code": "CA-sh",
             "is_county": "Yes",
@@ -2655,7 +2655,7 @@
             "ve_email": "CA-sh@votersedge.org"
         }, {
             "election_authority_id": "46",
-            "name": "Sierra County Clerk-Recorder",
+            "name": "Sierra County Clerk",
             "area": "Sierra County",
             "ea_code": "CA-sr",
             "is_county": "Yes",
@@ -2672,7 +2672,7 @@
             "ve_email": "CA-sr@votersedge.org"
         }, {
             "election_authority_id": "47",
-            "name": "Siskiyou County Clerk-Registrar of Voters",
+            "name": "Siskiyou County Clerk",
             "area": "Siskiyou County",
             "ea_code": "CA-ss",
             "is_county": "Yes",
@@ -2774,7 +2774,7 @@
             "ve_email": "CA-str@votersedge.org"
         }, {
             "election_authority_id": "52",
-            "name": "Tehama Registrar of Voters",
+            "name": "Tehama County Registrar of Voters",
             "area": "Tehama County",
             "ea_code": "CA-th",
             "is_county": "Yes",
@@ -2825,7 +2825,7 @@
             "ve_email": "CA-tlr@votersedge.org"
         }, {
             "election_authority_id": "55",
-            "name": "Tuolumne Registrar of Voters",
+            "name": "Tuolumne County Registrar of Voters",
             "area": "Tuolumne County ",
             "ea_code": "CA-tlm",
             "is_county": "Yes",
@@ -2842,7 +2842,7 @@
             "ve_email": "CA-tlm@votersedge.org"
         }, {
             "election_authority_id": "56",
-            "name": "Ventura County Clerk-Recorder, Registrar of Votes",
+            "name": "Ventura County Registrar of Voters",
             "area": "Ventura County ",
             "ea_code": "CA-vn",
             "is_county": "Yes",
@@ -2859,7 +2859,7 @@
             "ve_email": "CA-vn@votersedge.org"
         }, {
             "election_authority_id": "57",
-            "name": "Yolo Elections Office",
+            "name": "Yolo County Elections Office",
             "area": "Yolo County",
             "ea_code": "CA-yl",
             "is_county": "Yes",
