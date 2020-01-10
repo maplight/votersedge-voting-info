@@ -13,7 +13,7 @@ Comuníquese con su [oficina electoral del condado](#section-election-office-con
 Si cree que le han denegado alguno de sus derechos al voto o si sabe de algún fraude o mala conducta electoral, puede llamar a la línea directa gratuita confidencial para el votante del Secretario de Estado al (800) 345-VOTE (8683). 
 
 **Protección de las elecciones**  
-Si encuentra algún problema para emitir su boleta electoral o siente que se violaron sus derechos, visite el [sitio web de Protección Electoral](https://www.866ourvote.org/) o llame a una de las siguientes líneas directas a fin de recibir ayuda para resolver su disputa e informar de su reclamación. 
+Si encuentra algún problema para emitir su boleta electoral o siente que se violaron sus derechos, visite el [sitio web de Protección Electoral](http://veyvota.yaeshora.info/) o llame a una de las siguientes líneas directas a fin de recibir ayuda para resolver su disputa e informar de su reclamación. 
 
 **Inglés: 866-OUR-VOTE (866-687-8683)**  
 

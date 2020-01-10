@@ -42,7 +42,7 @@ Los trabajadores electorales deben ofrecer la posibilidad de votar en la acera p
 
 Un trabajador electoral llevará al automóvil del votante la lista para firmar, la boleta electoral y otros materiales necesarios.  El trabajador electoral regresará todo al lugar de votación y pondrá la boleta electoral en la urna electoral o escáner. 
 
-Para más información, consulte [Derechos de los votantes con discapacidades](#menu-item-rights-of-voters-with-disabilities). 
+Para más información, consulte [Derechos de los votantes con discapacidades](#menu-item-derechos-de-los-votantes-con-discapacidades). 
 
 **Voto por correo accesible remoto**  
 

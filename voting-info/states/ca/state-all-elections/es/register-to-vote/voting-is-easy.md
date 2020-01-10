@@ -8,7 +8,7 @@ priority: "Minor"
 
 Llene un formulario de inscripción del votante y preséntelo para votar en una elección a más tardar 15 días antes de dicha elección.
 
-**NUEVA INFORMACIÓN:** Aunque haya pasado la fecha límite, todavía puede inscribirse para votar desde ahora y hasta el día de las elecciones. ¡Revise [aquí](#menu-item-missed-the-voter-registration-deadline-you-can-still-register-and-vote) cómo hacerlo!
+**NUEVA INFORMACIÓN:** Aunque haya pasado la fecha límite, todavía puede inscribirse para votar desde ahora y hasta el día de las elecciones. ¡Revise [aquí](#menu-item-¿expiró-el-plazo-de-inscripción-del-elector-¡todavía-puede-inscribirse-para-votar) cómo hacerlo!
 
 #### 1. ¡Regístrese!
 
@@ -16,11 +16,11 @@ Llene un formulario de inscripción del votante y preséntelo para votar en una 
 
 - Debe inscribirse para ser parte de la lista oficial de votantes de su condado. 
   La fecha límite para inscribirse es **15 días antes de la elección**.
-- Complete el formulario en línea en [www.registertovote.ca.gov](http://registertovote.ca.gov//).
+- Complete el formulario en línea en [registertovote.ca.gov](https://registertovote.ca.gov/es-mx).
 También puede recoger su formulario de inscripción del votante en su biblioteca u oficina postal, o llame al 1-800-345-8683 para que le envíen un formulario de inscripción. - Es importante llenar el formulario por completo. Se le pedirá que incluya el número de su licencia de conducir o de otra identificación.
 - Ya que esté en la lista, solamente deberá volver a inscribirse si cambia de domicilio, de nombre, si desea cambiar su partido político o si ya no está en libertad condicional por condena de un delito mayor. 
 
-Para obtener más información, consulte [¿Puedo inscribirme para votar?](#menu-item-can-i-register-to-vote)
+Para obtener más información, consulte [¿Puedo inscribirme para votar?](#menu-item-¿puedo-inscribirme-para-votar)
 
 #### 2. ¡Prepárese!
 
@@ -42,6 +42,6 @@ Vea [Cómo devolver su boleta electoral completada para voto por correo](https:/
 
 Para obtener más información, consulte [Formas de votar](#section-ways-to-vote).
 
-Hay grandes cambios sobre cómo emitir su boleta electoral si vive en uno de estos 15 condados: Amador, Butte, Calaveras, El Dorado, Fresno, Los Angeles, Madera, Mariposa, Napa, Nevada, Orange, Sacramento, San Mateo, Santa Clara y Tuolumne. **¡Tendrá más días y más formas de votar!** Para obtener más información, consulte [Formas de votar](#menu-item-big-changes-in-madera-napa-nevada-sacramento-and-san-mateo-counties).
+Hay grandes cambios sobre cómo emitir su boleta electoral si vive en uno de estos 15 condados: Amador, Butte, Calaveras, El Dorado, Fresno, Los Angeles, Madera, Mariposa, Napa, Nevada, Orange, Sacramento, San Mateo, Santa Clara y Tuolumne. **¡Tendrá más días y más formas de votar!** Para obtener más información, consulte [Formas de votar](#menu-item-grandes-cambios-en-15-condados-con-la-ley-de-votación-flexible).
 
-Visite la **[Guía Fácil del Votante](http://www.easyvoterguide.org/)** para obtener más información sobre cómo votar y descargar una copia en inglés, español, chino, vietnamita o coreano.
+Visite la **[Guía Fácil del Votante](http://www.easyvoterguide.org/)** para obtener más información sobre cómo votar y descargar una copia en español, inglés, chino, vietnamita o coreano.

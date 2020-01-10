@@ -23,4 +23,4 @@ A political party is a group of people who try to determine public policy and in
 - Peace and Freedom Party  
 - Republican Party  
 
-For more information, visit the [California Secretary of State](http://www.sos.ca.gov/elections/political-parties/qualified-political-parties/).  
+For more information, visit the [California Secretary of State](http://www.sos.ca.gov/elections/political-parties/qualified-political-parties/) or read [How to Choose a Political Party](http://www.easyvoterguide.org/wp-content/uploads/2010/09/2020-PoliticalParties-EN.pdf).

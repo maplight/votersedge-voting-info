@@ -6,7 +6,7 @@ section: "ways-to-vote"
 priority: "Minor"
 ---
 
-Si vive en uno de estos condados donde se aplica la Ley de Votación Flexible, hay grandes cambios en la manera de votar. **Amador, Calaveras, Butte, El Dorado, Fresno, Los Angeles, Madera, Mariposa, Napa, Nevada, Orange, Sacramento, San Mateo, Santa Clara o Tuolumne.** 
+Si vive en uno de estos condados donde se aplica la Ley de Votación Flexible, hay grandes cambios en la manera de votar: **Amador, Calaveras, Butte, El Dorado, Fresno, Los Angeles, Madera, Mariposa, Napa, Nevada, Orange, Sacramento, San Mateo, Santa Clara o Tuolumne.** 
 
 - Recibirá automáticamente su boleta por correo unas semanas antes de la elección. 
 - Ya no se usarán para votar la mayoría de los lugares de votación de los vecindarios. 
@@ -21,7 +21,7 @@ Los votantes en el condado de Los Angeles no recibirán su boleta electoral por 
 
 Para recibir la boleta electoral por correo, deberá inscribirse antes de la fecha límite, es decir, 15 días antes de la elección. La fecha límite de inscripción para las elecciones primarias del martes 3 de marzo es el martes 18 de febrero. 
 
-¿Expiró el plazo? Todavía puede inscribirse y votar en un centro de votación, y puede hacerlo desde ahora hasta el día de las elecciones. Si requiere más información sobre la inscripción del votante en el mismo día, consulte [¿Expiró el plazo de inscripción del votante? [¡Todavía puede inscribirse para votar!](#menu-item-missed-the-voter-registration-deadline-you-can-still-register-and-vote)
+¿Expiró el plazo? Todavía puede inscribirse y votar en un centro de votación, y puede hacerlo desde ahora hasta el día de las elecciones. Si requiere más información sobre la inscripción del votante en el mismo día, consulte [¿Expiró el plazo de inscripción del votante? [¡Todavía puede inscribirse para votar!](#menu-item-¿expiró-el-plazo-de-inscripción-del-elector-¡todavía-puede-inscribirse-para-votar)
 
 Para obtener más información sobre los cambios en las elecciones, consulte [Elecciones de votación flexible](#menu-item-voters-choice-elections-big-changes-in-madera-napa-nevada-sacramento-and-san-mateo-counties) y la página del [Secretario de Estado de California](https://www.sos.ca.gov/elections/voters-choice-act/).
    
