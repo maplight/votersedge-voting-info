@@ -56,5 +56,5 @@ Las condiciones en las que usted **pierde el derecho al voto al estar en la cár
 En California, no necesita hacer nada para “restaurar” su derecho al voto. Se restaura de forma automática, una vez que usted termine su sentencia y ya no esté en libertad condicional. Sin embargo, **debe [inscribirse o volver a inscribirse para votar](#section-register-to-vote) en las próximas elecciones.**
 
 Para obtener más información, visite [Permítanme votar](https://www.letmevoteca.org/). 
-Descargue folletos en [inglés](https://www.letmevoteca.org/wp-content/uploads/2016/09/Brochure-HowYourVoteMatters.pdf) y en [español](https://www.letmevoteca.org/wp-content/uploads/2016/09/Brochure-ComoTuVotoImporta.pdf). 
-También puede descargar e imprimir tarjetas de Permítanme votar en [inglés](https://www.letmevoteca.org/wp-content/uploads/2018/04/2018-LMV-palmcard_Rev03.pdf) y [español](https://www.letmevoteca.org/wp-content/uploads/2018/04/2018-LMV-palmcard_SPANISH_Rev03-1.pdf).  
+Descargue folletos en [español](https://www.letmevoteca.org/wp-content/uploads/2016/09/Brochure-ComoTuVotoImporta.pdf) y en [inglés](https://www.letmevoteca.org/wp-content/uploads/2016/09/Brochure-HowYourVoteMatters.pdf). 
+También puede descargar e imprimir tarjetas de Permítanme votar en [español](https://www.letmevoteca.org/wp-content/uploads/2018/04/2018-LMV-palmcard_SPANISH_Rev03-1.pdf) y [inglés](https://www.letmevoteca.org/wp-content/uploads/2018/04/2018-LMV-palmcard_Rev03.pdf).  

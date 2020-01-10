@@ -6,7 +6,7 @@ section: "register-to-vote"
 priority: "Minor"
 ---
 
-Todavía no es demasiado tarde para votar, aunque haya pasado la fecha límite de inscripción del votante. Para inscribirse hasta el día de las elecciones, acuda a su [lugar de votación](#section-election-office-contact), centro de votación u oficina electoral y lleve a cabo tres pasos sencillos: 
+Todavía no es demasiado tarde para votar, aunque haya pasado la fecha límite de inscripción del votante. Para inscribirse hasta el día de las elecciones, acuda a su [lugar de votación](#section-my-polling-place), centro de votación u oficina electoral y lleve a cabo tres pasos sencillos: 
 
   1. **Inscríbase** para votar. 
   2. **Vote.**
@@ -19,5 +19,3 @@ A este procedimiento se le llama inscripción de votante condicional (Conditiona
 ¡Consulte [aquí](https://caearlyvoting.sos.ca.gov) las ubicaciones donde puede inscribirse y votar al mismo tiempo hasta el día de las elecciones! 
 
 Para saber si se contabilizó su boleta, consulte el [sitio web del Secretario de Estado](http://www.sos.ca.gov/elections/ballot-status/) o llame al 800-345-VOTE (8683) después de la elección. Si su boleta no fue contabilizada, también podrá saber el motivo. 
-
-Para obtener más información, consulte el [Manual de reforma electoral de 2018: Lo que los votantes deben saber](http://futureofcaelections.org/wp-content/uploads/ERP_32718.Revised_final.pdf) de las elecciones del futuro de California.

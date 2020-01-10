@@ -17,4 +17,4 @@ priority: "Minor"
 - If the measure amends the Constitution, consider whether it really belongs in the Constitution.  
 - Be wary of distortion tactics and commercials that rely on image but tell nothing of substance about the measure. Be aware of half truths.  
 
-For more information visit [Fast Facts on State Ballot Measures](http://www.easyvoterguide.org/wp-content/uploads/2016/03/2016-FastFacts-BallotMeasures.pdf).
+For more information visit [Fast Facts on State Ballot Measures](http://www.easyvoterguide.org/wp-content/uploads/2010/09/2020-Fast-Facts-BallotMeasures-EN.pdf).

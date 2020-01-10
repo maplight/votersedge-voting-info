@@ -5,10 +5,10 @@ weight: 7
 section: "voting-basics"
 priority: "Minor"
 ---
-**Para obtener información sobre la inscripción, consulte [¿Cómo me inscribo si soy militar, me encuentro en el extranjero o vivo fuera?](#menu-item-how-do-i-register-if-i-am-military-overseas-or-i-live-abroad)**
+**Para obtener información sobre la inscripción, consulte [¿Cómo me inscribo si soy militar, me encuentro en el extranjero o vivo fuera?](#menu-item-¿cómo-me-inscribo-si-soy-militar-me-encuentro-en-el-extranjero-o-vivo-fuera-del-país)**
 
 **Reciba y complete** su boleta electoral:  
-Cuando se inscribió para votar con la [inscripción del votante en línea](http://registertovote.ca.gov/) de California o una [Solicitud de tarjeta postal federal](https://www.fvap.gov/uploads/FVAP/Forms/fpca2013.pdf) **(FPCA)** tuvo la opción de recibir su boleta electoral por correo postal, fax o correo electrónico. En algunos condados es posible descargar una boleta electoral. Consulte la [lista de condados](https://www.sos.ca.gov/elections/voter-registration/military-overseas-voters/) para saber si es posible descargarla. 
+Cuando se inscribió para votar con la [inscripción del votante en línea](https://registertovote.ca.gov/es-mx) de California o una [Solicitud de tarjeta postal federal](https://www.fvap.gov/uploads/FVAP/Forms/fpca2013.pdf) **(FPCA)** tuvo la opción de recibir su boleta electoral por correo postal, fax o correo electrónico. En algunos condados es posible descargar una boleta electoral. Consulte la [lista de condados](https://www.sos.ca.gov/elections/voter-registration/military-overseas-voters/) para saber si es posible descargarla. 
 - Deberá recibir su boleta electoral entre 45 y 30 días antes del día de las elecciones. Si no recibe una, póngase en contacto con su [condado](#section-election-office-contact). 
 - Si no recibe una boleta electoral 30 días antes del día de las elecciones, puede solicitar una [boleta electoral federal por escrito](https://www.fvap.gov/uploads/FVAP/Forms/fwab2013.pdf) que le permite votar en las elecciones federales, pero no en las de California. Verifique esto con la oficina electoral de su condado. 
 - **Siga las instrucciones que recibió en su boleta electoral** para completarla. 

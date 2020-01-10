@@ -6,7 +6,7 @@ section: "ways-to-vote"
 priority: "Minor"
 ---
 
-If you live in one of these Voter’s Choice Act counties, there are big changes as to how you vote. **Amador, Calaveras, Butte, El Dorado, Fresno, Los Angeles, Madera, Mariposa, Napa, Nevada, Orange, Sacramento, San Mateo, Santa Clara, or Tuolumne.** 
+If you live in one of these Voter’s Choice Act counties, there are big changes as to how you vote: **Amador, Calaveras, Butte, El Dorado, Fresno, Los Angeles, Madera, Mariposa, Napa, Nevada, Orange, Sacramento, San Mateo, Santa Clara, or Tuolumne.** 
 
 - You will automatically receive your ballot in the mail a few weeks before the election.  
 - Most neighborhood polling places will no longer be used for voting.    

@@ -5,7 +5,7 @@ weight: 12
 section: "register-to-vote"
 priority: "Minor"
 ---
-Inscríbase para votar ya sea utilizando la [inscripción del votante en línea](http://registertovote.ca.gov/) de California o al presentar la [Solicitud de tarjeta postal federal (Federal Post Card Application, FPCA)](https://www.fvap.gov/uploads/FVAP/Forms/fpca2013.pdf), si es un ciudadano de los Estados Unidos que es:  
+Inscríbase para votar ya sea utilizando la [inscripción del votante en línea](https://registertovote.ca.gov/es-mx) de California o al presentar la [Solicitud de tarjeta postal federal (Federal Post Card Application, FPCA)](https://www.fvap.gov/uploads/FVAP/Forms/fpca2013.pdf), si es un ciudadano de los Estados Unidos que es:  
 - miembro de los Servicios Uniformados (en activo) o un dependiente elegible  
 - miembro de la Marina Mercante o un dependiente elegible  
 - del cuerpo comisionado del Servicio de Salud Pública  
@@ -18,7 +18,7 @@ Asegúrese de llenar y enviar la inscripción del votante en línea o la FPCA de
 
 Cuando se inscriba para votar, tendrá la opción de escoger entre que se le envíe su boleta electoral por correo, fax o correo electrónico. 
 
-Recibirá un voto permanente por correo, pero cada vez que se mude deberá llenar un nuevo [formulario de inscripción del votante de California en línea](http://registertovote.ca.gov/) o [FPCA](https://www.fvap.gov/). 
+Recibirá un voto permanente por correo, pero cada vez que se mude deberá llenar un nuevo [formulario de inscripción del votante de California en línea](https://registertovote.ca.gov/es-mx) o [FPCA](https://www.fvap.gov/). 
 
-Para obtener información sobre la votación, consulte [¿Cómo me inscribo si soy militar, me encuentro en el extranjero o vivo fuera?](#menu-item-how-do-i-vote-if-i-am-military-overseas-or-live-abroad)
+Para obtener información sobre la votación, consulte [¿Cómo me inscribo si soy militar, me encuentro en el extranjero o vivo fuera?](#menu-item-¿cómo-me-inscribo-si-soy-militar-me-encuentro-en-el-extranjero-o-vivo-fuera-del-país)
   

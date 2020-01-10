@@ -23,7 +23,7 @@ El Secretario de Estado de California aprobó varios sistemas de votación para 
 
 **Los sistemas de voto por correo accesible remoto** (RAVBM) proporcionan una opción accesible para que los votantes con discapacidades reciban sus boletas electorales en su casa y las marquen de forma independiente y privada antes de devolverlas a los funcionarios electorales. Comuníquese con su oficina electoral del condado para más información. 
 
-Para obtener más información, consulte [¿Cómo puedo votar si tengo alguna discapacidad?](#menu-item-how-do-i-vote-if-i-have-disabilities) o visite [Disability Rights California](http://www.disabilityrightsca.org/pubs/PublicationsVoting.htm). Para más información sobre los derechos de los votantes con discapacidades mentales, lea [esta guía preparada por el Bazelon Center para la Ley de Salud Mental](http://www.bazelon.org/wp-content/uploads/2018/10/2018-Voter-Guide-plain-language-Updated.pdf).
+Para obtener más información, consulte [¿Cómo puedo votar si tengo alguna discapacidad?](#menu-item-¿cómo-voto-si-tengo-alguna-discapacidad) o visite [Disability Rights California](http://www.disabilityrightsca.org/pubs/PublicationsVoting.htm). Para más información sobre los derechos de los votantes con discapacidades mentales, lea [esta guía preparada por el Bazelon Center para la Ley de Salud Mental](http://www.bazelon.org/wp-content/uploads/2018/10/2018-Voter-Guide-plain-language-Updated.pdf).
 
 Vea el video del Center for Independence sobre [Por qué debe votar](https://www.youtube.com/watch?v=FIX1KFGIhvQ&t=2s).
 

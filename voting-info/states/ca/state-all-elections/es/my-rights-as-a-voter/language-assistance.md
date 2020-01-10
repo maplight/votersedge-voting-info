@@ -10,4 +10,4 @@ priority: "Minor"
 - En algunas localidades, los panfletos informativos para electores y las muestras de boleta electoral están traducidos al chino, español, tagalo y vietnamita, entre otros idiomas.
 - En algunos lugares de votación, hay trabajadores electorales bilingües que apoyan a los electores en su propio idioma.  
 
-Para obtener más información, visite la [Secretaría del Estado de California](http://www.sos.ca.gov/elections/voting-resources/voting-california) o [Asian Americans Advancing Justice, Los Angeles](http://advancingjustice-la.org/what-we-do/policy-and-research/democracy-project).
+Para obtener más información, visite la [Secretaría del Estado de California](https://www.sos.ca.gov/elections/voting-resources/voting-california/spanish/) o [Asian Americans Advancing Justice, Los Angeles](http://advancingjustice-la.org/what-we-do/policy-and-research/democracy-project).
