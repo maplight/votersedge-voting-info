@@ -8,7 +8,7 @@ priority: "Minor"
 
 **¿Cómo voto en el lugar de votación o el centro de votación en persona?**  
 
-Los lugares de votación están abiertos de 7 a. m. a 8 p. m. el día de las elecciones. 
+Los lugares de votación están abiertos de 7 a. m. a 8 p. m. el día de las elecciones, **el martes 3 de marzo**. 
 
 _[Los centros de votación](#menu-item-voters-choice-elections-big-changes-in-madera-napa-nevada-sacramento-and-san-mateo-counties) en los 15 condados que cuentan con la Ley de Votación Flexible están abiertos antes del día de las elecciones y también estarán abiertos de 7 a. m. a las 8 p. m. el día de las elecciones._
 

@@ -34,7 +34,7 @@ Si está inscrito sin preferencia partidista (NPP) pero desea votar por el presi
 **Si se volvió a inscribir después de recibir una boleta electoral para voto por correo:**  
 - Si se volvió a inscribir después de recibir una boleta electoral para voto por correo y solicitó un estado de voto por correo durante la reinscripción, entonces se le enviará por correo postal una nueva boleta electoral para voto por correo. 
 - Devuelva la nueva boleta electoral para voto por correo en el sobre que venía adjunto a la nueva boleta electoral. No use la antigua boleta electoral ni el antiguo sobre. La antigua boleta electoral es nula y no se contabilizará. Una nueva boleta electoral en un sobre antiguo tampoco se contabilizará. 
-- Envíe su boleta por correo postal. Asegúrese de que tenga el sello el 3 de marzo de 2020 o antes. 
+- Envíe su boleta por correo postal. Asegúrese de que tenga el sello **el 3 de marzo de 2020 o antes.** 
 -O-  
 - **Lleve** su boleta electoral para voto por correo en persona el día de las elecciones a cualquier lugar de votación en su condado o a su [oficina electoral del condado](#section-election-office-contact).  
 
