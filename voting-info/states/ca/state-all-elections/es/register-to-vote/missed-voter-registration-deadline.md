@@ -5,7 +5,7 @@ weight: 5
 section: "register-to-vote"
 priority: "Minor"
 ---
-
+#<a name="some-id"></a>
 Todavía no es demasiado tarde para votar, aunque haya pasado la fecha límite de inscripción del votante. Para inscribirse hasta el día de las elecciones, acuda a su [lugar de votación](#section-my-polling-place), centro de votación u oficina electoral y lleve a cabo tres pasos sencillos: 
 
   1. **Inscríbase** para votar. 
