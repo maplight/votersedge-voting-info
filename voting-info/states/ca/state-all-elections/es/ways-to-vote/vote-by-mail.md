@@ -30,8 +30,8 @@ Haga que votar en el futuro sea más fácil y solicítelo a través de su [ofici
 Puede pedir a cualquier persona que entregue su boleta electoral para voto por correo en una ubicación para votar el día de las elecciones. Complete la información que está en el sobre de envío. 
 
 **¡No se retrase si envía su boleta electoral por correo!**  
-- Su boleta electoral para voto por correo completada deberá estar **sellada** el **día de las elecciones, el martes 3 de marzo,** o antes.
-- Una vez enviada por correo y sellada, la boleta electoral deberá **recibirse** en la oficina electoral **a más tardar el viernes 6 de marzo.**
+- Su boleta electoral para voto por correo completada deberá estar **matasellada** a más tardar el **día de las elecciones, el martes 3 de marzo,** o antes.
+- Una vez enviada por correo y matasellada, la boleta electoral deberá **ser recibido** en la oficina electoral **a más tardar el viernes 6 de marzo.**
 
 Vea [Cómo devolver su boleta electoral completada para voto por correo](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DhFH3YZrhBag%26feature%3Dyoutu.be&sa=D&ust=1576113195433000&usg=AFQjCNGr5kb0Ft2GLwC551ertzTHTcQlHg). 
    
