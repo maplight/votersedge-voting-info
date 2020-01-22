@@ -1,6 +1,6 @@
 ---
 title: "How do I return my ballot by Drop Box in Santa Clara County?"
-published: false
+published: true
 weight: 8
 section: "ways-to-vote"
 priority: "Minor"

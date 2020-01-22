@@ -6,4 +6,4 @@ section: "more-voting-info"
 priority: "Minor"
 ---
 
-Check out this great opportunity to help your community while earning extra money: be a Vote Center Worker in [Butte County](https://clerk-recorder.buttecounty.net/elections/precinct_officers.html)!  
+Check out this great opportunity to help your community while earning extra money: be a Vote Center Worker in Butte County - call (530) 552-3400 or email the [Butte County Elections Office](mailto:elections@buttecounty.net) for more information.

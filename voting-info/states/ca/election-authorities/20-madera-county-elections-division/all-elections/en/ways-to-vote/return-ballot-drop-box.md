@@ -18,6 +18,6 @@ priority: "Minor"
 
 On Election Day, Tuesday, March 3, all Vote Centers are open from 7 AM to 8 PM. Ballot Drop Boxes will also close at 8 PM. 
 
-Find a Ballot Dropbox or Vote Center at [voterschoice.sos.ca.gov](http://www.sos.ca.gov/elections/voters-choice-act/) or on the [Madera County Elections office website](https://votemadera.com/event-directory/where-is-my-polling-place/). 
+Find a Ballot Drop Box or Vote Center on the [Secretary of State's website](https://caearlyvoting.sos.ca.gov/) or on the [Madera County Elections office website](https://votemadera.com/event-directory/where-is-my-polling-place/). 
 
 For more information about Madera County’s new Voter’s Choice elections visit the [Madera Department of Elections Office](http://votemadera.com/vca/) online. 
