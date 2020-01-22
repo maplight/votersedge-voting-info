@@ -15,7 +15,7 @@ Llene un formulario de inscripción del votante y preséntelo para votar en una 
 - Usted es elegible para votar si es un ciudadano de los Estados Unidos mayor de 18 años de edad, si ya no está en prisión o en libertad condicional por condena de un delito mayor, y un tribunal no lo ha declarado mentalmente incompetente.
 
 - Debe inscribirse para ser parte de la lista oficial de votantes de su condado. 
-  La fecha límite para inscribirse para votar en las elecciones es**a más tardar el martes 18 de febrero**.
+  La fecha límite para inscribirse para votar en las elecciones es **a más tardar el martes 18 de febrero**.
 - Complete el formulario en línea en [registertovote.ca.gov](https://registertovote.ca.gov/es-mx).
 También puede recoger su formulario de inscripción del votante en su biblioteca u oficina postal, o llame al 1-800-345-8683 para que le envíen un formulario de inscripción. - Es importante llenar el formulario por completo. Se le pedirá que incluya el número de su licencia de conducir o de otra identificación.
 - Ya que esté en la lista, solamente deberá volver a inscribirse si cambia de domicilio, de nombre, si desea cambiar su partido político o si ya no está en libertad condicional por condena de un delito mayor. 
