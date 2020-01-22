@@ -16,6 +16,6 @@ Voters with disabilities may request a remote accessible vote-by-mail ballot. Yo
 
 #### Accessible Voting Information  
 
-If you have questions about Vote Center accessibility, call the Tuolumne County Elections Office at (209) 533-5570 or [send them an email](elections@tuolumnecounty.ca.gov).
+If you have questions about Vote Center accessibility, call the Tuolumne County Elections Office at (209) 533-5570 or [send them an email](mailto:elections@tuolumnecounty.ca.gov).
 
 You can also read more about assitance for voters with disabilities by [visiting the Tuolumne Registrar of Voter's website](https://www.tuolumnecounty.ca.gov/194/Election-Information).

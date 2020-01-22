@@ -16,7 +16,7 @@ Your neighborhood polling locations will no longer be open. Instead, you can vot
 
 Find your Vote Center locations and hours:  
 
-- Online at [voterschoice.sos.ca.gov](http://www.sos.ca.gov/elections/voters-choice-act/)    
+- On the [Secretary of State's website](https://caearlyvoting.sos.ca.gov/)    
 
 - On the [Madera County Elections office website](https://votemadera.com/event-directory/where-is-my-polling-place/). 
 
