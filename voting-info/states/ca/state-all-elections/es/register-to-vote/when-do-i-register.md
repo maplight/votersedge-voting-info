@@ -1,5 +1,5 @@
 ---
-title: "¿ Cuándo puedo inscribirme para votar?"
+title: "¿Cuándo puedo inscribirme para votar?"
 published: true
 weight: 4
 section: "register-to-vote"

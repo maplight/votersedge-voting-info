@@ -12,7 +12,7 @@ Vea el video del Center for Independence sobre [Por qué debe votar](https://www
 
 **Información accesible**  
 
-La [Guía Oficial de Información para el Votante](http://voterguide.sos.ca.gov/) estatal que se envía por correo a cada votante inscrito está disponible en una versión descargable en MP3 [versión de audio](http://www.sos.ca.gov/elections/voting-resources/voters-disabilities/), audiocasetes, lenguaje estadounidense de señas y en letra grande. Puede llamar al (800) 345 8683 para solicitar estas versiones. 
+La [Guía Oficial de Información para el Votante](https://vig.cdn.sos.ca.gov/2020/primary/es/pdf/complete-vig.pdf) estatal que se envía por correo a cada votante inscrito está disponible en una versión descargable en MP3 [versión de audio](http://www.sos.ca.gov/elections/voting-resources/voters-disabilities/), audiocasetes, lenguaje estadounidense de señas y en letra grande. Puede llamar al (800) 345 8683 para solicitar estas versiones. 
 
 El Secretario de Estado de California también tiene una línea directa para los votantes que padecen sordera, discapacidades auditivas o problemas del habla, al: (800) 833-8683 - TTY/TDD  
 

@@ -1,5 +1,5 @@
 ---
-title: "Elecciones de votación flexible: cambios importantes en los condados de Madera, Napa, Nevada, Sacramento y San Mateo"
+title: "Elecciones de votación flexible: Grandes cambios en 15 condados con la Ley de Votación Flexible"
 published: true
 weight: 1
 section: "voting-basics"
