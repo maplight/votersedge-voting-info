@@ -1,5 +1,5 @@
 ---
-title: &quot;&iquest;Expir&oacute; el plazo de inscripci&oacute;n del elector? &iexcl;Todav&iacute;a puede inscribirse para votar!&quot;
+title: "¿Expiró el plazo de inscripción del elector? ¡Todavía puede inscribirse para votar!"
 published: true
 weight: 5
 section: "register-to-vote"
