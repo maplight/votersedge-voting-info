@@ -48,4 +48,4 @@ For more information check [Rights of voters with disabilities](#menu-item-right
 
 Remote accessible vote-by-mail (RAVBM) systems provide an accessible option for voters with disabilities to receive their ballots at home and mark them independently and privately before sending them back to elections officials. Contact your [County Elections Office](#section-election-office-contact) for more information. 
 
-Disability Rights California has a great video with information on [remote accessible vote-by-mail](https://youtu.be/54-Xbg5Nbg4), a new way for people with disabilities to vote from home.  
+Disability Rights California has a great video with information on [remote accessible vote-by-mail](https://youtu.be/54-Xbg5Nbg4), a new way for people with disabilities to vote from home. You can read more about remote accessible vote-by-mail on the [Disability Rights California website](https://www.disabilityrightsca.org/publications/many-voters-with-disabilities-can-vote-by-mail-privately-and-independently).  

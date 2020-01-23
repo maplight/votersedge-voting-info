@@ -16,7 +16,7 @@ You can do this at any polling location in your county, but if you go to the pla
 
 This is called Conditional Voter Registration (CVR) or Same-Day Registration. Your vote will be counted after elections officials verify your voter registration and confirm that you have not already voted in this election. 
 
-Check [here](https://caearlyvoting.sos.ca.gov) to find locations where you can register and vote at the same time--all the way up through Election Day! 
+Check [here](https://caearlyvoting.sos.ca.gov) to find locations where you can register and vote at the same time - starting early and going all the way up through Election Day! 
 
 After the election, check the [Secretary of State's website](http://www.sos.ca.gov/elections/ballot-status/) or call 800-345-VOTE (8683) to learn how to see whether your ballot was counted. If it wasn't counted, you'll also be able to see the reason why. 
   
