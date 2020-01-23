@@ -8,8 +8,8 @@ priority: "Minor"
 
 Llene un formulario de inscripción del votante y preséntelo para votar en una elección a más tardar el martes 18 de febrero.
 
-**NUEVA INFORMACIÓN:** Aunque haya pasado la fecha límite, todavía puede inscribirse para votar desde ahora y hasta el día de las elecciones. ¡Revise [aquí](#some-id) cómo hacerlo!
-
+**NUEVA INFORMACIÓN:** Aunque haya pasado la fecha límite, todavía puede inscribirse para votar desde ahora y hasta el día de las elecciones. ¡Revise [aquí](#menu-item-Expir&oacute;-el-plazo-de-inscripci&oacute;n-del-elector?-&iexcl;Todav&iacute;a-puede-inscribirse-para-votar!&quot;) cómo hacerlo!
+ 
 #### 1. ¡Regístrese!
 
 - Usted es elegible para votar si es un ciudadano de los Estados Unidos mayor de 18 años de edad, si ya no está en prisión o en libertad condicional por condena de un delito mayor, y un tribunal no lo ha declarado mentalmente incompetente.
