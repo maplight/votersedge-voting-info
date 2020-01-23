@@ -22,7 +22,7 @@ The California Secretary of State has approved several voting systems for use th
 	The voting machine permits voters to verify their choices and, if there is an error, allows them to correct those choices before submitting their final ballot.
 - Poll workers must provide curbside voting for voters with disabilities who need this assistance.  
 
-**Remote accessible vote-by-mail** (RAVBM) systems provide an accessible option for voters with disabilities to receive their ballots at home and mark them independently and privately before sending them back to elections officials. Contact your County Elections Office for more information. 
+**Remote accessible vote-by-mail** (RAVBM) systems provide an accessible option for voters with disabilities to receive their ballots at home and mark them independently and privately before sending them back to elections officials. Contact your County Elections Office for more information. You can also read more about remote accessible vote-by-mail on the [Disability Rights California website](https://www.disabilityrightsca.org/publications/many-voters-with-disabilities-can-vote-by-mail-privately-and-independently).  
 
 For more information check [How do I vote if I have disabilities?](#menu-item-how-do-i-vote-if-i-have-disabilities) or visit [Disability Rights California](http://www.disabilityrightsca.org/pubs/PublicationsVoting.htm). To learn more about the rights of voters with mental disabilities, read [this guide prepared by the Bazelon Center for Mental Health Law](http://www.bazelon.org/wp-content/uploads/2018/10/2018-Voter-Guide-plain-language-Updated.pdf).
 
