@@ -8,7 +8,7 @@ priority: "Minor"
 
 Llene un formulario de inscripción del votante y preséntelo para votar en una elección a más tardar el martes 18 de febrero.
 
-**NUEVA INFORMACIÓN:** Aunque haya pasado la fecha límite, todavía puede inscribirse para votar desde ahora y hasta el día de las elecciones. ¡Revise [aquí](#menu-item-&quot;&iquest;Expir&oacute;-el-plazo-de-inscripci&oacute;n-del-elector?-&iexcl;Todav&iacute;a-puede-inscribirse-para-votar!&quot;) cómo hacerlo!
+**NUEVA INFORMACIÓN:** Aunque haya pasado la fecha límite, todavía puede inscribirse para votar desde ahora y hasta el día de las elecciones. ¡Revise [aquí](#menu-item-¿Expiró-el-plazo-de-inscripción-del-elector?-¡Todavía-puede-inscribirse-para-votar!) cómo hacerlo!
  
 #### 1. ¡Regístrese!
 
