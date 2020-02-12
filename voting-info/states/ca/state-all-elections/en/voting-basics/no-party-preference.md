@@ -5,10 +5,11 @@ weight: 16
 section: "voting-basics"
 priority: "Minor"
 ---
+If you’re registered as No Party Preference (NPP) but you want to vote for president in the *Green, Peace and Freedom, or Republican parties*, then you must re-register and select that party. The last day to re-register to vote is Tuesday, February 18, 2020. 
 
 **NEW** Now all Californians can [Same-Day Register (or re-register)](#menu-item-missed-the-voter-registration-deadline-you-can-still-register-and-vote), change their political party, and vote with a provisional ballot at every voting location in your county.
 
-If you’re registered as No Party Preference (NPP) but you want to vote for president in the American Independent, Democratic, or Libertarian Party, then here are your options:  
+If you’re registered as No Party Preference (NPP) but you want to vote for president in the *American Independent, Democratic, or Libertarian Party*, then here are your options:  
 
 **Vote-by-Mail**  
 - **Apply** for a vote-by-mail ballot **before February 18, 2020.** [Download](http://elections.cdn.sos.ca.gov/vote-by-mail/pdf/vote-by-mail-application.pdf), print and fill out the application.  
