@@ -18,7 +18,7 @@ Find your Vote Center locations and hours:
 
 - On the [Secretary of State's website](https://caearlyvoting.sos.ca.gov/) 
 
-- On the [Orange County Elections Office website](https://www.ocvote.com/registration/verify-your-voter-registration/?page_heading=pp)   
+- On the [Orange County Elections Office website](https://ocvote.maps.arcgis.com/apps/webappviewer/index.html?id=5c1a4a20bcff4d649a9b97a12e66c9f1)   
 
 - By calling (714) 567-7600        
 
