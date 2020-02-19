@@ -10,7 +10,7 @@ Find your polling place:
 
 - In the [My Voting Location](#section-my-polling-place) section of this site.  
 
-- On the [Orange County Elections Office](https://www.ocvote.com/voting/polling-place-and-sample-ballot-finder/find-your-polling-place/) website.  
+- On the [Orange County Elections Office](https://ocvote.maps.arcgis.com/apps/webappviewer/index.html?id=5c1a4a20bcff4d649a9b97a12e66c9f1) website.  
 
 - By calling 714.567.7600.  
 
