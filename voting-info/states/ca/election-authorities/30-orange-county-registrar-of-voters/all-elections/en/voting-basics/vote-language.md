@@ -8,13 +8,13 @@ priority: "Minor"
 
 The Orange County Elections Office website, and Sample Ballots, are available in:  
 
-- [Español/Spanish](https://www.ocvote.com/?L=1)  
+- [Español/Spanish](https://www.ocvote.com/vc/web/es)  
 
-- [Tiếng Việt/Vietnamese](https://www.ocvote.com/?L=2)  
+- [Tiếng Việt/Vietnamese](https://www.ocvote.com/vc/web/vi)  
 
-- [中文/Chinese](https://www.ocvote.com/?L=3)  
+- [中文/Chinese](https://www.ocvote.com/vc/web/zh-hans)  
 
-- [한국어/Korean](https://www.ocvote.com/?L=4)  
+- [한국어/Korean](https://www.ocvote.com/vc/web/ko)  
 
 Tagalog and Persian versions of ballots and polling place information may be available at some selected precincts.  
 
