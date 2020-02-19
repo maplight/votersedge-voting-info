@@ -18,6 +18,6 @@ priority: "Minor"
 
 On Election Day, Tuesday, March 3, all Vote Centers are open from 7 AM to 8 PM. Ballot Drop Boxes will also close at 8 PM. 
 
-Find a Ballot Drop Box or Vote Center on the [Secretary of State's website](https://caearlyvoting.sos.ca.gov/) or on the [Calaveras County Elections Office website](https://electools.calaverasgov.us/ElectionDataLookup/PollPlaceLookup.aspx). 
+Find a Ballot Drop Box or Vote Center on the [Secretary of State's website](https://caearlyvoting.sos.ca.gov/) or on the [Calaveras County Elections Office website](http://elections.calaverasgov.us/Next-Election/Presidential-Election/Where-to-Vote). 
 
 For more information about Calaveras County’s new Voter’s Choice elections visit the [Calaveras Department of Elections Office](https://elections.calaverasgov.us/Voter-Services/VCA) online.  

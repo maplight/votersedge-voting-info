@@ -18,7 +18,7 @@ Find your Vote Center locations and hours:
 
 - On the [Secretary of State's website](https://caearlyvoting.sos.ca.gov/)
 
-- On the [El Dorado County Elections Office website](https://edcgov.us/Government/Elections/Pages/March-2020-Presidential-Primary.aspx)   
+- On the [El Dorado County Elections Office website](https://edcgov.us/Government/Elections/Pages/Locator-Tool-March-3-2020-Primary.aspx)   
 
 - By calling (530) 621-7486        
 

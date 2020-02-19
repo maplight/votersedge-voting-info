@@ -18,7 +18,7 @@ Find your Vote Center locations and hours:
 
 - On the [Secretary of State's website](https://caearlyvoting.sos.ca.gov/)
 
-- On the [Fresno County Elections Office website](https://www.co.fresno.ca.us/departments/county-clerk-registrar-of-voters/election-races/presidential-primary-election-march-3-2020)   
+- On the [Fresno County Elections Office website](https://cofgisonline.maps.arcgis.com/apps/webappviewer/index.html?id=efe2a0df2a614b299ece3d9b9f350953)   
 
 - By calling (559) 600-8683        
 

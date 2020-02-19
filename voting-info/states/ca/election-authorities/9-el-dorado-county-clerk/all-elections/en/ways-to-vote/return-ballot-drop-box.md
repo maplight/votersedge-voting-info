@@ -18,6 +18,6 @@ priority: "Minor"
 
 On Election Day, Tuesday, March 3, all Vote Centers are open from 7 AM to 8 PM. Ballot Drop Boxes will also close at 8 PM. 
 
-Find a Ballot Drop Box or Vote Center on the [Secretary of State's website](https://caearlyvoting.sos.ca.gov/) or on the [El Dorado County Elections Office website](https://edcgov.us/Government/Elections/Pages/March-2020-Presidential-Primary.aspx). 
+Find a Ballot Drop Box or Vote Center on the [Secretary of State's website](https://caearlyvoting.sos.ca.gov/) or on the [El Dorado County Elections Office website](https://edcgov.us/Government/Elections/Pages/Locator-Tool-March-3-2020-Primary.aspx). 
 
 For more information about El Dorado County’s new Voter’s Choice elections visit the [El Dorado Department of Elections Office](https://edcgov.us/Government/Elections/Pages/Vote-Centers.aspx) online.  
