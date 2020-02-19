@@ -12,7 +12,10 @@ All Vote Centers will be ADA compliant, and Elections personnel will be on site 
 
 #### Accessible Voting Equipment  
 
-Orange County's electronic voting system has audio headphones, raised Braille-labeled keys, and adaptive devices that provide large tactile buttons for motor issues as well as sip-n-puff capability. They also provide curbside voting if a voter cannot enter the polling place. In addition, a voter may vote-by-mail if that method is more convenient.  
+Orange County's electronic voting system has audio headphones, raised Braille-labeled keys, and adaptive devices that provide large tactile buttons for motor issues as well as sip-n-puff capability. They also provide curbside voting if a voter cannot enter the polling place. In addition, a voter may vote-by-mail if that method is more convenient.
+
+Voters with disabilities may request a remote accessible vote-by-mail ballot. You can use this ballot at home with your own computer and assistive technologies, then print the ballot and mail or drop it off. You can request a remote accessible vote-by-mail ballot [here](https://www.ocvote.com/vlt/).
+  
 
 #### Accessible Voting Information  
 

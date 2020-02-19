@@ -19,6 +19,6 @@ You will only receive a ballot in the mail if you are a permanent vote-by-mail v
 
 On Election Day, Tuesday, March 3, all Vote Centers are open from 7 AM to 8 PM. Ballot Drop Boxes will also close at 8 PM. 
 
-Find a Ballot Drop Box or Vote Center at [voterschoice.sos.ca.gov](http://www.sos.ca.gov/elections/voters-choice-act/) or on the [Los Angeles County Elections Office website](https://www.lavote.net/home/voting-elections/current-elections/find-my-election-information). 
+Find a Ballot Drop Box or Vote Center at [voterschoice.sos.ca.gov](http://www.sos.ca.gov/elections/voters-choice-act/) or on the [Los Angeles County Elections Office website](https://locator.lavote.net/locations/vbm?id=4085). 
 
 For more information about Los Angeles County’s new Voter’s Choice elections visit the [Los Angeles Department of Elections Office](https://www.lavote.net/home/voting-elections/current-elections) online.  

@@ -18,7 +18,7 @@ Find your Vote Center locations and hours:
 
 - On the [Secretary of State's website](https://caearlyvoting.sos.ca.gov/) 
 
-- On the [Tuolumne County Elections Office website](http://www.tcvoter.co.tuolumne.ca.us:8091/poll.aspx)   
+- On the [Tuolumne County Elections Office website](https://www.tuolumnecounty.ca.gov/DocumentCenter/View/13871/2020-03-03-VIG-VC-and-BD-Locations)   
 
 - By calling (209) 533-5570         
 
