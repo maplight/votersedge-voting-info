@@ -18,7 +18,7 @@ Find your Vote Center locations and hours:
 
 - On the [Secretary of State's website](https://caearlyvoting.sos.ca.gov/) 
 
-- On the [Santa Clara County Elections Office website](https://eservices.sccgov.org/Rov/)   
+- On the [Santa Clara County Elections Office website](https://eservices.sccgov.org/Rov/) 
 
 - By calling (866) 430-8683        
 

@@ -18,6 +18,6 @@ priority: "Minor"
 
 On Election Day, Tuesday, March 3, all Vote Centers are open from 7 AM to 8 PM. Ballot Drop Boxes will also close at 8 PM. 
 
-Find a Ballot Drop Box or Vote Center on the [Secretary of State's website](https://caearlyvoting.sos.ca.gov/) or on the [Butte County Elections Office website](https://clerk-recorder.buttecounty.net/elections/current_events.html). 
+Find a Ballot Drop Box or Vote Center on the [Secretary of State's website](https://caearlyvoting.sos.ca.gov/) or on the [Butte County Elections Office website](https://clerk-recorder.buttecounty.net/elections/archives/eln44/44_box_locations.pdf). 
 
 For more information about Butte County’s new Voter’s Choice elections visit the [Butte Department of Elections Office](https://clerk-recorder.buttecounty.net/elections/electhome.html) online.  
