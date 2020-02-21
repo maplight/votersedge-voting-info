@@ -19,7 +19,7 @@ For answers to your questions about voting and elections, or to request mail del
 - (855) 345-3933 - ภาษาไทย / Thai  
 - (800) 339-8163 - Việt ngữ / Vietnamese  
 
-For more information on in-language voting resources visit the [California Secretary of State](http://www.sos.ca.gov/elections/voting-resources/) and read this handy [Language Assistance Fact Sheet](http://advancingjustice-la.org/sites/default/files/LanguageAssistanceFactSheet.pdf).  
+For more information on in-language voting resources visit the [California Secretary of State](http://www.sos.ca.gov/elections/voting-resources/) and read this handy [Language Assistance Fact Sheet](https://www.advancingjustice-alc.org/wp-content/uploads/2020/02/language-access_english_v03.pdf). This and other documents are available in several languages on the [Asian Americans Advancing Justice website](https://www.advancingjustice-alc.org/know-your-voting-rights/).  
 
 To find out what languages are available in your county, contact your [county elections office](#section-election-office-contact). The information is often listed on the county's web site and may also appear on the county voter guide you receive in the mail.  
 

@@ -12,21 +12,20 @@ priority: "Minor"
 
 **Know your rights in 13 languages.**  
 Get information about your rights in eleven languages from [Asian Americans Advancing Justice, California](
-http://www.advancingjustice-alc.org/know-your-voting-rights/). The materials will help first-time voters, immigrant voters, and limited-English proficient voters exercise their right to vote on Election Day. They have instructions on how to register to vote, how to vote, how to access language assistance in the voting process, and how to handle problems encountered during Election Day, among other subjects.  
+https://www.advancingjustice-alc.org/know-your-voting-rights/). The materials will help first-time voters, immigrant voters, and limited-English proficient voters exercise their right to vote on Election Day. They have instructions on how to register to vote, how to vote, how to access language assistance in the voting process, and how to handle problems encountered during Election Day, among other subjects.  
 
-[Arabic](https://www.advancingjustice-alc.org/wp-content/uploads/2018/10/KYVR-November-2018-NON-VCA-FINAL_Arabic.pdf)  
-[Chinese](https://www.advancingjustice-alc.org/wp-content/uploads/2018/10/KYVR-November-2018-NON-VCA-FINAL_Mandarin.pdf)  
-[English](https://www.advancingjustice-alc.org/wp-content/uploads/2018/09/KYVR-November-2018-NON-VCA-FINAL.pdf)  
-[Farsi](https://www.advancingjustice-alc.org/wp-content/uploads/2018/10/KYVR-November-2018-NON-VCA-FINAL_Farsi-1.pdf)  
-[Hindi](https://www.advancingjustice-alc.org/wp-content/uploads/2018/10/KYVR-November-2018-NON-VCA-FINAL_Hindi.pdf)  
-[Hmong](https://www.advancingjustice-alc.org/wp-content/uploads/2018/10/KYVR-November-2018-NON-VCA-FINAL_Hmong.pdf)  
-[Japanese](http://www.advancingjustice-alc.org/wp-content/uploads/2016/09/KYVR-Japanese.pdf)  
-[Khmer](https://www.advancingjustice-alc.org/wp-content/uploads/2018/10/KYVR-November-2018-NON-VCA-FINAL_Khmer.pdf)  
-[Korean](https://www.advancingjustice-alc.org/wp-content/uploads/2018/10/KYVR-November-2018-NON-VCA-FINAL_Korean_Rv1.pdf)  
-[Punjabi](https://www.advancingjustice-alc.org/wp-content/uploads/2018/10/KYVR-November-2018-NON-VCA-FINAL_Punjabi.pdf)  
-[Spanish](https://www.advancingjustice-alc.org/wp-content/uploads/2018/10/KYVR-November-2018-NON-VCA-FINAL_Spanish.pdf)  
-[Tagalog](https://www.advancingjustice-alc.org/wp-content/uploads/2018/10/KYVR-November-2018-NON-VCA-FINAL_Filipino.pdf)  
-[Thai](http://www.advancingjustice-alc.org/wp-content/uploads/2016/09/KYVR-Thai.pdf)  
-[Vietnamese](https://www.advancingjustice-alc.org/wp-content/uploads/2018/10/KYVR-November-2018-NON-VCA-FINAL_Vietnamese_Rv1.pdf)  
+[Arabic](https://www.advancingjustice-alc.org/wp-content/uploads/2020/02/KYVR-nonvca-arabic_v02.pdf)  
+[Chinese](https://www.advancingjustice-alc.org/wp-content/uploads/2020/02/KYVR-nonvca-chinese_v01.pdf)  
+[English](https://www.advancingjustice-alc.org/wp-content/uploads/2020/02/KYVR-nonvca_english.pdf)  
+[Farsi](https://www.advancingjustice-alc.org/wp-content/uploads/2020/02/KYVR-nonvca-farsi_v02.pdf)  
+[Hindi](https://www.advancingjustice-alc.org/wp-content/uploads/2020/02/KYVR-nonvca-hindi_v01.pdf)  
+[Hmong](https://www.advancingjustice-alc.org/wp-content/uploads/2020/02/KYVR-nonvca-hmong_v01.pdf)  
+[Cambodian/Khmer](https://www.advancingjustice-alc.org/wp-content/uploads/2020/02/KYVR-nonvca-khmer_v01.pdf)  
+[Korean](https://www.advancingjustice-alc.org/wp-content/uploads/2020/02/KYVR-nonvca-korean_v01.pdf)  
+[Punjabi](https://www.advancingjustice-alc.org/wp-content/uploads/2020/02/KYVR-nonvca-punjabi_v01.pdf)  
+[Spanish](https://www.advancingjustice-alc.org/wp-content/uploads/2020/02/KYVR-nonvca-spanish_v01.pdf)  
+[Tagalog](https://www.advancingjustice-alc.org/wp-content/uploads/2020/02/KYVR-nonvca-tagalog_v01.pdf)  
+[Tongan](https://www.advancingjustice-alc.org/wp-content/uploads/2020/02/KYVR-nonvca-tongan_v01.pdf)  
+[Vietnamese](https://www.advancingjustice-alc.org/wp-content/uploads/2020/02/KYVR-nonvca-vietnamese_v01.pdf)  
 
 For more information visit the [California Secretary of State](http://www.sos.ca.gov/elections/voting-resources/voting-california).
