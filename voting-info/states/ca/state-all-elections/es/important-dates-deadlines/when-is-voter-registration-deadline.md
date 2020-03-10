@@ -5,7 +5,7 @@ weight: 2
 section: "important-dates-deadlines"
 priority: "Minor"
 ---
-La fecha límite para inscribirse para votar es el 18 de febrero.
+La fecha límite para inscribirse para votar es el 19 de octubre.
 
 Es importante que llene por completo su solicitud de inscripción de votante y:
 - la presente en línea antes de la media noche, 15 días antes de la elección o
