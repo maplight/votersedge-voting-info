@@ -35,9 +35,9 @@ Puede votar en persona acudiendo a cualquier Centro de Votación en su condado. 
 
 #### CUÁNDO ESTARÁN ABIERTOS LOS CENTROS DE VOTACIÓN   
 
-Todos los Centros de Votación estarán abiertos al menos 4 días antes del día de las elecciones. Esto significa que, para las elecciones primarias del 3 de marzo, todos los Centros de Votación se abrirán desde el sábado 29 de febrero hasta el martes 3 de marzo.   
+Todos los Centros de Votación estarán abiertos al menos 4 días antes del día de las elecciones. Esto significa que, para las elecciones generales del 3 de noviembre, todos los Centros de Votación se abrirán desde el sábado 31 de octubre hasta el martes 3 de noviembre.   
 
-Algunos Centros de Votación estarán abiertos desde 11 días antes del día de las elecciones. Para las elecciones primarias del 3 de marzo, algunos Centros de Votación abrirán a partir del sábado 22 de febrero.   
+Algunos Centros de Votación estarán abiertos desde 11 días antes del día de las elecciones. Para las elecciones generales del 3 de noviembre, algunos Centros de Votación abrirán a partir del sábado 24 de octubre.   
 
 **[Busque un Centro de Votación o la ubicación de un buzón para boletas electorales.](https://caearlyvoting.sos.ca.gov/)**  
 

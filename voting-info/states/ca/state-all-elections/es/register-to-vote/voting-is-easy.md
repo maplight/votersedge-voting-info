@@ -6,7 +6,7 @@ section: "register-to-vote"
 priority: "Minor"
 ---
 
-Llene un formulario de inscripción del votante y preséntelo para votar en una elección a más tardar el martes 18 de febrero.
+Llene un formulario de inscripción del votante y preséntelo para votar en una elección a más tardar el lunes 19 de octubre.
 
 **NUEVA INFORMACIÓN:** Aunque haya pasado la fecha límite, todavía puede inscribirse para votar desde ahora y hasta el día de las elecciones. ¡Revise [aquí](#menu-item-¿Expiró-el-plazo-de-inscripción-del-elector?-¡Todavía-puede-inscribirse-para-votar!) cómo hacerlo!
  
@@ -15,7 +15,7 @@ Llene un formulario de inscripción del votante y preséntelo para votar en una 
 - Usted es elegible para votar si es un ciudadano de los Estados Unidos mayor de 18 años de edad, si ya no está en prisión o en libertad condicional por condena de un delito mayor, y un tribunal no lo ha declarado mentalmente incompetente.
 
 - Debe inscribirse para ser parte de la lista oficial de votantes de su condado. 
-  La fecha límite para inscribirse para votar en las elecciones es **a más tardar el martes 18 de febrero**.
+  La fecha límite para inscribirse para votar en las elecciones es **a más tardar el lunes 19 de octubre**.
 - Complete el formulario en línea en [registertovote.ca.gov](https://registertovote.ca.gov/es-mx).
 También puede recoger su formulario de inscripción del votante en su biblioteca u oficina postal, o llame al 1-800-345-8683 para que le envíen un formulario de inscripción. - Es importante llenar el formulario por completo. Se le pedirá que incluya el número de su licencia de conducir o de otra identificación.
 - Ya que esté en la lista, solamente deberá volver a inscribirse si cambia de domicilio, de nombre, si desea cambiar su partido político o si ya no está en libertad condicional por condena de un delito mayor. 
@@ -36,7 +36,7 @@ Encuentre su [lugar de votación y boleta electoral](#section-my-polling-place).
 
 - Usted elige si desea votar en su lugar de votación o utilizar una boleta electoral para “voto por correo”.
 - Para votar en persona, los lugares de votación están abiertos de 7 a. m. a 8 p. m. Es posible que también pueda votar antes del día de las elecciones en la oficina electoral de su condado o en otro lugar especial. Si ya se inscribió y su nombre no aparece en la lista de votantes en el lugar de votación que se le asignó, puede votar utilizando una “boleta electoral provisional”. Su voto se contará si los funcionarios electorales determinan que usted es elegible para votar. 
-- Para votar por correo, utilice el formulario que se encuentra en su Guía de Información para el Votante del condado a fin de solicitar que se le envíe una boleta electoral para “voto por correo”. La fecha límite para solicitarla es el **martes 25 de febrero**. Cuando reciba su boleta electoral para “voto por correo”, llénela y regrésela por correo postal a tiempo para que lleve un matasellos **previo al** día de las elecciones. También puede entregarla en cualquier lugar de votación de su condado el día de las elecciones. Si su condado lo proporciona, también puede utilizar un buzón seguro para boletas electorales. Puede inscribirse para recibir una boleta electoral para “voto por correo” para todas las elecciones.
+- Para votar por correo, utilice el formulario que se encuentra en su Guía de Información para el Votante del condado a fin de solicitar que se le envíe una boleta electoral para “voto por correo”. La fecha límite para solicitarla es el **martes 27 de octubre**. Cuando reciba su boleta electoral para “voto por correo”, llénela y regrésela por correo postal a tiempo para que lleve un matasellos **previo al** día de las elecciones. También puede entregarla en cualquier lugar de votación de su condado el día de las elecciones. Si su condado lo proporciona, también puede utilizar un buzón seguro para boletas electorales. Puede inscribirse para recibir una boleta electoral para “voto por correo” para todas las elecciones.
 
 Vea [Cómo devolver su boleta electoral completada para voto por correo](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DhFH3YZrhBag%26feature%3Dyoutu.be&sa=D&ust=1576113195433000&usg=AFQjCNGr5kb0Ft2GLwC551ertzTHTcQlHg). 
 

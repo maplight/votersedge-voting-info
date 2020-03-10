@@ -38,7 +38,7 @@ Si desea votar en una de estas elecciones primarias del partido, tiene que solic
 - Partido Paz y Libertad  
 - Partido Republicano  
 
-**Si desea cambiar su afiliación partidista antes de las elecciones primarias,** entonces **debe** [volver a inscribirse](https://registertovote.ca.gov/es-mx) y seleccionar ese partido. El último día para volver a inscribirse para votar es el martes 18 de febrero de 2020. **NUEVO** Aunque haya pasado la fecha límite de [inscripción y voto el mismo día](#menu-item-¿expiró-el-plazo-de-inscripción-del-elector-¡todavía-puede-inscribirse-para-votar), ahora puede cambiar su afiliación partidista durante todo el día de las elecciones y votar con una boleta electoral provisional.
+**Si desea cambiar su afiliación partidista antes de las elecciones primarias,** entonces **debe** [volver a inscribirse](https://registertovote.ca.gov/es-mx) y seleccionar ese partido. El último día para volver a inscribirse para votar es el lunes 19 de octubre de 2020. **NUEVO** Aunque haya pasado la fecha límite de [inscripción y voto el mismo día](#menu-item-¿expiró-el-plazo-de-inscripción-del-elector-¡todavía-puede-inscribirse-para-votar), ahora puede cambiar su afiliación partidista durante todo el día de las elecciones y votar con una boleta electoral provisional.
 
 Puede volver a inscribirse después de la elección primaria, al ser un votante “sin preferencia partidista” o sin ningún partido político. 
 

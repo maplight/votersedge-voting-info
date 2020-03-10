@@ -7,7 +7,7 @@ priority: "Minor"
 ---
 
 Es importante que llene por completo su solicitud de inscripción de votante y:  
-- la presente [en línea](https://registertovote.ca.gov/es-mx) antes de la media noche, **el martes 18 de febrero**, o  
-- la entregue por correo o en persona en la oficina electoral de su condado a más tardar **el martes 18 de febrero**.  
+- la presente [en línea](https://registertovote.ca.gov/es-mx) antes de la media noche, **el lunes 19 de octubre**, o  
+- la entregue por correo o en persona en la oficina electoral de su condado a más tardar **el lunes 19 de octubre**.  
 
 Si **no cumple con la fecha límite**, aun así se procesará su solicitud.  Si se aprueba, usted podrá votar en las próximas elecciones.
