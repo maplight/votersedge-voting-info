@@ -38,7 +38,7 @@ If you want to vote in one of these party primaries, you must ask for that ballo
 - Peace and Freedom Party  
 - Republican Party  
 
-**If you want to change your party registration before the primary,** then you **should** [re-register](http://registertovote.ca.gov/) and select that party. The last day to re-register to vote is Tuesday, February 18, 2020. **NEW** Even if you miss that deadline, with [Same-Day registration and voting](#menu-item-missed-the-voter-registration-deadline-you-can-still-register-and-vote), you may now change your party registration all the way through Election Day and vote with a provisional ballot.
+**If you want to change your party registration before the primary,** then you **should** [re-register](http://registertovote.ca.gov/) and select that party. The last day to re-register to vote is Monday, October, 2020. **NEW** Even if you miss that deadline, with [Same-Day registration and voting](#menu-item-missed-the-voter-registration-deadline-you-can-still-register-and-vote), you may now change your party registration all the way through Election Day and vote with a provisional ballot.
 
 You can always re-register again after the primary as either a “No Party Preference” voter or with any political party.  
 

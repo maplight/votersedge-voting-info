@@ -25,13 +25,13 @@ You can vote in person by visiting any Vote Center in your county. At every Vote
 - Drop off your completed ballot.  
 - Vote with an accessible voting machine.   
 - Get help and voting materials in multiple languages.  
-- Register and vote even after the registration deadline has passed, including on Election Day, Tuesday, March 3.   
+- Register and vote even after the registration deadline has passed, including on Election Day, Tuesday, November 3.   
 
 #### When Vote Centers Are Open
 
-All Vote Centers will be open for at least 4 days before Election Day. For the March 3 Primary, this means all Vote Centers will be open from Saturday, February 29, through Tuesday, March 3. 
+All Vote Centers will be open for at least 4 days before Election Day. For the November 3 General Election, this means all Vote Centers will be open from Saturday, October 31, through Tuesday, November 3. 
 
-Some Vote Centers will be open for 11 days before Election Day. For the March 3 Primary, some Vote Centers will open starting Saturday, February 22. 
+Some Vote Centers will be open for 11 days before Election Day. For the November 3 General Election, some Vote Centers will open starting Saturday, October 24. 
 
 **[Find a Ballot Drop Box location or Vote Center.](https://caearlyvoting.sos.ca.gov/)**
 
