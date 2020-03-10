@@ -8,7 +8,7 @@ priority: "Minor"
 
 **How do I vote at the polling place or vote center in person?**  
 
-Polling places are open from 7 AM to 8 PM on **Election Day, Tuesday, March 3, 2020**.  
+Polling places are open from 7 AM to 8 PM on **Election Day, Tuesday, November 3, 2020**.  
 
 _[Vote Centers](#menu-item-big-changes-in-15-voters-choice-counties) in the 15 Voter’s Choice Act counties are open before Election Day and will also be open from 7 AM to 8 PM on Election Day._
 

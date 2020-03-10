@@ -19,7 +19,7 @@ If you live in one of these Voter’s Choice Act counties, there are big changes
 
 Find your Vote Center or Ballot Drop Box location [here](https://caearlyvoting.sos.ca.gov/)!  
 
-In order to receive a ballot in the mail, you must register by the deadline, which is 15 days before an election. The registration deadline for the Tuesday, March 3, primary election is Tuesday, February 18. 
+In order to receive a ballot in the mail, you must register by the deadline, which is 15 days before an election. The registration deadline for the Tuesday, November 3, General Election is Monday, October 19. 
 
 Missed the deadline? You can still register and vote at a Vote Center, all the way up to and including Election Day. For more information on same-day voter registration, check [Missed the voter registration deadline? You can still register and vote!](#menu-item-missed-the-voter-registration-deadline-you-can-still-register-and-vote)
 
