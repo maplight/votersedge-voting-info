@@ -17,7 +17,8 @@ Fill out a voter registration form to vote in the November 3, 2020 General Elect
 - You must register to get on the official list of voters in your county. 
   The deadline to register is **Monday, October 19, 2020.**.
 - Fill out the form online at [registertovote.ca.gov](http://registertovote.ca.gov//).
-You can also pick up a voter registration form at your library or post office or call 1-800-345-8683 to have a registration form mailed. , or - It is important to fill out the form completely. You will be asked to include your driver’s license number or other identification.
+You can also pick up a voter registration form at your library or post office or call 1-800-345-8683 to have a registration form mailed. 
+- It is important to fill out the form completely. You will be asked to include your driver’s license number or other identification.
 - Once you are on the list, you only need to re-register if you change your address, change your name, want to change your political party, or are no longer on parole for a felony conviction. 
 
 For more information, check [Can I Register To Vote?](#menu-item-can-i-register-to-vote)
