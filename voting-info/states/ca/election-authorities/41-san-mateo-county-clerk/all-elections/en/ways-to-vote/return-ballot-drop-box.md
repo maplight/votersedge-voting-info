@@ -18,6 +18,6 @@ priority: "Minor"
 
 On Election Day, Tuesday, November 3, all Vote Centers are open from 7 AM to 8 PM. Ballot Drop Boxes will also close at 8 PM. 
 
-Find a Ballot Drop Box or Vote Center on the [Secretary of State's website](https://caearlyvoting.sos.ca.gov/) or on the [San Mateo County Elections Office website](https://www.smcacre.org/ballot-drop-box-locations). 
+Find a Ballot Drop Box or Vote Center on [the Secretary of State's website](https://caearlyvoting.sos.ca.gov/) or on the [San Mateo County Elections Office website](https://www.smcacre.org/ballot-drop-box-locations). 
 
 For more information about San Mateo County’s new Voter’s Choice elections visit the [San Mateo Department of Elections Office](https://www.smcacre.org/california-voters-choice-act) online.  
