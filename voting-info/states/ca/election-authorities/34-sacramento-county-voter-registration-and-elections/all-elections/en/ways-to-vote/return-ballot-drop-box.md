@@ -18,6 +18,6 @@ priority: "Minor"
 
 On Election Day, Tuesday, November 3, all Vote Centers are open from 7 AM to 8 PM. Ballot Drop Boxes will also close at 8 PM. 
 
-Find a Ballot Drop Box or Vote Center on the [Secretary of State's website](https://caearlyvoting.sos.ca.gov/) or on the [Sacramento County Elections office website](https://elections.saccounty.net/votecenters/pages/locations.aspx). 
+Find a Ballot Drop Box or Vote Center on [the Secretary of State's website](https://caearlyvoting.sos.ca.gov/) or on the [Sacramento County Elections office website](https://elections.saccounty.net/votecenters/pages/locations.aspx). 
 
 For more information about Sacramento County’s new Voter’s Choice elections visit the [Sacramento Department of Elections Office](http://www.elections.saccounty.net/VoteCenters/Pages/Vote-Center.aspx) online.  
