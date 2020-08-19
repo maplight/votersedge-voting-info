@@ -24,8 +24,8 @@ jobs:
           command: |
                    if [ -n "$(git status --porcelain)" ]; then
                           echo "*** Files have been updated. ***";
-                          git config --global user.name "jagadeeshwaran"
-                          git config --global user.email "jagadeeshwaran.govindaraj@augustasoftsol.com"
+                          git config --global user.name "leon-maplight"
+                          git config --global user.email "leon@maplight.org"
                           git add *;
                           git commit -m "latest voter info updates [ci skip]";
                           git push origin master;
