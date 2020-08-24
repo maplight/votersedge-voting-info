@@ -1900,7 +1900,7 @@
             "state": "CA",
             "zipcode": "94612",
             "phone": "(510) 272-6933",
-            "email": "",
+            "email": "rov_outreach@acgov.org",
             "fax": "(510) 272-6982",
             "website": "http:\/\/www.acgov.org\/rov\/index.htm",
             "polling_lookup": "https:\/\/www.acgov.org\/rov_app\/pollinglist?electionid=240#&ui-state=dialog",
@@ -2106,7 +2106,7 @@
             "phone": "(442) 265-1060",
             "email": "DebbiePorter@co.imperial.ca.us",
             "fax": "(442) 265-1062",
-            "website": "https:\/\/www.co.imperial.ca.us\/regvoters\/",
+            "website": "https:\/\/elections.imperialcounty.org",
             "polling_lookup": "http:\/\/elections.imperialcounty.org\/my-info\/",
             "ve_email": "CA-im@votersedge.org"
         }, {
@@ -2150,7 +2150,7 @@
             "ea_code": "CA-kn",
             "is_county": "Yes",
             "address": "1400 W. Lacey Blvd.",
-            "address2": "",
+            "address2": "Bldg #7",
             "city": "Hanford",
             "state": "CA",
             "zipcode": "93230",
@@ -2167,7 +2167,7 @@
             "ea_code": "CA-lk",
             "is_county": "Yes",
             "address": "255 N. Forbes Street",
-            "address2": "",
+            "address2": "Rm 209",
             "city": "Lakeport",
             "state": "CA",
             "zipcode": "95453",
@@ -2259,7 +2259,7 @@
             "phone": "(209) 966-2007",
             "email": "kwilliams@mariposacounty.org",
             "fax": "(209) 966-6496",
-            "website": "https:\/\/www.mariposacounty.org\/87\/Elections",
+            "website": "https:\/\/www.mariposacounty.org\/363\/Current-Election-Information",
             "polling_lookup": "",
             "ve_email": "CA-mrp@votersedge.org"
         }, {
@@ -2307,7 +2307,7 @@
             "city": "Alturas ",
             "state": "CA",
             "zipcode": "96101",
-            "phone": "(530) 233-6205",
+            "phone": "(530) 233-6200",
             "email": "clerkelections@co.modoc.ca.us",
             "fax": "(530) 233-6666",
             "website": "http:\/\/www.co.modoc.ca.us\/departments\/elections",
@@ -2396,7 +2396,7 @@
             "email": "ocvoter@ocgov.com",
             "fax": "(714) 567-7556",
             "website": "http:\/\/www.ocvote.com\/",
-            "polling_lookup": "",
+            "polling_lookup": "https:\/\/www.ocvote.com\/voting\/voting-and-dropoff-locations-by-election",
             "ve_email": "CA-or@votersedge.org"
         }, {
             "election_authority_id": "31",
@@ -2515,7 +2515,7 @@
             "email": "rovmail@sdcounty.ca.gov",
             "fax": "(858) 505-7294",
             "website": "http:\/\/www.sdvote.com\/",
-            "polling_lookup": "https:\/\/www2.sdcounty.ca.gov\/rov\/Eng\/polling.asp",
+            "polling_lookup": "https:\/\/rov.sandiegocounty.gov\/rov\/Eng\/polling.asp",
             "ve_email": "CA-sd@votersedge.org"
         }, {
             "election_authority_id": "38",
@@ -2532,7 +2532,7 @@
             "email": "sfvote@sfgov.org",
             "fax": "(415) 554-7344",
             "website": "https:\/\/sfelections.sfgov.org\/",
-            "polling_lookup": "https:\/\/www.sfelections.org\/tools\/pollsite\/index.php",
+            "polling_lookup": "https:\/\/sfelections.org\/tools\/portal\/",
             "ve_email": "CA-sf@votersedge.org"
         }, {
             "election_authority_id": "39",
@@ -2579,11 +2579,11 @@
             "city": "San Mateo ",
             "state": "CA",
             "zipcode": "94402",
-            "phone": "(650) 312-5222",
-            "email": "registrar@smcare.org",
+            "phone": "(888)762-8683",
+            "email": "registrar@smcacre.org",
             "fax": "(650) 312-5348",
             "website": "https:\/\/www.smcacre.org\/elections",
-            "polling_lookup": "https:\/\/www.smcacre.org\/vote-centers-vote-person",
+            "polling_lookup": "https:\/\/www.smcacre.org\/vote\/all",
             "ve_email": "CA-sm@votersedge.org"
         }, {
             "election_authority_id": "42",
@@ -2617,7 +2617,7 @@
             "email": "registrar@rov.sccgov.org",
             "fax": "(408) 998-7314",
             "website": "https:\/\/www.sccgov.org\/sites\/rov\/Pages\/Registrar-of-Voters.aspx",
-            "polling_lookup": "https:\/\/www.sccgov.org\/sites\/rov\/VBM\/Pages\/VoteEarly.aspx",
+            "polling_lookup": "https:\/\/eservices.sccgov.org\/Rov\/",
             "ve_email": "CA-scl@votersedge.org"
         }, {
             "election_authority_id": "44",
@@ -2702,7 +2702,7 @@
             "email": "elections@solanocounty.com",
             "fax": "(707) 784-6678",
             "website": "http:\/\/www.solanocounty.com\/depts\/rov\/default.asp",
-            "polling_lookup": "https:\/\/sonomacounty.ca.gov\/CRA\/Registrar-of-Voters\/Voter-Information-Lookup\/",
+            "polling_lookup": "https:\/\/secure.sonoma-county.org\/vote\/polling_place_sample_ballot.aspx?sid=1070",
             "ve_email": "CA-sln@votersedge.org"
         }, {
             "election_authority_id": "49",
@@ -2770,7 +2770,7 @@
             "email": "elections@co.sutter.ca.us",
             "fax": "(530) 822-7587",
             "website": "http:\/\/www.co.sutter.ca.us\/doc\/government\/depts\/cr\/elections\/cr_elections_home",
-            "polling_lookup": "",
+            "polling_lookup": "https:\/\/www.sutter.yourvoter.guide\/#\/search",
             "ve_email": "CA-str@votersedge.org"
         }, {
             "election_authority_id": "52",
