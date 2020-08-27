@@ -10,6 +10,8 @@ priority: "Minor"
 
 All Vote Centers are required to be accessible to people with disabilities.
 
+Voters may vote on a paper or an electronic ballot from a nearby accessible location, including a car. To request curbside voting assistance, you can ring the doorbell outside of a vote center or call the Nevada County elections office at (530) 265-1298. 
+
 #### Accessible Voting Equipment  
 
 All vote centers will be equipped with at least three accessible electronic voting machines (HART eSlates) and have paper ballots available if desired. These electronic voting machines will have the option of an audio ballot in English and Spanish. These machines can accomodate Tactile Switches and sip-and-puff technology. Magnifying tools are freely available on tables. If you need any other assistance with voting, vote center staff will be available upon request to read or help mark ballots. 
