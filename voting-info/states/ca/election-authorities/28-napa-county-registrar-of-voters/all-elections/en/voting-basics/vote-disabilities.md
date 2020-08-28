@@ -20,9 +20,11 @@ The ballot-marking device allows voters to navigate through their ballots using 
 - Braille-embossed handheld keypad (audio-tactile interface)
 - Headphones and audio instructions in English and Spanish  
 
+Voters may bring in their own assistive devices, including sip-and-puff systems, paddles, and head-pointers. 
+
 Voters with disabilities may request a remote accessible vote-by-mail ballot. You can use this ballot at home with your own computer and assistive technologies, then print the ballot and mail or drop it off.   
 
-Voters can also request audio ballot information and accessible PDF files by email.  
+Voters can also request audio ballot information and accessible PDF files by email. Voters using the ballot-marking device have the option to view or hear a summary of their choices and change any selections before printing their ballots.
 
 #### Accessible Voting Information  
 
