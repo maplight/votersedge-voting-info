@@ -1,6 +1,6 @@
 ---
 title: "How do I vote for President in the Primary if I am registered as No Party Preference?"
-published: true
+published: false
 weight: 16
 section: "voting-basics"
 priority: "Minor"

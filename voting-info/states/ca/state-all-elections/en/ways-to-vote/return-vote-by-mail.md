@@ -1,21 +1,16 @@
 ---
-title: "How do I return my vote-by-mail ballot?"
+title: "Drop Off Your Ballot"
 published: true
 weight: 5
 section: "ways-to-vote"
 priority: "Minor"
 ---
-Follow the instructions carefully and **sign** the envelope
+Follow the instructions in Vote by Mail (bookmark to section above) to fill out your ballot and envelope. 
 
-**Return the ballot:**
-1. **By mail** in the return envelope provided. **or**
-2. **Drop it off** at a location designated by your county **or**
-3. **Drop it off** at any voting location e in your county between 7 AM and 8 PM on Election Day.
-
-**If you mail your ballot back, don’t delay.**  
-
-Your completed vote-by-mail ballot must be **postmarked** on or before **Election Day**
-
-Once mailed and postmarked, the ballot must be **received** by the elections office no later than 3 days after Election Day.
+If you decide to hand in your ballot instead of mailing it, you must drop it off **no later than
+8PM on Election Day, November 3**.
+Drop off your ballot at any voting location in your county.
+Some counties will also offer secure Ballot Dropboxes. 
+For details and locations check [caearlyvoting.sos.ca.gov](https://caearlyvoting.sos.ca.gov/).
 
 Watch [How to Return Your Completed Vote-by-Mail Ballot](https://www.youtube.com/watch?v=hFH3YZrhBag&feature=youtu.be)
