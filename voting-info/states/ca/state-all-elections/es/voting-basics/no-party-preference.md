@@ -1,6 +1,6 @@
 ---
 title: "¿Cómo voto por el presidente en las elecciones primarias si estoy registrado sin preferencia partidista?"
-published: true
+published: false
 weight: 16
 section: "voting-basics"
 priority: "Minor"

@@ -6,42 +6,44 @@ section: "register-to-vote"
 priority: "Minor"
 ---
 
-Llene un formulario de inscripción del votante y preséntelo para votar en una elección a más tardar el lunes 19 de octubre.
+Llene un formulario de inscripción del votante a más tardar el lunes 19 de octubre de 2020 para votar en la elección general del 3 de noviembre de 2020. 
 
-**NUEVA INFORMACIÓN:** Aunque haya pasado la fecha límite, todavía puede inscribirse para votar desde ahora y hasta el día de las elecciones. ¡Revise [aquí](#menu-item-¿Expiró-el-plazo-de-inscripción-del-elector?-¡Todavía-puede-inscribirse-para-votar!) cómo hacerlo!
- 
+**NUEVA OPCIÓN:** Aunque haya expirado el plazo, todavía puede inscribirse para votar en cualquier lugar de votación desde ahora y hasta el día de las elecciones. ¡Consulte [aquí](#menu-item-missed-the-voter-registration-deadline-you-can-still-register-and-vote) cómo!
+
 #### 1. ¡Regístrese!
 
-- Usted es elegible para votar si es un ciudadano de los Estados Unidos mayor de 18 años de edad, si ya no está en prisión o en libertad condicional por condena de un delito mayor, y un tribunal no lo ha declarado mentalmente incompetente.
-
+- Usted es elegible para votar si es un ciudadano de los Estados Unidos mayor de 18 años, si ya no está en prisión o en libertad condicional por condena de un delito mayor, y si un tribunal no lo ha declarado mentalmente incompetente.
 - Debe inscribirse para ser parte de la lista oficial de votantes de su condado. 
-  La fecha límite para inscribirse para votar en las elecciones es **a más tardar el lunes 19 de octubre**.
-- Complete el formulario en línea en [registertovote.ca.gov](https://registertovote.ca.gov/es-mx).
-También puede recoger su formulario de inscripción del votante en su biblioteca u oficina postal, o llame al 1-800-345-8683 para que le envíen un formulario de inscripción. - Es importante llenar el formulario por completo. Se le pedirá que incluya el número de su licencia de conducir o de otra identificación.
-- Ya que esté en la lista, solamente deberá volver a inscribirse si cambia de domicilio, de nombre, si desea cambiar su partido político o si ya no está en libertad condicional por condena de un delito mayor. 
+  El plazo para inscribirse es el **lunes 19 de octubre de 2020. **
+- Llene el formulario en línea en [registertovote.ca.gov](http://registertovote.ca.gov/).
+También puede recoger un formulario de inscripción del votante en su biblioteca u oficina postal, o llamar al 1-800-345-8683 para que le envíen por correo un formulario de inscripción. 
+- Es importante llenar el formulario en su totalidad. Se le pedirá que incluya el número de su licencia de conducir o de otra identificación.
+-¿Expiró el plazo? Todavía puede inscribirse para votar en esta elección en cualquier lugar de votación desde ahora y hasta el día de las elecciones.  Si acude a su lugar de votación asignado, está garantizado que su boleta electoral incluirá todas las contiendas en las que tiene autorizado votar.
+¡Consulte [aquí]](#menu-item-missed-the-voter-registration-deadline-you-can-still-register-and-vote) cómo!
+- Una vez que esté en la lista, solamente deberá volver a inscribirse si cambia de domicilio o de nombre, si desea cambiar de partido político, si necesita actualizar su firma o si ya no está en libertad condicional por condena de un delito mayor. 
 
-Para obtener más información, consulte [¿Puedo inscribirme para votar?](#menu-item-¿puedo-inscribirme-para-votar)
+Para obtener más información, consulte [¿Puedo inscribirme para votar?](#menu-item-can-i-register-to-vote)
 
 #### 2. ¡Prepárese!
 
-- Estar enterado sobre lo que va a votar es útil antes de emitir su voto.
+- Es útil saber sobre qué va a votar antes de emitir su voto.
 - Todos los votantes inscritos reciben [dos cosas](https://www.sos.ca.gov/elections/publications-and-resources/state-county-vig/) por correo: 
-  - Una Guía de Información para el Votante del condado en la que se indica todo lo que se incluirá en su boleta electoral, junto con la información sobre en dónde votar (su “lugar de votación”).
-  - Una Guía Oficial de Información para el Votante sobre los candidatos y las iniciativas de ley de todo el estado.
+  - Una Guía Oficial de Información para el Votante del condado en la que se indica todo lo que se incluirá en su boleta electoral, junto con la información sobre en dónde votar.
+  - Una Guía Oficial de Información para el Votante sobre los candidatos y las iniciativas de ley estatales.
 - Puede utilizar este sitio de Voter’s Edge California para obtener más información sobre todo lo que contiene su boleta electoral, además de que es una manera práctica de encontrar su [lugar de votación](#section-my-polling-place). 
-
-Encuentre su [lugar de votación y boleta electoral](#section-my-polling-place).
 
 #### 3. ¡Vote!
 
-- Usted elige si desea votar en su lugar de votación o utilizar una boleta electoral para “voto por correo”.
-- Para votar en persona, los lugares de votación están abiertos de 7 a. m. a 8 p. m. Es posible que también pueda votar antes del día de las elecciones en la oficina electoral de su condado o en otro lugar especial. Si ya se inscribió y su nombre no aparece en la lista de votantes en el lugar de votación que se le asignó, puede votar utilizando una “boleta electoral provisional”. Su voto se contará si los funcionarios electorales determinan que usted es elegible para votar. 
-- Para votar por correo, utilice el formulario que se encuentra en su Guía de Información para el Votante del condado a fin de solicitar que se le envíe una boleta electoral para “voto por correo”. La fecha límite para solicitarla es el **martes 27 de octubre**. Cuando reciba su boleta electoral para “voto por correo”, llénela y regrésela por correo postal a tiempo para que lleve un matasellos **previo al** día de las elecciones. También puede entregarla en cualquier lugar de votación de su condado el día de las elecciones. Si su condado lo proporciona, también puede utilizar un buzón seguro para boletas electorales. Puede inscribirse para recibir una boleta electoral para “voto por correo” para todas las elecciones.
+**Este año, si ya se inscribió para votar, recibirá una boleta electoral por correo. ** Usted decide si votar en persona en su lugar de votación o devolver la boleta electoral que recibió, ya sea por correo o entregándola en persona. 
+- **Por correo**. Si desea usar la boleta electoral enviada por correo en lugar de votar en persona, márquela y envíela por correo para que el matasellos no tenga una fecha posterior al día de las elecciones. 
+- **O entréguela en persona**. Puede entregar su boleta electoral en cualquier lugar de votación de su condado. Su condado también podría abrir lugares con buzones seguros para boletas electorales aproximadamente un mes antes del día de las elecciones.
+- **O en persona**. Para votar en persona el martes 3 de noviembre, los lugares de votación estarán abiertos de 7 a. m. a 8 p. m. 
 
-Vea [Cómo devolver su boleta electoral completada para voto por correo](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DhFH3YZrhBag%26feature%3Dyoutu.be&sa=D&ust=1576113195433000&usg=AFQjCNGr5kb0Ft2GLwC551ertzTHTcQlHg). 
+**Votación temprana**. También puede votar en persona antes del día de las elecciones. Consulte [caearlyvoting.sos.ca.gov](https://caearlyvoting.sos.ca.gov/).
 
-Para obtener más información, consulte [Formas de votar](#section-ways-to-vote).
+Vea [Cómo devolver su boleta electoral para voto por correo marcada](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DhFH3YZrhBag%26feature%3Dyoutu.be&sa=D&ust=1576113195433000&usg=AFQjCNGr5kb0Ft2GLwC551ertzTHTcQlHg). 
 
-Hay grandes cambios sobre cómo emitir su boleta electoral si vive en uno de estos 15 condados: Amador, Butte, Calaveras, El Dorado, Fresno, Los Angeles, Madera, Mariposa, Napa, Nevada, Orange, Sacramento, San Mateo, Santa Clara y Tuolumne. **¡Tendrá más días y más formas de votar!** Para obtener más información, consulte [Formas de votar](#menu-item-grandes-cambios-en-15-condados-con-la-ley-de-votación-flexible).
+Consulte [Formas de votar](#section-ways-to-vote) para obtener más información.
 
-Visite la **[Guía Fácil del Votante](http://www.easyvoterguide.org/)** para obtener más información sobre cómo votar y descargar una copia en español, inglés, chino, vietnamita o coreano.
+Visite la ** [Guía fácil del votante](http://www.easyvoterguide.org/)** para obtener más información sobre cómo votar y descargar una copia en inglés, español, chino, vietnamita o coreano.
+

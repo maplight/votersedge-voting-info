@@ -1,27 +1,20 @@
 ---
-title: "Grandes cambios en 15 condados con la Ley de Votación Flexible"
+title: "Grandes cambios - Cada votante inscrito en California recibirá una boleta electoral por correo"
 published: true
 weight: 2
 section: "ways-to-vote"
 priority: "Minor"
 ---
 
-Si vive en uno de estos condados donde se aplica la Ley de Votación Flexible, hay grandes cambios en la manera de votar: **Amador, Calaveras, Butte, El Dorado, Fresno, Los Angeles, Madera, Mariposa, Napa, Nevada, Orange, Sacramento, San Mateo, Santa Clara o Tuolumne.** 
+Este año, usted tiene más opciones para votar de manera segura y fácil. El mayor cambio es que **cada votante inscrito en California recibirá una boleta electoral por correo** un mes antes de la elección.
 
-- Recibirá automáticamente su boleta por correo unas semanas antes de la elección. 
-- Ya no se usarán para votar la mayoría de los lugares de votación de los vecindarios. 
-- En cambio, tendrá tres opciones para emitir su voto:  
-  - devolver su boleta por correo,  
-  - depositarla en alguno de los buzones seguros para boletas electorales, o  
-  - votar en persona en un centro de votación. 
+**Hay 3 maneras de votar**. Puede elegir devolver su boleta electoral por correo o entregarla, o puede votar en persona. Su lugar de votación para acudir en persona podría ser diferente al que normalmente visita. Se establecerá de tal forma que ofrezca una votación segura, de acuerdo con los lineamientos de salud y seguridad para el COVID-19.
 
-Los votantes en el condado de Los Angeles no recibirán su boleta electoral por correo a menos que soliciten una a su [oficina electoral del condado](#section-election-office-contact).
+**Prepárese para su boleta electoral por correo**
+- **Inscríbase** para votar a más tardar el 19 de octubre en [registertovote.ca.gov](https://registertovote.ca.gov//).
+- Verifique su inscripción para asegurarse de que esté actualizada. **Si su firma cambió** con el tiempo, vuelva a inscribirse para actualizarla en voterstatus.sos.ca.gov.
+- Si desea obtener **los materiales de votación en un idioma que no sea inglés**, elija esa opción en voterstatus.sos.ca.gov.
 
-¡Busque su centro de votación o la ubicación de un buzón para boletas electorales [aquí](https://caearlyvoting.sos.ca.gov/)! 
+¿Expiró el plazo de inscripción del elector? Todavía puede inscribirse para votar en cualquier lugar de votación, desde ahora hasta el día de las elecciones. Para obtener más información sobre la inscripción del elector el mismo día, consulte [¿Expiró el plazo de inscripción del elector? ¡Todavía puede inscribirse para votar!](#menu-item-missed-the-voter-registration-deadline-you-can-still-register-and-vote)
 
-Para recibir la boleta electoral por correo, deberá inscribirse antes de la fecha límite, es decir, 15 días antes de la elección. La fecha límite de inscripción para las elecciones generales del martes 3 de noviembre es el el lunes 19 de octubre. 
-
-¿Expiró el plazo? Todavía puede inscribirse y votar en un centro de votación, y puede hacerlo desde ahora hasta el día de las elecciones. Si requiere más información sobre la inscripción del votante en el mismo día, consulte [¿Expiró el plazo de inscripción del votante? ¡Todavía puede inscribirse para votar!](#menu-item-¿expiró-el-plazo-de-inscripción-del-elector-¡todavía-puede-inscribirse-para-votar)
-
-Para obtener más información sobre los cambios en las elecciones, consulte [Elecciones de votación flexible](#menu-item-voters-choice-elections-big-changes-in-madera-napa-nevada-sacramento-and-san-mateo-counties) y la página del [Secretario de Estado de California](https://www.sos.ca.gov/elections/voters-choice-act/).
    
