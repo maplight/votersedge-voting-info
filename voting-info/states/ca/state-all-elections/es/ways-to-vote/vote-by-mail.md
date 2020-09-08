@@ -1,37 +1,34 @@
 ---
-title: "¿Cómo voto por correo?"
+title: "Voto por Correo"
 published: true
 weight: 3
 section: "ways-to-vote"
 priority: "Minor"
 ---
 
-_**Nota:** Si vive en uno de los condados donde se aplica la nueva Ley de Votación Flexible y ya está inscrito para votar, automáticamente recibirá su boleta electoral por correo, a menos que esté en Los Angeles, donde todavía tiene que inscribirse para obtener una boleta electoral para voto por correo. Consulte [Elecciones de votación flexible](#menu-item-voters-choice-elections-big-changes-in-madera-napa-nevada-sacramento-and-san-mateo-counties) para obtener más información._
+**¡Devuelva con anticipación su boleta electoral por correo!** Puede llenarla y enviarla por correo en cuanto la reciba. 
 
-**Solicite** una boleta electoral para voto por correo a su [oficina electoral del condado](#section-election-office-contact)
+**¿No tiene timbres? No hay problema**. No necesita timbres para devolver su boleta electoral por correo en el sobre que se le proporcionó.
 
-Asegúrese de enviar su solicitud a tiempo para que se reciba en la oficina electoral del condado _**a más tardar**_ el martes 27 de octubre.
+**Marque su boleta electoral y séllela dentro del sobre que se le proporcionó**
+- **Siga las instrucciones** que se incluyen en la boleta electoral para marcar sus opciones.
+- **Verifique** que esté usando el sobre de devolución que tiene su nombre.
+- **Coloque** su boleta electoral dentro del sobre y **séllelo**. Solo ponga 1 boleta electoral en cada sobre.
 
-Haga que votar en el futuro sea más fácil y solicítelo a través de su [oficina electoral del condado](#section-election-office-contact) para [convertirse en un votante permanente de voto por correo](https://www.sos.ca.gov/elections/voter-registration/vote-mail/#perm).
+**Firme y feche el sobre**
+- **Feche y firme** el reverso del sobre, con tinta.
+- **Verifique su firma** para asegurarse de que se parezca a la que está en el archivo.
+ - Si se inscribió para votar en el Departamento de Vehículos Motorizados (Department of Motor Vehicles, DMV) o en línea, la firma será la que aparece en su licencia de conducir o en su tarjeta de identificación estatal.
+ - ¿No está seguro? Vuelva a inscribirse con su firma actualizada. 
 
-**Siga las instrucciones para completar su boleta electoral y el sobre.**  
-- **Marque** su boleta electoral para voto por correo. 
-- **Coloque** la boleta electoral para voto por correo en el sobre especial que le proporciona su oficina electoral del condado. 
-- **Complete** la información que está en el sobre. 
-  **No olvide firmar** la parte posterior del sobre. 
-  **Selle** el sobre. 
-- **¿No tiene timbres? No hay problema**. Ya no tiene que poner timbres en los sobres de envío de la boleta electoral. 
+Puede pedir a cualquier persona que entregue su boleta electoral en un lugar de votación el día de las elecciones. Proporcione la información que se solicita en el sobre de devolución. 
 
-**Regrese su boleta:**
-- **por correo postal** **o**  
-- **entregándola** en una ubicación designada por su condado **o**  
-- **entregándola** en cualquier lugar de votación de su condado antes de las 8 p. m. el día de las elecciones. 
+**Devuelva su boleta electoral con anticipación**
 
-Puede pedir a cualquier persona que entregue su boleta electoral para voto por correo en una ubicación para votar el día de las elecciones. Complete la información que está en el sobre de envío. 
+**No se demore si envía su boleta electoral por correo.**  
+- Su boleta electoral para voto por correo marcada debe tener un **matasellos* del Servicio Postal de Estados Unidos con fecha del **día de las elecciones, martes 3 de noviembre de 2020, o una fecha anterior. **
+- Una vez que se envíe por correo y se mataselle, la boleta electoral deberá **recibirse** en la oficina electoral **a más tardar el viernes 20 de noviembre de 2020.**
 
-**¡No se retrase si envía su boleta electoral por correo!**  
-- Su boleta electoral para voto por correo completada deberá estar **matasellada** a más tardar el **día de las elecciones, el martes 3 de noviembre,** o antes.
-- Una vez enviada por correo y matasellada, la boleta electoral deberá **ser recibido** en la oficina electoral **a más tardar el viernes 6 de noviembre.**
+**NUEVA OPCIÓN - ¡Rastree su boleta electoral!** Regístrese en [wheresmyballot.sos.ca.gov](https://california.ballottrax.net/voter/) o llame al 800-345-VOTE (8683) para saber en qué parte del proceso está su boleta electoral y cuándo se aceptó. 
 
-Vea [Cómo devolver su boleta electoral completada para voto por correo](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DhFH3YZrhBag%26feature%3Dyoutu.be&sa=D&ust=1576113195433000&usg=AFQjCNGr5kb0Ft2GLwC551ertzTHTcQlHg). 
-   
+Vea [Cómo devolver su boleta electoral para voto por correo marcada](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DhFH3YZrhBag%26feature%3Dyoutu.be&sa=D&ust=1576113195433000&usg=AFQjCNGr5kb0Ft2GLwC551ertzTHTcQlHg). 

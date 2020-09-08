@@ -12,10 +12,11 @@ priority: "Minor"
 #### **Por correo postal**
 > Comenzando **el lunes 5 de octubre hasta el día de las elecciones**. 
 > - Su boleta electoral de voto por correo completada **debe ser matasellada el dia de las elecciones, o antes.** 
-> - Una vez enviada por correo y matasellada, la boleta electoral **debe ser recibido** en la oficina electoral **a más tardar el viernes 6 de noviembre, tres días después del día de las elecciones.**
+> - Una vez enviada por correo y matasellada, la boleta electoral **debe ser recibido** en la oficina electoral **el viernes 20 de noviembre.**
 
-#### **Voto anticipado en persona**  
-> Desde el **5 de octubre** hasta el **lunes 2 de noviembre.** Algunos lugares para votación anticipada también permanecerán abiertos el dia de las elecciones.
+#### Votación temprana en persona  
+> Puede votar de manera temprana en la oficina electoral de su condado a partir del lunes 
+5 de octubre. Algunos condados tendrán más lugares de votación abiertos antes del día de las elecciones.  Consulte [caearlyvoting.sos.ca.gov](https://caearlyvoting.sos.ca.gov/).para conocer los lugares y los horarios.
 
 #### **El día de las elecciones**  
 > **Martes 3 de noviembre de 2020**, desde las **7 a. m. hasta las 8 p. m.**

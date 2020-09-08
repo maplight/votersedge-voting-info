@@ -1,21 +1,17 @@
 ---
-title: "¿Cómo devuelvo mi boleta electoral para voto por correo?"
+title: "Deposite Su Boleta"
 published: true
 weight: 5
 section: "ways-to-vote"
 priority: "Minor"
 ---
-Siga las instrucciones con cuidado y **firme** el sobre.
 
-**Regrese su boleta:**
-1. **por correo postal** en el sobre de envío que se proporciona **o**
-2. **entregándola** en una ubicación designada por su condado **o**
-3. **entregándola** en cualquier lugar de votación de su condado entre las 7 a. m. y las 8 p. m. el día de las elecciones.
+Siga las instrucciones proporcionadas en la sección "Voto por correo" (marcador que lleva a la sección anterior) para llenar su boleta electoral y el sobre. 
 
-**¡No se retrase si envía su boleta electoral por correo!**  
+Si decide entregar en persona su boleta electoral en lugar de enviarla por correo, debe entregarla**a más tardar a las 8 p. m. del día de las elecciones, el 3 de noviembre**.
+- Entregue su boleta electoral en cualquier lugar de votación de su condado.
+- Algunos condados también ofrecerán buzones seguros para boletas electorales. 
+Para obtener más información y consultar los lugares de votación, visite [caearlyvoting.sos.ca.gov].(https://caearlyvoting.sos.ca.gov/).
 
-Su boleta electoral para voto por correo completada deberá estar **sellada** el **día de las elecciones** o antes.
+Vea [Cómo devolver su boleta electoral para voto por correo marcada].(https://www.youtube.com/watch?v=hFH3YZrhBag&feature=youtu.be)
 
-Una vez enviada por correo y sellada, la boleta electoral deberá **recibirse** en la oficina electoral a más tardar 3 días después del día de las elecciones.
-
-Vea [Cómo devolver su boleta electoral para voto por correo completada](https://www.youtube.com/watch?v=hFH3YZrhBag&feature=youtu.be)
