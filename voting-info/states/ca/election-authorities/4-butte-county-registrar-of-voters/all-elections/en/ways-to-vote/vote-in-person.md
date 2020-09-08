@@ -6,11 +6,13 @@ section: "ways-to-vote"
 priority: "Minor"
 ---
 
-Your neighborhood polling locations will no longer be open. Instead, you can vote at any Vote Center in Butte County.   
+You live in a county that is following the “Voter’s Choice” election rules. If you are registered to vote, you will get a ballot in the mail and can choose whether to mail it back, drop it off, or instead vote in person.
+
+Your neighborhood polling locations may no longer be open. Instead, you can vote at *any* Vote Center in Butte County.   
 
 - **All Vote Centers will be open for at least 4 days** from Saturday, October 31, through Election Day, Tuesday, November 3. 
 
-- **Some Vote Centers will be open for 11 days** starting Saturday, October 24. This includes the two weekends leading up to the election.
+- **Some Vote Centers may be open before October 31.**
 
 - **On Election Day, Tuesday, November 3, all Vote Centers are open from 7 AM to 8 PM.**   
 
@@ -18,7 +20,7 @@ Find your Vote Center locations and hours:
 
 - On the [Secretary of State's website](https://caearlyvoting.sos.ca.gov/) 
 
-- On the [Butte County Elections Office website](https://clerk-recorder.buttecounty.net/elections/archives/eln44/44_vote_center_locations.pdf)   
+- On the [Butte County Elections Office website](https://clerk-recorder.buttecounty.net/elections/archives/eln45/45_voter_info_guide.pdf) on page 85   
 
 - By calling (530)552-3400, Option 1        
 
