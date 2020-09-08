@@ -1,6 +1,6 @@
 ---
 title: "Big changes in 15 Voter's Choice counties"
-published: true
+published: false
 weight: 1
 section: "voting-basics"
 priority: "Minor"

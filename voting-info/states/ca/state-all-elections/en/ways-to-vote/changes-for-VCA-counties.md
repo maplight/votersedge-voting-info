@@ -1,26 +1,18 @@
 ---
-title: "Big Changes in 15 Counties with the Voter’s Choice Act"
+title: "Big Changes - Every Registered Voter in California Will Be Mailed a Ballot"
 published: true
 weight: 2
 section: "ways-to-vote"
 priority: "Minor"
 ---
 
-If you live in one of these Voter’s Choice Act counties, there are big changes as to how you vote: **Amador, Calaveras, Butte, El Dorado, Fresno, Los Angeles, Madera, Mariposa, Napa, Nevada, Orange, Sacramento, San Mateo, Santa Clara, or Tuolumne.** 
+This year you have more options to vote safely and easily. The biggest change is that **every registered voter in California will receive a ballot in the mail** a month before the election.
 
-- You will automatically receive your ballot in the mail a few weeks before the election.  
-- Most neighborhood polling places will no longer be used for voting.    
-- Instead, you will have three choices for how to vote:  
-  - Mail back your ballot,  
-  - Drop it off at any secure Ballot Dropbox, or  
-  - Vote in person at a Vote Center.  
+**There are 3 ways to vote**. You can choose to mail back your ballot, drop it off, or you can vote in person. Your in-person voting location may be different than the one you usually visit. It will be set up for safe voting, following health and safety guidelines for COVID-19.
 
-**Voters in Los Angeles County will not receive your ballot in the mail unless you request one** from your [County Elections Office](#section-election-office-contact).
+**Get ready for your mailed ballot**
+**Register** to vote by October 19 at [registertovote.ca.gov](https://registertovote.ca.gov//).
+Check your registration to make sure it’s up to date. **If your signature has changed** over time, then re-register to update your signature at voterstatus.sos.ca.gov.
+If you want to get **voting materials in a language other than English**, make that choice at voterstatus.sos.ca.gov.
 
-Find your Vote Center or Ballot Drop Box location [here](https://caearlyvoting.sos.ca.gov/)!  
-
-In order to receive a ballot in the mail, you must register by the deadline, which is 15 days before an election. The registration deadline for the Tuesday, November 3, General Election is Monday, October 19. 
-
-Missed the deadline? You can still register and vote at a Vote Center, all the way up to and including Election Day. For more information on same-day voter registration, check [Missed the voter registration deadline? You can still register and vote!](#menu-item-missed-the-voter-registration-deadline-you-can-still-register-and-vote)
-
-For more information on election changes, check [Voter’s Choice Elections](#menu-item-big-changes-in-15-voters-choice-counties) and the [California Secretary of State](https://www.sos.ca.gov/elections/voters-choice-act/).
+Missed the voter registration deadline? You can still register and vote at any voting location, all the way up to and including Election Day. For more information on same-day voter registration, check [Missed the voter registration deadline? You can still register and vote!](#menu-item-missed-the-voter-registration-deadline-you-can-still-register-and-vote)

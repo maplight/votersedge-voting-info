@@ -1,16 +1,30 @@
 ---
-title: "Vote at the Polls and Vote Centers on Election Day"
+title: "Vote In Person on Election Day"
 published: true
 weight: 10
 section: "ways-to-vote"
 priority: "Minor"
 ---
 
+Your voting location may be different this year. Counties are working to provide the best options for safe, socially distanced, in-person voting. **Please wear a mask when you vote in person!**
+
+At in-person Voting Locations you can:
+- Vote in person
+- Drop off your completed ballot
+- Vote with an accessible voting machine
+- Get help and voting materials in multiple languages.
+
 **How do I vote at the polling place or vote center in person?**  
 
 Polling places are open from 7 AM to 8 PM on **Election Day, Tuesday, November 3, 2020**.  
 
-_[Vote Centers](#menu-item-big-changes-in-15-voters-choice-counties) in the 15 Voter’s Choice Act counties are open before Election Day and will also be open from 7 AM to 8 PM on Election Day._
+Early voting, starting before Election Day, will be available in some locations. Find Early Voting and Ballot Dropbox locations at [caearlyvoting.sos.ca.gov](https://caearlyvoting.sos.ca.gov/).
+
+**In Person Voting Tip**
+
+- If you choose to vote in person, it may help to bring the ballot that was mailed to you.
+- If you don’t bring your mailed ballot, some counties will require you to vote using a provisional ballot that will be counted once elections officials check that you are eligible to vote.
+- If you live in one of the following “Voter’s Choice” counties, you can get a regular ballot at any Vote Center, even if you didn’t bring the ballot that was mailed to you: Amador, Butte, Calaveras, El Dorado, Fresno, Madera, Mariposa, Los Angeles, Napa, Nevada, Orange, Sacramento, San Mateo, Santa Clara, and Tuolumne. For more information check the [California Secretary State](https://www.sos.ca.gov/elections/voters-choice-act/).
 
 **How do I find my polling place?**   
 
@@ -38,3 +52,4 @@ Not all California counties use the same type of touchscreen voting machines.
 - The poll worker will give you either a unique passcode or a computer memory card to gain access to the type of touchscreen in your county.  
 - Follow the instructions on the machine.  
 - If you have questions, ask a poll worker.
+
