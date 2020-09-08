@@ -8,7 +8,7 @@ priority: "Minor"
 
 **Drop it off** at any secure Ballot Drop Box from **Tuesday, October 6**, through **Election Day, Tuesday, November 3**.  
 
-- No postage is required at Ballot Drop Boxes.  
+- No postage is required on your return envelope.  
 
 - Certain Drop Boxes will be accessible 24 hours a day.        
 
