@@ -30,4 +30,4 @@ Voters can also request audio ballot information and accessible PDF files by ema
 
 Contact the Elections Division at 707-253-4321 or [email](mailto:elections@countyofnapa.org) with questions. The Elections Division TTY phone line is 707-299-1475.   
 
-The Napa County [website](https://www.countyofnapa.org/396/Elections) will meet accessibility requirements and use best practices for voters with disabilities to access the site.
+The Napa County [website](https://www.countyofnapa.org/2714/Accessible-Voting) will meet accessibility requirements and use best practices for voters with disabilities to access the site.
