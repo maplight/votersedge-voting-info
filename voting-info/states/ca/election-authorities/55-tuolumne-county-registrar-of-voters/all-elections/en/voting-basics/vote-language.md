@@ -6,7 +6,4 @@ section: "voting-basics"
 priority: "Minor"
 ---
 
-The Vote Center located in Jamestown will have at least one staff member who is fluent in
-English and Spanish. 
-
-The Tuolumne County Elections Office will provide a toll-free assistance hotline for Spanish speaking voters. Check the [Tuolumne County Elections Office website](https://www.tuolumnecounty.ca.gov/194/Election-Information) for more information about the hotline.
+Tuolumne County Elections provides translated fascimile (non-official) ballots in Español/Spanish and bilingual staff assistance at certain Vote Centers upon request. Call (209) 533-5570 or check the [Tuolumne County Elections Office website](https://www.tuolumnecounty.ca.gov/194/Election-Information) for more information.
