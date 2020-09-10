@@ -10,7 +10,7 @@ La firma de las personas cambia con el tiempo y por otras razones. Cuando use un
 
 **Verifique su firma** para asegurarse de que se parezca a la que está en el archivo de la oficina electoral. 
 - Si se inscribió para votar en el Departamento de Vehículos Motorizados (Department of Motor Vehicles, DMV) o en línea, la firma será la que aparece en su licencia de conducir o en su tarjeta de identificación estatal.
-- ¿No está seguro? [Vuelva a inscribirse con su firma actualizada](http://registertovote.ca.gov/).
+- ¿No está seguro? [Vuelva a inscribirse con su firma actualizada](https://registertovote.ca.gov/es-mx).
 
 **Otros recordatorios sobre la firma**
 
@@ -21,7 +21,7 @@ Si no firmó el sobre de su boleta electoral o usó la firma incorrecta, tendrá
 - Si usó la firma incorrecta, tendrá que presentar una declaración de verificación de la firma por correo postal, por correo electrónico, por fax o en persona. 
 - Si no firmó el sobre de su boleta electoral, tendrá que firmar el sobre en la oficina electoral de su condado o presentar una declaración por correo postal, por correo electrónico, por fax o en persona. 
 
-** ¿Qué pasa si no puedo firmar?**
+**¿Qué pasa si no puedo firmar?**
 **Si tiene una discapacidad y no puede firmar, aún puede votar.** Solo ponga una marca y pida a un testigo que escriba su nombre. El testigo debe tener al menos 18 años de edad. 
 
 Obtenga más información sobre cómo firmar si tiene una discapacidad en [Derechos de los Discapacitados de California](https://www.disabilityrightsca.org/publications/you-can-vote-even-if-you-cant-sign-your-name).

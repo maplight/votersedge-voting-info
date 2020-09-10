@@ -26,7 +26,7 @@ Puede pedir a cualquier persona que entregue su boleta electoral en un lugar de 
 **Devuelva su boleta electoral con anticipación**
 
 **No se demore si envía su boleta electoral por correo.**  
-- Su boleta electoral para voto por correo marcada debe tener un **matasellos* del Servicio Postal de Estados Unidos con fecha del **día de las elecciones, martes 3 de noviembre de 2020, o una fecha anterior. **
+- Su boleta electoral para voto por correo marcada debe tener un **matasellos** del Servicio Postal de Estados Unidos con fecha del **día de las elecciones, martes 3 de noviembre de 2020, o una fecha anterior.**
 - Una vez que se envíe por correo y se mataselle, la boleta electoral deberá **recibirse** en la oficina electoral **a más tardar el viernes 20 de noviembre de 2020.**
 
 **NUEVA OPCIÓN - ¡Rastree su boleta electoral!** Regístrese en [wheresmyballot.sos.ca.gov](https://california.ballottrax.net/voter/) o llame al 800-345-VOTE (8683) para saber en qué parte del proceso está su boleta electoral y cuándo se aceptó. 
