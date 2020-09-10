@@ -18,3 +18,7 @@ The County of Sacramento is actively recruiting bilingual Vote Center workers to
 - Japanese 
 - Punjabi
 - Hmong
+- Mien
+- Laotian
+- Urdu
+- Telugu
