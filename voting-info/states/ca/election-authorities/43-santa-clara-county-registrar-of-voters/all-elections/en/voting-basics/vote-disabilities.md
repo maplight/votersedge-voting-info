@@ -18,8 +18,8 @@ Voters with disabilities may request a remote accessible vote-by-mail ballot. Yo
 
 #### Accessible Voting Information
 
-- Request an audio cassette version by calling 408-299-8683.  
+- Request audio recordings of the County Voter Information Guide by calling 1-408-299-8683 or toll free 1-866-430-8683.
 
-- TTY (Teletypewriter Device) 408-288-9820.  
+- TTY (Teletypewriter Device) registration and voting information: Call 1-408-288-9820.  
 
-You can also read more about assitance for voters with disabilities by [visiting the Santa Clara County Elections Office website](https://www.sccgov.org/sites/rov/Voting/Pages/Voting-Accessibility.aspx).
+You can also read more about assistance for voters with disabilities by [visiting the Santa Clara County Elections Office website](https://www.sccgov.org/sites/rov/Voting/Pages/Voting-Accessibility.aspx).

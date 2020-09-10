@@ -6,11 +6,13 @@ section: "ways-to-vote"
 priority: "Minor"
 ---
 
-Your neighborhood polling locations will no longer be open. Instead, you can vote at any Vote Center in Santa Clara County.   
+You live in a county that is following the “Voter’s Choice” election rules. If you are registered to vote, you will get a ballot in the mail and can choose whether to mail it back, drop it off, or instead vote in person.
+
+Your neighborhood polling locations may no longer be open. Instead, you can vote at any Vote Center in Santa Clara County.   
 
 - **All Vote Centers will be open for at least 4 days** from Saturday, October 31, through Election Day, Tuesday, November 3. 
 
-- **Some Vote Centers will be open for 11 days** starting Saturday, October 24. This includes the two weekends leading up to the election.
+- **Some Vote Centers may be open before October 31.** 
 
 - **On Election Day, Tuesday, November 3, all Vote Centers are open from 7 AM to 8 PM.**  
 
