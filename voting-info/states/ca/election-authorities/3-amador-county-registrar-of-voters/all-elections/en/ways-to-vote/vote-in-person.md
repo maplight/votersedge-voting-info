@@ -12,7 +12,7 @@ Your neighborhood polling locations may no longer be open. Instead, you can vote
 
 - **All Vote Centers will be open for at least 4 days** from Saturday, October 31, through Election Day, Tuesday, November 3. 
 
-- **Some Vote Centers may be open before October 31.**.
+- **Some Vote Centers may be open before October 31.**
 
 - **On Election Day, Tuesday, November 3, all Vote Centers are open from 7 AM to 8 PM.**  
 
