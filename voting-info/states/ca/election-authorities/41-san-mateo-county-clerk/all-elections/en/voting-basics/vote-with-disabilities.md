@@ -19,9 +19,9 @@ Voters with disabilities may request a remote accessible vote-by-mail ballot. Yo
 Voters with disabilities can also: 
 - Request that elections staff bring an accessible version of an electronic voting machine to a convenient location, to cast an electronic ballot privately and independently. 
 - Request free transportation to and from a Vote Center during the early voting period. 
-Voters can call the County Registration & Elections Division at (888) 762-8683 or [sending them an email](mailto:registrar@smcacre.org) to schedule and seek more information. 
+- Request audio ballot information and accessible PDF files by email. 
 
-Voters can also request audio ballot information and accessible PDF files by email.  
+Voters can call the County Registration & Elections Division at (888) 762-8683 or [send them an email](mailto:registrar@smcacre.org) to schedule and seek more information on the options above. 
 
 #### Accessible Voting Information  
 
