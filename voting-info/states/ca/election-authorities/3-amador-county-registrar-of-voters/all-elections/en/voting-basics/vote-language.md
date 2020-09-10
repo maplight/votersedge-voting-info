@@ -6,6 +6,8 @@ section: "voting-basics"
 priority: "Minor"
 ---
 
-Facsimile ballots and blingual Vote Center workers may be available at some Vote Centers in Amador County. Contact the Amador County Elections Office for more information about their language accessibility options at (209) 223-6465 or email [elections@amadorgov.org](mailto:elections@amadorgov.org).
+Spanish facsimile (non-official) ballots and Spanish-speaking blingual Vote Center workers may be available at some Vote Centers in Amador County. The Amador County Elections Office has a toll-free voter assistance hotline for Spanish speakers. The number for this hotline will be posted on the [Amador County Elections website](https://www.amadorgov.org/government/elections/) and in voting materials sent to voters.
+
+Contact the Amador County Elections Office for more information about their language accessibility options at (209) 223-6465 or email [elections@amadorgov.org](mailto:elections@amadorgov.org).
 
 Learn about how you can get involved with the Amador County elections [language accessibility advisory committee](https://www.amadorgov.org/government/elections/vlaac-home).
