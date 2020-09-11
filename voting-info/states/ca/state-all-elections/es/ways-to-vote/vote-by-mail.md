@@ -23,7 +23,7 @@ priority: "Minor"
 
 Puede pedir a cualquier persona que entregue su boleta electoral en un lugar de votación el día de las elecciones. Proporcione la información que se solicita en el sobre de devolución. 
 
-**Devuelva su boleta electoral con anticipación**
+**Devuelva su boleta electoral con anticipación**.
 
 **No se demore si envía su boleta electoral por correo.**  
 - Su boleta electoral para voto por correo marcada debe tener un **matasellos** del Servicio Postal de Estados Unidos con fecha del **día de las elecciones, martes 3 de noviembre de 2020, o una fecha anterior.**

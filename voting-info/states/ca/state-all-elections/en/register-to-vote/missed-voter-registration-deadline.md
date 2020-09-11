@@ -10,9 +10,9 @@ Even if you missed the voter registration deadline, it isn't too late to vote.
 
 **Same-day register and vote in person**. 
 To register up to and on Election Day, go to any voting location  and complete three simple steps: 
-1. **Register** to vote. 
-2. **Vote.**
-3. **Seal** your ballot in the provided envelope, and **sign** it.
+	1. **Register** to vote. 
+	2. **Vote.**
+	3. **Seal** your ballot in the provided envelope, and **sign** it.
 
 You can do this at any voting location in your county, but if you go to
 your assigned location, then your ballot will be sure to include all the contests on which you’re allowed to vote. Check your [polling location](#section-my-polling-place).
