@@ -6,4 +6,4 @@ section: "voting-basics"
 priority: "Minor"
 ---
 
-A Spanish-language facsimile of the ballot may be hanging on the wall at each polling place. Call 707-445-7481 to double check if it'll be available at your polling place.
+At Voter Assistance Centers, voters can get voting materials in Español/Spanish or Hmong. Call 707-445-7481 to double check if materials will be available at your Voter Assistance Center.

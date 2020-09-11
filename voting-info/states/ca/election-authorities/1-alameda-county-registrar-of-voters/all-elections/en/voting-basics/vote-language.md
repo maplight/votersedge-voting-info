@@ -12,7 +12,7 @@ In compliance with federal law and local ordinance, the Registrar of Voters prov
 
 To request a copy of the translated Official Ballot to be mailed or emailed to you, please call 510-272-6973. Requests must be received no later than 7 days before Election Day.
 
-If voter assistance in the following languages, please call the number listed:  
+If voter assistance is needed in the following languages, please call the number listed:  
 - English 510-272-6973  
 - 中文/Chinese 510-208-9665  
 - Español/Spanish 510-272-6975  
