@@ -10,7 +10,9 @@ priority: "Minor"
 
 [中文信息](https://www.cocovote.us/2912-2/?lang=zh-hant)   
 
-In compliance with federal law and local ordinance, the Contra Costa Election Division offers all election materials (voter registration forms, ballots, instructions, information pamphlets, website information) in English, Español/Spanish, and 中文/Chinese. Language tools are available at polling places in 한국어/Korean, Tagalog/Filipino, and Tiếng Việt/Vietnamese to help voters understand and mark their ballot. 한국어/Korean, Tiếng Việt/Vietnamese, and Tagalog/Filipino versions of ballots and polling place information may be available at some selected precincts.  
+The Contra Costa Election Division offers all election materials (voter registration forms, ballots, instructions, information pamphlets, website information) in English, Español/Spanish, and 中文/Chinese. 
+
+Language tools are available at polling places in 한국어/Korean, Tagalog/Filipino, and Tiếng Việt/Vietnamese to help voters understand and mark their ballot. 한국어/Korean, Tiếng Việt/Vietnamese, and Tagalog/Filipino versions of ballots and polling place information may be available at some selected precincts.  
 
 The Election Division has multilingual staff at its office and polling places to assist voters who speak a language other than English.  
 
