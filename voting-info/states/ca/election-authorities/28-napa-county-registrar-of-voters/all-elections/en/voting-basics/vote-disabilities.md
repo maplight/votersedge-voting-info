@@ -8,7 +8,7 @@ priority: "Minor"
 
 #### Accessible Voting Places  
 
-All Vote Centers are required to be accessible to people with disabilities.
+All Vote Centers will be ADA compliant, and Elections personnel will be on site to assist voters with specific needs.
 
 #### Accessible Voting Equipment  
 

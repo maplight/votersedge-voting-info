@@ -18,7 +18,7 @@ Your neighborhood polling locations may no longer be open. Instead, you can vote
 
 Find your Vote Center locations and hours:  
 
-- Online at [voterschoice.sos.ca.gov](http://www.sos.ca.gov/elections/voters-choice-act/)
+- On the [Secretary of State's website](https://caearlyvoting.sos.ca.gov/)
 
 - On the [Los Angeles County Elections Office website](https://locator.lavote.net/locations/vc)   
 

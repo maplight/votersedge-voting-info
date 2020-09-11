@@ -16,6 +16,6 @@ The Orange County Elections Office website, and Sample Ballots, are available in
 
 - [한국어/Korean](https://www.ocvote.com/vc/web/ko)  
 
-Tagalog and Persian versions of ballots and polling place information may be available at some selected precincts.  
+Tagalog/Filipino and Persian/Farsi versions of ballots and polling place information may be available at some selected precincts.  
 
 For more information on language assistance contact the [Orange County Elections Bilingual Specialists](https://www.ocvote.com/community/bilingual-outreach-info/bilingual-community-program-specialists/).  

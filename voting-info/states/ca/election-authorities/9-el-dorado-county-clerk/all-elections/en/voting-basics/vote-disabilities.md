@@ -12,7 +12,7 @@ All Vote Centers will be ADA compliant, and Elections personnel will be on site 
 
 #### Accessible Voting Equipment  
 
-All vote centers will have three accessible ballot marking devices. The devices come with accessibility features such as an Audio Tactile Interface (ATI) keypad with braille as well as audio instructions.
+All Vote Centers will have three accessible ballot marking devices. The devices come with accessibility features such as an Audio Tactile Interface (ATI) keypad with braille as well as audio instructions.
 
 For any voter that cannot physically access a Vote Center, there is the option to vote “curbside”. Curbside voting allows you to vote from your car or at the door of the building. To schedule curbside voting call (530) 621-7480 or [email](mailto:elections@edcgov.us.) the El Dorado County Elections office.
 

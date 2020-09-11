@@ -6,4 +6,4 @@ section: "more-voting-info"
 priority: "Minor"
 ---
 
-[Contact the Mariposa County Election Department](mailto:cmorrow@mariposacounty.org) if you are interested in being a Vote Center Worker in Mariposa County.
+[Contact the Mariposa County Election Department](mailto:cmorrow@mariposacounty.org) if you are interested in being a Vote Center Worker in Mariposa County. Mariposa County is seeking Vote Center workers who can speak Spanish and Filipino/Tagalog. 
