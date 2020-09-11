@@ -14,17 +14,17 @@ En los lugares de votación en persona usted puede:
 - votar utilizando una máquina de votación accesible
 - recibir ayuda y materiales de votación en diversos idiomas
 
-** ¿Cómo voto en el lugar de votación o el centro de votación en persona?**  
+**¿Cómo voto en el lugar de votación o el centro de votación en persona?**  
 
 Los lugares de votación estarán abiertos de 7 a. m. a 8 p. m. el **día de las elecciones, el martes 3 de noviembre de 2020**. 
 
-La votación temprana, que comienza antes del día de las elecciones, estará disponible en algunos lugares. Encuentre los lugares de votación temprana y los lugares con buzones en [caearlyvoting.sos.ca.gov]. (https://caearlyvoting.sos.ca.gov/).
+La votación temprana, que comienza antes del día de las elecciones, estará disponible en algunos lugares. Encuentre los lugares de votación temprana y los lugares con buzones en [caearlyvoting.sos.ca.gov](https://caearlyvoting.sos.ca.gov/).
 
 **Consejo para la votación en persona**
 
 - Si decide votar en persona, podría ser útil llevar la boleta electoral que se le envió por correo.
 - Si no lleva su boleta electoral, algunos condados le solicitarán que vote usando una boleta electoral provisional que se contabilizará una vez que los funcionarios electorales verifiquen que usted es elegible para votar.
-- Si vive en uno de los siguientes condados de “votación flexible”, puede obtener una boleta electoral regular en cualquier centro de votación, incluso si usted no lleva la boleta electoral que se le envió por correo: Amador, Butte, Calaveras, El Dorado, Fresno, Madera, Mariposa, Los Ángeles, Napa, Nevada, Orange, Sacramento, San Mateo, Santa Clara y Tuolumne. Para obtener más información, consulte [Secretario de Estado de California]. (https://www.sos.ca.gov/elections/voters-choice-act/).
+- Si vive en uno de los siguientes condados de “votación flexible”, puede obtener una boleta electoral regular en cualquier centro de votación, incluso si usted no lleva la boleta electoral que se le envió por correo: Amador, Butte, Calaveras, El Dorado, Fresno, Madera, Mariposa, Los Ángeles, Napa, Nevada, Orange, Sacramento, San Mateo, Santa Clara y Tuolumne. Para obtener más información, consulte [Secretario de Estado de California](https://www.sos.ca.gov/elections/voters-choice-act/).
 
 **¿Cómo encuentro mi lugar de votación?**   
 

@@ -10,19 +10,15 @@ Check out this great opportunity to help your community while earning extra mone
 
 Santa Clara County is seeking Election Officers also fluent in: 
 - Chinese
-- Gujarati 
-- Hindi
-- Japanese
-- Khmer 
-- Korean
-- Nepali
-- Persian
-- Portuguese
-- Punjabi
-- Russian
 - Spanish
-- Syriac 
-- Tagalog
+- Filipino/Tagalog
+- Vietnamese
+- Korean
+- Cambodian/Khmer
+- Japanese
+- Hindi
+- Punjabi 
+- Gujarati
 - Tamil
 - Telugu
-- Vietnamese
+- Nepali
