@@ -16,14 +16,14 @@ priority: "Minor"
 - **Put** your ballot into the envelope & **seal**. Only 1 ballot in each envelope.
 
 **Sign and date the envelope**
-- Date and sign** your name on the back of the envelope using ink.
-- Check your signature** to make sure it looks like the one on file.
+- **Date and sign** your name on the back of the envelope using ink.
+- **Check your signature** to make sure it looks like the one on file.
  - If you registered to vote at the DMV or online, the signature will be the one on your Driver’s License or State ID.
  - Uncertain? Re-register with your updated signature.  
 
 You can assign anyone to drop off your ballot at a voting location on Election Day. Fill in the information on the return envelope.  
 
-**Return you ballot early**
+**Return your ballot early**.
 
 **If you mail your ballot back, don’t delay.**  
 - Your completed vote-by-mail ballot must be **postmarked** by the United States Postal Service on or before **Election Day, Tuesday, November 3, 2020.**
