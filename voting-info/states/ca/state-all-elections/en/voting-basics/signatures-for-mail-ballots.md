@@ -10,7 +10,7 @@ People’s signatures change over time and for other reasons. When you use a mai
 
 **Check your signature** to make sure it looks like the one the elections office has on file. 
 - If you registered to vote at the DMV or online, the signature will be the one on your Driver’s License or State ID.
-- Uncertain? [Re-register with your updated signature].(http://registertovote.ca.gov/
+- Uncertain? [Re-register with your updated signature](http://registertovote.ca.gov/).
 
 **Other Signature Reminders**
 
