@@ -12,11 +12,11 @@ Accessible vote-by-mail is a ballot delivery option that allows voters with disa
 
 #### Accessible Voting Places  
 
-To confirm whether your polling place has an accessible entrance and voting area, check the back cover of your Voter Information Pamphlet for the international symbol of access, use the Polling Place and Sample Ballot Lookup Tool, or call (415) 554-4375. Teletypewriter (TTY) users may also call (415) 554-4386.
+To confirm whether your polling place has an accessible entrance and voting area, check the back cover of your Voter Information Pamphlet for the international symbol of access, use the [Polling Place and Sample Ballot Lookup Tool](https://sfelections.org/tools/pollsite/), or call (415) 554-4375. Teletypewriter (TTY) users may also call (415) 554-4386.
 
-If your polling place is not accessible, you may choose to vote at a nearby accessible polling place. 
+If your polling place is not accessible, you may choose to vote at a nearby accessible polling place. Use the [Polling Place and Sample Ballot Lookup Tool](http://sfelections.org/tools/pollsite/) or contact the Department to find the nearest accessible polling place that has the same ballot as your precinct.
 
-Any voter who cannot access a polling place or the City Hall Voting Center may request to vote “curbside.” A voter can either call (415) 554-4375 or have a passenger or a friend enter the polling place or the City Hall Voting Center and give the voter’s information to a poll worker or a staff member.
+Any voter who cannot access a polling place or the City Hall Voting Center may request to vote “curbside.” A voter can either call (415) 554-4375 (TTY 415-554-4386) or have a passenger or a friend enter the polling place or the City Hall Voting Center and give the voter’s information to a poll worker or a staff member.
 
 #### Accessible Voting Equipment  
 
@@ -25,8 +25,9 @@ All polling places and Voting Centers have
 - large-print instructions on how to mark a ballot
 - optical sheets to magnify the print 
 - pen attachments to make the writing utensils easier to grip
+- headphones and audio instructions in English, Cantonese, Mandarin, Spanish, and Filipino
 
-The Department can also dispatch a head-pointer or a multi-user sip/puff device to a polling place on Election Day upon request. If you would like to request such device to be available at your polling place, please contact the Department at (415) 554-4375 or TTY (415) 554-4386.
+The Department can also dispatch a head-pointer or a multi-user sip/puff device to a polling place on Election Day upon request. Please contact the Department at (415) 554-4375 or TTY (415) 554-4386.
 
 #### Accessible Voter Information Pamphlet  
 

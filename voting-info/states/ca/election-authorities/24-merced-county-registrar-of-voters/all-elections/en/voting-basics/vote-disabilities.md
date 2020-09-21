@@ -14,10 +14,8 @@ Wheelchair accessible voting booths are available at all Merced County polling p
 
 #### Accessible Voting Information  
 
-Check Merced County’s [Assistance for Voters](http://stanvote.com/assist-voter.shtm) page for extensive information. Merced County can provide:  
-- Large type voting instructions and magnifying devices at polling places  
-- Curbside voting. Voters who cannot get inside the polling place because of architectural barriers or other limitations may request to vote "curbside" (outside the poll location). A poll worker will bring a ballot and pen outside and assist the voters in casting a ballot.  
-- Telecommunications Device (TDD) is available for the hearing impaired. The TDD assistance number is 209-525-5245.  
-- Recorded cassette tapes with state candidate/measure information are available and may be obtained by calling (209) 525-5200 (English) or (209) 525-5230 (Spanish).  
-- Vote-by-mail and permanent vote-by-mail voting options  
-- Poll worker assistance at precinct polling places  
+Voteing Assistance Centers will provide accessible ballot marking devices for voters with disabilities. Those who go to a Voting Assistance Center will be asked to wear a mask and may have to wait in line.
+
+Voters with disabilities may request a remote accessible vote-by-mail ballot in English or Español/Spanish. You can use this ballot at home with your own computer and assistive technologies, then print the ballot and mail or drop it off. To learn more about using an accessible vote-by-mail ballot, [click here.](https://www.co.merced.ca.us/3448/RAVBM-Remote-Accessible-Vote-by-Mail) [Email Elections](mailto:elections@countyofmerced.com) or call (209) 385-7541 for help with the Remote Accessible Vote by Mail system. 
+
+Merced County's Multilingual Virtual Poll Worker Program (MVP) assists voters who are deaf by providing iPads which connect voters to American Sign Language (ASL) interpreters. The Elections Department will have an MVP at each Voting Assistance Center. 

@@ -10,6 +10,8 @@ priority: "Minor"
 
 Look for the access symbol on the back cover of your County Voter Information Guide. If your current polling place is not accessible, and you want to vote at an accessible polling place, call the Elections office at least 2 weeks before the election: (415) 473-6439.
 
+[Marin Transit](https://marintransit.org/marin-access) can provide transportation to polling places for older voters, voters with disabilities, low-income residents, and others who cannot or choose not to drive. 
+
 #### Accessible Voting Equipment  
 
 Each polling place in Marin County has:  
@@ -22,7 +24,7 @@ Each polling place in Marin County has:
 
 - An AUTOMARK, an accessible ballot marking device to help you vote your ballot independently and privately.  
 
-- A Sip and Puff device for use with the AUTOMARK is available on Election Day by calling (415) 473-6456.  
+- A Sip and Puff device for use with the AUTOMARK is available on Election Day by calling (415) 473-6447.  
 
 - Curbside voting for voters who cannot get into the polling place. A poll worker can bring a ballot to you. After you vote, the poll worker will put your voted ballot in the ballot box.  
 

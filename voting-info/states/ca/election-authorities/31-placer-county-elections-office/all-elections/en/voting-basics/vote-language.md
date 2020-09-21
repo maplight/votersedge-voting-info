@@ -6,6 +6,8 @@ section: "voting-basics"
 priority: "Minor"
 ---
 
-**Ballot facsimiles** are available at certain polling places in Español/Spanish, 한국어/Korean, and Tagalog/Filipino. Call 530-886-5650 for more information.
+**Translated sample ballots** are available at certain polling places in Español/Spanish, 한국어/Korean, and Tagalog/Filipino. Voters can use these sample ballots as a reference when voting. Call 530-886-5650 for more information.
 
-If your polling place has a translated sample ballot in your preferred language but you wish to see it before Election Day, you can request one by calling our office at 530-886-5650, online at https://www.placerelections.com/languages/, emailing the Elections Office at election@placer.ca.gov or by mailing a written request to Placer County Elections, 2956 Richardson Drive, Auburn CA 95603.
+[The Placer Elections website](https://www.placerelections.com/languages/) has a list of precincts that will have translated sample ballots in Español/Spanish, 한국어/Korean, and Tagalog/Filipino. 
+
+You can request a translated sample ballot be mailed or emailed to you before Election Day by calling the Elections Office at 530-886-5650, online at https://www.placerelections.com/languages/, emailing the Elections Office at election@placer.ca.gov or by mailing a written request to Placer County Elections, 2956 Richardson Drive, Auburn CA 95603. Requests must be received no later than 7 days before Election Day. 

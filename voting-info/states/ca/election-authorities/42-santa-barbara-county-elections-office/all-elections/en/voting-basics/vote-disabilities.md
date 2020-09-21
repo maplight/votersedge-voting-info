@@ -12,7 +12,7 @@ Check Santa Barbara County's [Voter Assistance](https://countyofsb.org/care/elec
 
 To determine whether a polling place is accessible, voters can turn to the back cover of their County Voter Information Guide.
 
-If the polling place is not accessible, voters may call (800) SBC-VOTE to find the nearest accessible location or to request Curbside Voting at their polling place. To request Curbside Voting at a polling place or one of our office locations, please call (800) SBC-VOTE or (800) 722-8683.
+If the polling place is not accessible, voters may call (800) SBC-VOTE to find the nearest accessible location or to request Curbside Voting at their polling place. To request Curbside Voting at a polling place or one of the Elections Office locations, please call (800) SBC-VOTE or (800) 722-8683.
 
 #### Accessible Voting Information  
 

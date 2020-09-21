@@ -17,6 +17,17 @@ At any polling location that is determined inaccessible or that you are unable t
 - You may sit in your car and vote, or you may vote at the door of the building
 - Call (858) 565-5800 before heading to your poll to make these arrangements
 
-All polling locations have signature guide cards and magnifying sheets.
+#### Accessible Voting Equipment 
 
-Every poll location will have a touchscreen voting machine that is compliant with the Americans with Disabilities Act (ADA). The touchscreen is equipped with a headset and telephone-style keypad for audio-based voting, as well as large print, zoom features, and height and tilt adjustments.
+All polling locations have an [accessible ballot marking device](https://www.sdvote.com/content/rov/en/outreach/bmd.html). Features include: 
+- Touchscreen tablet, with options to change text size and contrast 
+- Handheld controller with braille 
+- Headphones and audio instructions in English, Spanish, Filipino, Vietnamese, and Chinese
+- Privacy mask, for voters with low vision to ensure their votes are kept private as they use the audio instructions
+- The ability to use their own paddle, or sip and puff assistive device
+
+Poll workers also have signature guide cards and magnifying sheets for voters with visual impairments. 
+
+#### Remote Accessible Vote by Mail 
+
+Voters with disabilities may request a remote accessible vote-by-mail ballot. You can use this ballot at home with your own computer and assistive technologies, then print the ballot and mail or drop it off. To learn more about using an accessible vote-by-mail ballot, [click here.](https://www.sdvote.com/content/rov/en/outreach/accessible_voting.html) 

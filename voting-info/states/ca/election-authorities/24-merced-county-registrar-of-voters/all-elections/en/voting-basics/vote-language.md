@@ -6,12 +6,8 @@ section: "voting-basics"
 priority: "Minor"
 ---
 
-Visit the [Registrar of Voters website](http://stanvote.com/), and click the Español button on the right to view the site in Español/Spanish.
+The Registrar of Voters provides services and official election materials, including translated ballots, to voters in English and Español/Spanish. 
 
-In accordance with federal law and local ordinance, Merced County provides voter registration information, election materials and oral assistance in English and Spanish. Voters who request election materials in the Spanish language will be mailed a translated sample ballot for all Merced County-conducted elections.  
+中文/Chinese, ਪੰਜਾਬੀ/Punjabi, Hmong, and Mien versions of ballots and polling place information are available at certain sites. Voting Assistance Centers will post visible signs indicating the languages spoken at that location. Voters may [request](mailto:mercedelections@countyofmerced.com) a translated ballot be sent to them by mail or email. 
 
-Additionally, poll locations that have been identified as requiring oral language assistance are supplied with translated voting materials and staffed with bilingual poll workers whenever possible. Signs are posted in those poll locations identifying that the Spanish language is spoken.  
-
-Some precincts are required to post a facsimile ballot and related instructions in the ខ្មែរ/Khmer, Punjabi, and Syriac languages.  
-
-To learn more about the language assistance the Merced County elections office provides, visit the [Registrar of Voters Language Assistance page](http://www.stanvote.com/language-assistance.shtm).
+Merced County's Multilingual Virtual Poll Worker Program (MVP) assists voters who are deaf by providing iPads which connect voters to interpreters for over 240 languages. Languages include Español/Spanish, Hmong, ਪੰਜਾਬੀ/Punjabi, and American Sign Language (ASL). The Elections Department will have an MVP at each Voting Assistance Center. 
