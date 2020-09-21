@@ -10,11 +10,13 @@ priority: "Minor"
 
 The San Francisco County Department of Elections website, Voter Information Pamphlet and election materials, including ballots, are available in:  
 
-[中文/Chinese](http://sfgov.org/elections/home-ch)  
-[Español/Spanish](http://sfgov.org/elections/home-sp)  
-[Tagalog/Filipino](http://sfgov.org/elections/home-fi)  
+[中文/Chinese](https://sfelections.sfgov.org/home-ch)  
+[Español/Spanish](https://sfelections.sfgov.org/home-sp)  
+[Tagalog/Filipino](https://sfelections.sfgov.org/home-fi)  
 
-**Election materials and ballot facsimiles** are available at each polling place in these languages:  
+To receive your ballot, Voter Information Pamphlet, and other election materials in 中文/Chinese, Español/Spanish, and Tagalog/Filipino, use the [Voter Portal.](https://sfelections.org/tools/portal/) 
+
+**Election materials and translated sample ballots (fascimiles)** are available at each polling place in these languages:  
 
 한국어/Korean  
 Tiếng Việt/Vietnamese  
@@ -26,4 +28,4 @@ Tiếng Việt/Vietnamese
 - Español/Spanish: 415-554-4366  
 - Tagalog/Filipino: 415-554-4310  
 
-For more information on language assistance contact the [San Francisco County Department of Elections](http://sfgov.org/elections/language-access).  
+For more information on language assistance contact the [San Francisco County Department of Elections](https://sfelections.sfgov.org/language-access).  

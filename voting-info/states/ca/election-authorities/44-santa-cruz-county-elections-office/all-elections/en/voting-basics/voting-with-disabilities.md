@@ -19,9 +19,9 @@ Curbside voting is available. Alternatively, the Elections Department can arrang
 #### Accessible Voting Information     
 
 The poll worker will ask you if you want to vote using a paper ballot or an electronic touch screen ballot. Each polling place in the county has a touch screen voting unit that is ADA-compliant and has the following features:
-    an audio option that reads the ballot to you
-    a universal plug for a personal assistive device
-    large font (24 points)
-    a choice of English or Spanish
+- an audio option that reads the ballot to you
+- a universal plug for a personal assistive device
+- large font (24 points)
+- a choice of English or Spanish
 
   

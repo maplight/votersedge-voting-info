@@ -10,4 +10,4 @@ You can access the Español/Spanish version of the Riverside County Registrar of
 
 Voters may request language assistance by calling (951) 486-7200 or [emailing](mailto:ramartine@co.riverside.ca.us) the Registrar of Voters office.  
 
-The Registrar of Voters office provides voter services and official election materials in English and Español/Spanish. Designated polling places will have Tagalog/Filipino, Tiếng Việt/Vietnamese, 한국어/Korean, and 中文/Chinese election materials and language assistance.  
+The Registrar of Voters office provides voter services and official election materials in English and Español/Spanish. Some designated polling places may have Tagalog/Filipino, Tiếng Việt/Vietnamese, 한국어/Korean, and 中文/Chinese election materials and language assistance. 
