@@ -6,6 +6,10 @@ section: "more-voting-info"
 priority: "Minor"
 ---
 
-Check out this great opportunity to help your community while earning extra money: be a Poll Worker in [Sonoma County](https://sonomacounty.ca.gov/CRA/Registrar-of-Voters/Poll-Worker-Info/Serve-as-a-Poll-Worker/)!  
+Check out this great opportunity to help your community while earning extra money: be a Poll Worker in [Sonoma County](https://sonomacounty.ca.gov/CRA/Registrar-of-Voters/Poll-Worker-Information/)!  
 
-The County of Sonoma is also actively recruiting bilingual poll workers fluent in Khmer, Spanish, Tagalog or Vietnamese to serve their communities. 
+The County of Sonoma is also actively recruiting bilingual poll workers fluent in the following languages to serve their communities: 
+- Spanish 
+- Tagalog
+- Vietnamese
+- Khmer 

@@ -8,5 +8,5 @@ priority: "Minor"
 
 Please call (707) 784-6675 for language information.  
 
-To receive a translated ballot for the upcoming election in either Spanish or Tagalog, please fill out and submit [this form](
-http://www.solanocounty.com/depts/rov/voting_by_mail/translated_ballot_request.asp).
+To receive a translated ballot for the upcoming election in either Español/Spanish or Tagalog, please fill out and submit [this form](
+https://www.solanocounty.com/depts/rov/voting_by_mail/translated_ballot_request.asp).

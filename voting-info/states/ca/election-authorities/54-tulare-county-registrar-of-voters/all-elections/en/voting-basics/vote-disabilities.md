@@ -8,7 +8,7 @@ priority: "Minor"
 
 #### Accessible Voting Places  
 
-All polling places in Tulare County have been determined to be accessible to people with disabilities.  
+Check the back cover of your Sample Ballot for the wheelchair symbol that shows whether or not your polling place is accessible.
 
 #### Accessible Voting Equipment    
 
