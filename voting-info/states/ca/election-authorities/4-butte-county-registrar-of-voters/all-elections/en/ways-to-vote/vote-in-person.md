@@ -20,7 +20,7 @@ Find your Vote Center locations and hours:
 
 - On the [Secretary of State's website](https://caearlyvoting.sos.ca.gov/) 
 
-- On the [Butte County Elections Office website](https://clerk-recorder.buttecounty.net/elections/archives/eln45/45_voter_info_guide.pdf) on page 85   
+- On the [Butte County Elections Office website](https://www.dropbox.com/s/jeza63xn9gmrswg/2020%20Butte%20Vote%20Centers%20%26%20Drop%20Box%20Locations.pdf?dl=0) 
 
 - By calling (530)552-3400, Option 1        
 
