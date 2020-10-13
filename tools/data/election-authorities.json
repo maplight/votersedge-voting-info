@@ -2838,7 +2838,7 @@
             "email": "dbautista@co.tuolumne.ca.us",
             "fax": "(209) 694-8931",
             "website": "https:\/\/www.tuolumnecounty.ca.gov\/194\/Election-Information",
-            "polling_lookup": "http:\/\/www.tcvoter.co.tuolumne.ca.us:8091\/poll.aspx",
+            "polling_lookup": "https://www.tuolumnecounty.ca.gov/DocumentCenter/View/15223/Vote-Center-and-Ballot-Drop-off-Map-2020-11-03",
             "ve_email": "CA-tlm@votersedge.org"
         }, {
             "election_authority_id": "56",
