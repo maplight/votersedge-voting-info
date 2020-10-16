@@ -18,6 +18,6 @@ priority: "Minor"
 
 On Election Day, Tuesday, November 3, all Vote Centers are open from 7 AM to 8 PM. Ballot Drop Boxes will also close at 8 PM. 
 
-Find a Ballot Drop Box or Vote Center on the [Secretary of State's website](https://caearlyvoting.sos.ca.gov/) or on the [Fresno County Elections Office website](https://www.co.fresno.ca.us/home/showdocument?id=48527). 
+Find a Ballot Drop Box or Vote Center on the [Secretary of State's website](https://caearlyvoting.sos.ca.gov/) or on the [Fresno County Elections Office website](https://www.co.fresno.ca.us/home/showdocument?id=49536). 
 
 For more information about Fresno County’s new Voter’s Choice elections visit the [Fresno Department of Elections Office](https://www.co.fresno.ca.us/departments/county-clerk-registrar-of-voters/voters-choice-act-3528) online.  

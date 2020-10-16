@@ -6,8 +6,6 @@ section: "voting-basics"
 priority: "Minor"
 ---
 
-Facsimile ballots will be available in Spanish.  
+Facsimile ballots will be available in Spanish at each of the [8 Vote Centers](https://www.mynevadacounty.com/3100/Vote-Center-Locations) located throughout Nevada County.
 
-Some Vote Centers, including those located in Truckee, will have Spanish language assistance.  
-
-The Nevada County Elections Office will provide a toll-free voter assistance hotline for Spanish speakers in Nevada County. This hotline will be operational 29 days before the election through 5 PM the day after the election. The number for this hotline will be posted on the [Nevada County Elections website](https://www.mynevadacounty.com/695/Registrar-of-Voters) and in voting materials sent to voters.  
+Over 200 languages and American Sign Language (ASL) interpreters are available at each Vote Center in Nevada County! Nevada County will be offering online video interpreting services at each Vote Center. 

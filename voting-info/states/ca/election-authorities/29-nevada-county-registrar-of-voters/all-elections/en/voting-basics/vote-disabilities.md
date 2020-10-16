@@ -18,7 +18,7 @@ All vote centers will be equipped with at least three accessible electronic voti
 
 All exterior and interior ballot drop off locations will be accessible and as near to public transportation routes as possible. The 24-hour ballot drop off location at the Nevada County Government Building (Rood Center) is accessible and on a public transportation route.  
 
-Voters with disabilities may request a remote accessible vote-by-mail ballot. You can use this ballot at home with your own computer and assistive technologies, then print the ballot and mail or drop it off. You can request a remote accessible vote-by-mail ballot [here](https://www.mynevadacounty.com/2521/Remote-Accessible-Vote-by-Mail-Ballot).
+Voters with disabilities may request a remote accessible vote-by-mail ballot. You can use this ballot at home with your own computer and assistive technologies, then print the ballot and mail or drop it off. You can request a remote accessible vote-by-mail ballot [here](https://sites.omniballot.us/06057/app/ravbm/eligibility).
 
 Voters can also request audio ballot information and accessible PDF files by email.  
 
