@@ -20,7 +20,7 @@ Find your Vote Center locations and hours:
 
 - On the [Secretary of State's website](https://caearlyvoting.sos.ca.gov/)  
 
-- On the [Nevada County Elections Office website](https://mynevadacounty.com/2898/Vote-Center-Locations) 
+- On the [Nevada County Elections Office website](https://mynevadacounty.com/3100/Vote-Center-Locations) 
 
 - By calling 530-265-1298      
 

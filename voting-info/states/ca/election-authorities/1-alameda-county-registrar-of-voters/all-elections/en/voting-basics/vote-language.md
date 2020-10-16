@@ -8,7 +8,7 @@ priority: "Minor"
 
 In compliance with federal law and local ordinance, the Registrar of Voters provides services and official election materials to voters in English, 中文/Chinese, Español/Spanish, Tagalog/Filipino, and Tiếng Việt/Vietnamese. The Alameda County Registrar's [website](https://www.acvote.org/index) can be viewed in these languages by selecting the language in the top right corner.  
 
-한국어/Korean, ខ្មែរ/Khmer, and ਪੰਜਾਬੀ/Punjabi versions of ballots and polling place information are available at [some selected precincts](https://www.acvote.org/acvote-assets/04_resources/PDFs/language/Combined.pdf).  
+한국어/Korean, ខ្មែរ/Khmer, and ਪੰਜਾਬੀ/Punjabi versions of ballots and polling place information are available at [some selected polling places](https://www.acvote.org/election-information/3percentlang/3percentmarch2020.page).  
 
 To request a copy of the translated Official Ballot to be mailed or emailed to you, please call 510-272-6973. Requests must be received no later than 7 days before Election Day.
 

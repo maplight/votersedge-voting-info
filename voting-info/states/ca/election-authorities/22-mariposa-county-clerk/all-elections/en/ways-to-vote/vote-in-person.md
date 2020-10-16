@@ -20,7 +20,7 @@ Find your Vote Center locations and hours:
 
 - On the [Secretary of State's website](https://caearlyvoting.sos.ca.gov/) 
 
-- On the [Mariposa County Elections Office website](https://www.mariposacounty.org/363/Current-Election-Information)   
+- On the [Mariposa County Elections Office website](https://www.dropbox.com/s/v5p0pwq5r95lzpf/Mariposa%20Voter%20Centers.pdf?dl=0)   
 
 - By calling (209) 966-2007       
 

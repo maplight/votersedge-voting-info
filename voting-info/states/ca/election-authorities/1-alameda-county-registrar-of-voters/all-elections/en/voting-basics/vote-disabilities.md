@@ -8,7 +8,7 @@ priority: "Minor"
 
 #### Accessible Voting Places  
 
-**Check [online](http://www.acgov.org/rov_app/pollinglist/) or on the back cover** of your Sample Ballot for the wheelchair symbol that shows whether or not your polling place is accessible. "YES" means the voter’s polling place is accessible. "NO" means the voter’s polling place is not accessible.  
+**Check [online](https://www.acgov.org/rovapps/maps/avl/) or on the back cover** of your Sample Ballot for the wheelchair symbol that shows whether or not your polling place is accessible. "YES" means the voter’s polling place is accessible. "NO" means the voter’s polling place is not accessible.  
 
 Voters have the option to use an accessible touchscreen voting machine which provides an audio ballot feature. The audio feature is available in English, Chinese, Spanish, Tagalog, and Vietnamese. 
 
