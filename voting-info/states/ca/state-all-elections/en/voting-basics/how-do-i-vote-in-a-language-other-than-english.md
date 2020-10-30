@@ -18,6 +18,7 @@ For answers to your questions about voting and elections, or to request mail del
 - (800) 339-2957 - Tagalog  
 - (855) 345-3933 - ภาษาไทย / Thai  
 - (800) 339-8163 - Việt ngữ / Vietnamese  
+- (408) 320-7454 - Punjabi (provided by Jakara Movement)
 
 For more information on in-language voting resources visit the [California Secretary of State](http://www.sos.ca.gov/elections/voting-resources/) and read this handy [Language Assistance Fact Sheet](https://www.advancingjustice-alc.org/wp-content/uploads/2020/09/Language-Access-November-2020-.pdf). This and other documents are available in several languages on the [Asian Americans Advancing Justice website](https://www.advancingjustice-alc.org/know-your-voting-rights/).  
 

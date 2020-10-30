@@ -25,6 +25,8 @@ For more voting information in English and Spanish, visit [¡Ve y Vota!](https:/
 
 **Arabic: 844-YALLA-US (844-925-52872)**  
 
+**Punjabi: (408)-320-7454**
+
 Download **[Know Your Voting Rights](https://www.advancingjustice-alc.org/know-your-voting-rights/)** in: 
 - [English](https://www.advancingjustice-alc.org/wp-content/uploads/2020/10/English-Non-VCA-KYVR-Nov-2020.pdf)
 - [Español/Spanish](https://www.advancingjustice-alc.org/wp-content/uploads/2020/10/Spanish-Non-VCA-KYVR-Nov-2020.pdf)
