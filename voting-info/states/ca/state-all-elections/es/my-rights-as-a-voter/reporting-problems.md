@@ -25,6 +25,8 @@ Para obtener más información, consulte [Ya es hora ¡VE Y VOTA!](https://naleo
 
 **Árabe: 844-YALLA-US (844-925-52872)**
 
+**Punjabi: (408)-320-7454**
+
 Descargue **[Conozca sus derechos al voto](https://www.advancingjustice-alc.org/know-your-voting-rights/)** en: 
 - [Inglés](https://www.advancingjustice-alc.org/wp-content/uploads/2020/10/English-Non-VCA-KYVR-Nov-2020.pdf)
 - [Español](https://www.advancingjustice-alc.org/wp-content/uploads/2020/10/Spanish-Non-VCA-KYVR-Nov-2020.pdf)
