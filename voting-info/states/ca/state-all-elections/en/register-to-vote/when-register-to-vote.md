@@ -6,10 +6,10 @@ section: "register-to-vote"
 priority: "Minor"
 ---
 
-**Fill out a [voter registration form](http://registertovote.ca.gov/) no later than Monday, October 19, 2020 for the Tuesday, November 3, 2020 General Election.**  
+**Fill out a [voter registration form](http://registertovote.ca.gov/) no later than 15 days before Election Day.**  
 
 It is important that your voter registration application be filled out completely and:  
-- Submitted online no later than Monday, October 19, 2020; or  
-- Postmarked or hand-delivered to your county elections office no later than Monday, October 19, 2020.  
+- Submitted online no later than 15 days beofre the election; or  
+- Postmarked or hand-delivered to your county elections office no later than 15 days before the election.  
 
 Even if you missed the voter registration deadline, it isn't too late to vote. With [Same-Day Voter Registration](#menu-item-missed-the-voter-registration-deadline-you-can-still-register-and-vote), you can register up to and on Election Day. 
