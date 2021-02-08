@@ -6,7 +6,7 @@ section: "voting-basics"
 priority: "Minor"
 ---
 
-People’s signatures change over time and for other reasons. When you use a mailed ballot you’ll need to sign the back of the envelope. Check [here](#menu-item-vote-by-mail) for how to vote by mail.
+People’s signatures change over time and for various reasons. When you use a mailed ballot you’ll need to sign the back of the envelope. Check [here](#menu-item-vote-by-mail) for how to vote by mail.
 
 **Check your signature** to make sure it looks like the one the elections office has on file. 
 - If you registered to vote at the DMV or online, the signature will be the one on your Driver’s License or State ID.
@@ -17,7 +17,7 @@ People’s signatures change over time and for other reasons. When you use a mai
 **If you ask someone else such as a family member or friend to return your ballot for you,** they also need to sign and date the ballot, and list their relationship to you.
 
 **What happens if I use the wrong signature?**
-If you didn’t sign your ballot envelope or used the wrong signature, you will have a chance to correct it. Your county elections office will let you know there was an issue after the election. You will have until December 1, 2020 to correct any issue with your signature.
+If you didn’t sign your ballot envelope or used the wrong signature, you will have a chance to correct it. Your county elections office will let you know there was an issue after the election. You will have a limited number of days to correct any issue with your signature.
 
 - If you used the wrong signature, you will need to submit a signature verification statement by mail, email, fax, or in person. 
 - If you didn’t sign your ballot envelope, you will need to sign the envelope at your county elections office or submit a statement by mail, email, fax, or in person. 
