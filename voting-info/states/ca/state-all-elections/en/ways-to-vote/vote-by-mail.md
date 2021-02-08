@@ -26,8 +26,8 @@ You can assign anyone to drop off your ballot at a voting location on Election D
 **Return your ballot early**.
 
 **If you mail your ballot back, don’t delay.**  
-- Your completed vote-by-mail ballot must be **postmarked** by the United States Postal Service on or before **Election Day, Tuesday, November 3, 2020.**
-- Once mailed and postmarked, the ballot must be **received** by the elections office **no later than Friday, November 20, 2020.**
+- Your completed vote-by-mail ballot must be **postmarked** by the United States Postal Service on or before **Election Day.**
+- Once mailed and postmarked, the ballot must be **received** by the elections office **no later than 3 days after Election Day.**
 
 **NEW - Track your Ballot!** Sign up at [wheresmyballot.sos.ca.gov](https://california.ballottrax.net/voter/) or call 800-345-VOTE (8683) to find out where your ballot is in the process and when it has been accepted. 
 
