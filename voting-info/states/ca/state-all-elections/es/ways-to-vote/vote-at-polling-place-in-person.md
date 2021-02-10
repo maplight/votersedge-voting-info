@@ -16,7 +16,7 @@ En los lugares de votación en persona usted puede:
 
 **¿Cómo voto en el lugar de votación o el centro de votación en persona?**  
 
-Los lugares de votación estarán abiertos de 7 a. m. a 8 p. m. el **día de las elecciones, el martes 3 de noviembre de 2020**. 
+Los lugares de votación estarán abiertos de 7 a. m. a 8 p. m. el **día de las elecciones**. 
 
 La votación temprana, que comienza antes del día de las elecciones, estará disponible en algunos lugares. Encuentre los lugares de votación temprana y los lugares con buzones en [caearlyvoting.sos.ca.gov](https://caearlyvoting.sos.ca.gov/).
 
