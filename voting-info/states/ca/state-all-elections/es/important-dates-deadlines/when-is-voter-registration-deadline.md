@@ -5,7 +5,7 @@ weight: 2
 section: "important-dates-deadlines"
 priority: "Minor"
 ---
-La fecha límite para inscribirse para votar es el 19 de octubre.
+**Inscríbase** para votar a más tardar 15 días antes de la elección en [registertovote.ca.gov](https://registertovote.ca.gov/es-mx)..
 
 Es importante que llene por completo su solicitud de inscripción de votante y:
 - la presente en línea antes de la media noche, 15 días antes de la elección o
