@@ -5,7 +5,7 @@ weight: 2
 section: "important-dates-deadlines"
 priority: "Minor"
 ---
-In order to vote in the November 3 General Election, you must register to vote **no later than 15 days before the election.**  
+In order to vote in the election, you must register to vote **no later than 15 days before the election.**  
 
 It is important that your voter registration application be filled out completely and:  
 - Submitted online no later than 15 days before the election;
