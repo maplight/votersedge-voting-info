@@ -1,6 +1,6 @@
 ---
 title: "How do I vote in Merced County if I have disabilities?"
-published: false
+published: true
 weight: 10
 section: "voting-basics"
 priority: "Minor"

@@ -6,7 +6,7 @@ section: "ways-to-vote"
 priority: "Minor"
 ---
 
-**Drop it off** at any secure Ballot Drop Box from **Tuesday, October 6**, through **Election Day, Tuesday, November 3**.  
+**Drop it off** at any secure Ballot Drop Box starting 29 days before the election through **Election Day**.
 
 - No postage is required on your return envelope.  
 
@@ -16,7 +16,7 @@ priority: "Minor"
 
 **Drop it off** at any Vote Center in Amador County.   
 
-On Election Day, Tuesday, November 3, all Vote Centers are open from 7 AM to 8 PM. Ballot Drop Boxes will also close at 8 PM. 
+On Election Day, all Vote Centers are open from 7 AM to 8 PM. Ballot Drop Boxes will also close at 8 PM. 
 
 Find a Ballot Drop Box or Vote Center on the [Secretary of State's website](https://caearlyvoting.sos.ca.gov/) or on the [Amador County Elections Office website](https://www.amadorgov.org/government/elections/vote-center-and-ballot-drop-off-locations). 
 

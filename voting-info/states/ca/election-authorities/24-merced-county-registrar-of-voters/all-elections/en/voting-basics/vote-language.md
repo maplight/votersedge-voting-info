@@ -1,6 +1,6 @@
 ---
 title: "How do I vote in Merced County if I speak a language other than English?"
-published: false
+published: true
 weight: 12
 section: "voting-basics"
 priority: "Minor"
