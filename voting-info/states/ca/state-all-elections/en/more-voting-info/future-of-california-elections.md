@@ -5,6 +5,6 @@ weight: 14
 section: "more-voting-info"
 priority: "Minor"
 ---
-The [Future of California Elections](http://futureofcaelections.org/) (FoCE) is a collaboration between election officials, civil rights organizations and election reform advocates to examine and address the unique challenges facing the State of California’s election system.  
+The [Future of California Elections (FoCE) Network](http://futureofcaelections.org/) is a nonpartisan network of election officials, reform advocates, civil rights organizations, and civic engagement groups collaborating to advance effective and inclusive election policies and practices.
 
-Visit the [Voter Experience Index](http://futureofcaelections.org/vei/). This informative set of tools was developed to improve the voter experience. It is a collection of research, publications and “how-to” guides produced by members of Future of California Elections and partners.  
+Check out the [FoCE Network website](http://futureofcaelections.org/) to access resources about voter registration, the Voter’s Choice Act, language accessibility, accessibility for voters with disabilities, and design guidelines for voting materials.
