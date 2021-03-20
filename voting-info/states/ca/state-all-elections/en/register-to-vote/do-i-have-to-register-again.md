@@ -11,4 +11,4 @@ priority: "Minor"
 - Move to a different address.  
 - Change your name.  
 - Wish to change political parties or to register with no party preference.  
-- Were removed from the registration rolls while in prison or on parole for the conviction of a felony.
+- Were removed from the registration rolls while in state or federal prison for the conviction of a felony.
