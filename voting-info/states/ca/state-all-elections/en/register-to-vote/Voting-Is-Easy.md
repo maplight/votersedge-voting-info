@@ -12,7 +12,7 @@ Fill out a voter registration form no later than 15 days before the election.
 
 #### 1. Sign Up!
 
-- You are eligible to vote if you are a U.S. citizen, 18 years or older, Not currently serving a state or federal prison term for the conviction of a felony, and have not been found by a court to be mentally incompetent.
+- You are eligible to vote if you are a U.S. citizen, 18 years or older, not currently serving a state or federal prison term for the conviction of a felony, and have not been found by a court to be mentally incompetent.
 - You must register to get on the official list of voters in your county. The deadline to register is **15 days before the election.**
 - Fill out the form online at [registertovote.ca.gov](http://registertovote.ca.gov/).
 You can also pick up a voter registration form at your library or post office or call 1-800-345-8683 to have a registration form mailed. 
