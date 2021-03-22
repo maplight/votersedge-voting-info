@@ -13,7 +13,7 @@ priority: "Minor"
    - a U.S. citizen living in California  
    - at least 18 years old  
    - registered where you currently live  
-   - not in prison or on parole for a felony  
+   - not currently in state or federal prison for the conviction of a felony 
    
 **2. The right to vote if you are a registered voter even if your name is not on the list.** You will vote using a provisional ballot. Your vote will be counted if elections officials determine that you are eligible to vote.  
 
