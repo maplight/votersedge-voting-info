@@ -1,6 +1,6 @@
 ---
 title: "Voting in the November General Election"
-published: true
+published: false
 weight: 16
 section: "voting-basics"
 priority: "Minor"
