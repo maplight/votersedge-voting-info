@@ -36,7 +36,7 @@ For more information, check [Can I Register To Vote?](#menu-item-can-i-register-
 **This year, if you are already registered to vote, you will receive a ballot in the mail.** You choose whether to vote in person at your voting location, or return the ballot you received either by mail or by dropping it off.  
 
 - **By Mail**. If you wish to use the mailed ballot instead of voting in person, fill it out and mail it back early so that it is postmarked no later than Election Day. 
-- **Or Dropoff**. You may drop off your ballot at any voting location in your county. Your county may also open secure ballot drop box locations starting about a month before Election Day.
+- **Or Dropoff**. You may drop off your ballot at any voting location in your county. Your county may also open secure ballot drop off locations starting about a month before Election Day.
 - **Or In Person**. For voting in person on Election Day, the polls are open from 7 a.m. to 8 p.m. 
 - **Early Voting**. You may also be able to vote in person before Election Day. Check [caearlyvoting.sos.ca.gov](https://caearlyvoting.sos.ca.gov/).
 

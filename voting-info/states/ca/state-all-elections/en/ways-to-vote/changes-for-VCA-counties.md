@@ -6,9 +6,9 @@ section: "ways-to-vote"
 priority: "Minor"
 ---
 
-This year you have options to vote safely and easily. The biggest change is that **every registered voter in California will receive a ballot in the mail** a month before the election.
+This year you have options to vote safely and easily. **Every registered voter in California will receive a ballot in the mail** a month before the election.
 
-**There are 3 ways to vote**. You can choose to mail back your ballot, drop it off, or you can vote in person. Your in-person voting location may be different than the one you usually visit. It will be set up for safe voting, following health and safety guidelines for COVID-19.
+**There are 3 ways to vote**. You can choose to mail back your ballot, drop it off, or you can vote in person. Your in-person voting location may be different than the one you usually visit. 
 
 **Get ready for your mailed ballot**
 - **Register** to vote no later than 15 days before the election at [registertovote.ca.gov](https://registertovote.ca.gov//).
