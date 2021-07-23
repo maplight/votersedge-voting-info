@@ -1,6 +1,6 @@
 ---
 title: "Votar en las elecciones generales de noviembre"
-published: true
+published: false
 weight: 16
 section: "voting-basics"
 priority: "Minor"

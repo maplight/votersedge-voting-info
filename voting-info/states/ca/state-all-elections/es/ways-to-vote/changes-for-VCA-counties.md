@@ -6,9 +6,9 @@ section: "ways-to-vote"
 priority: "Minor"
 ---
 
-Este año, usted tiene más opciones para votar de manera segura y fácil. El mayor cambio es que **cada votante inscrito en California recibirá una boleta electoral por correo** un mes antes de la elección.
+Este año, usted tiene más opciones para votar de manera segura y fácil. **Cada votante inscrito en California recibirá una boleta electoral por correo** un mes antes de la elección.
 
-**Hay 3 maneras de votar**. Puede elegir devolver su boleta electoral por correo o entregarla, o puede votar en persona. Su lugar de votación para acudir en persona podría ser diferente al que normalmente visita. Se establecerá de tal forma que ofrezca una votación segura, de acuerdo con los lineamientos de salud y seguridad para el COVID-19.
+**Hay 3 maneras de votar**. Puede elegir devolver su boleta electoral por correo o entregarla, o puede votar en persona. Su lugar de votación para acudir en persona podría ser diferente al que normalmente visita.
 
 **Prepárese para su boleta electoral por correo**
 - **Inscríbase** para votar a más tardar 15 días antes de la elección en [registertovote.ca.gov](https://registertovote.ca.gov/es-mx).
