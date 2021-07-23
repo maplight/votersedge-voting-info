@@ -27,7 +27,7 @@ Puede pedir a cualquier persona que entregue su boleta electoral en un lugar de 
 
 **No se demore si envía su boleta electoral por correo.**  
 - Su boleta electoral para voto por correo marcada debe tener un **matasellos** del Servicio Postal de Estados Unidos con fecha del **día de las elecciones, o una fecha anterior.**
-- Una vez que se envíe por correo y se mataselle, la boleta electoral deberá **recibirse** en la oficina electoral **a más tardar 3 días después del día de las elecciones.**
+- Una vez que se envíe por correo y se mataselle, la boleta electoral deberá **recibirse** en la oficina electoral **a más tardar 7 días después del día de las elecciones.**
 
 **NUEVA OPCIÓN - ¡Rastree su boleta electoral!** Regístrese en [wheresmyballot.sos.ca.gov](https://california.ballottrax.net/voter/) o llame al 800-345-VOTE (8683) para saber en qué parte del proceso está su boleta electoral y cuándo se aceptó. 
 
