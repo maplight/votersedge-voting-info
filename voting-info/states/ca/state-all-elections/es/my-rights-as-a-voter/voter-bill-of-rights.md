@@ -12,7 +12,7 @@ priority: "Minor"
 - es ciudadano de los EE.UU. y vive en California
 - está inscrito en el lugar donde vive actualmente
 - tiene al menos 18 años de edad
-- no está en prisión o en libertad condicional por haber cometido un delito mayor
+- no estar cumpliendo actualmente una condena en una prisión estatal o federal por un delito grave
 
 **2. El derecho a votar si está inscrito como votante, incluso si su nombre no está en la lista.** Votará con una boleta provisional. Si los funcionarios electorales determinan que es calificado para votar, su voto se contará.
 
