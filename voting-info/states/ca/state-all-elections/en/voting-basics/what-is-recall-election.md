@@ -7,11 +7,13 @@ priority: "Minor"
 ---
 A recall election decides whether or not an elected official will be removed from the elected job, and who will replace that official.   
 
-For more information visit [Recall Elections](https://www.sos.ca.gov/elections/recalls/current-recall-efforts/newsom-recall-faqs). 
-#### How Does a Recall Election Work  
+For more information visit [Recall Elections](https://www.sos.ca.gov/elections/recalls/current-recall-efforts/newsom-recall-faqs).
 
+##### How Does a Recall Election Work  
 For the **September 14, California Governor Recall Election**, there will be two questions on the ballot that every eligible Californian can vote on: 
+
 **1.** Do you want to recall the governor (remove him from office)?
+
 **2.** If the governor is recalled, who do you want to replace him?
 
 **You do not need to vote on both questions**. You may cast a vote for either question or both.
