@@ -1903,7 +1903,7 @@
             "email": "rov_outreach@acgov.org",
             "fax": "(510) 272-6982",
             "website": "http:\/\/www.acgov.org\/rov\/index.htm",
-            "polling_lookup": "https://caearlyvoting.sos.ca.gov",
+            "polling_lookup": "https:\/\/www.acgov.org\/rov_app\/pollinglist",
             "ve_email": "CA-alm@votersedge.org"
         }, {
             "election_authority_id": "2",
