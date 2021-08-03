@@ -12,14 +12,14 @@ Llene un formulario de inscripción del votante y preséntelo para votar en una 
 
 #### 1. ¡Regístrese!
 
-- Usted es elegible para votar si es un ciudadano de los Estados Unidos mayor de 18 años, si ya no está en prisión o en libertad condicional por condena de un delito mayor, y si un tribunal no lo ha declarado mentalmente incompetente.
+- Usted es elegible para votar si es un ciudadano de los Estados Unidos mayor de 18 años, si actualmente no está cumpliendo un periodo en prisión estatal o federal por condena de un delito mayor, y si un tribunal no lo ha declarado mentalmente incompetente.
 - Debe inscribirse para ser parte de la lista oficial de votantes de su condado. **La fecha límite para inscribirse es 15 días antes de la elección.**
 - Llene el formulario en línea en [registertovote.ca.gov](https://registertovote.ca.gov/es-mx).
 También puede recoger un formulario de inscripción del votante en su biblioteca u oficina postal, o llamar al 1-800-345-8683 para que le envíen por correo un formulario de inscripción. 
 - Es importante llenar el formulario en su totalidad. Se le pedirá que incluya el número de su licencia de conducir o de otra identificación.
 - ¿Expiró el plazo? Todavía puede inscribirse para votar en esta elección en cualquier lugar de votación desde ahora y hasta el día de las elecciones.  Si acude a su lugar de votación asignado, está garantizado que su boleta electoral incluirá todas las contiendas en las que tiene autorizado votar.
 ¡Consulte [aquí](#menu-item-missed-the-voter-registration-deadline-you-can-still-register-and-vote) cómo!
-- Una vez que esté en la lista, solamente deberá volver a inscribirse si cambia de domicilio o de nombre, si desea cambiar de partido político, si necesita actualizar su firma o si ya no está en libertad condicional por condena de un delito mayor. 
+- Una vez que esté en la lista, solamente deberá volver a inscribirse si cambia de domicilio o de nombre, si desea cambiar de partido político, si necesita actualizar su firma o si ya no está cumpliendo un periodo en prisión estatal o federal por condena de un delito mayor.  
 
 Para obtener más información, consulte [¿Puedo inscribirme para votar?](#menu-item-can-i-register-to-vote)
 

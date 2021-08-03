@@ -5,8 +5,6 @@ weight: 13
 section: "more-voting-info"
 priority: "Minor"
 ---
-[El Futuro de las elecciones de California](http://futureofcaelections.org/) (FoCE, siglas en inglés) es una colaboración entre los funcionarios electorales, las organizaciones de derechos civiles y los defensores de la ley de reforma para examinar y abordar los desafíos únicos que enfrenta el sistema electoral del Estado de California.
+[Future of California Elections (FoCE) Network](http://futureofcaelections.org/) es una red no partidista de funcionarios electorales, defensores de la reforma, organizaciones de derechos civiles y grupos de participación ciudadana que colaboran para lograr políticas y prácticas electorales efectivas e inclusivas.
 
-Visite el [Índice de experiencia del votante](http://futureofcaelections.org/vei/).  
-
-Este conjunto informativo de herramientas se desarrolló para mejorar la experiencia del votante. Es una colección de investigación, publicaciones y guías de “cómo hacer” producida por los miembros de Futuro de las elecciones de California y asociados.
+Visite el [FoCE Network website](http://futureofcaelections.org/) para acceder a los recursos sobre la inscripción de electores, la ley de votación flexible, la accesibilidad de idiomas, la accesibilidad para votantes con discapacidades y las guías de diseño para materiales de votación.
