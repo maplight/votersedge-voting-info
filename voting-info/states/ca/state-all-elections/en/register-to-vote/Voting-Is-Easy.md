@@ -1,5 +1,5 @@
 ---
-title: "Voting is Easy:  Sign Up, Get Ready, Vote!"
+title: "Voting is Easy: Sign Up, Get Ready, Vote!"
 published: true
 weight: 1
 section: "register-to-vote"
