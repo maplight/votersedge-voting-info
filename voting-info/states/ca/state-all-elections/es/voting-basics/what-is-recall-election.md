@@ -15,6 +15,6 @@ En la boleta habrá dos preguntas sobre las que cualquier californiano elegible 
 
 **2.** Si el gobernador es destituido, ¿quién quiere que lo reemplace?
 
-Si la mayoría (más del 50 %) de los votantes responden “no” a la primera pregunta, **el gobernador seguirá ocupando su cargo. Si la mayoría de los votantes responden “sí” a la primera pregunta, **la persona que reciba la mayor cantidad de votos en la segunda pregunta se volverá gobernador**.
+Si la mayoría (más del 50 %) de los votantes responden “no” a la primera pregunta, **el gobernador seguirá ocupando su cargo**. Si la mayoría de los votantes responden “sí” a la primera pregunta, **la persona que reciba la mayor cantidad de votos en la segunda pregunta se volverá gobernador**.
 
 **Un candidato de reemplazo NO necesita más del 50 % de los votos para ganar**; simplemente necesita más votos que cualquiera de los otros candidatos.
