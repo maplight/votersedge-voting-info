@@ -27,22 +27,7 @@ For more voting information in English and Spanish, visit [¡Ve y Vota!](https:/
 
 **Punjabi: (408)-320-7454**
 
-Download **[Know Your Voting Rights](https://www.advancingjustice-alc.org/know-your-voting-rights/)** in: 
-- [English](https://www.advancingjustice-alc.org/wp-content/uploads/2020/10/English-Non-VCA-KYVR-Nov-2020.pdf)
-- [Español/Spanish](https://www.advancingjustice-alc.org/wp-content/uploads/2020/10/Spanish-Non-VCA-KYVR-Nov-2020.pdf)
-- [አማርኛ/Amharic](https://www.advancingjustice-alc.org/wp-content/uploads/2020/10/Amharic-Non-VCA-KYVR-Nov-2020.pdf)
-- [Arabic](https://www.advancingjustice-alc.org/wp-content/uploads/2020/10/Arabic-Non-VCA-KYVR-Nov-2020.pdf)
-- [中文/Chinese (Simplified)](https://www.advancingjustice-alc.org/wp-content/uploads/2020/10/Chinese-Simplified-Non-VCA-KYVR-Nov-2020.pdf)
-- [中文/Chinese (Traditional)](https://www.advancingjustice-alc.org/wp-content/uploads/2020/10/Chinese-Traditional-Non-VCA-KYVR-Nov-2020.pdf)
-- [فارسی/Farsi](https://www.advancingjustice-alc.org/wp-content/uploads/2020/10/Farsi-Non-VCA-KYVR-Nov-2020.pdf)
-- [hmoob/Hmong](https://www.advancingjustice-alc.org/wp-content/uploads/2020/10/Hmong-Non-VCA-KYVR-Nov-2020.pdf)
-- [日本語/Japanese](https://www.advancingjustice-alc.org/wp-content/uploads/2020/10/Japanese-Non-VCA-KYVR-Nov-2020.pdf)
-- [ខ្មែរ/Khmer](https://www.advancingjustice-alc.org/wp-content/uploads/2020/10/Khmer-Non-VCA-KYVR-Nov-2020.pdf)
-- [한국어/Korean](https://www.advancingjustice-alc.org/wp-content/uploads/2020/10/Korean-Non-VCA-KYVR-Nov-2020.pdf)
-- [ລາວ/Lao](https://www.advancingjustice-alc.org/wp-content/uploads/2020/10/Lao-VCA-KYVR-Nov-2020.pdf)
-- [ਪੰਜਾਬੀ/Punjabi](https://www.advancingjustice-alc.org/wp-content/uploads/2020/10/Punjabi-Non-VCA-KYVR-Nov-2020.pdf)
-- [Filipino/Tagalog](https://www.advancingjustice-alc.org/wp-content/uploads/2020/10/Tagalog-VCA-KYVR.pdf)
-- [Tiếng Việt/Vietnamese](https://www.advancingjustice-alc.org/wp-content/uploads/2020/10/Vietnamese-VCA-KYVR.pdf)
+Visit **[Know Your Voting Rights](https://www.advancingjustice-alc.org/know-your-voting-rights/)** to get additional voting rights resources in more languages.
 
 Check [here](http://www.866ourvote.org/) for more information about Election Protection.
 
