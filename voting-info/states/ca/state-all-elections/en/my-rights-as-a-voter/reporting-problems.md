@@ -27,7 +27,17 @@ For more voting information in English and Spanish, visit [¡Ve y Vota!](https:/
 
 **Punjabi: (408)-320-7454**
 
-Visit **[Know Your Voting Rights](https://www.advancingjustice-alc.org/know-your-voting-rights/)** to get additional voting rights resources in more languages.
+Download **[Know Your Voting Rights](https://www.advancingjustice-alc.org/know-your-voting-rights/)** in:
+- English - [Language Assistance for California Voters](https://www.advancingjustice-alc.org/wp-content/uploads/2021/08/Language-Access-September-2021.pdf)
+- عربى - Arabic - [ المساعدة اللغوية للناخبين في كاليفورنيا](https://www.advancingjustice-alc.org/wp-content/uploads/2021/08/Arabic-Language-Access-Flyer-Sept-2021.docx.pdf)
+- 中文 - Chinese-Simplified - [為加州選民提供的語言協助](https://www.advancingjustice-alc.org/wp-content/uploads/2021/08/Chinese-Simplified-Language-Access-Flyer-Sept-2021.pdf)
+- 中文 – Chinese Traditional - [为加州选民提供的语言协助](https://www.advancingjustice-alc.org/wp-content/uploads/2021/08/Chinese-Traditional-Language-Access-Flyer-Sept-2021.docx.pdf) 
+- ខ្មែរ – Khmer - [ជំនួយផ្នកភាសាសមប់អ្នកបោះឆ្នតក្នុងរដ្ឋCalifornia](https://www.advancingjustice-alc.org/wp-content/uploads/2021/08/Final-Khmer-Language-Access-Flyer-Sept-2021.pdf) 
+- 한국어 – Korean - [캘리포니아주 유권자 언어 지원](https://www.advancingjustice-alc.org/wp-content/uploads/2021/08/Korean-Language-Access-Flyer-Sept-2021.pdf)
+- ਪੰਜਾਬੀ – Punjabi - [ਕੈਲੀਫੋਰਨੀਆ ਦੇਵੋਟਰਾਂ ਦੀ ਵੱਖੋ-ਵੱਖਰੀਆਂ ਭਾਸ਼ਾਵਾਂ ਵਿੱਚ ਮਦਦ](https://www.advancingjustice-alc.org/wp-content/uploads/2021/08/Punjabi-Language-Access-Flyer-Sept-2021.docx.pdf)  
+- Tagalog - [Tulong sa Wika para sa mga Botante ng California](https://www.advancingjustice-alc.org/wp-content/uploads/2021/08/Tagalog-Language-Access-Flyer-Sept-2021.docx.pdf)
+- Tiếng Việt – Vietnamese - [Hỗ trợ ngôn ngữ cho cử tri ở California](https://www.advancingjustice-alc.org/wp-content/uploads/2021/08/Vietnamese-Language-Access-Flyer-Sept-2021.docx.pdf)
+
 
 Check [here](http://www.866ourvote.org/) for more information about Election Protection.
 

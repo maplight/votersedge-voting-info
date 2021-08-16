@@ -28,21 +28,17 @@ Para obtener más información, consulte [Ya es hora ¡VE Y VOTA!](https://naleo
 **Punjabi: (408)-320-7454**
 
 Descargue **[Conozca sus derechos al voto](https://www.advancingjustice-alc.org/know-your-voting-rights/)** en: 
-- [Inglés](https://www.advancingjustice-alc.org/wp-content/uploads/2020/10/English-Non-VCA-KYVR-Nov-2020.pdf)
+- [Inglés](https://www.advancingjustice-alc.org/wp-content/uploads/2021/08/Language-Access-September-2021.pdf)
 - [Español](https://www.advancingjustice-alc.org/wp-content/uploads/2020/10/Spanish-Non-VCA-KYVR-Nov-2020.pdf)
-- [Amhárico](https://www.advancingjustice-alc.org/wp-content/uploads/2020/10/Amharic-Non-VCA-KYVR-Nov-2020.pdf)
-- [Árabe](https://www.advancingjustice-alc.org/wp-content/uploads/2020/10/Arabic-Non-VCA-KYVR-Nov-2020.pdf)
-- [Chino (caracteres simplificados)](https://www.advancingjustice-alc.org/wp-content/uploads/2020/10/Chinese-Simplified-Non-VCA-KYVR-Nov-2020.pdf) 
-- [Chino (caracteres tradicionales)](https://www.advancingjustice-alc.org/wp-content/uploads/2020/10/Chinese-Traditional-Non-VCA-KYVR-Nov-2020.pdf)
-- [Persa](https://www.advancingjustice-alc.org/wp-content/uploads/2020/10/Farsi-Non-VCA-KYVR-Nov-2020.pdf)
-- [Hmong](https://www.advancingjustice-alc.org/wp-content/uploads/2020/10/Hmong-Non-VCA-KYVR-Nov-2020.pdf)
-- [Japonés](https://www.advancingjustice-alc.org/wp-content/uploads/2020/10/Japanese-Non-VCA-KYVR-Nov-2020.pdf)
-- [Camboyano](https://www.advancingjustice-alc.org/wp-content/uploads/2020/10/Khmer-Non-VCA-KYVR-Nov-2020.pdf)
-- [Coreano](https://www.advancingjustice-alc.org/wp-content/uploads/2020/10/Korean-Non-VCA-KYVR-Nov-2020.pdf)
-- [Lao](https://www.advancingjustice-alc.org/wp-content/uploads/2020/10/Lao-VCA-KYVR-Nov-2020.pdf)
-- [Panyabí](https://www.advancingjustice-alc.org/wp-content/uploads/2020/10/Punjabi-Non-VCA-KYVR-Nov-2020.pdf)
-- [Filipino/tagalo](https://www.advancingjustice-alc.org/wp-content/uploads/2020/10/Tagalog-VCA-KYVR.pdf)
-- [Vietnamita](https://www.advancingjustice-alc.org/wp-content/uploads/2020/10/Vietnamese-VCA-KYVR.pdf)
+- [Árabe](https://www.advancingjustice-alc.org/wp-content/uploads/2021/08/Arabic-Language-Access-Flyer-Sept-2021.docx.pdf)
+- [Chino (caracteres simplificados)](https://www.advancingjustice-alc.org/wp-content/uploads/2021/08/Chinese-Simplified-Language-Access-Flyer-Sept-2021.pdf) 
+- [Chino (caracteres tradicionales)](https://www.advancingjustice-alc.org/wp-content/uploads/2021/08/Chinese-Traditional-Language-Access-Flyer-Sept-2021.docx.pdf)
+- [Persa](https://www.advancingjustice-alc.org/wp-content/uploads/2021/08/Farsi-Language-Access-Flyer-Sept-2021.pdf)
+- [Camboyano](https://www.advancingjustice-alc.org/wp-content/uploads/2021/08/Final-Khmer-Language-Access-Flyer-Sept-2021.pdf)
+- [Coreano](https://www.advancingjustice-alc.org/wp-content/uploads/2021/08/Korean-Language-Access-Flyer-Sept-2021.pdf)
+- [Panyabí](https://www.advancingjustice-alc.org/wp-content/uploads/2021/08/Punjabi-Language-Access-Flyer-Sept-2021.docx.pdf)
+- [Filipino/tagalo](https://www.advancingjustice-alc.org/wp-content/uploads/2021/08/Tagalog-Language-Access-Flyer-Sept-2021.docx.pdf)
+- [Vietnamita](https://www.advancingjustice-alc.org/wp-content/uploads/2021/08/Vietnamese-Language-Access-Flyer-Sept-2021.docx.pdf)
 
 Consulte [aquí](http://www.866ourvote.org/) para más información sobre la Protección Electoral. 
 
