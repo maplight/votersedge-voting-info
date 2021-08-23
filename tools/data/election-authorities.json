@@ -2022,7 +2022,7 @@
             "email": "anorthrup@co.del-norte.ca.us",
             "fax": "(707) 465-0321",
             "website": "http:\/\/www.co.del-norte.ca.us\/departments\/clerk-recorder\/elections",
-            "polling_lookup": "http:\/\/www.co.del-norte.ca.us\/departments\/clerk-recorder\/elections\/poling-locations",
+            "polling_lookup": "http:\/\/www.co.del-norte.ca.us\/departments\/clerk-recorder\/elections\/polling-locations",
             "ve_email": "CA-dn@votersedge.org"
         }, {
             "election_authority_id": "9",
@@ -2090,7 +2090,7 @@
             "email": "humboldt_elections@co.humboldt.ca.us",
             "fax": "(707) 445-7204",
             "website": "http:\/\/www.humboldtgov.org\/890\/Elections-Voter-Registration",
-            "polling_lookup": "",
+            "polling_lookup": "https:\/\/humboldtgov.org\/DocumentCenter\/View\/97662\/vac-and-drop-box-locations---English-rev-081821?bidId=",
             "ve_email": "CA-hm@votersedge.org"
         }, {
             "election_authority_id": "13",
@@ -2124,7 +2124,7 @@
             "email": "kfoote@inyocounty.us",
             "fax": "(760) 878-1805",
             "website": "http:\/\/elections.inyocounty.us\/",
-            "polling_lookup": "http:\/\/elections.inyocounty.us\/p\/where-to-vote.html",
+            "polling_lookup": "http:\/\/elections.inyocounty.us\/voting\/voting-locations\/",
             "ve_email": "CA-in@votersedge.org"
         }, {
             "election_authority_id": "15",
@@ -2158,7 +2158,7 @@
             "email": "elections@countyofkings.com",
             "fax": "(559) 585-8453",
             "website": "https:\/\/www.countyofkings.com\/departments\/administration\/elections",
-            "polling_lookup": "https:\/\/www.countyofkings.com\/departments\/administration\/elections\/voting-locations",
+            "polling_lookup": "https:\/\/www.countyofkings.com\/home\/showpublisheddocument\/27131\/637628943148300000",
             "ve_email": "CA-kn@votersedge.org"
         }, {
             "election_authority_id": "17",
@@ -2175,7 +2175,7 @@
             "email": "elections@lakecountyca.gov",
             "fax": "(707) 263-2742",
             "website": "http:\/\/www.co.lake.ca.us\/Government\/Directory\/ROV.htm",
-            "polling_lookup": "",
+            "polling_lookup": "http:\/\/www.lakecountyca.gov\/Assets\/Departments\/RegistrarOfVoters\/Elections\/Sept+2021\/PollingSept2021v2.pdf",
             "ve_email": "CA-lk@votersedge.org"
         }, {
             "election_authority_id": "18",
@@ -2277,7 +2277,7 @@
             "email": "mcvotes@mendocinocounty.org",
             "fax": "(707) 463-6597",
             "website": "https:\/\/www.mendocinocounty.org\/government\/assessor-county-clerk-recorder-elections\/elections",
-            "polling_lookup": "",
+            "polling_lookup": "https:\/\/www.mendocinocounty.org\/home\/showpublisheddocument\/44718\/637632444706270000",
             "ve_email": "CA-mnd@votersedge.org"
         }, {
             "election_authority_id": "24",
@@ -2345,7 +2345,7 @@
             "email": "elections@co.monterey.ca.us",
             "fax": "(831) 755-5485",
             "website": "http:\/\/www.montereycountyelections.us\/",
-            "polling_lookup": "http:\/\/www.montereycountyelections.us\/Locator.asp",
+            "polling_lookup": "https:\/\/www.montereycountyelections.us\/ballot-drop-off-locations\/",
             "ve_email": "CA-mnt@votersedge.org"
         }, {
             "election_authority_id": "28",
@@ -2362,7 +2362,7 @@
             "email": "elections@countyofnapa.org",
             "fax": "(707) 253-4390",
             "website": "https:\/\/www.countyofnapa.org\/396\/Elections",
-            "polling_lookup": "https:\/\/services.countyofnapa.org\/VoterInfo\/",
+            "polling_lookup": "https:\/\/www.countyofnapa.org\/2354\/Vote-Center-Locations",
             "ve_email": "CA-np@votersedge.org"
         }, {
             "election_authority_id": "29",
@@ -2379,7 +2379,7 @@
             "email": "elections.mail@co.nevada.ca.us",
             "fax": "(530) 265-9829",
             "website": "https:\/\/www.mynevadacounty.com\/695\/Registrar-of-Voters",
-            "polling_lookup": "",
+            "polling_lookup": "https:\/\/www.mynevadacounty.com\/3282\/Sept-14-2021-Vote-Center-Drop-Box-Locati",
             "ve_email": "CA-nv@votersedge.org"
         }, {
             "election_authority_id": "30",
@@ -2396,7 +2396,7 @@
             "email": "ocvoter@ocgov.com",
             "fax": "(714) 567-7556",
             "website": "http:\/\/www.ocvote.com\/",
-            "polling_lookup": "https:\/\/www.ocvote.com\/voting\/voting-and-dropoff-locations-by-election",
+            "polling_lookup": "https:\/\/ocvote.maps.arcgis.com\/apps\/webappviewer\/index.html?id=bd2662898c8d425e9481abb8c91d72d5",
             "ve_email": "CA-or@votersedge.org"
         }, {
             "election_authority_id": "31",
@@ -2498,7 +2498,7 @@
             "email": "communications@sbcountyelections.com",
             "fax": "(909) 387-2022",
             "website": "http:\/\/www.sbcountyelections.com\/",
-            "polling_lookup": "https:\/\/www.sbcountyelections.com\/Voting\/PPL.aspx",
+            "polling_lookup": "https:\/\/www.sbcountyelections.com\/Voting\/PPL\/2021\/0914.aspx",
             "ve_email": "CA-sbo@votersedge.org"
         }, {
             "election_authority_id": "37",
