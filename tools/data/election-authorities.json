@@ -2532,7 +2532,7 @@
             "email": "sfvote@sfgov.org",
             "fax": "(415) 554-7344",
             "website": "https:\/\/sfelections.sfgov.org\/",
-            "polling_lookup": "https:\/\/sfelections.org\/tools\/portal\/",
+            "polling_lookup": "https:\/\/sfelections.org\/tools\/map_poll_time\/",
             "ve_email": "CA-sf@votersedge.org"
         }, {
             "election_authority_id": "39",
@@ -2549,7 +2549,7 @@
             "email": "registrar@sjgov.org",
             "fax": "(209) 468-2889",
             "website": "https:\/\/www.sjgov.org\/department\/rov\/default",
-            "polling_lookup": "https:\/\/www.sjgov.org\/department\/rov\/voting\/poll-sb-lookup",
+            "polling_lookup": "https:\/\/www.sjgov.org\/department\/rov\/voting\/voter_service_centers",
             "ve_email": "CA-sj@votersedge.org"
         }, {
             "election_authority_id": "40",
@@ -2583,7 +2583,7 @@
             "email": "registrar@smcacre.org",
             "fax": "(650) 312-5348",
             "website": "https:\/\/www.smcacre.org\/elections",
-            "polling_lookup": "https:\/\/www.smcacre.org\/vote\/all",
+            "polling_lookup": "https:\/\/www.smcacre.org\/vote-center-hours-locations",
             "ve_email": "CA-sm@votersedge.org"
         }, {
             "election_authority_id": "42",
@@ -2651,7 +2651,7 @@
             "email": "countyclerk@co.shasta.ca.us",
             "fax": "(530) 225-5454",
             "website": "http:\/\/www.elections.co.shasta.ca.us\/",
-            "polling_lookup": "https:\/\/www.elections.co.shasta.ca.us\/voter-profile\/#RegisteredVoterSearch",
+            "polling_lookup": "https:\/\/www.elections.co.shasta.ca.us\/voter-profile\/#Vote-by-MailBallotSearch",
             "ve_email": "CA-sh@votersedge.org"
         }, {
             "election_authority_id": "46",
@@ -2702,7 +2702,7 @@
             "email": "elections@solanocounty.com",
             "fax": "(707) 784-6678",
             "website": "http:\/\/www.solanocounty.com\/depts\/rov\/default.asp",
-            "polling_lookup": "https:\/\/secure.sonoma-county.org\/vote\/polling_place_sample_ballot.aspx?sid=1070",
+            "polling_lookup": "https:\/\/www.solanocounty.com\/depts\/rov\/sample_ballot_polling_place_lookup.asp",
             "ve_email": "CA-sln@votersedge.org"
         }, {
             "election_authority_id": "49",
@@ -2719,7 +2719,7 @@
             "email": "rov-info@sonoma-county.org",
             "fax": "(707) 565-6843",
             "website": "https:\/\/sonomacounty.ca.gov\/CRA\/Registrar-of-Voters\/Elections\/",
-            "polling_lookup": "https:\/\/sonomacounty.ca.gov\/CRA\/Registrar-of-Voters\/Voter-Information-Lookup\/",
+            "polling_lookup": "https:\/\/sonomacounty.maps.arcgis.com\/apps\/webappviewer\/index.html?id=20319983129d4b5fb1b5f2922044db95",
             "ve_email": "CA-sn@votersedge.org"
         }, {
             "election_authority_id": "50",
@@ -2821,7 +2821,7 @@
             "email": "av1@co.tulare.ca.us",
             "fax": "(559) 737-4498",
             "website": "https:\/\/tularecoelections.org\/elections\/",
-            "polling_lookup": "https:\/\/electedl.tularecounty.ca.gov\/electiondatalookup\/",
+            "polling_lookup": "https:\/\/tularecoelections.org\/elections\/registrar-of-voters\/current-election-information\/september-14-2021-california-gubernatorial-recall-election\/polling-place-and-drop-box-location-list\/",
             "ve_email": "CA-tlr@votersedge.org"
         }, {
             "election_authority_id": "55",
@@ -2838,7 +2838,7 @@
             "email": "dbautista@co.tuolumne.ca.us",
             "fax": "(209) 694-8931",
             "website": "https:\/\/www.tuolumnecounty.ca.gov\/194\/Election-Information",
-            "polling_lookup": "https://www.tuolumnecounty.ca.gov/DocumentCenter/View/15223/Vote-Center-and-Ballot-Drop-off-Map-2020-11-03",
+            "polling_lookup": "https:\/\/www.tuolumnecounty.ca.gov\/194\/Election-Information",
             "ve_email": "CA-tlm@votersedge.org"
         }, {
             "election_authority_id": "56",
@@ -2855,7 +2855,7 @@
             "email": "elections@ventura.org",
             "fax": "(805) 648-9200",
             "website": "http:\/\/recorder.countyofventura.org\/elections\/",
-            "polling_lookup": "http:\/\/recorder.countyofventura.org\/elections\/voter-lookups\/wheres-my-polling-place\/#Search",
+            "polling_lookup": "https:\/\/recorder.countyofventura.org\/september-14-2021-california-gubernatorial-recall-election-notice-of-in-person-voting-locations\/",
             "ve_email": "CA-vn@votersedge.org"
         }, {
             "election_authority_id": "57",
