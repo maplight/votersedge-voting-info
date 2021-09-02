@@ -6,7 +6,7 @@ section: "voting-basics"
 priority: "Minor"
 ---
 
-Disability Rights California (DRC) tendrá una [línea directa gratuita](https://futureofcaelections.org/wp-content/uploads/DRC-Hotline-3.3.20.pdf) el día de las elecciones para los votantes con discapacidades. El servicio está diseñado para ayudar a quienes tienen dificultad para acceder a los lugares de votación, emitir boletas electorales o simplemente tienen preguntas sobre el voto. **El número gratuito para llamadas de voz es 888-569-7955. El número estatal para llamadas de video es 800-719-5798.**  
+Disability Rights California (DRC) tendrá una [línea directa gratuita](https://www.disabilityrightsca.org/resources/voting) el día de las elecciones para los votantes con discapacidades. El servicio está diseñado para ayudar a quienes tienen dificultad para acceder a los lugares de votación, emitir boletas electorales o simplemente tienen preguntas sobre el voto. **El número gratuito para llamadas de voz es 888-569-7955. El número estatal para llamadas de video es 800-719-5798.**  
 
 Vea el video del Center for Independence sobre [Por qué debe votar](https://www.youtube.com/watch?v=FIX1KFGIhvQ&t=2s).
 
