@@ -1920,7 +1920,7 @@
             "email": "clerk@alpinecountyca.gov",
             "fax": "(530) 694-2491",
             "website": "http:\/\/www.alpinecountyca.gov\/Index.aspx?NID=179",
-            "polling_lookup": "",
+            "polling_lookup": "https:\/\/caearlyvoting.sos.ca.gov\/",
             "ve_email": "CA-alp@votersedge.org"
         }, {
             "election_authority_id": "3",
@@ -1954,7 +1954,7 @@
             "email": "elections@buttecounty.net",
             "fax": "(530) 538-6853",
             "website": "https:\/\/clerk-recorder.buttecounty.net\/elections\/electhome.html",
-            "polling_lookup": "https://drive.google.com/file/d/1RjwXfjWw8IO2KSLS2ylt-w1ELOQfhIpP/view",
+            "polling_lookup": "https:\/\/clerk-recorder.buttecounty.net\/elections\/archives\/eln46\/Countywide%20Voter%20Information%20Guide_8-12-2021.pdf#page=4",
             "ve_email": "CA-bt@votersedge.org"
         }, {
             "election_authority_id": "5",
@@ -1971,7 +1971,7 @@
             "email": "elections@co.calaveras.ca.us",
             "fax": "(209) 754-6733",
             "website": "http:\/\/clerk.calaverasgov.us\/ClerkRecorderHome.aspx",
-            "polling_lookup": "http:\/\/clerk.calaverasgov.us\/Elections\/ElectionsTools\/PollingPlaceLookup.aspx",
+            "polling_lookup": "https:\/\/elections.calaverasgov.us\/Next-Election\/Special-Election\/Where-to-Vote",
             "ve_email": "CA-clv@votersedge.org"
         }, {
             "election_authority_id": "6",
@@ -2005,7 +2005,7 @@
             "email": "voter.services@vote.cccounty.us",
             "fax": "(925) 335-7838",
             "website": "http:\/\/www.cocovote.us\/",
-            "polling_lookup": "https:\/\/www.cocovote.us\/registration-and-voting-options\/my-voting-information\/#VoterLookupandSampleBallotSearch",
+            "polling_lookup": "https:\/\/www.cocovote.us\/election\/california-gubernatorial-recall-election\/#Election",
             "ve_email": "CA-cc@votersedge.org"
         }, {
             "election_authority_id": "8",
@@ -2056,7 +2056,7 @@
             "email": "Clerk-Elections@fresnocountyca.gov",
             "fax": "(559) 488-3279",
             "website": "http:\/\/www.co.fresno.ca.us\/departments\/county-clerk-registrar-of-voters",
-            "polling_lookup": "",
+            "polling_lookup": "https:\/\/cofgisonline.maps.arcgis.com\/apps\/webappviewer\/index.html?id=efe2a0df2a614b299ece3d9b9f350953",
             "ve_email": "CA-fr@votersedge.org"
         }, {
             "election_authority_id": "11",
@@ -2073,7 +2073,7 @@
             "email": "elections@countyofglenn.net",
             "fax": "(530) 934-6571",
             "website": "https:\/\/www.countyofglenn.net\/dept\/elections\/welcome",
-            "polling_lookup": "http:\/\/www.countyofglenn.net\/govt\/departments\/elections\/vote_locations.asp",
+            "polling_lookup": "http:\/\/elections.countyofglenn.net\/electiondatalookup\/",
             "ve_email": "CA-gl@votersedge.org"
         }, {
             "election_authority_id": "12",
@@ -2107,7 +2107,7 @@
             "email": "DebbiePorter@co.imperial.ca.us",
             "fax": "(442) 265-1062",
             "website": "https:\/\/elections.imperialcounty.org",
-            "polling_lookup": "http:\/\/elections.imperialcounty.org\/my-info\/",
+            "polling_lookup": "https:\/\/imperialcounty.maps.arcgis.com\/apps\/webappviewer\/index.html?id=2c06652b1f3a461fa037655265353c96",
             "ve_email": "CA-im@votersedge.org"
         }, {
             "election_authority_id": "14",
@@ -2192,7 +2192,7 @@
             "email": "jbustamante@co.lassen.ca.us",
             "fax": "(530) 257-3480",
             "website": "http:\/\/www.lassencounty.org\/dept\/county-clerk-recorder\/elections",
-            "polling_lookup": "",
+            "polling_lookup": "http:\/\/www.lassencounty.org\/sites\/default\/files\/departments\/clerk_of_the_board_of_supervisors\/Vote%20Centers%20Sept%2014%202021_3.pdf",
             "ve_email": "CA-ls@votersedge.org"
         }, {
             "election_authority_id": "19",
@@ -2209,7 +2209,7 @@
             "email": "voterinfo@rrcc.lacounty.gov",
             "fax": "(562) 929-4790",
             "website": "https:\/\/lavote.net\/home\/voting-elections",
-            "polling_lookup": "https:\/\/www.lavote.net\/locator",
+            "polling_lookup": "https:\/\/lavote.net\/home\/voting-elections\/voting-options\/voting-in-person",
             "ve_email": "CA-la@votersedge.org"
         }, {
             "election_authority_id": "20",
@@ -2243,7 +2243,7 @@
             "email": "elections@marincounty.org",
             "fax": "(415) 473-6447",
             "website": "http:\/\/www.marincounty.org\/depts\/rv",
-            "polling_lookup": "http:\/\/www.marincounty.org\/depts\/rv\/voting-information\/elections-dashboard",
+            "polling_lookup": "http:\/\/www.marincounty.org\/depts\/rv\/voting-information\/polling-places",
             "ve_email": "CA-mrn@votersedge.org"
         }, {
             "election_authority_id": "22",
@@ -2294,7 +2294,7 @@
             "email": "elections@countyofmerced.com",
             "fax": "(209) 385-7387",
             "website": "https:\/\/www.co.merced.ca.us\/225\/Elections",
-            "polling_lookup": "https:\/\/www.co.merced.ca.us\/1455\/Polling-Place-Look-up",
+            "polling_lookup": "https:\/\/www.co.merced.ca.us\/DocumentCenter\/View\/27776\/Voting-Assistance-Centers-and-Drop-Boxes-09142021?bidId=",
             "ve_email": "CA-mrc@votersedge.org"
         }, {
             "election_authority_id": "25",
@@ -2311,7 +2311,7 @@
             "email": "clerkelections@co.modoc.ca.us",
             "fax": "(530) 233-6666",
             "website": "http:\/\/www.co.modoc.ca.us\/departments\/elections",
-            "polling_lookup": "",
+            "polling_lookup": "https:\/\/caearlyvoting.sos.ca.gov\/",
             "ve_email": "CA-mdc@votersedge.org"
         }, {
             "election_authority_id": "26",
@@ -2412,8 +2412,8 @@
             "phone": "(530) 886-5650; 800 824-8683",
             "email": "election@placer.ca.gov",
             "fax": "(530) 886-5688",
-            "website": "http:\/\/www.placerelections.com\/",
-            "polling_lookup": "https:\/\/www.placerelections.com\/polling-place-locator\/",
+            "website": "http:\/\/www.placerelections.gov\/",
+            "polling_lookup": "https:\/\/www.placercountyelections.gov\/polling-place-locator\/",
             "ve_email": "CA-plc@votersedge.org"
         }, {
             "election_authority_id": "32",
@@ -2447,7 +2447,7 @@
             "email": "rovweb@rivco.org",
             "fax": "(951) 486-7272",
             "website": "http:\/\/www.voteinfo.net\/",
-            "polling_lookup": "https:\/\/voteinfo.net\/voterInformation\/root1105\/pollplac.htm",
+            "polling_lookup": "https:\/\/voteinfo.net\/elections/20210914/2021_09_14.asp",
             "ve_email": "CA-rv@votersedge.org"
         }, {
             "election_authority_id": "34",
@@ -2481,7 +2481,7 @@
             "email": "SBCVote@cosb.us",
             "fax": "(831) 636-2939",
             "website": "http:\/\/sbcvote.us\/registrar-of-voters\/",
-            "polling_lookup": "http:\/\/sbcvote.us\/registrar-of-voters\/voter-information\/find-your-polling-place\/",
+            "polling_lookup": "https:\/\/caearlyvoting.sos.ca.gov\/",
             "ve_email": "CA-sbn@votersedge.org"
         }, {
             "election_authority_id": "36",
@@ -2515,7 +2515,7 @@
             "email": "rovmail@sdcounty.ca.gov",
             "fax": "(858) 505-7294",
             "website": "http:\/\/www.sdvote.com\/",
-            "polling_lookup": "https:\/\/rov.sandiegocounty.gov\/rov\/Eng\/polling.asp",
+            "polling_lookup": "https:\/\/www.sdvote.com\/content\/rov\/en\/elections\/election_information.html",
             "ve_email": "CA-sd@votersedge.org"
         }, {
             "election_authority_id": "38",
@@ -2600,7 +2600,7 @@
             "email": "electionssupport@co.santa-barbara.ca.us",
             "fax": "(805) 568-2209",
             "website": "https:\/\/countyofsb.org\/care\/elections\/home.sbc",
-            "polling_lookup": "https:\/\/countyofsb.org\/care\/elections\/voting\/lookup.sbc",
+            "polling_lookup": "https:\/\/countyofsb.org\/care\/elections\/voting.sbc",
             "ve_email": "CA-sba@votersedge.org"
         }, {
             "election_authority_id": "43",
@@ -2634,7 +2634,7 @@
             "email": "info@votescount.com",
             "fax": "(831) 454-2445",
             "website": "http:\/\/www.votescount.com\/",
-            "polling_lookup": "http:\/\/sccounty01.co.santa-cruz.ca.us\/ElectionSites\/PollingPlaceLookup",
+            "polling_lookup": "https:\/\/sccgis.maps.arcgis.com\/apps\/webappviewer\/index.html?id=a25c3e9e324f45728aeaa677bb40d74a",
             "ve_email": "CA-scz@votersedge.org"
         }, {
             "election_authority_id": "45",
@@ -2685,7 +2685,7 @@
             "email": "clerk.registrar@sisqvotes.org",
             "fax": "(530) 841-4110",
             "website": "https:\/\/www.co.siskiyou.ca.us\/elections",
-            "polling_lookup": "",
+            "polling_lookup": "https:\/\/caearlyvoting.sos.ca.gov\/",
             "ve_email": "CA-ss@votersedge.org"
         }, {
             "election_authority_id": "48",
@@ -2736,7 +2736,7 @@
             "email": "stanvote@stancounty.com",
             "fax": "(209) 525-5802",
             "website": "http:\/\/stanvote.com\/",
-            "polling_lookup": "https:\/\/secure.stancounty.com\/ElectionsWeb\/pollLocate.jsp",
+            "polling_lookup": "https:\/\/www.stanvote.com\/pdf\/2021_recall_election_vote_centers.pdf",
             "ve_email": "CA-stn@votersedge.org"
         }, {
             "election_authority_id": "227",
@@ -2787,7 +2787,7 @@
             "email": "elections@co.tehama.ca.us",
             "fax": "(530) 527-1140; (530) 527-1745",
             "website": "http:\/\/www.co.tehama.ca.us\/dep-elections",
-            "polling_lookup": "http:\/\/www.co.tehama.ca.us\/poll-locator",
+            "polling_lookup": "https:\/\/www.co.tehama.ca.us\/wp-content\/uploads\/2021\/08\/List-of-Pollling-LocationsSeot2021English-1.pdf",
             "ve_email": "CA-th@votersedge.org"
         }, {
             "election_authority_id": "53",
@@ -2804,7 +2804,7 @@
             "email": "elections@trinitycounty.org",
             "fax": "(530) 623-8398",
             "website": "https:\/\/www.trinitycounty.org\/Elections",
-            "polling_lookup": "",
+            "polling_lookup": "https:\/\/www.trinitycounty.org\/sites\/default\/files\/Elections\/Documents\/2021\/2021%2008%2013%20Drop%20Box%20Locations.pdf",
             "ve_email": "CA-tr@votersedge.org"
         }, {
             "election_authority_id": "54",
@@ -2889,7 +2889,7 @@
             "email": "elections@co.yuba.ca.us",
             "fax": "(530) 749-7854",
             "website": "http:\/\/www.co.yuba.ca.us\/departments\/elections\/",
-            "polling_lookup": "",
+            "polling_lookup": "https:\/\/www.yuba.org\/departments\/elections\/current_election.php",
             "ve_email": "CA-yb@votersedge.org"
         }],
         "NY": [{
