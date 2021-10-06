@@ -17,4 +17,4 @@ priority: "Minor"
 
 **By calling 800.345.VOTE (800.345.8683)** and asking to have a voter registration form sent to your home.  
 
-**By picking up an official registration postcard form** from your [county elections 	office](#section-election-office-contact), any DMV office, or a public library, post office, public assistance office, or any government office that serves the disabled.
+**By picking up an official registration postcard form** from your [county elections 	office](#section-election-office-contact), any DMV office, or a public library, post office, public assistance office, or any government office that serves people with disabilities.
