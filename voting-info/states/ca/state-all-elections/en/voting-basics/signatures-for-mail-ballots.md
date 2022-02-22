@@ -17,7 +17,7 @@ People’s signatures change over time and for various reasons. When you use a m
 **If you ask someone else such as a family member or friend to return your ballot for you,** they also need to sign and date the ballot, and list their relationship to you.
 
 **What happens if I use the wrong signature?**
-If you didn’t sign your ballot envelope or used the wrong signature, you will have a chance to correct it. Your county elections office will let you know there was an issue after the election. You will have a limited number of days to correct any issue with your signature.
+If you didn’t sign your ballot envelope or used the wrong signature, you will have a chance to correct it. Your county elections office will let you know there was an issue after the election. **You will have until July 5, 2022 to correct any issue with your signature.**
 
 - If you used the wrong signature, you will need to submit a signature verification statement by mail, email, fax, or in person. 
 - If you didn’t sign your ballot envelope, you will need to sign the envelope at your county elections office or submit a statement by mail, email, fax, or in person. 

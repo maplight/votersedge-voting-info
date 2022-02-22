@@ -1,14 +1,14 @@
 ---
 title: "Big changes in 15 Voter's Choice counties"
-published: false
+published: true
 weight: 1
 section: "voting-basics"
 priority: "Minor"
 ---
 
-If you live in one of these Voter’s Choice Act counties, there are big changes as to how you vote. **Amador, Calaveras, Butte, El Dorado, Fresno, Los Angeles, Madera, Mariposa, Napa, Nevada, Orange, Sacramento, San Mateo, Santa Clara, or Tuolumne.**   
+If you live in one of these Voter’s Choice Act counties, there are big changes as to how you vote. **Alameda, Amador, Calaveras, Butte, El Dorado, Fresno, Kings, Los Angeles, Madera, Marin, Mariposa, Merced, Napa, Nevada, Orange, Riverside, Sacramento, San Benito, San Diego, San Mateo, Santa Clara, Santa Cruz, Sonoma, Stanislaus, Tuolumne, Ventura, and Yolo.**   
 
-If you are registered to vote in any of these counties except Los Angeles County, you will automatically receive a ballot in the mail a few weeks before the election. **Voters in Los Angeles County will not receive your ballot in the mail unless you request one** from your [County Elections Office](#section-election-office-contact). Most neighborhood polling places will no longer be used for voting. Instead, you will have three choices for how to vote. 
+If you are registered to vote in any of these counties you will automatically receive a ballot in the mail a few weeks before the election. Most neighborhood polling places will no longer be used for voting. Instead, you will have three choices for how to vote. 
 
 #### 1. Vote By Mail 
 
@@ -29,9 +29,9 @@ You can vote in person by visiting any Vote Center in your county. At every Vote
 
 #### When Vote Centers Are Open
 
-All Vote Centers will be open for at least 4 days before Election Day. For the November 3 General Election, this means all Vote Centers will be open from Saturday, October 31, through Tuesday, November 3. 
+All Vote Centers will be open for at least 4 days before Election Day. For the June 7 Primary, this means all Vote Centers will be open from Saturday, June 4, through Tuesday, June 7.
 
-Some Vote Centers will be open for 11 days before Election Day. For the November 3 General Election, some Vote Centers will open starting Saturday, October 24. 
+Some Vote Centers will be open for 11 days before Election Day. For the June 7 Primary, some Vote Centers will open starting Saturday, May 28.
 
 **[Find a Ballot Drop Box location or Vote Center.](https://caearlyvoting.sos.ca.gov/)**
 
