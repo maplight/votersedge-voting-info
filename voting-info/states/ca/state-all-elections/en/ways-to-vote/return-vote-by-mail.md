@@ -7,8 +7,7 @@ priority: "Minor"
 ---
 Follow the instructions in [Vote by Mail](#menu-item-vote-by-mail) to fill out your ballot and envelope. 
 
-If you decide to hand in your ballot instead of mailing it, you must drop it off **no later than
-8PM on Election Day**.
+If you decide to hand in your ballot instead of mailing it, you must drop it off **no later than 8PM on Tuesday, June 7**.
 - Drop off your ballot at any voting location in your county.
 - Some counties will also offer secure Ballot Dropboxes or ballot dropoff locations. 
 
