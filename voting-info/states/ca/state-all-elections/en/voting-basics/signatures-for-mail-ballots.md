@@ -8,9 +8,9 @@ priority: "Minor"
 
 People’s signatures change over time and for various reasons. When you use a mailed ballot you’ll need to sign the back of the envelope. Check [here](#menu-item-vote-by-mail) for how to vote by mail.
 
-**Check your signature** to make sure it looks like the one the elections office has on file. 
+**Make sure your signature looks like the one you used when you registered to vote.**
 - If you registered to vote at the DMV or online, the signature will be the one on your Driver’s License or State ID.
-- Uncertain? [Re-register with your updated signature](http://registertovote.ca.gov/).
+- Uncertain? Think your signature has changed since you registered? [Re-register with your updated signature](http://registertovote.ca.gov/).
 
 **Other Signature Reminders**
 
