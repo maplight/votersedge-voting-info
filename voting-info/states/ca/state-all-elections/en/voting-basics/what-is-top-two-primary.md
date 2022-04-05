@@ -1,7 +1,7 @@
 ---
-title: "How California Primary Elections Work: The "Top-Two" System
+title: "How California Primary Elections Work: Top-Two explanation"
 published: true
-weight: 15
+weight: 15.5
 section: "voting-basics"
 priority: "Minor"
 ---

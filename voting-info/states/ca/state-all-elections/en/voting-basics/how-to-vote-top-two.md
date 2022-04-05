@@ -1,6 +1,6 @@
 ---
 title: "How to vote in the California Top Two Primary"
-published: false
+published: true
 weight: 15
 section: "voting-basics"
 priority: "Minor"
