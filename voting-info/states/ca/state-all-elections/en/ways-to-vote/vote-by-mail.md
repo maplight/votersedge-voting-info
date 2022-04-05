@@ -17,9 +17,9 @@ priority: "Minor"
 
 **Sign and date the envelope**
 - **Date and sign** your name on the back of the envelope using ink.
-- **Check your signature** to make sure it looks like the one on file.
- - If you registered to vote at the DMV or online, the signature will be the one on your Driver’s License or State ID.
- - Uncertain? Re-register with your updated signature.  
+- **Make sure your signature looks like the one you used when you registered to vote.** 
+- If you registered to vote at the DMV or online, the signature will be the one on your Driver’s License or State ID.
+- Uncertain? Think your signature has changed since you registered? [Re-register with your updated signature](http://registertovote.ca.gov/). 
 
 You can assign anyone to drop off your ballot at a voting location on Election Day. Fill in the information on the return envelope.  
 
