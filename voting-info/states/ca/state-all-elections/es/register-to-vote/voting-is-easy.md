@@ -6,14 +6,14 @@ section: "register-to-vote"
 priority: "Minor"
 ---
 
-Llene un formulario de inscripción del votante y preséntelo para votar en una elección a más tardar 15 días antes de dicha elección.
+Llene un formulario de inscripción del votante a más tardar el lunes 23 de mayo de 2022 para votar en la elección primaria del 7 de junio de 2022. 
 
 **NUEVA OPCIÓN:** Aunque haya expirado el plazo, todavía puede inscribirse para votar en cualquier lugar de votación desde ahora y hasta el día de las elecciones. ¡Consulte [aquí](#menu-item-missed-the-voter-registration-deadline-you-can-still-register-and-vote) cómo!
 
 #### 1. ¡Regístrese!
 
 - Usted es elegible para votar si es un ciudadano de los Estados Unidos mayor de 18 años, si actualmente no está cumpliendo un periodo en prisión estatal o federal por condena de un delito mayor, y si un tribunal no lo ha declarado mentalmente incompetente.
-- Debe inscribirse para ser parte de la lista oficial de votantes de su condado. **La fecha límite para inscribirse es 15 días antes de la elección.**
+- Debe inscribirse para ser parte de la lista oficial de votantes de su condado. El plazo para inscribirse es el **lunes 23 de mayo de 2022.**
 - Llene el formulario en línea en [registertovote.ca.gov](https://registertovote.ca.gov/es-mx).
 También puede recoger un formulario de inscripción del votante en su biblioteca u oficina postal, o llamar al 1-800-345-8683 para que le envíen por correo un formulario de inscripción. 
 - Es importante llenar el formulario en su totalidad. Se le pedirá que incluya el número de su licencia de conducir o de otra identificación.
@@ -36,7 +36,7 @@ Para obtener más información, consulte [¿Puedo inscribirme para votar?](#menu
 **Este año, si ya se inscribió para votar, recibirá una boleta electoral por correo.** Usted decide si votar en persona en su lugar de votación o devolver la boleta electoral que recibió, ya sea por correo o entregándola en persona. 
 - **Por correo**. Si desea usar la boleta electoral enviada por correo en lugar de votar en persona, márquela y envíela por correo para que el matasellos no tenga una fecha posterior al día de las elecciones. 
 - **O entréguela en persona**. Puede entregar su boleta electoral en cualquier lugar de votación de su condado. Su condado también podría abrir lugares con buzones seguros para boletas electorales aproximadamente un mes antes del día de las elecciones.
-- **O en persona**. Para votar en persona el ía de las elecciones, los lugares de votación estarán abiertos de 7 a. m. a 8 p. m. 
+- **O en persona**. Para votar en persona el martes 7 de junio, los lugares de votación estarán abiertos de 7 a. m. a 8 p. m. 
 
 **Votación temprana**. También puede votar en persona antes del día de las elecciones. Consulte [caearlyvoting.sos.ca.gov](https://caearlyvoting.sos.ca.gov/).
 

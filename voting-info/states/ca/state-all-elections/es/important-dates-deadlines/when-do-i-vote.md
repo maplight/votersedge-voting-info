@@ -7,17 +7,17 @@ priority: "Minor"
 ---
 
 #### **Antes del día de las elecciones**
-> La votación anticipada en persona comienza **29 días antes del dia de las elecciones.**  
+> Tanto la **votación por correo** como **la votación anticipada en persona** comienza _el lunes 9 de mayo de 2022_.
 
 #### **Por correo postal**
-> Comenzando **29 días antes del día de las elecciones hasta el día de las elecciones**. 
-> - Su boleta electoral de voto por correo completada **debe ser matasellada el dia de las elecciones, o antes.** 
-> - Una vez enviada por correo y matasellada, la boleta electoral **debe ser recibido** en la oficina electoral **a más tardar 3 días laborales después del día de las elecciones.**
+> Desde el **lunes 9 de mayo** hasta el **día de las elecciones, el martes 7 de junio.** 
+> - Su boleta electoral para voto por correo completada deberá estar **sellada** el **día de las elecciones, el martes 7 de junio, o antes.**
+> - Una vez enviada por correo y sellada, la boleta electoral deberá **recibirse** en la oficina electoral **a más tardar el viernes 14 de junio.**
 
 #### Votación temprana en persona  
-> Puede votar de manera temprana en la oficina electoral de su condado a partir 29 días antes del día de las eleccione. Algunos condados tendrán más lugares de votación abiertos antes del día de las elecciones.  Consulte [caearlyvoting.sos.ca.gov](https://caearlyvoting.sos.ca.gov/) para conocer los lugares y los horarios.
+> Puede votar de manera temprana en la oficina electoral de su condado **a partir del lunes 9 de mayo**. Algunos condados tendrán más lugares de votación abiertos antes del día de las elecciones.  Consulte [caearlyvoting.sos.ca.gov](https://caearlyvoting.sos.ca.gov/) para conocer los lugares y los horarios.
 
 #### **El día de las elecciones**  
-> **El día de las elecciones** desde las **7 a. m. hasta las 8 p. m.**
+> **El día de las elecciones**  **Martes 7 de junio**, desde las **7 a. m. hasta las 8 p. m.**
 
 Para obtener información detallada, consulte la sección [Formas de votar](#section-ways-to-vote).  
