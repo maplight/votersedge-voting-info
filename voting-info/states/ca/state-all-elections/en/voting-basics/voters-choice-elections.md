@@ -25,7 +25,7 @@ You can vote in person by visiting any Vote Center in your county. At every Vote
 - Drop off your completed ballot.  
 - Vote with an accessible voting machine.   
 - Get help and voting materials in multiple languages.  
-- Register and vote even after the registration deadline has passed, including on Election Day, Tuesday, November 3.   
+- Register and vote even after the registration deadline has passed, including on Election Day, Tuesday, June 7.   
 
 #### When Vote Centers Are Open
 
@@ -39,7 +39,7 @@ Some Vote Centers will be open for 11 days before Election Day. For the June 7 P
 
 #### Language Assistance  
 
-Vote Centers will accommodate voters with limited English proficiency. Vote Centers will also have well-trained staff at every location prepared to support voters with translated voting materials in languages required by law. To the greatest extent possible, counties will aim to have multilingual staff and volunteers available to help voters at Vote Centers. Learn more about language assistance at Vote Centers in several languages with [factsheets from Asian Americans Advancing Justice](https://www.advancingjustice-alc.org/know-your-voting-rights/). 
+Vote Centers will accommodate voters with limited English proficiency. Vote Centers will also have well-trained staff at every location prepared to support voters with translated voting materials in languages required by law. To the greatest extent possible, counties will aim to have multilingual staff and volunteers available to help voters at Vote Centers. Learn more about language assistance at Vote Centers in several languages with [factsheets from Asian Americans Advancing Justice](https://www.advancingjustice-alc.org/news-resources/resources?filters=4769). 
 
 #### Accessible Voting Places  
 

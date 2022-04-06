@@ -27,4 +27,3 @@ If you didn’t sign your ballot envelope or used the wrong signature, you will 
 **If you have a disability and cannot sign your name, you can still vote.** Just make a mark and have a witness write their name. The witness must be at least 18 years old. 
 
 Learn more about signing your name with a disability at [Disability Rights California](https://www.disabilityrightsca.org/publications/you-can-vote-even-if-you-cant-sign-your-name).
-
