@@ -22,7 +22,7 @@ At in-person Voting Locations you can:
 
 - If you choose to vote in person, it may help to bring the ballot that was mailed to you.
 - If you don’t bring your mailed ballot, some counties will require you to vote using a provisional ballot that will be counted once elections officials check that you are eligible to vote.
-- If you live in one of the following “Voter’s Choice” counties, you can get a regular ballot at any Vote Center, even if you didn’t bring the ballot that was mailed to you: Alameda, Amador, Calaveras, Butte, El Dorado, Fresno, Kings, Los Angeles, Madera, Marin, Mariposa, Merced, Napa, Nevada, Orange, Riverside, Sacramento, San Benito, San Diego, San Mateo, Santa Clara, Santa Cruz, Sonoma, Stanislaus, Tuolumne, Ventura, and Yolo. For more information check the [California Secretary State](https://www.sos.ca.gov/elections/voters-choice-act/).
+- If you live in one of the following “Voter’s Choice” counties, you can get a regular ballot at any Vote Center, even if you didn’t bring the ballot that was mailed to you: Alameda, Amador, Calaveras, Butte, El Dorado, Fresno, Kings, Los Angeles, Madera, Marin, Mariposa, Merced, Napa, Nevada, Orange, Riverside, Sacramento, San Benito, San Diego, San Mateo, Santa Clara, Santa Cruz, Sonoma, Stanislaus, Tuolumne, Ventura, and Yolo. For more information check the [California Secretary State's website](https://www.sos.ca.gov/elections/voters-choice-act/).
 
 **How do I find my polling place?**   
 
@@ -50,4 +50,3 @@ Not all California counties use the same type of touchscreen voting machines.
 - The poll worker will give you either a unique passcode or a computer memory card to gain access to the type of touchscreen in your county.  
 - Follow the instructions on the machine.  
 - If you have questions, ask a poll worker.
-
