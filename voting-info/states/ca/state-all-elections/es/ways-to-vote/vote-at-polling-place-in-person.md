@@ -6,8 +6,6 @@ section: "ways-to-vote"
 priority: "Minor"
 ---
 
-Es posible que este año su lugar de votación sea diferente. Los condados están trabajando para proporcionarle las mejores opciones para ofrecer una votación en persona segura y con distanciamiento social. **¡Le pedimos que use mascarilla si vota en persona!**
-
 En los lugares de votación en persona usted puede:
 - votar en persona
 - entregar su boleta marcada
@@ -24,7 +22,7 @@ La votación temprana, que comienza antes del día de las elecciones, estará di
 
 - Si decide votar en persona, podría ser útil llevar la boleta electoral que se le envió por correo.
 - Si no lleva su boleta electoral, algunos condados le solicitarán que vote usando una boleta electoral provisional que se contabilizará una vez que los funcionarios electorales verifiquen que usted es elegible para votar.
-- Si vive en uno de los siguientes condados de “votación flexible”, puede obtener una boleta electoral regular en cualquier centro de votación, incluso si usted no lleva la boleta electoral que se le envió por correo: Amador, Butte, Calaveras, El Dorado, Fresno, Madera, Mariposa, Los Ángeles, Napa, Nevada, Orange, Sacramento, San Mateo, Santa Clara y Tuolumne. Para obtener más información, consulte [Secretario de Estado de California](https://www.sos.ca.gov/elections/voters-choice-act/).
+- Si vive en uno de los siguientes condados de “votación flexible”, puede obtener una boleta electoral regular en cualquier centro de votación, incluso si usted no lleva la boleta electoral que se le envió por correo: Alameda, Amador, Calaveras, Butte, El Dorado, Fresno, Kings, Los Angeles, Madera, Marin, Mariposa, Merced, Napa, Nevada, Orange, Riverside, Sacramento, San Benito, San Diego, San Mateo, Santa Clara, Santa Cruz, Sonoma, Stanislaus, Tuolumne, Ventura, y Yolo. Para obtener más información, consulte [Secretario de Estado de California](https://www.sos.ca.gov/elections/voters-choice-act/).
 
 **¿Cómo encuentro mi lugar de votación?**   
 
@@ -42,7 +40,7 @@ La votación temprana, que comienza antes del día de las elecciones, estará di
 
 - **Marque (llene)** su boleta electoral de acuerdo con las siguientes instrucciones. 
 - **Desprenda** el talón que está en la parte superior de la boleta electoral. Puede usar este talón después para verificar que se contabilizó su boleta electoral. 
-- Para preservar la confidencialidad de su voto, **meterá su boleta electoral** en un sobre o en una carpeta, o la doblará si su condado se lo indica. 
+- **Meterá su boleta electoral** en un sobre o en una carpeta, o la doblará si su condado se lo indica. 
 - **Emita** su boleta electoral siguiendo los procedimientos requeridos por su condado. 
 - **Coloque su boleta electoral** ya sea en una urna electoral o en un escáner, si su lugar de votación usa escáner. 
 

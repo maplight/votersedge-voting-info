@@ -1,5 +1,5 @@
 ---
-title: "Elecciones de votación flexible: Grandes cambios en 15 condados con la Ley de Votación Flexible"
+title: "Elecciones de votación flexible: Grandes cambios en 27 condados con la Ley de Votación Flexible"
 published: false
 weight: 1
 section: "voting-basics"
@@ -7,8 +7,7 @@ priority: "Minor"
 ---
 
 **¿Vives en alguno de estos condados? 
-Amador, Butte, Calaveras, El Dorado, Fresno, Madera, Mariposa, Los Ángeles, Napa,
-Nevada, Orange, Sacramento, San Mateo, Santa Clara o Tuolumne.
+Alameda, Amador, Calaveras, Butte, El Dorado, Fresno, Kings, Los Angeles, Madera, Marin, Mariposa, Merced, Napa, Nevada, Orange, Riverside, Sacramento, San Benito, San Diego, San Mateo, Santa Clara, Santa Cruz, Sonoma, Stanislaus, Tuolumne, Ventura, y Yolo.
 ¡Tendrás más días y más modos para votar!**
 
 Si ya estás registrado para votar, recibirás tu boleta por correo de manera automática unas semanas antes de la elección. Si vives en el condado de Los Ángeles, debes pedir una boleta para votar por correo.

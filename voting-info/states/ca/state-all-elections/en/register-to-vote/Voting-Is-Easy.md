@@ -6,7 +6,7 @@ section: "register-to-vote"
 priority: "Minor"
 ---
 
-Fill out and submit a voter registration form to vote in the June 7, 2022, Primary Election by Monday, May 23, 2022.  
+Fill out and submit [a voter registration form](http://registertovote.ca.gov/) to vote in the June 7, 2022, Primary Election by Monday, May 23, 2022.  
 
 **NEW:** Even if you missed the deadline, you can still register and vote at any voting location up to and through Election Day. Check [here](#menu-item-missed-the-voter-registration-deadline-you-can-still-register-and-vote) to see how!
 
