@@ -6,7 +6,7 @@ section: "ways-to-vote"
 priority: "Minor"
 ---
 
-**¡Devuelva con anticipación su boleta electoral por correo!** Puede llenarla y enviarla por correo en cuanto la reciba. 
+**¡Devuelva su boleta electoral por correo!** Puede llenarla y enviarla por correo en cuanto la reciba. 
 
 **¿No tiene timbres? No hay problema**. No necesita timbres para devolver su boleta electoral por correo en el sobre que se le proporcionó.
 
@@ -17,9 +17,9 @@ priority: "Minor"
 
 **Firme y feche el sobre**
 - **Feche y firme** el reverso del sobre, con tinta.
-- **Verifique su firma** para asegurarse de que se parezca a la que está en el archivo.
+- **Asegúrese de que su firma se parezca a la de su registración.**
  - Si se inscribió para votar en el Departamento de Vehículos Motorizados (Department of Motor Vehicles, DMV) o en línea, la firma será la que aparece en su licencia de conducir o en su tarjeta de identificación estatal.
- - ¿No está seguro? Vuelva a inscribirse con su firma actualizada. 
+ - No está seguro? Piensa que su firma ha cambiado desde que se registró? [Regístrese de nuevo con su firma nueva](https://registertovote.ca.gov/es-mx).
 
 Puede pedir a cualquier persona que entregue su boleta electoral en un lugar de votación el día de las elecciones. Proporcione la información que se solicita en el sobre de devolución. 
 

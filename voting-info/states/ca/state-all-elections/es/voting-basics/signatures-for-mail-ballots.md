@@ -8,9 +8,11 @@ priority: "Minor"
 
 La firma de las personas cambia con el tiempo y por otras razones. Cuando use una boleta electoral por correo, necesitará firmar al reverso del sobre. Consulte [aquí](#menu-item-vote-by-mail) cómo votar por correo.
 
-**Verifique su firma** para asegurarse de que se parezca a la que está en el archivo de la oficina electoral. 
-- Si se inscribió para votar en el Departamento de Vehículos Motorizados (Department of Motor Vehicles, DMV) o en línea, la firma será la que aparece en su licencia de conducir o en su tarjeta de identificación estatal.
-- ¿No está seguro? [Vuelva a inscribirse con su firma actualizada](https://registertovote.ca.gov/es-mx).
+**Firme y feche el sobre**
+- **Feche y firme** el reverso del sobre, con tinta.
+- **Asegúrese de que su firma se parezca a la de su registración.**
+ - Si se inscribió para votar en el Departamento de Vehículos Motorizados (Department of Motor Vehicles, DMV) o en línea, la firma será la que aparece en su licencia de conducir o en su tarjeta de identificación estatal.
+ - No está seguro? Piensa que su firma ha cambiado desde que se registró? [Regístrese de nuevo con su firma nueva](https://registertovote.ca.gov/es-mx).
 
 **Otros recordatorios sobre la firma**
 

@@ -6,7 +6,7 @@ section: "register-to-vote"
 priority: "Minor"
 ---
 
-Llene un formulario de inscripción del votante a más tardar el lunes 23 de mayo de 2022 para votar en la elección primaria del 7 de junio de 2022. 
+Llene un [formulario de inscripción del votante](https://registertovote.ca.gov/es-mx) a más tardar el lunes 23 de mayo de 2022 para votar en la elección primaria del 7 de junio de 2022. 
 
 **NUEVA OPCIÓN:** Aunque haya expirado el plazo, todavía puede inscribirse para votar en cualquier lugar de votación desde ahora y hasta el día de las elecciones. ¡Consulte [aquí](#menu-item-missed-the-voter-registration-deadline-you-can-still-register-and-vote) cómo!
 
