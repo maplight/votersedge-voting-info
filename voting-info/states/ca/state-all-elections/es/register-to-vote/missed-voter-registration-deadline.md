@@ -15,7 +15,7 @@ Para inscribirse desde ahora hasta el día de las elecciones, acuda a cualquier 
 
 **2. Vote.**
 
-**3. Selle** su boleta electoral dentro del sobre que le entreguen y **fírmelo**.
+**3. Selle** su boleta electoral dentro del sobre que le entreguen y **fírmelo en la línea donde debería firmar**.
 
 Puede hacer esto en cualquier lugar de votación de su condado, pero si acude a su lugar de votación asignado, está garantizado que su boleta electoral incluirá todas las contiendas en las que tiene autorizado votar. Verifique su [lugar de votación](#section-my-polling-place).
 
