@@ -1,6 +1,6 @@
 ---
 title: "Elecciones de votación flexible: Grandes cambios en 27 condados con la Ley de Votación Flexible"
-published: false
+published: true
 weight: 1
 section: "voting-basics"
 priority: "Minor"
