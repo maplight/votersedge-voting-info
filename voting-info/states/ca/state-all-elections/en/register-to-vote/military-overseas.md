@@ -11,7 +11,7 @@ Register to vote either using California’s [online voter registration](http://
 - a member of the Merchant Marine or an eligible dependent  
 - a commissioned corps of the Public Health Service  
 - a commissioned corps of the National Oceanic and Atmospheric Administration  
-- residing outside the United States  
+- residing outside the United States.  
 
 For more information on using or obtaining an FPCA, visit the [California Secretary of State](http://www.sos.ca.gov/elections/voter-registration/military-overseas-voters/) or [this federal site](https://www.fvap.gov/).  
 
