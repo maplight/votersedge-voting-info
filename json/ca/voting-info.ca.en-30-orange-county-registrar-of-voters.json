@@ -6,7 +6,7 @@
             "important-dates-deadlines": [],
             "more-voting-info": [
                "---\ntitle: \"More voting info section title\"\npublished: false\nweight: -10\nsection: \"more-voting-info\"\npriority: \"Minor\"\n---\n\n",
-               "---\ntitle: \"Be a Vote Center Worker in Orange County\"\npublished: true\nweight: 2\nsection: \"more-voting-info\"\npriority: \"Minor\"\n---\n\nCheck out this great opportunity to help your community while earning extra money: be a Vote Center Worker in [Orange County](https://www.ocvote.com/about/careers/join)! Orange County is seeking Vote Center workers who can speak:\n- Chinese\n- Korean\n- Vietnamese\n- Spanish\n- Filipino/Tagalog\n- Farsi\n",
+               "---\ntitle: \"Be a Vote Center Worker in Orange County\"\npublished: true\nweight: 2\nsection: \"more-voting-info\"\npriority: \"Minor\"\n---\n\nCheck out this great opportunity to help your community while earning extra money: be a Vote Center Worker in [Orange County](https://www.ocvote.com/about/careers/join)!",
                "---\ntitle: \"Blueprints for Democracy: How We Vote in Orange County\"\npublished: true\nweight: 3\nsection: \"more-voting-info\"\npriority: \"Minor\"\n---\n\n[Behind the scenes of elections in Orange County, CA](https://www.youtube.com/watch?v=VnyrZMMW4T8)\n"
             ],
             "my-polling-place": [],
