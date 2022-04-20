@@ -20,8 +20,6 @@ Find your Vote Center locations and hours:
 
 - On the [Secretary of State's website](https://caearlyvoting.sos.ca.gov/)
 
-- On the [El Dorado County Elections Office website](https://edcgov.us/Government/Elections/Documents/Vote%20Center%20Locations.pdf)   
-
 - By calling (530) 621-7486        
 
 For more information about El Dorado County’s new Voter’s Choice elections visit the [El Dorado Department of Elections Office](https://edcgov.us/Government/Elections/Pages/Vote-Centers.aspx) online.
