@@ -22,4 +22,4 @@ Voters with disabilities may request a remote accessible vote-by-mail ballot. Yo
 
 If you have questions about Vote Center accessibility, call the Calaveras County Elections Office at (209) 754-6376 or [send them an email](mailto:electionsweb@co.calaveras.ca.us).
 
-You can also read more about assitance for voters with disabilities by [visiting the Calaveras Elections Office website](https://elections.calaverasgov.us/Voter-Services/Accessible-Voting).
+You can also read more about assistance for voters with disabilities by [visiting the Calaveras Elections Office website](https://elections.calaverasgov.us/Voter-Services/Accessible-Voting).

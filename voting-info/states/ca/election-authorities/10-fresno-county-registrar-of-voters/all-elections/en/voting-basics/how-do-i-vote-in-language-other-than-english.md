@@ -6,8 +6,8 @@ section: "voting-basics"
 priority: "Minor"
 ---
 
-The Fresno County Clerk/Registrar of Voters offers the [Application for Vote-by-Mail Ballot](https://www.co.fresno.ca.us/home/showdocument?id=3803) and Sample Ballots in Spanish.  
-
 中文/Chinese, Hmoob/Hmong, ខ្មែរ/Khmer, 한국어/Korean, ਪੰਜਾਬੀ/Punjabi, Tagalog, ພາສາລາວ/Lao, and Tiếng Việt/Vietnamese versions of ballots and polling place information may be available at some selected precincts. You can also find more voting information on the Fresno County Elections Office's [website](https://www.co.fresno.ca.us/departments/county-clerk-registrar-of-voters).
 
-Spanish language assistance is available at all Vote Centers. Additional language assistance in 中文/Chinese, Hmoob/Hmong, ខ្មែរ/Khmer, 한국어/Korean, ਪੰਜਾਬੀ/Punjabi, Tagalog, ພາສາລາວ/Lao, and Tiếng Việt/Vietnamese is listed on the Fresno County Elections Office's [website](https://www.co.fresno.ca.us/home/showdocument?id=48965). Contact the Fresno County Elections Office at (559) 600-8683 for specific details on languages available at your polling place. 
+Spanish language assistance is available at all Vote Centers. Additional language assistance in 中文/Chinese, Hmoob/Hmong, ខ្មែរ/Khmer, 한국어/Korean, ਪੰਜਾਬੀ/Punjabi, Tagalog, ພາສາລາວ/Lao, and Tiếng Việt/Vietnamese is provided by the Secretary of State Office's [website](https://voterstatus.sos.ca.gov/). Contact the Fresno County Elections Office at (559) 600-8683 for specific details on languages available at your polling place. 
+
+Learn about how you can get involved with the Fresno County elections [language accessibility advisory committee](https://www.co.fresno.ca.us/departments/county-clerk-registrar-of-voters/language-accessibility-advisory-committee-laac).
