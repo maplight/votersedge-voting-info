@@ -39,7 +39,7 @@ Some Vote Centers will be open for 11 days before Election Day. For the June 7 P
 
 #### Language Assistance  
 
-Vote Centers will accommodate voters with limited English proficiency. Vote Centers will also have well-trained staff at every location prepared to support voters with translated voting materials in languages required by law. To the greatest extent possible, counties will aim to have multilingual staff and volunteers available to help voters at Vote Centers. Learn more about language assistance at Vote Centers in several languages with [factsheets from Asian Americans Advancing Justice](https://www.advancingjustice-alc.org/news-resources/resources?filters=4769). 
+Vote Centers will accommodate voters with limited English proficiency. Vote Centers will also have well-trained staff at every location prepared to support voters with translated voting materials in languages required by law. To the greatest extent possible, counties will aim to have multilingual staff and volunteers available to help voters at Vote Centers. Learn more about language assistance at Vote Centers in several languages with [factsheets from Asian Americans Advancing Justice](https://www.advancingjustice-alc.org/news-resources/guides-reports/know-your-voting-rights). 
 
 #### Accessible Voting Places  
 

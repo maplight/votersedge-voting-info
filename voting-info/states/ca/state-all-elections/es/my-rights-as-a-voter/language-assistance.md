@@ -8,11 +8,13 @@ priority: "Minor"
 **¿Qué derechos tengo para recibir ayuda en otros idiomas?**  
 - A los funcionarios de elecciones locales se les exige proporcionar servicios y materiales electorales oficiales a los electores bilingües en distritos donde hay un determinado número de personas que habla ese idioma.
 - En algunas localidades, los panfletos informativos para electores y las muestras de boleta electoral están traducidos al chino, español, tagalo y vietnamita, entre otros idiomas.
-- En algunos lugares de votación, hay trabajadores electorales bilingües que apoyan a los electores en su propio idioma.  
+- En algunos lugares de votación, hay trabajadores electorales bilingües que apoyan a los electores en su propio idioma. 
+
+Para obtener más información, consulte [Asian Americans Advancing Justice](https://www.advancingjustice-alc.org/news-resources/guides-reports/know-your-voting-rights).  
 
 Conozca sus derechos como votante en su idioma:
 
-- English - [Your Vote. Your Voice](https://www.advancingjustice-alc.org/wp-content/uploads/2021/08/English-Sept-2021-Recall-KYVR.pdf)
+- English - [Your Vote. Your Voice](https://www.advancingjustice-alc.org/media/KYVR-Fact-Sheets-non-VCA.pdf)
 - عربى - Arabic - [تصويتك. صوتك.](https://www.advancingjustice-alc.org/wp-content/uploads/2021/08/Arabic-Sept-2021-Recall-KYVR-1.pdf)
 - 中文 - Chinese-Simplified - [您的投票。您的发声。](https://www.advancingjustice-alc.org/wp-content/uploads/2021/08/Simplified-Chinese-Sept-2021-Recall-KYVR.pdf)
 - 中文 - Chinese Traditional - [您的投票。您的發聲。](https://www.advancingjustice-alc.org/wp-content/uploads/2021/08/Traditional-Chinese-Sept-2021-Recall-KYVR.pdf)

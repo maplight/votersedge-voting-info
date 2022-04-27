@@ -44,7 +44,7 @@ Algunos Centros de Votación estarán abiertos desde 11 días antes del día de 
 
 #### Asistencia en otros idiomas    
 
-Los Centros de Votación se adaptarán a los electores con dominio limitado del idioma inglés. Además, contarán en cada sede con personal bien capacitado, preparado para proporcionar a los votantes materiales de votación traducidos a los idiomas que exige la ley. En la medida de lo posible, los condados tratarán de contar con personal y voluntarios multilingües en los Centros de Votación para ayudar a los votantes. Para obtener más información, consulte [Asian Americans Advancing Justice](https://www.advancingjustice-alc.org/know-your-voting-rights/).  
+Los Centros de Votación se adaptarán a los electores con dominio limitado del idioma inglés. Además, contarán en cada sede con personal bien capacitado, preparado para proporcionar a los votantes materiales de votación traducidos a los idiomas que exige la ley. En la medida de lo posible, los condados tratarán de contar con personal y voluntarios multilingües en los Centros de Votación para ayudar a los votantes. Para obtener más información, consulte [Asian Americans Advancing Justice](https://www.advancingjustice-alc.org/news-resources/guides-reports/know-your-voting-rights).  
 
 #### Lugares de votación accesibles   
 
