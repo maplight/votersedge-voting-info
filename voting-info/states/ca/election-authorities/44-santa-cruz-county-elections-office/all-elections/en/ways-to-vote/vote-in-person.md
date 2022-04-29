@@ -1,5 +1,5 @@
 ---
-title: "How do I vote in person in Amador County?"
+title: "How do I vote in person in Santa Cruz County?"
 published: true
 weight: 9
 section: "ways-to-vote"
@@ -8,7 +8,7 @@ priority: "Minor"
 
 You live in a county that is following the “Voter’s Choice” election rules. If you are registered to vote, you will get a ballot in the mail and can choose whether to mail it back, drop it off, or instead vote in person.
 
-Your neighborhood polling locations may no longer be open. Instead, you can vote at *any* Vote Center in Amador County.   
+Your neighborhood polling locations may no longer be open. Instead, you can vote at *any* Vote Center in Santa Cruz County. 
 
 - **All Vote Centers will be open for at least 4 days** from the Saturday before the election through Election Day.
 
@@ -20,8 +20,8 @@ Find your Vote Center locations and hours:
 
 - On the [Secretary of State's website](https://caearlyvoting.sos.ca.gov/) 
 
-- On the [Amador County Elections Office website](https://www.amadorgov.org/government/elections/vote-center-and-ballot-drop-off-locations)   
+- On the [Santa Cruz County Elections Office website](http://www.co.santa-cruz.ca.us/ele/jun16/root0607/) 
 
-- By calling (209) 223-6465   
+- On the [Santa Cruz County Voting Location Map](](https://sccgis.maps.arcgis.com/apps/webappviewer/index.html?id=a25c3e9e324f45728aeaa677bb40d74a)
 
-For more information about Amador County’s new Voter’s Choice elections visit the [Amador County Department of Elections Office](https://www.amadorgov.org/government/elections/voter-s-choice-act) online.
+- By calling (831) 454-2060

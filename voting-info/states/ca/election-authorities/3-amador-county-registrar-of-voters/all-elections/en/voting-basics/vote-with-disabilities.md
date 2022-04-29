@@ -16,7 +16,7 @@ All Vote Centers will have at least two voting booths for a chair or wheelchair,
 
 For any voter that cannot physically access a Vote Center, there is the option to vote “curbside”. Curbside voting allows you to vote from your car or at the door of the building. To utilize curbside voting you can call (209) 223-6466 or "ring the doorbell" outside of the Voting Center. 
 
-Voters with disabilities may request a remote accessible vote-by-mail ballot (RAVBM).To obtain a a remote accessible vote-by-mail ballot, complete the postage paid card that comes in your ballot packet and return it by mail, or fill out the [RAVBM Application](https://www.amadorgov.org/home/showpublisheddocument/37353/637335239185000000), complete it, sign it and return it via mail, fax or email. You can use this ballot at home with your own computer and assistive technologies, then print the ballot and mail or drop it off. To learn more about using an accessible vote-by-mail ballot, [click here.](https://www.amadorgov.org/government/elections/how-to-vote) 
+Voters with disabilities may request a remote accessible vote-by-mail ballot (RAVBM). To obtain a RAVBM ballot, complete the postage paid card that comes in your ballot packet and return it by mail, or fill out the [RAVBM Application](https://www.amadorgov.org/home/showpublisheddocument/37353/637335239185000000), complete it, sign it and return it via mail, fax or email. You can use this ballot at home with your own computer and assistive technologies, then print the ballot and mail or drop it off. To learn more about using an accessible vote-by-mail ballot, [click here.](https://www.amadorgov.org/government/elections/how-to-vote) 
 
 #### Accessible Voting Information  
 
