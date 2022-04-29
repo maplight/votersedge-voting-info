@@ -15,7 +15,7 @@ priority: "Minor"
 - 日本語/Japanese  
 - ខ្មែរ/Khmer/Cambodian  
 - 한국어/Korean 
-- فارسی/Farsi
+- Farsi
 - Tagalog/Filipino 
 - Русский/Russian 
 - ภาษาไทย/Thai  
@@ -26,3 +26,5 @@ priority: "Minor"
 To request a Sample Ballot in one of these languages or to request an interpreter or multilingual materials before an election, **call 1-800-815-2666, option 3**, or visit [Multilingual Assistance](https://www.lavote.net/home/voting-elections/voter-education/multilingual-services-program/multilingual-services-program). 
 
 **Bilingual services are available at Vote Centers** across the County based on the different language needs of each community. Signs are posted in those Vote Centers identifying the language(s) spoken.  
+
+**Election materials** are available online in 18 languages from the [Multilingual Services Program](https://www.lavote.net/home/voting-elections/voter-education/multilingual-services-program/multilingual-services-program).

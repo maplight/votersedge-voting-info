@@ -12,4 +12,22 @@ priority: "Minor"
 
 #### Accessible Voting Equipment  
 
-Polling places are equipped with electronic accessible voting units.  
+All Vote Centers have accessible ballot-marking devices.
+
+The ballot-marking device allows voters to navigate through their ballots using features such as:
+
+- Touchscreen tablet with options to change text and background colors and the text size
+- Braille-embossed handheld keypad (audio-tactile interface)
+- Headphones and audio instructions in English and Spanish  
+
+Voters may bring in their own assistive devices, including sip-and-puff systems, paddles, and head-pointers. 
+
+#### Accessible Voting Information
+Contact the elections office by phone at (951) 486-7200, (800) 773-8683, or by [email](mailto:rovweb@rivco.org).
+
+You can also vote with Remote Accessible Vote-by-Mail. RAVBM lets you:
+- Download, mark, and print your ballot at home
+- Use your own assistive technology to read and mark the ballot
+- Select the language for your ballot
+
+The Riverside County [website](https://sites.omniballot.us/06065/app/home) will meet accessibility requirements and use best practices for voters with disabilities to access the site.

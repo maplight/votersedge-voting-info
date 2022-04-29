@@ -20,6 +20,8 @@ Find your Vote Center locations and hours:
 
 - On the [Los Angeles County Elections Office website](https://locator.lavote.net/locations/vc)   
 
-- By calling (800) 815-2666, option 1       
+- By calling (800) 815-2666, option 1  
+
+- Email votecenter@rrcc.la.county.gov    
 
 For more information about Los Angeles County’s new Voter’s Choice elections visit the [Los Angeles Department of Elections Office](https://www.lavote.net/home/voting-elections/current-elections) online.

@@ -1,5 +1,5 @@
 ---
-title: "How do I vote in person in Amador County?"
+title: "How do I vote in person in San Benito County?"
 published: true
 weight: 9
 section: "ways-to-vote"
@@ -8,7 +8,7 @@ priority: "Minor"
 
 You live in a county that is following the “Voter’s Choice” election rules. If you are registered to vote, you will get a ballot in the mail and can choose whether to mail it back, drop it off, or instead vote in person.
 
-Your neighborhood polling locations may no longer be open. Instead, you can vote at *any* Vote Center in Amador County.   
+Your neighborhood polling locations may no longer be open. Instead, you can vote at *any* Vote Center in San Benito County.   
 
 - **All Vote Centers will be open for at least 4 days** from the Saturday before the election through Election Day.
 
@@ -20,8 +20,7 @@ Find your Vote Center locations and hours:
 
 - On the [Secretary of State's website](https://caearlyvoting.sos.ca.gov/) 
 
-- On the [Amador County Elections Office website](https://www.amadorgov.org/government/elections/vote-center-and-ballot-drop-off-locations)   
+- On the [San Benito County Elections Office website](https://sbcvote.us/registrar-of-voters/)   
 
-- By calling (209) 223-6465   
 
-For more information about Amador County’s new Voter’s Choice elections visit the [Amador County Department of Elections Office](https://www.amadorgov.org/government/elections/voter-s-choice-act) online.
+For more information about San Benito County’s new Voter’s Choice elections visit [San Benito County Registrar of Voters](https://sbcvote.us/registrar-of-voters/voters-choice-act/) online.
