@@ -1899,7 +1899,7 @@
             "city": "Oakland ",
             "state": "CA",
             "zipcode": "94612",
-            "phone": "(510) 272-6933",
+            "phone": "(510) 272-6973",
             "email": "rov_outreach@acgov.org",
             "fax": "(510) 272-6982",
             "website": "http:\/\/www.acgov.org\/rov\/index.htm",
@@ -1954,7 +1954,7 @@
             "email": "elections@buttecounty.net",
             "fax": "(530) 538-6853",
             "website": "https:\/\/clerk-recorder.buttecounty.net\/elections\/electhome.html",
-            "polling_lookup": "https:\/\/clerk-recorder.buttecounty.net\/elections\/archives\/eln46\/Countywide%20Voter%20Information%20Guide_8-12-2021.pdf#page=4",
+            "polling_lookup": "https:\/\/buttevotes.net\/292\/June-7-2022-Primary-Election",
             "ve_email": "CA-bt@votersedge.org"
         }, {
             "election_authority_id": "5",
@@ -1968,7 +1968,7 @@
             "state": "CA",
             "zipcode": "65249",
             "phone": "(209) 754-6376",
-            "email": "elections@co.calaveras.ca.us",
+            "email": "https:\/\/calaverasgov.us\/Feedback\/elections",
             "fax": "(209) 754-6733",
             "website": "http:\/\/clerk.calaverasgov.us\/ClerkRecorderHome.aspx",
             "polling_lookup": "https:\/\/elections.calaverasgov.us\/Next-Election\/Special-Election\/Where-to-Vote",
@@ -2005,7 +2005,7 @@
             "email": "voter.services@vote.cccounty.us",
             "fax": "(925) 335-7838",
             "website": "http:\/\/www.cocovote.us\/",
-            "polling_lookup": "https:\/\/www.cocovote.us\/election\/california-gubernatorial-recall-election\/#Election",
+            "polling_lookup": "https:\/\/www.cocovote.us\/election\/june-7-2022-statewide-direct-primary-election\/#Election",
             "ve_email": "CA-cc@votersedge.org"
         }, {
             "election_authority_id": "8",
@@ -2019,10 +2019,10 @@
             "state": "CA",
             "zipcode": "95531",
             "phone": "(707) 464-7216, (707) 465-0383",
-            "email": "anorthrup@co.del-norte.ca.us",
+            "email": "elections@co.del-norte.ca.us",
             "fax": "(707) 465-0321",
-            "website": "http:\/\/www.co.del-norte.ca.us\/departments\/clerk-recorder\/elections",
-            "polling_lookup": "http:\/\/www.co.del-norte.ca.us\/departments\/clerk-recorder\/elections\/polling-locations",
+            "website": "http:\/\/www.co.del-norte.ca.us\/departments\/elections",
+            "polling_lookup": "http:\/\/www.co.del-norte.ca.us\/departments\/elections",
             "ve_email": "CA-dn@votersedge.org"
         }, {
             "election_authority_id": "9",
@@ -2039,7 +2039,7 @@
             "email": "elections@edcgov.us",
             "fax": "(530) 626-5514",
             "website": "https:\/\/www.edcgov.us\/Government\/Elections",
-            "polling_lookup": "https:\/\/www.edcgov.us\/Government\/Elections\/Pages\/2021-California-Gubernatorial-Recall-Election.aspx",
+            "polling_lookup": "https:\/\/www.edcgov.us/Government/Elections/Pages/elections_main_info.aspx",
             "ve_email": "CA-ed@votersedge.org"
         }, {
             "election_authority_id": "10",
@@ -2090,7 +2090,7 @@
             "email": "humboldt_elections@co.humboldt.ca.us",
             "fax": "(707) 445-7204",
             "website": "http:\/\/www.humboldtgov.org\/890\/Elections-Voter-Registration",
-            "polling_lookup": "https:\/\/humboldtgov.org\/DocumentCenter\/View\/97662\/vac-and-drop-box-locations---English-rev-081821?bidId=",
+            "polling_lookup": "https:\/\/humboldtgov.org\/3224\/Statewide-Direct-Primary-Election-June-7",
             "ve_email": "CA-hm@votersedge.org"
         }, {
             "election_authority_id": "13",
@@ -2121,7 +2121,7 @@
             "state": "CA",
             "zipcode": "93526",
             "phone": "(760) 878-0224",
-            "email": "kfoote@inyocounty.us",
+            "email": "elections@inyocounty.us",
             "fax": "(760) 878-1805",
             "website": "http:\/\/elections.inyocounty.us\/",
             "polling_lookup": "http:\/\/elections.inyocounty.us\/voting\/voting-locations\/",
@@ -2154,11 +2154,11 @@
             "city": "Hanford",
             "state": "CA",
             "zipcode": "93230",
-            "phone": "(559) 852-4401",
+            "phone": "(800) 289-9981",
             "email": "elections@countyofkings.com",
             "fax": "(559) 585-8453",
             "website": "https:\/\/www.countyofkings.com\/departments\/administration\/elections",
-            "polling_lookup": "https:\/\/www.countyofkings.com\/home\/showpublisheddocument\/27131\/637628943148300000",
+            "polling_lookup": "https:\/\/www.countyofkings.com\/home\/showpublisheddocument\/28819\/637865575051900000",
             "ve_email": "CA-kn@votersedge.org"
         }, {
             "election_authority_id": "17",
@@ -2166,8 +2166,8 @@
             "area": "Lake County",
             "ea_code": "CA-lk",
             "is_county": "Yes",
-            "address": "255 N. Forbes Street",
-            "address2": "Rm 209",
+            "address": "325 N. Forbes Street",
+            "address2": "",
             "city": "Lakeport",
             "state": "CA",
             "zipcode": "95453",
@@ -2175,7 +2175,7 @@
             "email": "elections@lakecountyca.gov",
             "fax": "(707) 263-2742",
             "website": "http:\/\/www.co.lake.ca.us\/Government\/Directory\/ROV.htm",
-            "polling_lookup": "http:\/\/www.lakecountyca.gov\/Assets\/Departments\/RegistrarOfVoters\/Elections\/Sept+2021\/PollingSept2021v2.pdf",
+            "polling_lookup": "http:\/\/www.lakecountyca.gov\/Assets\/Departments\/RegistrarOfVoters\/docs\/Media\/Polling+Locations.pdf",
             "ve_email": "CA-lk@votersedge.org"
         }, {
             "election_authority_id": "18",
@@ -2192,7 +2192,7 @@
             "email": "jbustamante@co.lassen.ca.us",
             "fax": "(530) 257-3480",
             "website": "http:\/\/www.lassencounty.org\/dept\/county-clerk-recorder\/elections",
-            "polling_lookup": "http:\/\/www.lassencounty.org\/sites\/default\/files\/departments\/clerk_of_the_board_of_supervisors\/Vote%20Centers%20Sept%2014%202021_3.pdf",
+            "polling_lookup": "http:\/\/www.lassencounty.org\/sites\/default\/files\/departments\/clerk_of_the_board_of_supervisors\/Vote%20Centers%20for%20Web%20JUN%202022.pdf",
             "ve_email": "CA-ls@votersedge.org"
         }, {
             "election_authority_id": "19",
@@ -2209,7 +2209,7 @@
             "email": "voterinfo@rrcc.lacounty.gov",
             "fax": "(562) 929-4790",
             "website": "https:\/\/lavote.net\/home\/voting-elections",
-            "polling_lookup": "https:\/\/lavote.net\/home\/voting-elections\/voting-options\/voting-in-person",
+            "polling_lookup": "https:\/\/locator.lavote.gov\/locations\/vc",
             "ve_email": "CA-la@votersedge.org"
         }, {
             "election_authority_id": "20",
@@ -2243,7 +2243,7 @@
             "email": "elections@marincounty.org",
             "fax": "(415) 473-6447",
             "website": "http:\/\/www.marincounty.org\/depts\/rv",
-            "polling_lookup": "http:\/\/www.marincounty.org\/depts\/rv\/voting-information\/polling-places",
+            "polling_lookup": "http:\/\/www.marincounty.org\/depts\/rv\/election-info\/june-7-2022?tabnum=8",
             "ve_email": "CA-mrn@votersedge.org"
         }, {
             "election_authority_id": "22",
@@ -2294,7 +2294,7 @@
             "email": "elections@countyofmerced.com",
             "fax": "(209) 385-7387",
             "website": "https:\/\/www.co.merced.ca.us\/225\/Elections",
-            "polling_lookup": "https:\/\/www.co.merced.ca.us\/DocumentCenter\/View\/27776\/Voting-Assistance-Centers-and-Drop-Boxes-09142021?bidId=",
+            "polling_lookup": "https:\/\/www.co.merced.ca.us\/DocumentCenter\/View\/27776\/Voting-Assistance-Centers-and-Drop-Boxes?bidId=",
             "ve_email": "CA-mrc@votersedge.org"
         }, {
             "election_authority_id": "25",
@@ -2341,7 +2341,7 @@
             "city": "Salinas ",
             "state": "CA",
             "zipcode": "93901",
-            "phone": "(831) 796-1499",
+            "phone": "(866) 887-9274",
             "email": "elections@co.monterey.ca.us",
             "fax": "(831) 755-5485",
             "website": "http:\/\/www.montereycountyelections.us\/",
@@ -2379,7 +2379,7 @@
             "email": "elections.mail@co.nevada.ca.us",
             "fax": "(530) 265-9829",
             "website": "https:\/\/www.mynevadacounty.com\/695\/Registrar-of-Voters",
-            "polling_lookup": "https:\/\/www.mynevadacounty.com\/3282\/Sept-14-2021-Vote-Center-Drop-Box-Locati",
+            "polling_lookup": "https:\/\/www.nevadacountyca.gov\/3490\/Current-Elections",
             "ve_email": "CA-nv@votersedge.org"
         }, {
             "election_authority_id": "30",
@@ -2393,10 +2393,10 @@
             "state": "CA",
             "zipcode": "92705",
             "phone": "(714) 567-7556; 714-567-5100",
-            "email": "ocvoter@ocgov.com",
+            "email": "rovwebmaster@ocvote.gov",
             "fax": "(714) 567-7556",
             "website": "http:\/\/www.ocvote.com\/",
-            "polling_lookup": "https:\/\/ocvote.maps.arcgis.com\/apps\/webappviewer\/index.html?id=bd2662898c8d425e9481abb8c91d72d5",
+            "polling_lookup": "https:\/\/ocvote.gov\/voting\/voting-and-dropoff-locations-by-election",
             "ve_email": "CA-or@votersedge.org"
         }, {
             "election_authority_id": "31",
@@ -2481,7 +2481,7 @@
             "email": "SBCVote@cosb.us",
             "fax": "(831) 636-2939",
             "website": "http:\/\/sbcvote.us\/registrar-of-voters\/",
-            "polling_lookup": "https:\/\/caearlyvoting.sos.ca.gov\/",
+            "polling_lookup": "https:\/\/sbcvote.us\/registrar-of-voters\/",
             "ve_email": "CA-sbn@votersedge.org"
         }, {
             "election_authority_id": "36",
@@ -2495,10 +2495,10 @@
             "state": "CA",
             "zipcode": "92415",
             "phone": "(909) 387-8300; (800) 881-8683",
-            "email": "communications@sbcountyelections.com",
+            "email": "communications@rov.sbcounty.gov",
             "fax": "(909) 387-2022",
             "website": "http:\/\/www.sbcountyelections.com\/",
-            "polling_lookup": "https:\/\/www.sbcountyelections.com\/Voting\/PPL\/2021\/0914.aspx",
+            "polling_lookup": "https:\/\/sbcountyelections.com\/voting\/",
             "ve_email": "CA-sbo@votersedge.org"
         }, {
             "election_authority_id": "37",
@@ -2528,7 +2528,7 @@
             "city": "San Francisco",
             "state": "CA",
             "zipcode": "94102",
-            "phone": "(415) 554-4375; (866) 325-9163",
+            "phone": "(415) 554-4375",
             "email": "sfvote@sfgov.org",
             "fax": "(415) 554-7344",
             "website": "https:\/\/sfelections.sfgov.org\/",
@@ -2548,8 +2548,8 @@
             "phone": "(209) 468-2885; (800) 400-5009",
             "email": "registrar@sjgov.org",
             "fax": "(209) 468-2889",
-            "website": "https:\/\/www.sjgov.org\/department\/rov\/default",
-            "polling_lookup": "https:\/\/www.sjgov.org\/department\/rov\/voting\/voter_service_centers",
+            "website": "https:\/\/www.sjgov.org\/department\/rov/",
+            "polling_lookup": "https:\/\/www.sjgov.org\/department\/rov\/voting",
             "ve_email": "CA-sj@votersedge.org"
         }, {
             "election_authority_id": "40",
@@ -2579,7 +2579,7 @@
             "city": "San Mateo ",
             "state": "CA",
             "zipcode": "94402",
-            "phone": "(888)762-8683",
+            "phone": "(888) 762-8683; (650) 312-5222",
             "email": "registrar@smcacre.org",
             "fax": "(650) 312-5348",
             "website": "https:\/\/www.smcacre.org\/elections",
@@ -2600,7 +2600,7 @@
             "email": "electionssupport@co.santa-barbara.ca.us",
             "fax": "(805) 568-2209",
             "website": "https:\/\/countyofsb.org\/care\/elections\/home.sbc",
-            "polling_lookup": "https:\/\/countyofsb.org\/care\/elections\/voting.sbc",
+            "polling_lookup": "https:\/\/www.countyofsb.org\/1161\/Statewide-Direct-Primary-Election",
             "ve_email": "CA-sba@votersedge.org"
         }, {
             "election_authority_id": "43",
@@ -2676,8 +2676,8 @@
             "area": "Siskiyou County",
             "ea_code": "CA-ss",
             "is_county": "Yes",
-            "address": "510 N. Main Street",
-            "address2": "",
+            "address": "311 Fourth Street",
+            "address2": "Room 201",
             "city": "Yreka",
             "state": "CA",
             "zipcode": "96097",
@@ -2719,7 +2719,7 @@
             "email": "rov-info@sonoma-county.org",
             "fax": "(707) 565-6843",
             "website": "https:\/\/sonomacounty.ca.gov\/CRA\/Registrar-of-Voters\/Elections\/",
-            "polling_lookup": "https:\/\/sonomacounty.maps.arcgis.com\/apps\/webappviewer\/index.html?id=20319983129d4b5fb1b5f2922044db95",
+            "polling_lookup": "https:\/\/sonomacounty.ca.gov\/administrative-support-and-fiscal-services\/clerk-recorder-assessor-registrar-of-voters\/registrar-of-voters\/elections\/locations",
             "ve_email": "CA-sn@votersedge.org"
         }, {
             "election_authority_id": "50",
@@ -2732,11 +2732,11 @@
             "city": "Modesto ",
             "state": "CA",
             "zipcode": "95354",
-            "phone": "(209) 525-5200",
+            "phone": "(209) 525-5200; (833) 772-2260",
             "email": "stanvote@stancounty.com",
             "fax": "(209) 525-5802",
             "website": "http:\/\/stanvote.com\/",
-            "polling_lookup": "https:\/\/www.stanvote.com\/pdf\/2021_recall_election_vote_centers.pdf",
+            "polling_lookup": "https:\/\/www.stanvote.com\/",
             "ve_email": "CA-stn@votersedge.org"
         }, {
             "election_authority_id": "227",
@@ -2749,7 +2749,7 @@
             "city": "Sacramento",
             "state": "CA",
             "zipcode": "95814",
-            "phone": "(916) 657-2166",
+            "phone": "(916) 653-6814",
             "email": "",
             "fax": "(916) 653-6814",
             "website": "https:\/\/www.sos.ca.gov\/elections\/",
@@ -2786,8 +2786,8 @@
             "phone": "(530) 527-8190",
             "email": "elections@co.tehama.ca.us",
             "fax": "(530) 527-1140; (530) 527-1745",
-            "website": "http:\/\/www.co.tehama.ca.us\/dep-elections",
-            "polling_lookup": "https:\/\/www.co.tehama.ca.us\/wp-content\/uploads\/2021\/08\/List-of-Pollling-LocationsSeot2021English-1.pdf",
+            "website": "http:\/\/www.co.tehama.ca.us\/government\/departments\/elections\/",
+            "polling_lookup": "https:\/\/www.co.tehama.ca.us\/government\/departments\/elections\/polling-places/",
             "ve_email": "CA-th@votersedge.org"
         }, {
             "election_authority_id": "53",
@@ -2804,7 +2804,7 @@
             "email": "elections@trinitycounty.org",
             "fax": "(530) 623-8398",
             "website": "https:\/\/www.trinitycounty.org\/Elections",
-            "polling_lookup": "https:\/\/www.trinitycounty.org\/sites\/default\/files\/Elections\/Documents\/2021\/2021%2008%2013%20Drop%20Box%20Locations.pdf",
+            "polling_lookup": "https:\/\/www.trinitycounty.org\/Election-06-07-2022",
             "ve_email": "CA-tr@votersedge.org"
         }, {
             "election_authority_id": "54",
@@ -2818,10 +2818,10 @@
             "state": "CA",
             "zipcode": "93277",
             "phone": "(559) 624-7300",
-            "email": "av1@co.tulare.ca.us",
+            "email": "av1@tularecounty.ca.gov",
             "fax": "(559) 737-4498",
             "website": "https:\/\/tularecoelections.org\/elections\/",
-            "polling_lookup": "https:\/\/tularecoelections.org\/elections\/registrar-of-voters\/current-election-information\/september-14-2021-california-gubernatorial-recall-election\/polling-place-and-drop-box-location-list\/",
+            "polling_lookup": "https:\/\/tularecoelections.org\/elections\/registrar-of-voters\/current-election-information\/june-7-2022-primary-election\/polling-place-ballot-drop-box-locations-lugares-de-votacion-y-ubicaciones-de-caja-de-entraga-boletas\/",
             "ve_email": "CA-tlr@votersedge.org"
         }, {
             "election_authority_id": "55",
@@ -2838,7 +2838,7 @@
             "email": "dbautista@co.tuolumne.ca.us",
             "fax": "(209) 694-8931",
             "website": "https:\/\/www.tuolumnecounty.ca.gov\/194\/Election-Information",
-            "polling_lookup": "https:\/\/www.tuolumnecounty.ca.gov\/194\/Election-Information",
+            "polling_lookup": "https:\/\/www.tuolumnecounty.ca.gov\/DocumentCenter\/View\/21797\/VC-and-BD-Locations-Handout",
             "ve_email": "CA-tlm@votersedge.org"
         }, {
             "election_authority_id": "56",
@@ -2869,7 +2869,7 @@
             "state": "CA",
             "zipcode": "95695",
             "phone": "(530) 666-8133; (800) 649-9943",
-            "email": "cntyclrk@yoloelections.org",
+            "email": "elections@yolocounty.org",
             "fax": "(530) 666-8123",
             "website": "http:\/\/www.yoloelections.org\/",
             "polling_lookup": "http:\/\/www.yoloelections.org\/voting\/polling_place",
