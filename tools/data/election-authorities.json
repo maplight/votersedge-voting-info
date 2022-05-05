@@ -2243,7 +2243,7 @@
             "email": "elections@marincounty.org",
             "fax": "(415) 473-6447",
             "website": "http:\/\/www.marincounty.org\/depts\/rv",
-            "polling_lookup": "http:\/\/www.marincounty.org\/depts\/rv\/election-info\/june-7-2022?tabnum=8",
+            "polling_lookup": "https:\/\/www.marincounty.org\/depts\/rv\/voting-information\/vote-centers",
             "ve_email": "CA-mrn@votersedge.org"
         }, {
             "election_authority_id": "22",
