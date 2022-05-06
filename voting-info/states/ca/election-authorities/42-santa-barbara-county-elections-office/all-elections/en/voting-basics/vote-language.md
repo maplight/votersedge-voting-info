@@ -11,12 +11,12 @@ priority: "Minor"
 [Korean/한국어 (언어 지원)](https://countyofsb.org/care/elections/voting/language-assistance/korean.sbc)
 [Tagalog/(Tulong sa Wika)](https://countyofsb.org/care/elections/voting/language-assistance/tagalog.sbc)
 
-Español/Spanish ballots and election materials are provided at all polling places. 
+Español/Spanish ballots and election materials are provided at all polling places.
 
-中文/Chinese, 한국어/Korean, and Tagalog versions of ballots are available at select precincts. Please see the [Language Assistance page](https://countyofsb.org/care/elections/voting/language-assistance.sbc) for more information.
+中文/Chinese, 한국어/Korean, and Tagalog versions of ballots are available at select precincts. Please see the [Language Assistance page](https://www.countyofsb.org/1151/Language-Assistance) for more information.
 
 If you are a Vote By Mail Voter in one of these precincts, you can request a ballot in the one of the languages available:
 - By Phone: by calling 1-800-SBC-VOTE (1-800-722-8683)
 - By Mail: by completing/returning the Vote By Mail application and designating the language needed.
 - Online: by completing/returning the Vote By Mail application and designating the language needed.
-- In Person: at one of the Elections Offices or by surrendering your ballot and return envelope at your polling location. 
+- In Person: at one of the Elections Offices or by surrendering your ballot and return envelope at your polling location.

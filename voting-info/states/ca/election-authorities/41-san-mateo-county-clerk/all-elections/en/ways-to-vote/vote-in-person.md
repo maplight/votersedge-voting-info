@@ -20,7 +20,7 @@ Find your Vote Center locations and hours:
 
 - On the [Secretary of State's website](https://caearlyvoting.sos.ca.gov/)  
 
-- On the [San Mateo County Elections Office website](https://www.smcacre.org/vote-center-locations)   
+- On the [San Mateo County Elections Office website](https://www.smcacre.org/elections/vote-center-and-ballot-drop-box-lookup)   
 
 - By calling (650) 312-5222        
 
