@@ -6,7 +6,7 @@ section: "voting-basics"
 priority: "Minor"
 ---
 
-Check Santa Barbara County's [Voter Assistance](https://countyofsb.org/care/elections/voting/voter-assistance.sbc) page for more information. 
+Check Santa Barbara County's [Voter Assistance](https://www.countyofsb.org/1180/Voter-Assistance) page for more information. 
 
 #### Accessible Voting Places  
 
@@ -21,5 +21,3 @@ Ballot information is available in large font formats and via audio recordings. 
 Accessible AutoMARK ballot-marking systems are available at all polling places as well as the three Registrar of Voters office locations. The AutoMARK provides an opportunity for voters who are blind, visually impaired, or have a disability or other conditions to traditionally mark a ballot without assistance. The AutoMARK has a Braille keypad, increased font size, and audio options as well as a touch screen.
 
 Easy Grip Pens, Handi Lens Magnifiers, and Accessible Vote Booth are available upon request at all polling places in Santa Barbara County.  
-
- 

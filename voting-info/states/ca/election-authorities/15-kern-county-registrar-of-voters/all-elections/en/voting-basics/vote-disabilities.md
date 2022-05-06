@@ -8,8 +8,6 @@ priority: "Minor"
 
 #### Accessible Voting Places  
 
-Check [online](https://elections.co.kern.ca.us/ElectionInformation/AddressLookup?RedirectAction=PollSiteLookup&RedirectController=CurrentElectionInformation&RedirectArea=ElectionInformation) or on the back cover of your Sample Ballot for the wheelchair symbol that shows whether or not your polling place is accessible. Accessible voting is also available at the County Elections Office.  
-
 Each Polling Site has an accessible ballot marking device that is equipped with:
  - Enlarged Text Ballot
  - High Contrast Ballot
@@ -20,11 +18,11 @@ In addition every Polling Site has:
 - Wrapped Disposable Styluses
 - Mouth Sticks
 
-If you cannot come into the poll site, curbside voting can be arranged where a ballot can be taken out to you by Election Officers. 
+If you cannot come into the poll site, curbside voting can be arranged where a ballot can be taken out to you by Election Officers.
 
 #### Accessible Voting Information    
 
-Voters with disabilities may request a remote accessible vote-by-mail ballot. You can use this ballot at home with your own computer and assistive technologies, then print the ballot and mail or drop it off. To learn more about using an accessible vote-by-mail ballot, [click here.](https://elections.co.kern.ca.us/VotebyMail/RAVBM) 
+Voters with disabilities may request a remote accessible vote-by-mail ballot. You can use this ballot at home with your own computer and assistive technologies, then print the ballot and mail or drop it off. To learn more about using an accessible vote-by-mail ballot, [click here.](https://elections.co.kern.ca.us/VotebyMail/RAVBM)
 
 For more information about accessible voting in Kern County, call (661) 868-3590 or view the Kern County Elections Office [voters with disabilities page](https://elections.co.kern.ca.us/Voting/AccessibleVoting).  
 
