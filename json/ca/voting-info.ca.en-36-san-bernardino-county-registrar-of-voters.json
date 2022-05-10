@@ -6,7 +6,7 @@
             "important-dates-deadlines": [],
             "more-voting-info": [
                "---\ntitle: \"More voting info section title\"\npublished: false\nweight: -10\nsection: \"more-voting-info\"\npriority: \"Minor\"\n---\n\n",
-               "---\ntitle: \"Be an Election Day poll worker in San Bernardino County\"\npublished: true\nweight: 2\nsection: \"more-voting-info\"\npriority: \"Minor\"\n---\n\nCheck out this great opportunity to help your community while earning extra money: be an Poll Worker in [San Bernardino County](https://www.sbcountyelections.com/ElectionWorkers.aspx)!  \n\nSan Bernadino County also seeks bilingual poll workers fluent in Chinese, Korean, Spanish, Tagalog, or Vietnamese. "
+               "---\ntitle: \"Be an Election Day poll worker in San Bernardino County\"\npublished: true\nweight: 2\nsection: \"more-voting-info\"\npriority: \"Minor\"\n---\n\nCheck out this great opportunity to help your community while earning extra money: be an Poll Worker in [San Bernardino County](https://sbcountyelections.com/election-workers/)!  \n"
             ],
             "my-polling-place": [],
             "my-rights-as-a-voter": [],
