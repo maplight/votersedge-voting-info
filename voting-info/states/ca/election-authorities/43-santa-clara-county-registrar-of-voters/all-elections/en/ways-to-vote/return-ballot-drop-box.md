@@ -18,6 +18,6 @@ priority: "Minor"
 
 On Election Day, all Vote Centers are open from 7 AM to 8 PM. Ballot Drop Boxes will also close at 8 PM. 
 
-Find a Ballot Drop Box or Vote Center on the [Secretary of State's website](https://caearlyvoting.sos.ca.gov/) or on the [Santa Clara County Elections Office website](https://eservices.sccgov.org/Rov?tab=do). 
+Find a Ballot Drop Box or Vote Center on the [Secretary of State's website](https://caearlyvoting.sos.ca.gov/) or on the [Santa Clara County Elections Office website](https://rovservices.sccgov.org/Home/IndexPost?selected=do). 
 
 For more information about Santa Clara County’s new Voter’s Choice elections visit the [Santa Clara Department of Elections Office](https://www.sccgov.org/sites/rov/VCA/Pages/home.aspx) online.  
