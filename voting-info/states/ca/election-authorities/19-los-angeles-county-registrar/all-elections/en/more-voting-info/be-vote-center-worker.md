@@ -25,3 +25,7 @@ Los Angeles County is seeking election workers who can speak any of the followin
 - Punjabi 
 - Urdu 
 - Farsi
+
+You can also apply to be an Election Worker by mail or in person using the application available at the [Los Angeles County Website](https://lavote.gov/home/voting-elections/pollworker-information/become-an-election-worker).
+
+If you need Election Worker assistance, call (800) 815-2666, option 7.

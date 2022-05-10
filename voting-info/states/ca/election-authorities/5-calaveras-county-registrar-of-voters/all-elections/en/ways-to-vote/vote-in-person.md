@@ -20,7 +20,7 @@ Find your Vote Center locations and hours:
 
 - On the [Secretary of State's website](https://caearlyvoting.sos.ca.gov/) 
 
-- On the [Calaveras County Elections Office website](http://elections.calaverasgov.us/Next-Election/Presidential-Election/Where-to-Vote)   
+- On the [Calaveras County Elections Office website](https://elections.calaverasgov.us/Next-Election/June-Primary-Election/Where-to-Vote)   
 
 - By calling (209) 754-6376      
 

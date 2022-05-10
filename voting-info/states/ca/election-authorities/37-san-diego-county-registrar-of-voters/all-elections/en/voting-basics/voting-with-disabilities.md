@@ -6,7 +6,7 @@ section: "voting-basics"
 priority: "Minor"
 ---
 
-Please call the San Diego County Registrar of Voters (858) 565-5800 or TDD number (800) 735-2929 if you have questions about accessible voting in San Diego County. More information about accesibility can be found at the [Registrar of Voters' accessible voting website](https://www.sdvote.com/content/rov/en/outreach/accessible_voting.html)
+Please call the San Diego County Registrar of Voters (858) 565-5800 or TDD number (800) 735-2929 if you have questions about accessible voting in San Diego County. More information about accessibility can be found at the [Registrar of Voters' accessible voting website](https://www.sdvote.com/content/rov/en/outreach/accessible_voting.html)
 
 #### Accessible Voting Places   
 

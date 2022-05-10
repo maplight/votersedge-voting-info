@@ -22,6 +22,6 @@ Find your Vote Center locations and hours:
 
 - On the [Amador County Elections Office website](https://www.amadorgov.org/government/elections/vote-center-and-ballot-drop-off-locations)   
 
-- By calling 209-223-6465   
+- By calling (209) 223-6465   
 
-For more information about Amador County’s new Voter’s Choice elections visit the [Amador Department of Elections Office](https://www.amadorgov.org/government/elections/voter-s-choice-act) online.
+For more information about Amador County’s new Voter’s Choice elections visit the [Amador County Department of Elections Office](https://www.amadorgov.org/government/elections/voter-s-choice-act) online.

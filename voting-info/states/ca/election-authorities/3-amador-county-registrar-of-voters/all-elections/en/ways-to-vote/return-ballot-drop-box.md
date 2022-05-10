@@ -16,8 +16,8 @@ priority: "Minor"
 
 **Drop it off** at any Vote Center in Amador County.   
 
-On Election Day, all Vote Centers are open from 7 AM to 8 PM. Ballot Drop Boxes will also close at 8 PM. 
+Vote Centers will be open 3 days before the election through Election Day. All Vote Centers are open from 7 AM to 8 PM. Ballot Drop Boxes will also close at 8 PM. 
 
 Find a Ballot Drop Box or Vote Center on the [Secretary of State's website](https://caearlyvoting.sos.ca.gov/) or on the [Amador County Elections Office website](https://www.amadorgov.org/government/elections/vote-center-and-ballot-drop-off-locations). 
 
-For more information about Amador County’s new Voter’s Choice elections visit the [Amador Department of Elections Office](https://www.amadorgov.org/government/elections/voter-s-choice-act) online.  
+For more information about Amador County’s new Voter’s Choice elections visit the [Amador County Department of Elections Office](https://www.amadorgov.org/government/elections/voter-s-choice-act) online.  
