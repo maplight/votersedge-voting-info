@@ -18,6 +18,6 @@ priority: "Minor"
 
 On Election Day, all Vote Centers are open from 7 AM to 8 PM. Ballot Drop Boxes will also close at 8 PM. 
 
-Find a Ballot Drop Box or Vote Center on the [Secretary of State's website](https://caearlyvoting.sos.ca.gov/) or on the [Tuolumne County Elections Office website](https://www.tuolumnecounty.ca.gov/DocumentCenter/View/15108/2020-09-04-EAP-Tuolumne-Supplemental-Draft-COVID-19) on page 9. 
+Find a Ballot Drop Box or Vote Center on the [Secretary of State's website](https://caearlyvoting.sos.ca.gov/) or on the [Tuolumne County Elections Office website](https://www.tuolumnecounty.ca.gov/DocumentCenter/View/21797/VC-and-BD-Locations-Handout). 
 
 For more information about Tuolumne County’s new Voter’s Choice elections visit the [Tuolumne Department of Elections Office](https://www.tuolumnecounty.ca.gov/194/Election-Information) online.  
