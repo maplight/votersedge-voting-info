@@ -27,4 +27,4 @@ All polling places provide large-print instructions, optical magnifiers, and pen
 
 #### Accessible Vote by Mail
 
-Voters with disabilities may request a remote accessible vote-by-mail ballot (RAVBM). You can use this ballot at home with your own computer and assistive technologies, then print the ballot and mail or drop it off. To sign up for RAVBM, please click [here](https://recorder.countyofventura.org/remote-accessible-vote-by-mail-ravbm/), orcall (805) 654-2664, or email [VenturaVoterRegistration@ventura.org](mailto:VenturaVoterRegistration@ventura.org).
+Voters with disabilities may request a remote accessible vote-by-mail ballot (RAVBM). You can use this ballot at home with your own computer and assistive technologies, then print the ballot and mail or drop it off. To sign up for RAVBM, please click [here](https://recorder.countyofventura.org/remote-accessible-vote-by-mail-ravbm/), call (805) 654-2664, or email [VenturaVoterRegistration@ventura.org](mailto:VenturaVoterRegistration@ventura.org).
