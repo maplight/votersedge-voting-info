@@ -18,6 +18,6 @@ priority: "Minor"
 
 On Election Day, all Vote Centers are open from 7 AM to 8 PM. Ballot Drop Boxes will also close at 8 PM.  
 
-Find a Ballot Drop Box or Vote Center on the [Secretary of State's website](https://caearlyvoting.sos.ca.gov/) or on the [Mariposa County Elections Office website](http://www.mariposacounty.org/758/Vote-by-Mail-Ballot-Lookup). 
+Find a Ballot Drop Box or Vote Center on the [Secretary of State's website](https://caearlyvoting.sos.ca.gov/) or on the [Mariposa County Elections Office website](http://www.mariposacounty.org/758/Vote-by-Mail-Ballot-Lookup). Call the Mariposa County Elections Office at 209-966-2007 or 866-607-8241.
 
 For more information about Mariposa County’s new Voter’s Choice elections visit the [Mariposa Department of Elections Office](https://www.mariposacounty.org/2317/Voters-Choice-Act-VCA) online.  

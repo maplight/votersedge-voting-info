@@ -8,7 +8,7 @@ priority: "Minor"
 
 You can request voter registration information, alternate language ballots, and spoken translation in Español/Spanish.
 
-You can request an alternate language ballot by [clicking here](https://sbvg.uocava.com/sanbenito/SelectLanguage.aspx) or by calling (800) 232-8682
+You can request an alternate language ballot by [clicking here](https://sbvg.uocava.com/sanbenito/SelectLanguage.aspx) or by calling (877) 777-4017
 
 Facsimile (non-official) ballots will be available in Spanish and Punjabi.
 
