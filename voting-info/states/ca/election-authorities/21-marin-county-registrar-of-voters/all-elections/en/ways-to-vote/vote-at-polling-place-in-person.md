@@ -10,7 +10,7 @@ Find your polling place:
 
 - In the [My Voting Location](#section-my-polling-place) section of this site.  
 
-- On the Marin County Elections Office's [Voter Dashboard](http://www.marincounty.org/depts/rv/voting-information/polling-places)  
+- On the Marin County Elections Office's [Voter Dashboard]([http://www.marincounty.org/depts/rv/voting-information/vote-centers])  
 
 - By calling (415) 473-6456  
 
