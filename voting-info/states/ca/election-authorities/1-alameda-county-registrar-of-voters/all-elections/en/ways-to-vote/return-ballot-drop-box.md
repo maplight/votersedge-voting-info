@@ -22,7 +22,7 @@ Find a Ballot Drop Box or Vote Center:
 
 - On the [Secretary of State's website](https://caearlyvoting.sos.ca.gov/) 
 
-- On the [Alameda County's Official Election Site](https://www.acgov.org/rov_app/pollinglist)   
+- On the [Alameda County's Official Election Site](https://www.acgov.org/rovapps/maps/ballotdropbox_map.htm)   
 
 - By calling (510) 272-6973
 
