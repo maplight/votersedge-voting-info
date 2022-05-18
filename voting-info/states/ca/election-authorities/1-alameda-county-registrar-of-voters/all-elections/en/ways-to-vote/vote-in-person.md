@@ -20,7 +20,7 @@ Find your Vote Center locations and hours:
 
 - On the [Secretary of State's website](https://caearlyvoting.sos.ca.gov/) 
 
-- On the [Alameda County's Official Election Site](https://www.acgov.org/rov_app/pollinglist)   
+- On the [Alameda County's Official Election Site](https://acgov.org/rov_app/vcalist)   
 
 - By calling (510) 272-6973
 

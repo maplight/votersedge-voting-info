@@ -1903,7 +1903,7 @@
             "email": "rov_outreach@acgov.org",
             "fax": "(510) 272-6982",
             "website": "http:\/\/www.acgov.org\/rov\/index.htm",
-            "polling_lookup": "https:\/\/www.acgov.org\/rov_app\/pollinglist",
+            "polling_lookup": "https:\/\/acgov.org\/rov_app\/vcalist",
             "ve_email": "CA-alm@votersedge.org"
         }, {
             "election_authority_id": "2",
@@ -2039,7 +2039,7 @@
             "email": "elections@edcgov.us",
             "fax": "(530) 626-5514",
             "website": "https:\/\/www.edcgov.us\/Government\/Elections",
-            "polling_lookup": "https:\/\/www.edcgov.us/Government/Elections/Pages/elections_main_info.aspx",
+            "polling_lookup": "https:\/\/www.edcgov.us\/Government\/Elections\/Pages\/elections_main_info.aspx",
             "ve_email": "CA-ed@votersedge.org"
         }, {
             "election_authority_id": "10",
@@ -2277,8 +2277,7 @@
             "email": "mcvotes@mendocinocounty.org",
             "fax": "(707) 463-6597",
             "website": "https:\/\/www.mendocinocounty.org\/government\/assessor-county-clerk-recorder-elections\/elections",
-            "polling_lookup": "https:\/\/www.mendocinocounty.org\/home\/showpublisheddocument\/44718\/637632444706270000",
-            "ve_email": "CA-mnd@votersedge.org"
+            "polling_lookup": "https:\/\/www.mendocinocounty.org\/home\/showpublisheddocument\/50621\/637864958730830000"
         }, {
             "election_authority_id": "24",
             "name": "Merced County Registrar of Voters",
@@ -2311,7 +2310,7 @@
             "email": "clerkelections@co.modoc.ca.us",
             "fax": "(530) 233-6666",
             "website": "http:\/\/www.co.modoc.ca.us\/departments\/elections",
-            "polling_lookup": "https:\/\/caearlyvoting.sos.ca.gov\/",
+            "polling_lookup": "https:\/\/www.co.modoc.ca.us\/departments\/elections\/current_election.php",
             "ve_email": "CA-mdc@votersedge.org"
         }, {
             "election_authority_id": "26",
@@ -2388,11 +2387,11 @@
             "ea_code": "CA-or",
             "is_county": "Yes",
             "address": "1300 South Grand Avenue, Bldg. C",
-            "address2": "P.O. Box 11298",
+            "address2": "",
             "city": "Santa Ana",
             "state": "CA",
             "zipcode": "92705",
-            "phone": "(714) 567-7556; 714-567-5100",
+            "phone": "(714) 567-7556",
             "email": "rovwebmaster@ocvote.gov",
             "fax": "(714) 567-7556",
             "website": "http:\/\/www.ocvote.com\/",
@@ -2447,7 +2446,7 @@
             "email": "rovweb@rivco.org",
             "fax": "(951) 486-7272",
             "website": "http:\/\/www.voteinfo.net\/",
-            "polling_lookup": "https:\/\/voteinfo.net\/elections/20210914/2021_09_14.asp",
+            "polling_lookup": "https:\/\/www.voteinfo.net\/Elections\/20220607\/docs\/Vote_Centers_June_2022.pdf",
             "ve_email": "CA-rv@votersedge.org"
         }, {
             "election_authority_id": "34",
@@ -2548,7 +2547,7 @@
             "phone": "(209) 468-2885; (800) 400-5009",
             "email": "registrar@sjgov.org",
             "fax": "(209) 468-2889",
-            "website": "https:\/\/www.sjgov.org\/department\/rov/",
+            "website": "https:\/\/www.sjgov.org\/department\/rov\/",
             "polling_lookup": "https:\/\/www.sjgov.org\/department\/rov\/voting",
             "ve_email": "CA-sj@votersedge.org"
         }, {
@@ -2634,7 +2633,7 @@
             "email": "info@votescount.com",
             "fax": "(831) 454-2445",
             "website": "http:\/\/www.votescount.com\/",
-            "polling_lookup": "https:\/\/sccgis.maps.arcgis.com\/apps\/webappviewer\/index.html?id=a25c3e9e324f45728aeaa677bb40d74a",
+            "polling_lookup": "https:\/\/www.votescount.us\/Home\/Elections\/June2022CaliforniaPrimaryElection\/VotingLocations.aspx",
             "ve_email": "CA-scz@votersedge.org"
         }, {
             "election_authority_id": "45",
@@ -2685,7 +2684,7 @@
             "email": "clerk.registrar@sisqvotes.org",
             "fax": "(530) 841-4110",
             "website": "https:\/\/www.co.siskiyou.ca.us\/elections",
-            "polling_lookup": "https:\/\/caearlyvoting.sos.ca.gov\/",
+            "polling_lookup": "https:\/\/www.co.siskiyou.ca.us\/sites\/default\/files\/fileattachments\/elections\/page\/24071\/ele_20220607_returningyourvotedmailballot.pdf",
             "ve_email": "CA-ss@votersedge.org"
         }, {
             "election_authority_id": "48",
@@ -2751,7 +2750,7 @@
             "zipcode": "95814",
             "phone": "(916) 653-6814",
             "email": "",
-            "fax": "(916) 653-6814",
+            "fax": "(916) 653-3214",
             "website": "https:\/\/www.sos.ca.gov\/elections\/",
             "polling_lookup": "https:\/\/www.sos.ca.gov\/elections\/polling-place\/",
             "ve_email": "california@votersedge.org"
@@ -2821,7 +2820,7 @@
             "email": "av1@tularecounty.ca.gov",
             "fax": "(559) 737-4498",
             "website": "https:\/\/tularecoelections.org\/elections\/",
-            "polling_lookup": "https:\/\/tularecoelections.org\/elections\/registrar-of-voters\/current-election-information\/june-7-2022-primary-election\/polling-place-ballot-drop-box-locations-lugares-de-votacion-y-ubicaciones-de-caja-de-entraga-boletas\/",
+            "polling_lookup": "https:\/\/tularecoelections.org\/elections\/registrar-of-voters\/current-election-information\/june-7-2022-primary-election\/",
             "ve_email": "CA-tlr@votersedge.org"
         }, {
             "election_authority_id": "55",
@@ -2855,7 +2854,7 @@
             "email": "elections@ventura.org",
             "fax": "(805) 648-9200",
             "website": "http:\/\/recorder.countyofventura.org\/elections\/",
-            "polling_lookup": "https:\/\/recorder.countyofventura.org\/september-14-2021-california-gubernatorial-recall-election-notice-of-in-person-voting-locations\/",
+            "polling_lookup": "https:\/\/recorder.countyofventura.org\/elections\/elections\/june-7-2022-statewide-direct-primary-election\/",
             "ve_email": "CA-vn@votersedge.org"
         }, {
             "election_authority_id": "57",
