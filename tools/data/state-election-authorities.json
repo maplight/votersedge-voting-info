@@ -10,13 +10,13 @@
     "city": "Sacramento",
     "state": "CA",
     "zipcode": "95814",
-    "phone": "916-657-2166",
+    "phone": "(916) 653-6814",
     "email": "",
-    "fax": "(916) 653-6814",
+    "fax": "(916) 653-3214",
     "website": "http://www.sos.ca.gov/",
     "polling_lookup": "",
     "ve_email": "California@votersedge.org"
-  }, 
+  },
   "ny": {
     "election_authority_id": "229",
     "name": "New York State Board of Elections",
@@ -34,7 +34,7 @@
     "website": "http://www.elections.ny.gov/",
     "polling_lookup": "",
     "ve_email": "NewYork@votersedge.org"
-  }, 
+  },
   "il": {
     "election_authority_id": "228",
     "name": "Illinois State Board of Elections",
