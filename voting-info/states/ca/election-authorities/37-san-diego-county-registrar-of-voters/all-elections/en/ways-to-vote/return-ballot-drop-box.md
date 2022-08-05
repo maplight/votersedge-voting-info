@@ -1,6 +1,6 @@
 ---
 title: "How do I return my ballot by Drop Box in San Diego County?"
-published: true
+published: false
 weight: 8
 section: "ways-to-vote"
 priority: "Minor"

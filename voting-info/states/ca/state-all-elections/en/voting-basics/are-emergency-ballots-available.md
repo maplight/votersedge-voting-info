@@ -24,5 +24,5 @@ Make a written request. Your [county elections office](#section-election-office-
 
 Or, if you are able, you can go to your [county elections office](#section-election-office-contact) during open hours and [vote early in person.](#menu-item-vote-early-in-person)  
 
-For more information and sample requests, visit [Disability Rights California](https://www.disabilityrightsca.org/system/files/file-attachments/541701.pdf).
+For more information and sample requests, visit [Disability Rights California](https://www.disabilityrightsca.org/publications/how-can-i-vote-if-i-cannot-vote-in-person-due-to-a-medical-emergency).
 

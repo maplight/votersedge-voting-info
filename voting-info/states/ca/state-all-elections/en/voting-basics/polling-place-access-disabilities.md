@@ -22,7 +22,7 @@ Before each election, registered voters are notified as to whether or not their 
 
 **Signing in at the polling place**  
 
-[You can vote even if you can't sign your name](http://www.disabilityrightsca.org/pubs/547301.pdf)!  
+[You can vote even if you can't sign your name](https://www.disabilityrightsca.org/publications/you-can-vote-even-if-you-cant-sign-your-name)!  
 
 **Accessible voting machines**  
 

@@ -1,6 +1,6 @@
 ---
 title: "How do I vote in person in Los Angeles County?"
-published: true
+published: false
 weight: 9
 section: "ways-to-vote"
 priority: "Minor"
