@@ -1,5 +1,5 @@
 ---
-title: "Big changes in 27 Voter's Choice counties"
+title: "Big Changes in 27 Voter's Choice Counties"
 published: true
 weight: 1
 section: "voting-basics"
@@ -29,9 +29,9 @@ You can vote in person by visiting any Vote Center in your county. At every Vote
 
 #### When Vote Centers Are Open
 
-All Vote Centers will be open for at least 4 days before Election Day. For the June 7 Primary, this means all Vote Centers will be open from Saturday, June 4, through Tuesday, June 7.
+All Vote Centers will be open for at least 3 days before Election Day. For the June 7 Primary, this means all Vote Centers will be open from Saturday, June 4, through Tuesday, June 7.
 
-Some Vote Centers will be open for 11 days before Election Day. For the June 7 Primary, some Vote Centers will open starting Saturday, May 28.
+Some Vote Centers will be open for 10 days before Election Day. For the June 7 Primary, some Vote Centers will open starting Saturday, May 28.
 
 **[Find a Ballot Drop Box location or Vote Center.](https://caearlyvoting.sos.ca.gov/)**
 
@@ -51,6 +51,6 @@ Voters with disabilities may request a remote accessible vote-by-mail ballot. Yo
 
 The Voter’s Choice Act is designed to make voting more convenient and accessible.  
 - You choose **how** you vote: Whether using the mail, a Ballot Drop Box, or a Vote Center, you choose the method that works best for you. Voters with disabilities may use their own accessible technology to mark their ballot at home.  
-- You choose **when** you vote: Instead of just one day to vote, you can vote in person for up to 11 days before the election—even on the weekends.  
+- You choose **when** you vote: Instead of just one day to vote, you can vote in person for up to 10 days before the election, even on the weekends.  
 - You choose **where** you vote: You can vote at home or at any Vote Center location in your county.  
 - You get the **support** you need: Vote Center staff will be there to help you have a great voting experience, including providing assistance in multiple languages and helping voters with disabilities.  

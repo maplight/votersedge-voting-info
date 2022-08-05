@@ -27,17 +27,30 @@ For more voting information in English and Spanish, visit [¡Ve y Vota!](https:/
 
 **Punjabi: (408)-320-7454**
 
-Download **[Know Your Voting Rights](https://www.advancingjustice-alc.org/know-your-voting-rights/)** in:
-- English - [Language Assistance for California Voters](https://www.advancingjustice-alc.org/wp-content/uploads/2021/08/Language-Access-September-2021.pdf)
-- عربى - Arabic - [ المساعدة اللغوية للناخبين في كاليفورنيا](https://www.advancingjustice-alc.org/wp-content/uploads/2021/08/Arabic-Language-Access-Flyer-Sept-2021.docx.pdf)
-- 中文 - Chinese-Simplified - [為加州選民提供的語言協助](https://www.advancingjustice-alc.org/wp-content/uploads/2021/08/Chinese-Simplified-Language-Access-Flyer-Sept-2021.pdf)
-- 中文 – Chinese Traditional - [为加州选民提供的语言协助](https://www.advancingjustice-alc.org/wp-content/uploads/2021/08/Chinese-Traditional-Language-Access-Flyer-Sept-2021.docx.pdf) 
-- ខ្មែរ – Khmer - [ជំនួយផ្នកភាសាសមប់អ្នកបោះឆ្នតក្នុងរដ្ឋCalifornia](https://www.advancingjustice-alc.org/wp-content/uploads/2021/08/Final-Khmer-Language-Access-Flyer-Sept-2021.pdf) 
-- 한국어 – Korean - [캘리포니아주 유권자 언어 지원](https://www.advancingjustice-alc.org/wp-content/uploads/2021/08/Korean-Language-Access-Flyer-Sept-2021.pdf)
-- ਪੰਜਾਬੀ – Punjabi - [ਕੈਲੀਫੋਰਨੀਆ ਦੇਵੋਟਰਾਂ ਦੀ ਵੱਖੋ-ਵੱਖਰੀਆਂ ਭਾਸ਼ਾਵਾਂ ਵਿੱਚ ਮਦਦ](https://www.advancingjustice-alc.org/wp-content/uploads/2021/08/Punjabi-Language-Access-Flyer-Sept-2021.docx.pdf)  
-- Tagalog - [Tulong sa Wika para sa mga Botante ng California](https://www.advancingjustice-alc.org/wp-content/uploads/2021/08/Tagalog-Language-Access-Flyer-Sept-2021.docx.pdf)
-- Tiếng Việt – Vietnamese - [Hỗ trợ ngôn ngữ cho cử tri ở California](https://www.advancingjustice-alc.org/wp-content/uploads/2021/08/Vietnamese-Language-Access-Flyer-Sept-2021.docx.pdf)
+Download **[Know Your Voting Rights](https://www.advancingjustice-alc.org/news-resources/guides-reports/know-your-voting-rights)** in:
+- English - [Language Assistance for California Voters](https://www.advancingjustice-alc.org/media/Language-Access-Flyer-June-2022-English.pdf)
 
+**How To Vote**
+- [如何投票 (简体) / Chinese - Simplified](https://www.advancingjustice-alc.org/media/How-to-Vote-June-2022-Chinese-Simplified.pdf)
+- [如何投票 (繁体) / Chinese - Traditional](https://www.advancingjustice-alc.org/media/How-to-Vote-June-2022-Chinese-Traditional.pdf)
+- [Paano Bumoto / Filipino/Tagalog](https://www.advancingjustice-alc.org/media/How-to-Vote-June-2022-FilipinoTagalog.pdf)
+- [Yuav Pov Npav lis Cas / Hmong](https://www.advancingjustice-alc.org/media/How-to-Vote-June-2022-Hmong.pdf)
+- [របៀបបោះឆ្នោតក្នុងការបោះ / Khmer](https://www.advancingjustice-alc.org/media/How-to-Vote-June-2022-Khmer.pdf)
+- [예비 선거 방법 / Korean](https://www.advancingjustice-alc.org/media/How-to-Vote-June-2022-Korean.pdf)
+- [ວິທີລົງຄະແນນໃນການ / Lao](https://www.advancingjustice-alc.org/media/How-to-Vote-June-2022-Lao.pdf)
+- [Cách Bỏ Phiếu / Vietnamese](https://www.advancingjustice-alc.org/media/How-to-Vote-June-2022-Vietnamese.pdf)
+- [ਕੈਲੀਫੋਰਨੀਆ ਦੀਆਂ 2022 ਦੀਆਂ ਪ੍ਰਾਇਮਰੀ ਚੋਣਾਂ ਵਿੱਚ ਵੋਟ ਕਿਵੇਂ ਪਾਈਏ / Punjabi](https://www.advancingjustice-alc.org/media/How-to-Vote-June-2022-Punjabi.pdf)
+
+**Language Access**
+- [加州选民的语言协助(简体) / Chinese - Simplified](https://www.advancingjustice-alc.org/media/Language-Access-June-2022-Chinese-Simplified.pdf)
+- [加州選民的語言協助 / Chinese - Traditional](https://www.advancingjustice-alc.org/media/Language-Access-June-2022-Chinese-Traditional.pdf)
+- [Tulong sa Lengguwahe/Wika para sa mga Botanteng Taga-California / Filipino/Tagalog](https://www.advancingjustice-alc.org/media/Language-Access-June-2022-FilipinoTagalog.pdf)
+- [Kev Pab Txhais Lus rau California Cov Neeg Pov Npab / Hmong](https://www.advancingjustice-alc.org/media/Language-Access-June-2022-Hmong.pdf)
+- [ជំនួយភាសាសម្រាប់អ្នកបោះឆ្នោត California / Khmer](https://www.advancingjustice-alc.org/media/Language-Access-June-2022-Khmer.pdf)
+- [캘리포니아 유권자를 위한 언어 지원 / Korean](https://www.advancingjustice-alc.org/media/Language-Access-June-2022-Korean.pdf)
+- [ການຊ່ວຍເຫຼືອດ້ານພາສາສຳລັບຜູ້ລົງຄະແນນໃນ California / Lao](https://www.advancingjustice-alc.org/media/Language-Access-June-2022-Lao.pdf)
+- [Hỗ Trợ Ngôn Ngữ Cho Cử Tri California / Vietnamese](https://www.advancingjustice-alc.org/media/Language-Access-June-2022-Vietnamese.pdf)
+- [ਕੈਲੀਫੋਰਨੀਆ ਦੇ ਵੋਟਰਾਂ ਲਈਭਾਸ਼ਾ ਸਹਾਇਤਾ / Punjabi](https://www.advancingjustice-alc.org/media/Language-Access-June-2022-Punjabi.pdf)
 
 Check [here](http://www.866ourvote.org/) for more information about Election Protection.
 

@@ -12,5 +12,5 @@ priority: "Minor"
 - Your choice to register with no party preference may affect your ability to vote in a **March Primary Election** for U.S. President and County Central Committees, but you will still be able to vote for other offices and measures on the ballot. 
 - You may register with no party preference and still vote for any candidate on the ballot in the **November General Election.** 
 
-For more information, check [How California Primary Elections Work: The Top-Two System](https://drive.google.com/file/d/1CEBwYN-3cKr7R8A-DZTQGXfyG7dNjYyk/view).
+For more information, check [How California Primary Elections Work: The Top-Two System](https://drive.google.com/file/d/1F-iGr1zRqxffrt2UMB4Ha0RjOmpDq_E8/view).
 

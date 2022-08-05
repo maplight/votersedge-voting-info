@@ -24,7 +24,7 @@ The California Secretary of State has approved several voting systems for use th
 
 **Remote accessible vote-by-mail** (RAVBM) systems provide an accessible option for voters with disabilities to receive their ballots at home and mark them independently and privately before sending them back to elections officials. Contact your County Elections Office for more information. You can also read more about remote accessible vote-by-mail on the [Disability Rights California website](https://www.disabilityrightsca.org/publications/many-voters-with-disabilities-can-vote-by-mail-privately-and-independently).  
 
-For more information check [How do I vote if I have disabilities?](#menu-item-how-do-i-vote-if-i-have-disabilities) or visit [Disability Rights California](https://www.disabilityrightsca.org/resources/voting). To learn more about the rights of voters with mental disabilities, read [this guide prepared by the Bazelon Center for Mental Health Law](http://www.bazelon.org/wp-content/uploads/2018/10/2018-Voter-Guide-plain-language-Updated.pdf).
+For more information check [How do I vote if I have disabilities?](#menu-item-how-do-i-vote-if-i-have-disabilities) or visit [Disability Rights California](https://www.disabilityrightsca.org/resources/voting). To learn more about the rights of voters with mental disabilities, read [this guide prepared by the Bazelon Center for Mental Health Law](https://secureservercdn.net/198.71.233.111/d25.2ac.myftpupload.com/wp-content/uploads/2020/10/Bazelon-2020-Voter-Guide-Full.pdf).
 
 Disability Rights California operates a **Voting Hotline to assist Voters with Disabilities**. Please feel free to call for assistance: 1-888-569-7955.
 

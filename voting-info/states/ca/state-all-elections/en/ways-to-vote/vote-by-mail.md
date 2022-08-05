@@ -31,4 +31,4 @@ You can assign anyone to drop off your ballot at a voting location on Election D
 
 **NEW - Track your Ballot!** Sign up at [wheresmyballot.sos.ca.gov](https://california.ballottrax.net/voter/) or call 800-345-VOTE (8683) to find out where your ballot is in the process and when it has been accepted. 
 
-Watch [How to Return Your Completed Vote-by-Mail Ballot](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DhFH3YZrhBag%26feature%3Dyoutu.be&sa=D&ust=1576113195433000&usg=AFQjCNGr5kb0Ft2GLwC551ertzTHTcQlHg).
+Watch [How to Return Your Completed Vote-by-Mail Ballot](https://www.youtube.com/watch?v=mP7n6QIW87Q&ab_channel=CaliforniaSOS).
