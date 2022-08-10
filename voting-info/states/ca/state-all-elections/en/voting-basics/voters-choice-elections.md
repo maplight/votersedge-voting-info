@@ -29,9 +29,9 @@ You can vote in person by visiting any Vote Center in your county. At every Vote
 
 #### When Vote Centers Are Open
 
-All Vote Centers will be open for at least 3 days before Election Day. For the June 7 Primary, this means all Vote Centers will be open from Saturday, June 4, through Tuesday, June 7.
+All Vote Centers will be open for at least 3 days before Election Day. For the November 8 General, this means all Vote Centers will be open from Saturday, November 5, through Tuesday, November 8.
 
-Some Vote Centers will be open for 10 days before Election Day. For the June 7 Primary, some Vote Centers will open starting Saturday, May 28.
+Some Vote Centers will be open for 10 days before Election Day. For the November 8 General, some Vote Centers will open starting Saturday, October 29.
 
 **[Find a Ballot Drop Box location or Vote Center.](https://caearlyvoting.sos.ca.gov/)**
 
