@@ -5,11 +5,11 @@ weight: 2
 section: "important-dates-deadlines"
 priority: "Minor"
 ---
-In order to vote in the June 7 Primary Election, you must register to vote **no later than Monday, May 23.** 
+In order to vote in the November 8 General Election, you must register to vote **no later than Monday, October 24.** 
 
 It is important that your voter registration application be filled out completely and:  
-- Submitted online no later than midnight on Monday, May 23
-- **OR** postmarked or hand-delivered to your county elections office by Monday, May 23.
+- Submitted online no later than midnight on Monday, October 24
+- **OR** postmarked or hand-delivered to your county elections office by Monday, October 24.
 
 Even if you missed the voter registration deadline, it isn't too late to vote. With [Same-Day Voter Registration](#menu-item-missed-the-voter-registration-deadline-you-can-still-register-and-vote), you can register up to and on Election Day. 
 

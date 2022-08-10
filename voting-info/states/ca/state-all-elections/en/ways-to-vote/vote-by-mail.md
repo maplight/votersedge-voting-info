@@ -26,8 +26,8 @@ You can assign anyone to drop off your ballot at a voting location on Election D
 **Return your ballot early**.
 
 **If you mail your ballot back, don’t delay.**  
-- Your completed vote-by-mail ballot must be **postmarked** on or before **Tuesday, June 7.**
-- Once mailed and postmarked, the ballot must be **received** by the elections office **no later than Tuesday, June 14.**
+- Your completed vote-by-mail ballot must be **postmarked** on or before **Tuesday, November 8.**
+- Once mailed and postmarked, the ballot must be **received** by the elections office **no later than Tuesday, November 15.**
 
 **NEW - Track your Ballot!** Sign up at [wheresmyballot.sos.ca.gov](https://california.ballottrax.net/voter/) or call 800-345-VOTE (8683) to find out where your ballot is in the process and when it has been accepted. 
 

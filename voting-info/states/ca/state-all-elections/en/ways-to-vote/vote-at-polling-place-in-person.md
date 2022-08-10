@@ -13,8 +13,7 @@ At in-person Voting Locations you can:
 - Get help and voting materials in multiple languages.
 
 **How do I vote at the polling place or vote center in person?**  
-
-- Polling places are open from 7 AM to 8 PM on Tuesday, June 7.  
+- Polling places are open from 7 AM to 8 PM on Tuesday, November 8.   
 
 - Early voting, starting before Election Day, will be available in some locations. Find Early Voting and Ballot Dropbox locations at [caearlyvoting.sos.ca.gov](https://caearlyvoting.sos.ca.gov/).
 

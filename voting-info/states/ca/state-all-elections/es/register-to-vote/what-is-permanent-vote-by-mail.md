@@ -1,6 +1,6 @@
 ---
 title: "¿Qué es un votante de voto por correo permanente?"
-published: true
+published: false
 weight: 9
 section: "register-to-vote"
 priority: "Minor"
