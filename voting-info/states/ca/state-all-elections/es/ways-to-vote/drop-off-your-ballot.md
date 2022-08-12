@@ -13,5 +13,5 @@ Si decide entregar en persona su boleta electoral en lugar de enviarla por corre
 - Algunos condados también ofrecerán buzones seguros para boletas electorales. 
 Para obtener más información y consultar los lugares de votación, visite [caearlyvoting.sos.ca.gov](https://caearlyvoting.sos.ca.gov/).
 
-Vea [Cómo devolver su boleta electoral para voto por correo marcada](https://www.youtube.com/watch?v=hFH3YZrhBag&feature=youtu.be)
+Vea [Cómo devolver su boleta electoral para voto por correo marcada](https://www.youtube.com/watch?v=mP7n6QIW87Q)
 

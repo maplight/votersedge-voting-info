@@ -23,5 +23,5 @@ Haga una solicitud por escrito. Su [oficina electoral del condado](#section-elec
 
 O, si le es posible, puede acudir a su [oficina electoral del condado](#section-election-office-contact) durante las horas de apertura y [votar de manera temprana en persona](#menu-item-voto-temprano-en-persona).  
 
-Para más información y solicitudes de muestra, visite [Disability Rights California](https://www.disabilityrightsca.org/system/files/file-attachments/541701.pdf).
+Para más información y solicitudes de muestra, visite [Disability Rights California](https://www.disabilityrightsca.org/publications/how-can-i-vote-if-i-cannot-vote-in-person-due-to-a-medical-emergency).
 

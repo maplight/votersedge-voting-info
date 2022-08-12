@@ -53,4 +53,4 @@ You can also download your **California Voter Bill of Rights** from the Secretar
 [Thai](http://elections.cdn.sos.ca.gov/voter-bill-of-rights/thai.pdf)  
 [Vietnamese](http://elections.cdn.sos.ca.gov/voter-bill-of-rights/vietnamese.pdf)  
 
-[Declaración De Derechos De Los Votantes De California](https://www.youtube.com/watch?v=WQOtsjrOml4)  
+[Declaración De Derechos De Los Votantes De California](https://www.youtube.com/watch?v=aPqYgzY3m_4)  
