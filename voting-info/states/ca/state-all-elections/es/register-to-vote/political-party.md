@@ -12,5 +12,5 @@ priority: "Minor"
 - Su elección de no inscribirse con una preferencia por algún partido político puede afectar su capacidad de votar en la **Elección primaria de marzo** para la presidencia de los Estados Unidos y los Comités Centrales del Condado, pero aún podrá votar por otros cargos y las iniciativas de ley en la boleta electoral. 
 - Podrá inscribirse sin preferencia por algún partido político y, aun así, podrá votar por cualquier candidato en la boleta electoral en la **Elección general de noviembre**. 
 
-Para obtener más información, consulte [Cómo funcionan las elecciones primarias de California: Los dos sistemas principales](https://drive.google.com/file/d/0B1gLDDkIXRfEa0tSX3ZIUkV0WU1TbmIxYWpoQWMtZkJvV19N/view).
+Para obtener más información, consulte [Cómo funcionan las elecciones primarias de California: Los dos sistemas principales](https://drive.google.com/file/d/1F-iGr1zRqxffrt2UMB4Ha0RjOmpDq_E8/view).
   

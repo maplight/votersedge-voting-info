@@ -22,7 +22,7 @@ Antes de cada elección, los votantes inscritos reciben una notificación sobre 
 
 **Firmar en el lugar de votación**  
 
-¡[Puede votar incluso si no puede firmar con su nombre](http://www.disabilityrightsca.org/pubs/547301.pdf)! 
+¡[Puede votar incluso si no puede firmar con su nombre](https://www.disabilityrightsca.org/publications/you-can-vote-even-if-you-cant-sign-your-name)! 
 
 **Máquinas de votación accesible**  
 

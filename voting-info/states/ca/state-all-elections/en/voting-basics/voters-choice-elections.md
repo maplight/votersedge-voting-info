@@ -25,7 +25,7 @@ You can vote in person by visiting any Vote Center in your county. At every Vote
 - Drop off your completed ballot.  
 - Vote with an accessible voting machine.   
 - Get help and voting materials in multiple languages.  
-- Register and vote even after the registration deadline has passed, including on Election Day, Tuesday, June 7.   
+- Register and vote even after the registration deadline has passed, including on Election Day, Tuesday, November 8.   
 
 #### When Vote Centers Are Open
 

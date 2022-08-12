@@ -31,4 +31,4 @@ Puede pedir a cualquier persona que entregue su boleta electoral en un lugar de 
 
 **NUEVA OPCIÓN - ¡Rastree su boleta electoral!** Regístrese en [wheresmyballot.sos.ca.gov](https://california.ballottrax.net/voter/) o llame al 800-345-VOTE (8683) para saber en qué parte del proceso está su boleta electoral y cuándo se aceptó. 
 
-Vea [Cómo devolver su boleta electoral para voto por correo marcada](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DhFH3YZrhBag%26feature%3Dyoutu.be&sa=D&ust=1576113195433000&usg=AFQjCNGr5kb0Ft2GLwC551ertzTHTcQlHg). 
+Vea [Cómo devolver su boleta electoral para voto por correo marcada](https://www.youtube.com/watch?v=mP7n6QIW87Q). 

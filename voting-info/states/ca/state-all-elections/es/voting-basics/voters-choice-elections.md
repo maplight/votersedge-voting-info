@@ -34,9 +34,9 @@ Puede votar en persona acudiendo a cualquier Centro de Votación en su condado. 
 
 #### CUÁNDO ESTARÁN ABIERTOS LOS CENTROS DE VOTACIÓN   
 
-Todos los Centros de Votación estarán abiertos al menos 4 días antes del día de las elecciones. Esto significa que, para las elecciones primarias del 7 de junio, todos los Centros de Votación se abrirán desde el sábado 4 de junio hasta el martes 7 de junio.   
+Todos los Centros de Votación estarán abiertos al menos 3 días antes del día de las elecciones. Esto significa que, para las elecciones primarias del 7 de junio, todos los Centros de Votación se abrirán desde el sábado 4 de junio hasta el martes 7 de junio.   
 
-Algunos Centros de Votación estarán abiertos desde 11 días antes del día de las elecciones. Para las elecciones primarias del 7 de junio, algunos Centros de Votación abrirán a partir del sábado 28 de mayo.   
+Algunos Centros de Votación estarán abiertos desde 10 días antes del día de las elecciones. Para las elecciones primarias del 7 de junio, algunos Centros de Votación abrirán a partir del sábado 28 de mayo.   
 
 **[Busque un Centro de Votación o la ubicación de un buzón para boletas electorales.](https://caearlyvoting.sos.ca.gov/)**  
 
@@ -56,6 +56,6 @@ Los votantes con discapacidades pueden solicitar una boleta electoral para voto 
 
 La nueva Ley de Votación Flexible se diseñó para que votar sea más práctico y accesible.  
 - Usted elige **CÓMO** votar: ya sea por correo, en un buzón para boletas electorales o en un Centro de Votación, usted elige el método que le funcione mejor. Los votantes con discapacidades podrán utilizar su propia tecnología de accesibilidad para llenar su boleta en casa.  
-- Usted elige **CUÁNDO** votar: en lugar de disponer de un solo día para votar, puede hacerlo en persona hasta 11 días antes de las elecciones, incluso en fines de semana.  
+- Usted elige **CUÁNDO** votar: en lugar de disponer de un solo día para votar, puede hacerlo en persona hasta 10 días antes de las elecciones, incluso en fines de semana.  
 - Usted elige **DÓNDE** votar: puede votar en casa o en cualquier Centro de Votación de su condado.  
 - Usted recibe la **AYUDA** que necesita: el personal del Centro de Votación estará disponible para ayudarle a tener una gran experiencia de votación. Esto incluye ofrecer asistencia en diversos idiomas y ayudar a los votantes con discapacidades.  
