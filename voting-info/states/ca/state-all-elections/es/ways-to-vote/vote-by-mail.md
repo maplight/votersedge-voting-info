@@ -26,8 +26,8 @@ Puede pedir a cualquier persona que entregue su boleta electoral en un lugar de 
 **Devuelva su boleta electoral con anticipación**.
 
 **No se demore si envía su boleta electoral por correo.**  
-- Su boleta electoral para voto por correo marcada debe tener un **matasellos** del Servicio Postal de Estados Unidos con fecha del **día de las elecciones, martes 7 de junio de 2022, o una fecha anterior.**
-- Una vez que se envíe por correo y se mataselle, la boleta electoral deberá **recibirse** en la oficina electoral **a más tardar el viernes 14 de junio de 2022.**
+- Su boleta de votación-por-correo completa  **debe estar sellada** con la fecha del **martes 8 de noviembre" o antes.
+- Una vez enviada por correo y sellada, la boleta debe ser **recibida** por la oficina electoral **no más tarde del martes 15 de noviembre.**
 
 **NUEVA OPCIÓN - ¡Rastree su boleta electoral!** Regístrese en [wheresmyballot.sos.ca.gov](https://california.ballottrax.net/voter/) o llame al 800-345-VOTE (8683) para saber en qué parte del proceso está su boleta electoral y cuándo se aceptó. 
 

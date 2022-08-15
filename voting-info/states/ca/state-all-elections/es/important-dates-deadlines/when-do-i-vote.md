@@ -7,17 +7,17 @@ priority: "Minor"
 ---
 
 #### **Antes del día de las elecciones**
-> Tanto la **votación por correo** como **la votación anticipada en persona** comienza _el lunes 9 de mayo de 2022_.
+> Tanto la **votación por correo** como la **votación temprano-en-persona** comienzan el lunes 10 de octubre de 2022. (Tenga en cuenta que algunas oficinas electorales del condado estarán cerradas el 10 de octubre por ser un día feriado estatal.)
 
 #### **Por correo postal**
-> Desde el **lunes 9 de mayo** hasta el **día de las elecciones, el martes 7 de junio.** 
-> - Su boleta electoral para voto por correo completada deberá estar **sellada** el **día de las elecciones, el martes 7 de junio, o antes.**
-> - Una vez enviada por correo y sellada, la boleta electoral deberá **recibirse** en la oficina electoral **a más tardar el viernes 14 de junio.**
+> Desde el **lunes 10 de octubre*** hasta el **Día de la Elección, martes 8 de noviembre**.
+> - Su boleta de voto-por-correo completa debe estar **sellada** con la fecha del **Dia de la Elección, martes 8 de noviembre** o antes 
+> - Una vez sellada y enviada por correo, la boleta debe ser **recibida** por la oficina electoral **no más tarde del martes 15 de noviembre** 
 
 #### Votación temprana en persona  
-> Puede votar de manera temprana en la oficina electoral de su condado **a partir del lunes 9 de mayo**. Algunos condados tendrán más lugares de votación abiertos antes del día de las elecciones.  Consulte [caearlyvoting.sos.ca.gov](https://caearlyvoting.sos.ca.gov/) para conocer los lugares y los horarios.
+> Puede votar temprano en la Oficina de Elecciones de su condado desde el **lunes 10 de octubre** hasta el **lunes 7 de noviembre**. Algunos lugares de votación temprano también están abiertos hasta el Día de la Elección. (Tenga en cuenta que algunas oficinas electorales del condado estarán cerradas el 10 de octubre por un día feriado estatal.
 
 #### **El día de las elecciones**  
-> **El día de las elecciones**  **Martes 7 de junio**, desde las **7 a. m. hasta las 8 p. m.**
+> **Martes 8 de noviembre**, de **7 a.m. a 8 p.m.** 
 
 Para obtener información detallada, consulte la sección [Formas de votar](#section-ways-to-vote).  

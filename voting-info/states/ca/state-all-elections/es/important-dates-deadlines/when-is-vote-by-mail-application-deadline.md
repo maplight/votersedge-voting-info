@@ -5,7 +5,7 @@ weight: 2
 section: "important-dates-deadlines"
 priority: "Minor"
 ---
-Este año, cada votante inscrito recibirá una boleta electoral por correo, sin necesidad de enviar una solicitud. Sin embargo, si se inscribe para votar después del plazo del 23 de mayo y le gustaría votar por correo, es mejor que intente inscribirse **a más tardar el martes 31 de mayo de 2022** para que su oficina electoral pueda enviarle su boleta electoral a tiempo.
+Ahora, cada votante registrado recibe una boleta por correo sin necesidad de enviar una solicitud. Sin embargo, si se registra para votar después de la fecha límite del lunes 24 de octubre y desea votar por correo, es mejor intentar registrarse **no más tarde del 1 de noviembre** para permitir que su oficina electoral le envíe una boleta por correo a tiempo. También debe comunicarse con su oficina electoral para informarles que se registró tarde y desea que le envíen una boleta por correo.
 
 Para obtener información detallada, consulte [¿Cómo voto por correo?](#menu-item-vote-by-mail)  
 

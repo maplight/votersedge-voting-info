@@ -26,17 +26,17 @@ En cuanto reciba su boleta, podrá depositarla en cualquier buzón para boletas 
 #### 3. CENTRO DE VOTACIÓN  
 
 Puede votar en persona acudiendo a cualquier Centro de Votación en su condado. En todos los Centros de Votación, puede:  
-- votar en persona;  
-- depositar su boleta llenada;  
-- votar utilizando una máquina de votación accesible;   
-- recibir ayuda y obtener materiales de votación en diversos idiomas;  
-- inscribirse y votar incluso después de la fecha límite de inscripción; puede hacerlo también el día de las elecciones.  
+- Votar en persona;  
+- Depositar su boleta llenada;  
+- Votar utilizando una máquina de votación accesible;   
+- Recibir ayuda y obtener materiales de votación en diversos idiomas;  
+- Regístrese y vote incluso después de que haya pasado la fecha límite de registro, incluso el día de las elecciones, el martes 8 de noviembre. 
 
 #### CUÁNDO ESTARÁN ABIERTOS LOS CENTROS DE VOTACIÓN   
 
-Todos los Centros de Votación estarán abiertos al menos 3 días antes del día de las elecciones. Esto significa que, para las elecciones primarias del 7 de junio, todos los Centros de Votación se abrirán desde el sábado 4 de junio hasta el martes 7 de junio.   
+Todos los Centros de Votación estarán abiertos durante al menos 3 días antes del Día de la Elección. Para la General del 8 de noviembre, esto significa que todos los Centros de Votación estarán abiertos desde el sábado 5 de noviembre hasta el martes 8 de noviembre.
 
-Algunos Centros de Votación estarán abiertos desde 10 días antes del día de las elecciones. Para las elecciones primarias del 7 de junio, algunos Centros de Votación abrirán a partir del sábado 28 de mayo.   
+Algunos Centros de Votación estarán abiertos durante 10 días antes del Día de la Elección. Para la General del 8 de noviembre, algunos Centros de Votación abrirán a partir del sábado 29 de octubre.   
 
 **[Busque un Centro de Votación o la ubicación de un buzón para boletas electorales.](https://caearlyvoting.sos.ca.gov/)**  
 
