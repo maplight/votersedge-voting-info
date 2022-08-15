@@ -19,7 +19,7 @@ La firma de las personas cambia con el tiempo y por otras razones. Cuando use un
 **Si le pide a alguien como un miembro de su familia o un amigo que devuelva la boleta por usted,** esa persona también necesita firmar y fechar la boleta electoral, y mencionar su relación con usted.
 
 **¿Qué pasa si uso la firma incorrecta?**
-Si no firmó el sobre de su boleta electoral o usó la firma incorrecta, tendrá la oportunidad de hacer la corrección. La oficina electoral de su condado le informará que hubo un problema después de la elección. **Tendrá hasta el 5 de julio de 2022 para corregir cualquier problema con su firma.**
+Si no firmó el sobre de su boleta electoral o usó la firma incorrecta, tendrá la oportunidad de hacer la corrección. La oficina electoral de su condado le informará que hubo un problema después de la elección. **Tendrá hasta el 6 de diciembre de 2022 para corregir cualquier problema con su firma.**
 - Si usó la firma incorrecta, tendrá que presentar una declaración de verificación de la firma por correo postal, por correo electrónico, por fax o en persona. 
 - Si no firmó el sobre de su boleta electoral, tendrá que firmar el sobre en la oficina electoral de su condado o presentar una declaración por correo postal, por correo electrónico, por fax o en persona. 
 
