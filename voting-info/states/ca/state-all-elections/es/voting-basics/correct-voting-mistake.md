@@ -5,10 +5,12 @@ weight: 5
 section: "voting-info"
 priority: "Minor"
 ---
-**Dañé, perdí o marqué incorrectamente mi boleta electoral, ¿cómo corrijo esto?**
-- Puede obtener una boleta electoral nueva **en tanto que todavía no haya emitido (votado) su boleta electoral.**
-- **Si vota en un lugar de votación** solicite una boleta electoral nueva a un trabajador electoral.
-- **Si tiene su boleta electoral por correo,** puede regresarla y solicitar una boleta electoral nueva, ya sea en su [oficina electoral del condado](http://www.sos.ca.gov/elections/voting-resources/county-elections-offices/) o en un lugar de votación.  
-- **Si no tiene su boleta electoral por correo original,** puede votar usando una boleta electoral provisional.  
+**Dañé, perdí o marqué mi boleta incorrectamente. ¿Qué debo hacer para solucionar esto?**
 
-El procedimiento para corregir un error de votación cambia un poco si usted vive en uno de [los cinco condados en los que se aplica la Ley de Votación Flexible](#menu-item-¡cambios-importantes-en-los-condados-de-madera-napa-nevada-sacramento-y-san-mateo) (Madera, Napa, Nevada, Sacramento o San Mateo). Siempre y cuando usted todavía no haya votado, puede obtener una boleta regular en uno de los Centros de Votación sin necesidad de enviar su boleta electoral para voto por correo.   
+- Puede obtener una boleta nueva **siempre que no haya emitido (votado) su boleta.**
+- **Si vota en persona,** pídale a un trabajador electoral una boleta nueva.
+- **Si tiene su boleta de voto por correo,** puede entregarla y solicitar una boleta nueva, ya sea en su [oficina electoral del condado](#menu-item-contact-county-election-office) o en el lugar de votación. 
+- **Si no tiene su boleta original de voto por correo,** puede votar usando una boleta provisional.
+
+
+El proceso para corregir un error de votación es un poco diferente si vive en un condado [ de Votación Flexible](#menu-item-big-changes-in-27-voters-choice-counties). Siempre que no haya votado, puede obtener una boleta regular en un centro de votación sin entregar su boleta de voto por correo.  
