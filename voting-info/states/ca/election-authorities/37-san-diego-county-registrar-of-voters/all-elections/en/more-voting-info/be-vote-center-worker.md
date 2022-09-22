@@ -9,10 +9,13 @@ priority: "Minor"
 Check out this great opportunity to help your community while earning extra money: be a Vote Center Worker in [San Diego County](https://www.sdvote.com/pollworkers/)!  
 
 San Diego County also has a special need for bilingual poll workers fluent in the following languages:
+- Arabic
 - Chinese
 - Filipino
-- Spanish
-- Vietnamese
-- Arabic
 - Japanese
 - Korean
+- Laotian
+- Persian
+- Somali
+- Spanish
+- Vietnamese

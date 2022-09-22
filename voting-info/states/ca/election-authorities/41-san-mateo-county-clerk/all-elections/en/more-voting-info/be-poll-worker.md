@@ -1,6 +1,6 @@
 ---
 title: "Be a Vote Center Worker in San Mateo County"
-published: true
+published: false
 weight: 2
 section: "more-voting-info"
 priority: "Minor"

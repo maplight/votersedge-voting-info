@@ -10,6 +10,8 @@ Disability Rights California (DRC) will operate a [toll-free hotline](https://ww
 
 Watch the Center for Independence's video on [Why You Should Vote](https://www.youtube.com/watch?v=FIX1KFGIhvQ&t=2s).
 
+Learn more about making a plan for successful voting on the [Disability Rights California website](https://www.disabilityrightsca.org/publications/make-a-plan-for-successful-voting).
+
 **Accessible information**  
 
 The state [Official Voter Information Guide](http://voterguide.sos.ca.gov/) that is mailed to each registered voter is available in a downloadable MP3 [audio version](http://www.sos.ca.gov/elections/voting-resources/voters-disabilities/), audio cassettes, in American Sign Language, and in large print. You may call (800) 345-8683 to request these versions.  

@@ -10,6 +10,8 @@ Disability Rights California (DRC) tendrá una [línea directa gratuita](https:/
 
 Vea el video del Center for Independence sobre [Por qué debe votar](https://www.youtube.com/watch?v=FIX1KFGIhvQ&t=2s).
 
+Obtenga más información sobre cómo hacer un plan para votar con éxito en el [sitio web de Disability Rights California](https://www.disabilityrightsca.org/es/publications/planifique-una-votacion-exitosa).
+
 **Información accesible**  
 
 La [Guía Oficial de Información para el Votante](https://vig.cdn.sos.ca.gov/2020/primary/es/pdf/complete-vig.pdf) estatal que se envía por correo a cada votante inscrito está disponible en una versión descargable en MP3 [versión de audio](http://www.sos.ca.gov/elections/voting-resources/voters-disabilities/), audiocasetes, lenguaje estadounidense de señas y en letra grande. Puede llamar al (800) 345 8683 para solicitar estas versiones. 

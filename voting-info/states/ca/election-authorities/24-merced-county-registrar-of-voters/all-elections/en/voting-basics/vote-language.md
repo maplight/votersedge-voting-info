@@ -12,4 +12,4 @@ The Registrar of Voters provides services and official election materials, inclu
 
 Merced County's Multilingual Virtual Poll Worker Program (MVP) assists voters who are deaf by providing iPads which connect voters to interpreters for over 240 languages. Languages include Español/Spanish, Hmong, ਪੰਜਾਬੀ/Punjabi, and American Sign Language (ASL). The Elections Department will have an MVP at each Voting Assistance Center. 
 
-Learn about how you can get involved with the Merced County elections [language accessibility advisory committee](https://www.co.merced.ca.us/FormCenter/Elections-13/Language-Accessibility-Advisory-Committe-93).
+Learn about how you can get involved with the Merced County elections [language accessibility advisory committee](https://www.countyofmerced.com/3677/Language-Accessibility-Advisory-Committe).

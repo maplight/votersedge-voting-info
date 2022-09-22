@@ -6,6 +6,6 @@ section: "more-voting-info"
 priority: "Minor"
 ---
 
-Check out this great opportunity to help your community while earning extra money: be a Poll Worker in [San Mateo County](https://www.smcacre.org/election-officer)!  
+Check out this great opportunity to help your community while earning extra money: be a Poll Worker in [San Mateo County](https://www.smcacre.org/elections/election-jobs)!  
 
-The San Mateo Registrar of Voters currently has a high demand for Vote Center workers that speak Spanish, Chinese (Mandarin/Cantonese), Tagalog, Korean, Japanese, and Burmese. 
+The San Mateo Registrar of Voters currently has a high demand for Vote Center workers that speak Burmese, Cantonese, Hindi, Japanese, Korean, Mandarin, Spanish and/or Tagalog/Filipino.
