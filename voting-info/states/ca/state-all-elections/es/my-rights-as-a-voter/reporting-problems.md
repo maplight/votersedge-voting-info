@@ -28,7 +28,11 @@ Para obtener más información, consulte [Ya es hora ¡VE Y VOTA!](https://naleo
 **Punjabi: (408)-320-7454**
 
 Baja **[Conozca Sus Derechos al Voto](https://www.advancingjustice-alc.org/news-resources/guides-reports/know-your-voting-rights)** en: 
+<<<<<<< HEAD
 - Inglés [Asistencia lingüística para votantes de California] (https://www.advancingjustice-alc.org/media/Language-Access-Flyer-June-2022-English.pdf)
+=======
+- Inglés [Asistencia lingüística para votantes de California](https://www.advancingjustice-alc.org/media/Language-Access-Flyer-June-2022-English.pdf)
+>>>>>>> text-edits
 
 **Cómo votar**
 - [如何投票 (繁体) / Chino - Tradicional](https://www.advancingjustice-alc.org/media/How-to-Vote-June-2022-Chinese-Traditional.pdf)
@@ -38,7 +42,11 @@ Baja **[Conozca Sus Derechos al Voto](https://www.advancingjustice-alc.org/news-
 - [예비 선거 방법 / Coreano](https://www.advancingjustice-alc.org/media/How-to-Vote-June-2022-Korean.pdf)
 - [ວິທີລົງຄະແນນໃນການ / Lao](https://www.advancingjustice-alc.org/media/How-to-Vote-June-2022-Lao.pdf)
 - [Cách Bỏ Phiếu / vietnamita](https://www.advancingjustice-alc.org/media/How-to-Vote-June-2022-Vietnamese.pdf)
+<<<<<<< HEAD
 -[ਕੈਲੀਫੋਰਨੀਆ ਦੀਆਂ 2022 ਦੀਆਂ ਪ੍ਰਾਇਮਰੀ ਚੋਣਾਂ ਵਿੱਚ ਵੋਟ ਕਿਵੇਂ ਪਾਈਏ/ Punjabi] (https://www.advancingjustice-alc.org/media/How-to-Vote-June-2022-Punjabi.pdf)
+=======
+-[ਕੈਲੀਫੋਰਨੀਆ ਦੀਆਂ 2022 ਦੀਆਂ ਪ੍ਰਾਇਮਰੀ ਚੋਣਾਂ ਵਿੱਚ ਵੋਟ ਕਿਵੇਂ ਪਾਈਏ/ Punjabi](https://www.advancingjustice-alc.org/media/How-to-Vote-June-2022-Punjabi.pdf)
+>>>>>>> text-edits
 
 **Acceso al idioma**
 - [国室选民的语言最作(简体) / Chino simplificado](https://www.advancingjustice-alc.org/media/Language-Access-June-2022-Chinese-Simplified.pdf)
