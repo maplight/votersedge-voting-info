@@ -29,7 +29,7 @@ Para obtener más información, consulte [Ya es hora ¡VE Y VOTA!](https://naleo
 
 Baja **[Conozca Sus Derechos al Voto](https://www.advancingjustice-alc.org/news-resources/guides-reports/know-your-voting-rights)** en:
 
-Inglés **[Asistencia lingüística para votantes de California](https://www.advancingjustice-alc.org/media/Language-Access-Flyer-June-2022-English.pdf)
+Inglés [Asistencia lingüística para votantes de California](https://www.advancingjustice-alc.org/media/Language-Access-Flyer-June-2022-English.pdf)
 
 **Cómo votar**
 - [如何投票 (繁体) / Chino - Tradicional](https://www.advancingjustice-alc.org/media/How-to-Vote-June-2022-Chinese-Traditional.pdf)
