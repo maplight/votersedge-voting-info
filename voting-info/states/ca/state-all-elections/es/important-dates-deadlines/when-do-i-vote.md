@@ -15,7 +15,7 @@ priority: "Minor"
 > - Una vez sellada y enviada por correo, la boleta debe ser **recibida** por la oficina electoral **no más tarde del martes 15 de noviembre** 
 
 #### Votación temprana en persona  
-> Puede votar temprano en la Oficina de Elecciones de su condado desde el **lunes 10 de octubre** hasta el **lunes 7 de noviembre**. Algunos lugares de votación temprano también están abiertos hasta el Día de la Elección. (Tenga en cuenta que algunas oficinas electorales del condado estarán cerradas el 10 de octubre por un día feriado estatal.
+> Puede votar temprano en la Oficina de Elecciones de su condado desde el **lunes 10 de octubre** hasta el **lunes 7 de noviembre**. Algunos lugares de votación temprano también están abiertos hasta el Día de la Elección. (Tenga en cuenta que algunas oficinas electorales del condado estarán cerradas el 10 de octubre por un día feriado estatal.) Consulte [caearlyvoting.sos.ca.gov](https://caearlyvoting.sos.ca.gov/) para conocer las ubicaciones y los horarios.
 
 #### **El día de las elecciones**  
 > **Martes 8 de noviembre**, de **7 a.m. a 8 p.m.** 
