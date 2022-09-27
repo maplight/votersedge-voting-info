@@ -6,7 +6,7 @@ section: "register-to-vote"
 priority: "Minor"
 ---
 
-Llene y envíe [un formulario de registro de votante] (http://registertovote.ca.gov) para votar en las elecciones generales del 8 de noviembre de 2022 antes del lunes 24 de octubre de 2022.
+Llene y envíe [un formulario de registro de votante](https://registertovote.ca.gov/es-mx) para votar en las elecciones generales del 8 de noviembre de 2022 antes del lunes 24 de octubre de 2022.
 
 **NUEVA OPCIÓN:** Aunque haya expirado el plazo, todavía puede inscribirse para votar en cualquier lugar de votación desde ahora y hasta el día de las elecciones. ¡Consulte [aquí](#menu-item-missed-the-voter-registration-deadline-you-can-still-register-and-vote) cómo!
 
