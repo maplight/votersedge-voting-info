@@ -17,12 +17,9 @@ You can make a written request for this ballot if you:
 
 **How do I make the emergency request?**  
 Make a written request. Your [county elections office](#section-election-office-contact) might have a pre-printed form for you to use.  
-- If you don’t have a form, then make sure that the request authorizes a particular person to bring you the ballot and is signed under the penalty of perjury.  
-	You can use this [Los Angeles County Emergency Vote-by-Mail Application](https://www.lavote.net/documents/emergency-vote-by-mail-application.pdf) sample request as a guide to help you write a request to your county.
-- Mark the ballot as directed. For detailed instructions check [How do I vote by mail?](#menu-item-vote-by-mail)  
-- Return the ballot and envelope personally, or through your authorized representative, to either the county elections office or any polling place in your county.  
+- The Secretary of State also offers a form that can be used to give someone permission (“authorization”) to pick up a new vote-by-mail ballot for you, you must fill out a form called “[Application to Provide Vote-by-Mail Ballot to Representative](https://www.sos.ca.gov/elections/voter-registration/vote-mail#late).”
+- Once you recieve the ballot, mark it as directed and return the ballot in the same manner that you return any vote-by-mail ballot. For detailed instructions check [How do I vote by mail?](#menu-item-vote-by-mail)  
 
 Or, if you are able, you can go to your [county elections office](#section-election-office-contact) during open hours and [vote early in person.](#menu-item-vote-early-in-person)  
 
 For more information and sample requests, visit [Disability Rights California](https://www.disabilityrightsca.org/publications/how-can-i-vote-if-i-cannot-vote-in-person-due-to-a-medical-emergency).
-
