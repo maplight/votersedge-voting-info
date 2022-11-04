@@ -22,6 +22,8 @@ If you didn’t sign your ballot envelope or used the wrong signature, you will 
 - If you used the wrong signature, you will need to submit a signature verification statement by mail, email, fax, or in person. 
 - If you didn’t sign your ballot envelope, you will need to sign the envelope at your county elections office or submit a statement by mail, email, fax, or in person. 
 
+Learn more about how to fix a missing or mismatched signature on your vote-by-mail return envelope from the [Secretary of State](https://elections.cdn.sos.ca.gov/pdfs/covid-19-resources/votesafe-mismatched-signature.pdf). 
+
 **What if I cannot sign my name?**
 
 **If you have a disability and cannot sign your name, you can still vote.** Just make a mark and have a witness write their name. The witness must be at least 18 years old. 
